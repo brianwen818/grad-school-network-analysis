@@ -1,0 +1,116 @@
+﻿group,research_interest_en,ncku-cs-ie,nthu-cs,ntu-cs-ie,ntu-im,nycu-cs,total_faculty_mentions,department_count
+cs,Artificial Intelligence,17,8,18,7,35,85,5
+cs,Machine Learning,11,7,15,6,21,60,5
+cs,Algorithms,7,16,9,2,12,46,5
+cs,Computer Vision,6,10,11,1,15,43,5
+cs,Multimedia Systems,5,10,14,0,12,41,4
+cs,Deep Learning,9,6,6,2,16,39,5
+cs,Image Processing,7,4,7,2,14,34,5
+cs,Data Mining,5,4,7,4,9,29,5
+cs,Information Security,2,7,6,5,9,29,5
+cs,Embedded Systems,8,4,7,0,10,29,4
+cs,Computer Networks,2,5,4,2,12,25,5
+cs,Optimization,4,3,7,3,7,24,5
+cs,Internet of Things,4,3,3,2,11,23,5
+cs,Bioinformatics,1,5,5,1,9,21,5
+cs,Databases,4,5,5,1,5,20,5
+cs,Human-Computer Interaction,4,0,6,2,8,20,4
+cs,Parallel Computing,4,4,5,0,7,20,4
+cs,Big Data Analytics,2,3,3,5,6,19,5
+cs,Computer Graphics,1,5,4,2,7,19,5
+cs,Wireless Networks,2,6,3,0,7,18,4
+cs,Automation and Control,2,11,2,0,2,17,4
+cs,Computer Architecture,2,2,5,0,8,17,4
+cs,Medical Informatics,5,1,3,2,4,15,5
+cs,Mobile Computing,2,2,3,1,7,15,5
+cs,Natural Language Processing,2,3,5,2,3,15,5
+cs,Operating Systems,2,0,4,0,9,15,3
+cs,Cloud Computing,2,3,4,1,4,14,5
+cs,Distributed Systems,4,4,1,2,3,14,5
+cs,Signal Processing,3,1,4,0,6,14,4
+cs,Information Retrieval,2,2,3,2,4,13,5
+cs,Virtual Reality,2,1,4,0,6,13,4
+cs,Electronic Design Automation,0,9,2,0,2,13,3
+cs,Software Engineering,1,4,2,1,4,12,5
+cs,Pattern Recognition,1,2,1,0,8,12,4
+cs,Smart Healthcare,5,1,2,0,4,12,4
+cs,Compilers,1,1,4,0,5,11,4
+cs,Cryptography,1,2,2,0,6,11,4
+cs,Graph Theory,2,2,4,0,3,11,4
+cs,Storage Systems,3,2,3,0,3,11,4
+cs,Blockchain,0,3,4,1,2,10,4
+cs,Network Security,2,2,1,0,5,10,4
+cs,Robotics,2,0,3,0,5,10,3
+cs,Neural Networks,0,1,2,1,5,9,4
+cs,Entrepreneurship,0,1,0,5,3,9,3
+cs,Data Science,4,1,1,1,1,8,5
+cs,Medical Imaging,3,0,2,0,3,8,3
+cs,Augmented Reality,2,1,0,0,4,7,3
+cs,Real-Time Systems,1,2,4,0,0,7,3
+cs,Statistics,0,0,1,0,6,7,2
+cs,Reinforcement Learning,1,1,2,0,2,6,4
+cs,Generative AI,3,1,0,0,2,6,3
+cs,Knowledge Management,0,2,0,4,0,6,2
+cs,Pervasive Computing,0,3,3,0,0,6,2
+cs,Systems Security,0,0,1,0,5,6,2
+cs,Digital Twins,2,1,1,0,1,5,4
+cs,Social Network Analysis,1,2,1,0,1,5,4
+cs,Web Mining,1,0,2,1,1,5,4
+cs,Financial Technology,0,0,2,2,1,5,3
+cs,Operations Research,1,1,0,3,0,5,3
+cs,Social Media Analytics,1,0,0,3,1,5,3
+cs,Wireless Communications,1,0,1,0,3,5,3
+cs,Theory of Computation,0,0,1,0,4,5,2
+cs,Cyber-Physical Systems,1,0,1,0,2,4,3
+cs,Edge Computing,1,1,0,0,2,4,3
+cs,Evolutionary Computation,0,1,1,0,2,4,3
+cs,Game Theory,0,2,1,0,1,4,3
+cs,Operations Management,1,0,0,2,1,4,3
+cs,Privacy-Preserving Computing,0,0,2,0,2,4,2
+cs,Scientific Computing,0,1,0,0,3,4,2
+cs,Speech Recognition,1,0,3,0,0,4,2
+cs,Smart Manufacturing,4,0,0,0,0,4,1
+cs,Digital Transformation,1,0,1,0,1,3,3
+cs,Information Visualization,0,1,1,0,1,3,3
+cs,Programming Languages,0,0,1,1,1,3,3
+cs,Quantum Computing,0,1,1,0,1,3,3
+cs,Trustworthy AI,1,1,1,0,0,3,3
+cs,E-Commerce,0,1,0,2,0,3,2
+cs,High-Performance Computing,0,2,1,0,0,3,2
+cs,Systems Biology,0,0,1,0,2,3,2
+cs,Biostatistics,0,0,0,0,3,3,1
+cs,Coding Theory,0,0,0,0,3,3,1
+cs,Innovation Management,0,0,0,3,0,3,1
+cs,Brain-Computer Interfaces,1,0,0,0,1,2,2
+cs,Discrete Mathematics,0,1,0,0,1,2,2
+cs,Formal Verification,0,0,1,1,0,2,2
+cs,Fuzzy Systems,1,0,0,0,1,2,2
+cs,Intelligent Transportation Systems,1,0,0,0,1,2,2
+cs,Machine Translation,1,1,0,0,0,2,2
+cs,Neuromorphic Computing,0,1,1,0,0,2,2
+cs,Numerical Analysis,0,1,1,0,0,2,2
+cs,Recommender Systems,1,0,0,1,0,2,2
+cs,Bayesian Statistics,0,0,0,0,2,2,1
+cs,Computational Complexity,0,0,0,0,2,2,1
+cs,Queueing Theory,0,2,0,0,0,2,1
+cs,Statistical Inference,0,0,0,0,2,2,1
+cs,Text Mining,0,0,0,2,0,2,1
+cs,Time Series Analysis,0,0,0,0,2,2,1
+cs,Business Data Analytics,0,0,0,1,0,1,1
+cs,Causal Inference,0,0,0,0,1,1,1
+cs,Change Point Analysis,0,0,0,0,1,1,1
+cs,Computational Linguistics,0,0,0,0,1,1,1
+cs,Data Envelopment Analysis,1,0,0,0,0,1,1
+cs,Econometrics,0,0,0,1,0,1,1
+cs,Federated Learning,1,0,0,0,0,1,1
+cs,High-Dimensional Statistics,0,0,1,0,0,1,1
+cs,Industrial Statistics,0,0,0,0,1,1,1
+cs,Information Theory,0,0,1,0,0,1,1
+cs,Malware Analysis,0,0,0,1,0,1,1
+cs,Mechanism Design,0,0,0,1,0,1,1
+cs,Model Checking,0,0,1,0,0,1,1
+cs,Multivariate Analysis,0,0,0,0,1,1,1
+cs,Probability Theory,0,0,0,0,1,1,1
+cs,Scientific Modeling,0,0,0,0,1,1,1
+cs,Service Science,0,0,0,1,0,1,1
+cs,Survival Analysis,0,0,0,0,1,1,1

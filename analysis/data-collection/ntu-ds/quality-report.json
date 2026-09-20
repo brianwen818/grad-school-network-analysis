@@ -1,0 +1,27 @@
+{
+  "school_id": "ntu-ds",
+  "analyzed_at": "2026-09-09T09:31:25+08:00",
+  "faculty_count": 69,
+  "role_counts": {
+    "chair": 3,
+    "faculty": 23,
+    "full_time": 10,
+    "joint": 1,
+    "project": 1
+  },
+  "merge_status_counts": {
+    "matched": 69
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 1.0,
+    "education_zh": 0.0,
+    "education_en": 0.0,
+    "research_interests_zh": 0.942,
+    "research_interests_en": 0.2319
+  },
+  "pages_visited": 21,
+  "warnings": [],
+  "errors": []
+}

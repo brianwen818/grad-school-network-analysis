@@ -1,0 +1,1287 @@
+[
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "李國榮",
+    "name_en": "",
+    "titles": [
+      "教授兼系主任/所長",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "美國明尼蘇達大學統計學博士 交通大學統計學碩士 中興大學統計學學士"
+    ],
+    "research_interests": [
+      "貝氏分析、蒙地卡羅演算法、時空統計模型、功能性核磁共振影像及擴散張量影像資料分析"
+    ],
+    "emails": [
+      "252935652877bf09@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=255&index=1"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/kuojunglee"
+    ],
+    "stable_ids": [
+      "id=255"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "蘇佩芳",
+    "name_en": "",
+    "titles": [
+      "教授兼管理學院院長",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "成功大學統計系博士"
+    ],
+    "research_interests": [
+      "存活分析、生物醫學統計、臨床試驗設計、大數據分析"
+    ],
+    "emails": [
+      "5cd010197efa2513@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=256&index=2"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/zh/persons/pei-fang-su"
+    ],
+    "stable_ids": [
+      "id=256"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "王婉倫",
+    "name_en": "",
+    "titles": [
+      "教授、副教務長",
+      "專任教師"
+    ],
+    "education": [],
+    "research_interests": [
+      "長期資料分析、多變量分析、統計計算、貝氏統計"
+    ],
+    "emails": [
+      "46dc68b49da01923@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=897&index=3"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/gs.ncku.edu.tw/wangwl/"
+    ],
+    "stable_ids": [
+      "id=897"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "鄭順林",
+    "name_en": "",
+    "titles": [
+      "教授、管理學院產學合作中心主任",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "美國愛荷華州立大學統計博士(1998) 輔仁大學數學研究所碩士(1989) 成功大學數學系學士(1987)"
+    ],
+    "research_interests": [
+      "可靠度分析、資料採礦、生物資訊分析、統計計算與模擬、工業統計、大數據分析、機器學習"
+    ],
+    "emails": [
+      "b578f54b99b4fbb4@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=232&index=4"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/zh/persons/shuen-lin-jeng"
+    ],
+    "stable_ids": [
+      "id=232"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "林良靖",
+    "name_en": "Liang-Ching Lin",
+    "titles": [
+      "教授",
+      "專任教師",
+      "經 歷(Main Experiences)",
+      "Main Experiences"
+    ],
+    "education": [
+      "中山大學應用數學所博士(2007.09~2013.01) 中山大學應用數學系碩士(2005.09~2007.06) 清華大學數學系學士(1998.09~2003.06)",
+      "2007.09 – 2013.01 Ph.D. in Applied Mathematics, National Sun Yat-sen University 2005.09 – 2007.06 M.S. in Applied Mathematics, National Sun Yat-sen University 1998.09 – 2003.06 B.S. in Mathematics, National Tsing Hua University"
+    ],
+    "research_interests": [
+      "時間序列、數理財務、高頻財務資料分析、區間數值分析",
+      "Time series analysis, Mathematical finance, High-frequency financial data analysis, Symbolic interval-valued data analysis.",
+      "Time series; High-frequency financial data analysis; Stochastic process; Goodness of fit test for diffusion models; Symbolic Interval-valued data analysis."
+    ],
+    "emails": [
+      "b778a0958606d015@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=259&index=5",
+      "http://www.stat.ncku.edu.tw/index.php?option=module&lang=en&task=pageinfo&id=379&index=13"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/en/persons/liang-ching-lin"
+    ],
+    "stable_ids": [
+      "id=259",
+      "id=379"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "馬瀰嘉",
+    "name_en": "",
+    "titles": [
+      "副教授",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "國立清華大學應用數學研究所博士(1988.09~1992.06) 國立中興大學應用數學研究所碩士(1986.09~1988.06) 國立成功大學數學系學士(1982.09~1986.06)"
+    ],
+    "research_interests": [
+      "生物資訊、資料分析、生物統計、數理統計、生態統計、統計諮詢"
+    ],
+    "emails": [
+      "8153c87381eb331b@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=230&index=6"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/zh/persons/mi-chia-ma",
+      "http://dx.doi.org/10.1136/bmjopen-2012-000842",
+      "https://hdl.handle.net/11296/vdj4v6",
+      "https://hdl.handle.net/11296/82372n",
+      "https://hdl.handle.net/11296/yrdq8h",
+      "https://hdl.handle.net/11296/bz247a",
+      "https://hdl.handle.net/11296/9266n4",
+      "https://hdl.handle.net/11296/8na443",
+      "https://hdl.handle.net/11296/734z2b",
+      "https://hdl.handle.net/11296/5zpscc",
+      "https://hdl.handle.net/11296/sz5gxe",
+      "https://hdl.handle.net/11296/wjzg77",
+      "https://hdl.handle.net/11296/8cy9yv",
+      "https://hdl.handle.net/11296/knxwzz",
+      "https://hdl.handle.net/11296/6bpg44",
+      "https://hdl.handle.net/11296/248pwn",
+      "https://hdl.handle.net/11296/e65stz",
+      "https://hdl.handle.net/11296/78t3ye",
+      "https://hdl.handle.net/11296/qm85g8",
+      "https://hdl.handle.net/11296/rmsc4p",
+      "https://hdl.handle.net/11296/zt85vn",
+      "https://hdl.handle.net/11296/qgwes8",
+      "https://hdl.handle.net/11296/47y78a",
+      "https://hdl.handle.net/11296/2su6w3",
+      "https://hdl.handle.net/11296/dz7g25",
+      "https://hdl.handle.net/11296/rpnbrq",
+      "https://hdl.handle.net/11296/q6tq3z",
+      "https://hdl.handle.net/11296/cx9vj6",
+      "https://hdl.handle.net/11296/sx95gv",
+      "https://hdl.handle.net/11296/b86wmk",
+      "https://hdl.handle.net/11296/unu2ct",
+      "https://hdl.handle.net/11296/kh3rw9",
+      "https://hdl.handle.net/11296/d669hw",
+      "https://hdl.handle.net/11296/4g8yr3",
+      "https://hdl.handle.net/11296/536rtz",
+      "https://hdl.handle.net/11296/jy98c7",
+      "https://hdl.handle.net/11296/6rr9e6",
+      "https://hdl.handle.net/11296/3s6uab",
+      "https://hdl.handle.net/11296/725t4h",
+      "https://hdl.handle.net/11296/sc9p48",
+      "https://hdl.handle.net/11296/qf8xgk",
+      "https://hdl.handle.net/11296/29rwr4",
+      "https://hdl.handle.net/11296/yt5fk5",
+      "https://hdl.handle.net/11296/v29ezu",
+      "https://hdl.handle.net/11296/w7by63",
+      "https://hdl.handle.net/11296/vq32dn",
+      "https://hdl.handle.net/11296/x9k734",
+      "https://hdl.handle.net/11296/a59sky",
+      "https://hdl.handle.net/11296/gnc8z3",
+      "https://hdl.handle.net/11296/p3xc83",
+      "https://hdl.handle.net/11296/59wndh",
+      "https://hdl.handle.net/11296/xt2kb9",
+      "https://hdl.handle.net/11296/smw9e9",
+      "https://hdl.handle.net/11296/b8pvqe",
+      "https://hdl.handle.net/11296/vupvf3",
+      "https://hdl.handle.net/11296/ut3kyp",
+      "http://handle.ncl.edu.tw/112(96/g3fww8",
+      "https://hdl.handle.net/11296/d4vvp3",
+      "https://hdl.handle.net/11296/2pyask",
+      "https://hdl.handle.net/11296/89xr9m",
+      "https://hdl.handle.net/11296/8t894n",
+      "https://hdl.handle.net/11296/9s3z4w",
+      "http://handle.ncl.edu.tw/112(96/b(9(96wz",
+      "https://hdl.handle.net/11296/837725",
+      "https://hdl.handle.net/11296/f5s98u",
+      "https://hdl.handle.net/11296/9pumu4",
+      "https://hdl.handle.net/11296/rhx484",
+      "https://hdl.handle.net/11296/cm5jk5",
+      "https://hdl.handle.net/11296/95re75",
+      "https://hdl.handle.net/11296/hd2euy",
+      "https://hdl.handle.net/11296/prx4c8",
+      "https://hdl.handle.net/11296/93y974",
+      "https://hdl.handle.net/11296/6xqnza",
+      "https://hdl.handle.net/11296/2m26d3",
+      "https://hdl.handle.net/11296/jgswt7",
+      "https://hdl.handle.net/11296/96zhcy",
+      "https://hdl.handle.net/11296/2k29u2",
+      "https://hdl.handle.net/11296/95x292",
+      "https://hdl.handle.net/11296/367qrk",
+      "https://hdl.handle.net/11296/nyb5zf",
+      "https://hdl.handle.net/11296/8uwm67",
+      "https://hdl.handle.net/11296/2772k8",
+      "https://hdl.handle.net/11296/765754",
+      "https://hdl.handle.net/11296/r88qmx",
+      "https://hdl.handle.net/11296/b4rj63",
+      "https://hdl.handle.net/11296/2j6pz9",
+      "https://hdl.handle.net/11296/5thuwm",
+      "https://hdl.handle.net/11296/38824d",
+      "https://hdl.handle.net/11296/tpv876",
+      "https://hdl.handle.net/11296/fan59a",
+      "https://hdl.handle.net/11296/ntf369"
+    ],
+    "stable_ids": [
+      "id=230"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "趙昌泰",
+    "name_en": "",
+    "titles": [
+      "副教授",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "美國賓州州立大學統計博士(1999) 國立成功大學大學數學系學士(1988)"
+    ],
+    "research_interests": [
+      "抽樣理論與方法、調適型抽樣、最佳化抽樣策略"
+    ],
+    "emails": [
+      "ce35390fb764c302@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=231&index=7"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/zh/persons/chang-tai-chao"
+    ],
+    "stable_ids": [
+      "id=231"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "李俊毅",
+    "name_en": "",
+    "titles": [
+      "副教授",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "國立成功大學大學統計系博士(2008.11) 成功大學統計系碩士(2001.06) 輔仁大學統計系學士(1999.06)"
+    ],
+    "research_interests": [
+      "工業統計、統計計算、生物資訊、 統計諮詢"
+    ],
+    "emails": [
+      "742b1b25a4bcdd56@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=257&index=8"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/zh/persons/chung-i-li"
+    ],
+    "stable_ids": [
+      "id=257"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "李宜真",
+    "name_en": "",
+    "titles": [
+      "副教授",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "國立清華大學統計研究所博士 國立清華大學統計研究所碩士 國立中山大學應用數學系學士"
+    ],
+    "research_interests": [
+      "可靠度分析、工業統計、貝氏分析"
+    ],
+    "emails": [
+      "e6a9746cd0c083b6@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=228&index=9"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/zh/persons/i-chen-lee"
+    ],
+    "stable_ids": [
+      "id=228"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "張欣民",
+    "name_en": "",
+    "titles": [
+      "副教授",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "加拿大 University of Manitoba 統計博士"
+    ],
+    "research_interests": [
+      "FMCI技巧於分級列隊等候之應用、空間群聚檢測方法與應用"
+    ],
+    "emails": [
+      "94a6f652d2c28ccc@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=260&index=10"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/umchang5/"
+    ],
+    "stable_ids": [
+      "id=260"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "王義富",
+    "name_en": "",
+    "titles": [
+      "副教授",
+      "專任教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "中央大學 統計所 博士 (2005/09-2011/06) 中央大學 統計所 碩士 (2003/09-2005/06) 清華大學 數學系 學士 (1999/09-2003/06)"
+    ],
+    "research_interests": [
+      "貝氏分析、可靠度分析、衰變分析"
+    ],
+    "emails": [
+      "a54f8032ac3f6cb1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=898&index=11"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/zh/persons/yi-fu-wang"
+    ],
+    "stable_ids": [
+      "id=898"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "李宗翰",
+    "name_en": "",
+    "titles": [
+      "助理教授",
+      "專任教師"
+    ],
+    "education": [
+      "指導學生陳志恆榮獲第八屆「碩士生統計研究成果研討會」之海報論文競賽「優選」"
+    ],
+    "research_interests": [
+      "統計區間估計、不完整資料分析、統計製程管制"
+    ],
+    "emails": [
+      "696f4f0098029f4d@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1519&index=12"
+    ],
+    "personal_urls": [
+      "https://chunghanlee.weebly.com/",
+      "https://researchoutput.ncku.edu.tw/zh/persons/chung-han-lee"
+    ],
+    "stable_ids": [
+      "id=1519"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "戴齊賢",
+    "name_en": "",
+    "titles": [
+      "助理教授",
+      "專任教師"
+    ],
+    "education": [],
+    "research_interests": [
+      "資料整合、高維度統計"
+    ],
+    "emails": [
+      "85e81fb5938c9f67@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1521&index=13"
+    ],
+    "personal_urls": [
+      "https://drive.google.com/file/d/18D1pph86kfFACJ8cp5T31jOTpBtlB4Pr/view?usp=sharing"
+    ],
+    "stable_ids": [
+      "id=1521"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "鄧浩陽",
+    "name_en": "",
+    "titles": [
+      "助理教授",
+      "專任教師"
+    ],
+    "education": [],
+    "research_interests": [
+      "變點/閾值估計、極端閾值估計、機器學習"
+    ],
+    "emails": [
+      "737c7844ed05a4a1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1725&index=14"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=1725"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "余定宏",
+    "name_en": "",
+    "titles": [
+      "助理教授",
+      "專任教師"
+    ],
+    "education": [],
+    "research_interests": [
+      "時間序列分析、高維度資料分析"
+    ],
+    "emails": [
+      "d03099622777bcfc@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=7&index=1"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1728&index=15"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=1728"
+    ],
+    "section": "專任教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "陳瑞彬",
+    "name_en": "",
+    "titles": [
+      "兼任教授 / 清華大學統計與數據科學所",
+      "兼任老師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "美國加州大學洛杉磯分校(UCLA)統計學博士 中山大學應用數學系碩士 中山大學應用數學系學士"
+    ],
+    "research_interests": [
+      "統計建模、統計計算、實驗設計、獨立因子分析"
+    ],
+    "emails": [
+      "589d71aa4a62a0c7@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1528&index=2"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=8&index=1"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/ray-bingchenswebsite/home"
+    ],
+    "stable_ids": [
+      "id=8"
+    ],
+    "section": "兼任老師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "嵇允嬋",
+    "name_en": "",
+    "titles": [
+      "兼任教授 /109.01.31退休",
+      "兼任老師"
+    ],
+    "education": [
+      "美國俄亥俄州立大學生物統計博士"
+    ],
+    "research_interests": [
+      "無母數統計、存活分析、迴歸分析、統計諮詢"
+    ],
+    "emails": [
+      "7aeb69c7bfee0502@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1528&index=2"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=60&index=2"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=60"
+    ],
+    "section": "兼任老師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "許秀麗",
+    "name_en": "",
+    "titles": [
+      "兼任副教授 /105.02.01 統計系退休老師",
+      "兼任老師"
+    ],
+    "education": [],
+    "research_interests": [
+      "精算數學、統計計算、抽樣理論"
+    ],
+    "emails": [
+      "e7c33499a8956d4f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1528&index=2"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=295&index=3"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=295"
+    ],
+    "section": "兼任老師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "許志仲",
+    "name_en": "",
+    "titles": [
+      "兼任副教授 / 交通大學AI學院智慧系統與應用研究所",
+      "兼任老師"
+    ],
+    "education": [
+      "1. Ph.D. National Tsing Hua University (NTHU), Electrical Engineering, Taiwan, September. 2014. Ph.D. dissertation topic: Quality enhancement and assessment for image/video resizing. Advisor: Prof.",
+      ". 清大電機博士。",
+      ". 雲科大電機碩士。",
+      "3. B.S. Lingtung University of Science and Technology, Management Information Systems, Taiwan, June 2004. Project topic: \"Parallel encryption system for image authentication. \" 嶺東資管學士。",
+      "4. A.S. National Chin-Yi University of Technology, Department of Electronic Engineering, Taiwan, June 2022, Project topic: Robust watermarking for image and audio signals. \"勤益科大電子科副學士\""
+    ],
+    "research_interests": [
+      "多媒體資訊安全、影像處理、電腦視覺、機器學習、深度學習"
+    ],
+    "emails": [
+      "e198864725655c6d@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1528&index=2"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=708&index=4"
+    ],
+    "personal_urls": [
+      "https://cchsu.info",
+      "http://www.google.com/url?q=http%3A%2F%2Fwww.ee.nthu.edu.tw%2F~cwlin&sa=D&sntz=1&usg=AFQjCNH0--mcxX_-Jx8VFm43AFvZYiJTNQ",
+      "http://www.google.com/url?q=http%3A%2F%2Fteacher.yuntech.edu.tw%2Fhtchang%2F&sa=D&sntz=1&usg=AFQjCNHduFPSrBM3kmDZ23Km66Okdda_bw",
+      "https://www.scimagojr.com/journalrank.php?category=1000"
+    ],
+    "stable_ids": [
+      "id=708"
+    ],
+    "section": "兼任老師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "戴安順",
+    "name_en": "",
+    "titles": [
+      "兼任助理教授/清華大學統計與數據科學研究所助理教授",
+      "兼任老師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "國立清華大學統計研究所博士 國立清華大學統計研究所碩士 國立清華大學數學系學士"
+    ],
+    "research_interests": [
+      "生物統計、生物資訊(基因體統計)、貝氏變數選擇、流行病學、因果推論、中介模型、Mendelian randomization"
+    ],
+    "emails": [
+      "ff4ce1453fecce28@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1528&index=2"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1006&index=5"
+    ],
+    "personal_urls": [
+      "https://anshuntai.github.io/anshun.tai/"
+    ],
+    "stable_ids": [
+      "id=1006"
+    ],
+    "section": "兼任老師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "石 瑜",
+    "name_en": "",
+    "titles": [
+      "客座特聘講座 / 美國范德堡大學生物統計系及定量科學研究中心",
+      "客座特聘講座/名譽教授"
+    ],
+    "education": [
+      "https://www.vumc.org/biostatistics/person/yu-shyr-phd-0"
+    ],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1525&index=3"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=687&index=1"
+    ],
+    "personal_urls": [
+      "https://www.vumc.org/biostatistics/person/yu-shyr-phd-0"
+    ],
+    "stable_ids": [
+      "id=687"
+    ],
+    "section": "客座特聘講座/名譽教授"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "楊明宗",
+    "name_en": "",
+    "titles": [
+      "名譽教授、兼任教授 / 101.02.01統計系退休",
+      "客座特聘講座/名譽教授",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "成功大學交通管理所碩士(1979) 國立成功大學會計統計學系學士(1968)"
+    ],
+    "research_interests": [
+      "統計學、統計實務、統計問題"
+    ],
+    "emails": [
+      "b08f113303392b82@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1525&index=3"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=291&index=2"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=291"
+    ],
+    "section": "客座特聘講座/名譽教授"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "溫敏杰",
+    "name_en": "",
+    "titles": [
+      "名譽教授、兼任教授 / 114.01.31 統計系退休",
+      "客座特聘講座/名譽教授",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "美國喬治亞大學統計博士(1991) 美國喬治亞大學統計碩士(1988) 國立成功大學統計商學士(1982)"
+    ],
+    "research_interests": [
+      "多變量方析、等級與選擇、多重比較、統計諮詢"
+    ],
+    "emails": [
+      "d0b28a9857aa8f3f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1525&index=3"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=121&index=3"
+    ],
+    "personal_urls": [
+      "https://researchoutput.ncku.edu.tw/zh/persons/miin-jye-wen"
+    ],
+    "stable_ids": [
+      "id=121"
+    ],
+    "section": "客座特聘講座/名譽教授"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "楊欣洲",
+    "name_en": "",
+    "titles": [
+      "合聘教授 / 中研院統計所",
+      "合聘 / 客座教授",
+      "/ 客座教授"
+    ],
+    "education": [],
+    "research_interests": [
+      "統計遺傳與統計基因體學、生物資訊、生態統計"
+    ],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1529&index=4"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=461&index=1"
+    ],
+    "personal_urls": [
+      "http://www.stat.sinica.edu.tw/hsinchou/"
+    ],
+    "stable_ids": [
+      "id=461"
+    ],
+    "section": "合聘 / 客座教授"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "連震杰",
+    "name_en": "",
+    "titles": [
+      "合聘教授 / 成功大學資工系",
+      "合聘 / 客座教授",
+      "/ 客座教授"
+    ],
+    "education": [],
+    "research_interests": [
+      "智慧型機器人及自動化、人機互動及擴增實境、3D自動光學檢測、視覺伺服控制、影像處理,3D電腦視覺及圖形辨識、機器學習、嵌入式系統、雲端智慧型監控服務"
+    ],
+    "emails": [
+      "d0bbeb190f9a5ad2@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1529&index=4"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1524&index=2"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=1524"
+    ],
+    "section": "合聘 / 客座教授"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "李政德",
+    "name_en": "",
+    "titles": [
+      "合聘教授 / 成功大學資工系",
+      "合聘 / 客座教授"
+    ],
+    "education": [],
+    "research_interests": [
+      "機器學習、深度學習、資料探勘、社群網路分析、推薦系統、自然語言處理、物聯網與智慧城市"
+    ],
+    "emails": [
+      "f522a412fdd1552e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1529&index=4"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.csie.ncku.edu.tw/zh-hant/members/63",
+      "https://sites.google.com/view/chengteli/"
+    ],
+    "stable_ids": [],
+    "section": "合聘 / 客座教授"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "吳致杰",
+    "name_en": "",
+    "titles": [
+      "合聘副教授 / 成功大學工業衛生學科暨環境醫學研究所",
+      "合聘 / 客座教授"
+    ],
+    "education": [],
+    "research_interests": [
+      "生物統計學、癌症遺傳學、遺傳流行病學"
+    ],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1529&index=4"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.deoh.ncku.edu.tw/p/404-1122-175712.php?Lang=zh-tw"
+    ],
+    "stable_ids": [],
+    "section": "合聘 / 客座教授"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "鍾淑美",
+    "name_en": "",
+    "titles": [
+      "退休老師 / 84.07.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=680&index=1"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=680"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "呂金河",
+    "name_en": "",
+    "titles": [
+      "退休教授 / 93.07.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [
+      "抽樣調查、實驗設計、多變量分析"
+    ],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=464&index=2"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=464"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "陳順宇",
+    "name_en": "",
+    "titles": [
+      "退休教授 / 94.07.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=681&index=3"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=681"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "劉應興",
+    "name_en": "",
+    "titles": [
+      "退休老師 / 94.07.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=682&index=4"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=682"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "鄭碧娥",
+    "name_en": "",
+    "titles": [
+      "退休老師 / 95.08.01 退休",
+      "退休教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "成功大學統計系講師"
+    ],
+    "research_interests": [
+      "微積分、統計學、迴歸分析"
+    ],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=292&index=5"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=292"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "陳能新",
+    "name_en": "",
+    "titles": [
+      "退休老師 / 100.07.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=683&index=6"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=683"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "吳宗正",
+    "name_en": "",
+    "titles": [
+      "退休副教授 / 103.07.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=684&index=7"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=684"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "吳鐵肩",
+    "name_en": "",
+    "titles": [
+      "退休教授 / 104.01.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [
+      "基因序列比對、密度函數估計、隨機過程估計、模型選取、統計與大數據哲學"
+    ],
+    "emails": [
+      "b3f7c58821c2194b@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=685&index=8"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=685"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "黃銘欽",
+    "name_en": "",
+    "titles": [
+      "退休老師 / 104.01.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=686&index=9"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=686"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "潘浙楠",
+    "name_en": "",
+    "titles": [
+      "退休教授 / 108.07.31退休",
+      "退休教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "美國德州理工大學工業工程博士(1984) 美國德州理工大學工業工程碩士(1980) 高雄師範大學數學系畢業(1976)"
+    ],
+    "research_interests": [
+      "工業統計、品質管理、可靠度分析、企業決策方法"
+    ],
+    "emails": [
+      "3c02854623f1e055@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=293&index=10"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=293"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "任眉眉",
+    "name_en": "",
+    "titles": [
+      "退休教授 / 108.07.31 退休",
+      "退休教師"
+    ],
+    "education": [],
+    "research_interests": [
+      "機率論、隨機過程、貝氏分析、最適設計"
+    ],
+    "emails": [
+      "c4dce15c06b6b2c0@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=294&index=11"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=294"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "詹世煌",
+    "name_en": "",
+    "titles": [
+      "退休副教授 / 109.01.31退休",
+      "退休教師",
+      "經 歷(Main Experiences)"
+    ],
+    "education": [
+      "美國俄亥俄州統計博士(1989)",
+      "and cognitive decline in parkinson's disease: A study of 102 patients Pai, M. C. & Chan, S. H., 2001 四月 26, 於 : Acta Neurologica Scandinavica. 103, 4, p. 243-247 5 p."
+    ],
+    "research_interests": [
+      "多變量分析、長期資料迴歸分析、生物資訊"
+    ],
+    "emails": [
+      "acf6e3b6edd86375@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=29&index=5"
+    ],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=229&index=12"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=229"
+    ],
+    "section": "退休教師"
+  },
+  {
+    "school_id": "ncku-stats-ds",
+    "language": "zh",
+    "name_zh": "林宇凡",
+    "name_en": "",
+    "titles": [
+      "【喜訊】數據所許志仲老師帶領ACVLAB團隊 林宇凡 鄭敬恒 邱勃誠 康成駿 李家銘 ICPR Automated Crop Disease Diagnosis from Hyperspectral Imagery 3rd Challenge 獲得冠軍"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [],
+    "profile_urls": [
+      "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1466&index=10"
+    ],
+    "personal_urls": [
+      "https://www.facebook.com/profile.php?id=100002910386794&__cft__%5b0%5d=AZVOqN9gVJCPhmAS7W3sMwMbutXwhChl2WYs6IJ5gPZhk9IWkUhR-ChjqI_e8kFxIs5FFtYdzHXcT5hLVONJ1aMDCElv063TYp3CebZIjMxQj5uvVFUuNbUCqT2qs5_zHIPuWon6pCiVijsCc3Aq_usxZqtvFK7IkFDb96NWdlUqonnOuu-3TZM9YR2Ok_B2x6gCaocBlyGukM60ud_qAs&__tn__=-%5dK-R",
+      "https://www.facebook.com/profile.php?id=100005328612237&__cft__%5b0%5d=AZVOqN9gVJCPhmAS7W3sMwMbutXwhChl2WYs6IJ5gPZhk9IWkUhR-ChjqI_e8kFxIs5FFtYdzHXcT5hLVONJ1aMDCElv063TYp3CebZIjMxQj5uvVFUuNbUCqT2qs5_zHIPuWon6pCiVijsCc3Aq_usxZqtvFK7IkFDb96NWdlUqonnOuu-3TZM9YR2Ok_B2x6gCaocBlyGukM60ud_qAs&__tn__=-%5dK-R",
+      "https://www.facebook.com/profile.php?id=100014178485110&__cft__%5b0%5d=AZVOqN9gVJCPhmAS7W3sMwMbutXwhChl2WYs6IJ5gPZhk9IWkUhR-ChjqI_e8kFxIs5FFtYdzHXcT5hLVONJ1aMDCElv063TYp3CebZIjMxQj5uvVFUuNbUCqT2qs5_zHIPuWon6pCiVijsCc3Aq_usxZqtvFK7IkFDb96NWdlUqonnOuu-3TZM9YR2Ok_B2x6gCaocBlyGukM60ud_qAs&__tn__=-%5dK-R",
+      "https://www.facebook.com/cjk0601?__cft__%5b0%5d=AZVOqN9gVJCPhmAS7W3sMwMbutXwhChl2WYs6IJ5gPZhk9IWkUhR-ChjqI_e8kFxIs5FFtYdzHXcT5hLVONJ1aMDCElv063TYp3CebZIjMxQj5uvVFUuNbUCqT2qs5_zHIPuWon6pCiVijsCc3Aq_usxZqtvFK7IkFDb96NWdlUqonnOuu-3TZM9YR2Ok_B2x6gCaocBlyGukM60ud_qAs&__tn__=-%5dK-R",
+      "https://www.facebook.com/profile.php?id=100000315791865&__cft__%5b0%5d=AZVOqN9gVJCPhmAS7W3sMwMbutXwhChl2WYs6IJ5gPZhk9IWkUhR-ChjqI_e8kFxIs5FFtYdzHXcT5hLVONJ1aMDCElv063TYp3CebZIjMxQj5uvVFUuNbUCqT2qs5_zHIPuWon6pCiVijsCc3Aq_usxZqtvFK7IkFDb96NWdlUqonnOuu-3TZM9YR2Ok_B2x6gCaocBlyGukM60ud_qAs&__tn__=-%5dK-R",
+      "https://han-research.gitlab.io/Agvision/"
+    ],
+    "stable_ids": [
+      "id=1466"
+    ],
+    "section": ""
+  }
+]

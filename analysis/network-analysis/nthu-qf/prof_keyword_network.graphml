@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="source" attr.type="string"/>
+<key id="d12" for="node" attr.name="idf" attr.type="double"/>
+<key id="d11" for="node" attr.name="parent_l1" attr.type="string"/>
+<key id="d10" for="node" attr.name="parent_l2" attr.type="string"/>
+<key id="d9" for="node" attr.name="label" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="nthu-qf-kangliu-cb7ae7428e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉鋼</data>
+  <data key="d3">Kang Liu</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">adjunct | full_time | practice</data>
+  <data key="d6">10</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-kangliu-cb7ae7428e</data>
+</node>
+<node id="nthu-qf-余士迪-fee4dd1609">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">余士迪</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Rochester</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-余士迪-fee4dd1609</data>
+</node>
+<node id="nthu-qf-俞明德-5bc6444834">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">俞明德</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">chair | emeritus | full_time | joint</data>
+  <data key="d6">4</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">2</data>
+  <data key="d9">nthu-qf-俞明德-5bc6444834</data>
+</node>
+<node id="nthu-qf-張焯然-be6ae873ff">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張焯然</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-張焯然-be6ae873ff</data>
+</node>
+<node id="nthu-qf-曾祺峰-0159aadf46">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">曾祺峰</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Lancaster University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-曾祺峰-0159aadf46</data>
+</node>
+<node id="nthu-qf-林哲群-8dd6d7cb57">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林哲群</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Texas at Arlington</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-林哲群-8dd6d7cb57</data>
+</node>
+<node id="nthu-qf-潘虹華-2cd399c3cc">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">潘虹華</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-潘虹華-2cd399c3cc</data>
+</node>
+<node id="nthu-qf-索樂晴-9b18bc7ea3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">索樂晴</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-索樂晴-9b18bc7ea3</data>
+</node>
+<node id="nthu-qf-蔡子晧-d1c931b9aa">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡子晧</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-蔡子晧-d1c931b9aa</data>
+</node>
+<node id="nthu-qf-蔡怡純-bc1e0b3659">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡怡純</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">chair | full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Sun Yat-sen University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-蔡怡純-bc1e0b3659</data>
+</node>
+<node id="nthu-qf-許博炫-19a6a7d0a1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">許博炫</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">chair | full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Columbia University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-許博炫-19a6a7d0a1</data>
+</node>
+<node id="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝佩芳</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Central University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-謝佩芳-000b7cb509</data>
+</node>
+<node id="nthu-qf-謝宗翰-b308786865">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝宗翰</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-謝宗翰-b308786865</data>
+</node>
+<node id="nthu-qf-鍾經樊-def35bacad">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鍾經樊</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">chair | full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-鍾經樊-def35bacad</data>
+</node>
+<node id="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">韓傳祥</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">North Carolina State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-韓傳祥-b9870472b6</data>
+</node>
+<node id="nthu-qf-黃德源-436d6848bb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃德源</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">Boston University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-黃德源-436d6848bb</data>
+</node>
+<node id="nthu-qf-黃裕烈-945496ca2a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃裕烈</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-qf-黃裕烈-945496ca2a</data>
+</node>
+<node id="Accounting">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">4.427836170705175</data>
+  <data key="d9">Accounting</data>
+</node>
+<node id="Behavioral Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Behavioral &amp; International Finance</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Behavioral Finance</data>
+</node>
+<node id="Big Data Analytics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.2394044050093296</data>
+  <data key="d9">Big Data Analytics</data>
+</node>
+<node id="Econometrics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Econometrics</data>
+  <data key="d11">Economics &amp; Policy</data>
+  <data key="d12">3.138388573955514</data>
+  <data key="d9">Econometrics</data>
+</node>
+<node id="Financial Engineering">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Derivatives &amp; Financial Engineering</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Engineering</data>
+</node>
+<node id="Financial Technology">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Financial Technology</data>
+</node>
+<node id="Innovation Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Innovation Management</data>
+</node>
+<node id="International Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Behavioral &amp; International Finance</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">International Finance</data>
+</node>
+<node id="Portfolio Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Asset Pricing &amp; Investments</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Portfolio Management</data>
+</node>
+<node id="Real Estate Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Behavioral &amp; International Finance</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Real Estate Finance</data>
+</node>
+<node id="Banking and Financial Institutions">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Banking and Financial Institutions</data>
+</node>
+<node id="Corporate Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">3.0189891357182583</data>
+  <data key="d9">Corporate Finance</data>
+</node>
+<node id="Financial Derivatives">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Derivatives &amp; Financial Engineering</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Derivatives</data>
+</node>
+<node id="Risk Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.3939246223330755</data>
+  <data key="d9">Risk Management</data>
+</node>
+<node id="Asset Pricing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Asset Pricing &amp; Investments</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.529297384289471</data>
+  <data key="d9">Asset Pricing</data>
+</node>
+<node id="Credit Risk">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Credit Risk</data>
+</node>
+<node id="Insurance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Insurance</data>
+</node>
+<node id="Entrepreneurship">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Entrepreneurship</data>
+</node>
+<node id="Financial Markets">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Financial Markets &amp; Microstructure</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Markets</data>
+</node>
+<node id="Probability Theory">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Statistical Theory &amp; Inference</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Probability Theory</data>
+</node>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Accounting">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Behavioral Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Big Data Analytics">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Econometrics">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Financial Engineering">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Financial Technology">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Innovation Management">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="International Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Portfolio Management">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="Real Estate Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="Accounting">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="Econometrics">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="Banking and Financial Institutions">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="Corporate Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="Financial Derivatives">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="Risk Management">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-張焯然-be6ae873ff" target="Asset Pricing">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-張焯然-be6ae873ff" target="Credit Risk">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-張焯然-be6ae873ff" target="Risk Management">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="Econometrics">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="Financial Engineering">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="Risk Management">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-林哲群-8dd6d7cb57" target="Corporate Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-潘虹華-2cd399c3cc" target="Accounting">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-索樂晴-9b18bc7ea3" target="Asset Pricing">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-索樂晴-9b18bc7ea3" target="Financial Engineering">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-索樂晴-9b18bc7ea3" target="International Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-蔡子晧-d1c931b9aa" target="Banking and Financial Institutions">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-蔡子晧-d1c931b9aa" target="Insurance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-蔡子晧-d1c931b9aa" target="Risk Management">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-蔡怡純-bc1e0b3659" target="Econometrics">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-蔡怡純-bc1e0b3659" target="Real Estate Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-許博炫-19a6a7d0a1" target="Econometrics">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-許博炫-19a6a7d0a1" target="Entrepreneurship">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-許博炫-19a6a7d0a1" target="Financial Markets">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-謝佩芳-000b7cb509" target="Corporate Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-謝佩芳-000b7cb509" target="Financial Derivatives">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-謝宗翰-b308786865" target="Financial Engineering">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-鍾經樊-def35bacad" target="Econometrics">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-鍾經樊-def35bacad" target="Financial Engineering">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-鍾經樊-def35bacad" target="Risk Management">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-韓傳祥-b9870472b6" target="Financial Engineering">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-韓傳祥-b9870472b6" target="Probability Theory">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-黃德源-436d6848bb" target="Corporate Finance">
+  <data key="d13">nthu-qf</data>
+</edge>
+<edge source="nthu-qf-黃裕烈-945496ca2a" target="Econometrics">
+  <data key="d13">nthu-qf</data>
+</edge>
+</graph></graphml>

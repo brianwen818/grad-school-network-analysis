@@ -1,0 +1,2671 @@
+[
+  {
+    "faculty_id": "ntu-ds-jengdawyu-e116138060",
+    "school_id": "ntu-ds",
+    "name_zh": "余正道",
+    "name_en": "Jeng-Daw Yu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "代數幾何"
+    ],
+    "research_interests_en": [
+      "Algebraic Geometry"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21479",
+      "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21479"
+    ],
+    "emails": [
+      "9dd1161347bd7226@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-hsiupicheng-b36d32ffcb",
+    "school_id": "ntu-ds",
+    "name_zh": "修丕承",
+    "name_en": "Hsiu, Pi-Cheng",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Artificial Intelligence of Things, Intermittent Deep Learning, TinyML"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/pchsiu/index_zh.html",
+      "https://emclab.citi.sinica.edu.tw/"
+    ],
+    "emails": [
+      "a8978d8e2d56c889@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-liutzuyu-02a716bf8c",
+    "school_id": "ntu-ds",
+    "name_zh": "劉子毓",
+    "name_en": "Liu, Tzu-Yu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "人工智慧、機器學習、計算生物學、生物資訊學"
+    ],
+    "research_interests_en": [
+      "Artificial Intelligence, Machine Learning, Computational Biology, Bioinformatics"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?id=1090728",
+      "https://sites.google.com/view/joyliu-m2lab/"
+    ],
+    "emails": [
+      "1eb4c1d71e85b6fb@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-kulunwei-57dc39df53",
+    "school_id": "ntu-ds",
+    "name_zh": "古倫維",
+    "name_en": "Ku, Lun-Wei",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "自然語言處理、計算語言學、主觀(意見與情感)分析、資訊的擷取與應用、中文語言處理、話題檢測與追踪、人工智慧、計算機輔助語言"
+    ],
+    "research_interests_en": [
+      "Natural Language Processing; Computational Linguistics; Sentiment (Opinion and Emotion) Analysis; Information Extraction and Retrieval; Chinese Language Processing; Topic Detection and Tracking; Artificial Intelligence; Computer Assisted Language Learning (CALL)"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/lwku/index_zh.html",
+      "https://homepage.iis.sinica.edu.tw/pages/lwku/index_en.html"
+    ],
+    "emails": [
+      "9d97763ef7e2cfe0@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-wutzonglin-57f531b3cc",
+    "school_id": "ntu-ds",
+    "name_zh": "吳宗霖",
+    "name_en": "Wu, Tzong-Lin",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-wutirong-522ceb7891",
+    "school_id": "ntu-ds",
+    "name_zh": "吳廸融",
+    "name_en": "Wu, Ti-Rong",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "電腦遊戲、強化式學習、機器學習、人工智慧"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.iis.sinica.edu.tw/pages/tirongwu"
+    ],
+    "emails": [
+      "d2a086973279965f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-wupeiyuan-e3ad438290",
+    "school_id": "ntu-ds",
+    "name_zh": "吳沛遠",
+    "name_en": "Wu, Pei-Yuan",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "機器學習、統計學習理論、資訊安全、電腦視覺、強化學習"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/profile1.php?id=1060803"
+    ],
+    "emails": [
+      "32bc4ca01a588820@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chunhsiunghsia-1536b23bc4",
+    "school_id": "ntu-ds",
+    "name_zh": "夏俊雄",
+    "name_en": "Chun-Hsiung Hsia",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "偏微分方程式、分歧理論"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21478"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-sunshaohua-45e93fffca",
+    "school_id": "ntu-ds",
+    "name_zh": "孫紹華",
+    "name_en": "Sun, Shao-Hua",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Artificial Intelligence, Machine Learning, Robot Learning, Reinforcement Learning, Program Synthesis (人工智慧、機器學習、機器人學習、強化學習、程式合成)"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://shaohua0116.github.io/"
+    ],
+    "emails": [
+      "d88082384d665159@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-maopeitsui-a962c4a38f",
+    "school_id": "ntu-ds",
+    "name_zh": "崔茂培",
+    "name_en": "Mao-Pei Tsui",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "微分幾何、幾何分析、非線性偏微分方程"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21506"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-wufangjing-301b084151",
+    "school_id": "ntu-ds",
+    "name_zh": "巫芳璟",
+    "name_en": "Wu, Fang-Jing",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "行動計算、普適智慧、無線網路、智慧物聯網、分散式智慧與人工智慧、隱私保護技術"
+    ],
+    "research_interests_en": [
+      "Mobile Computing, Pervasive Intelligence, Wireless Networks, Internet of Smart Things, Distributed Intelligence and Artificial Intelligence, Privacy-preserving Techniques"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/site/fangjingwu1/home"
+    ],
+    "emails": [
+      "f266dae41113448a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-liaowanjiun-bb42b0521f",
+    "school_id": "ntu-ds",
+    "name_zh": "廖婉君",
+    "name_en": "Liao, Wanjiun",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "講座教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "無線網路、多媒體網路、區塊鏈(安全共識機制、隱私權保護、跨鍊技術)及數據分析、IoT技術"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://kiki.ee.ntu.edu.tw/#/advisor"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-changronaldy-a78313ae63",
+    "school_id": "ntu-ds",
+    "name_zh": "張佑榕",
+    "name_en": "Chang, Ronald Y.",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "無線通訊與網路、訊號處理與應用"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/rchang/index_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-changyuanhao-1d8a41b51b",
+    "school_id": "ntu-ds",
+    "name_zh": "張原豪",
+    "name_en": "Chang, Yuan-Hao",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "內存/存儲系統、非易失性存儲器、操作系統、嵌入式系統"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/~johnson/index_c.php"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-changyaowen-7aab305c05",
+    "school_id": "ntu-ds",
+    "name_zh": "張耀文",
+    "name_en": "Chang, Yao-Wen",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "特聘教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "電子設計自動化, 積體電路實體設計, 積體電路可製造性設計"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943001&p=3"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-hsinwenchang-2ac5eaf140",
+    "school_id": "ntu-ds",
+    "name_zh": "張馨文",
+    "name_en": "Hsin-Wen Chang",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://scholar.google.com.tw/citations?user=_kWL_woAAAAJ&hl=en"
+    ],
+    "emails": [
+      "158d50de81d0a32e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-tsaoyu-b589dcdd49",
+    "school_id": "ntu-ds",
+    "name_zh": "曹昱",
+    "name_en": "Tsao, Yu",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "語音辨識, 語音訊號處理, 生理訊號處理, 深層學習, 聲學模型"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.citi.sinica.edu.tw/pages/yu.tsao/index_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-leehungyi-7e8b2f51e2",
+    "school_id": "ntu-ds",
+    "name_zh": "李宏毅",
+    "name_en": "Lee, Hung-Yi",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://speech.ee.ntu.edu.tw/~hylee/"
+    ],
+    "emails": [
+      "2790b597d357b931@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-jhihhuangli-e48c60a9c2",
+    "school_id": "ntu-ds",
+    "name_zh": "李志煌",
+    "name_en": "Jhih-Huang Li",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "統計物理與機率"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://lijh.cadlag.space/"
+    ],
+    "emails": [
+      "8626047951afc90d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-leechunyi-1316e79287",
+    "school_id": "ntu-ds",
+    "name_zh": "李濬屹",
+    "name_en": "Lee, Chun-Yi",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "智慧型機器人、增強式學習、電腦視覺、虛實訓練及數位孿生、平行計算與計算機結構、電子電路設計自動化"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://elsalab.ai/",
+      "http://elsalab.ai/"
+    ],
+    "emails": [
+      "eb871848f60bfed9@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-leeyuhjye-a5b58ea312",
+    "school_id": "ntu-ds",
+    "name_zh": "李育杰",
+    "name_en": "Lee, Yuh-Jye",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "IG數據和數據科學、數據挖掘、機器學習、數值最佳化、行動調查、訊息安全"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://dsmilab.github.io/Yuh-Jye-Lee/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-linjenchun-7e473e6695",
+    "school_id": "ntu-ds",
+    "name_zh": "林仁俊",
+    "name_en": "Lin, Jen-Chun",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Multimedia Content Understanding; Artificial Intelligence; Machine Learning; Affective Computing; 3D Virtual Humans"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/site/jenchunlin/",
+      "https://homepage.iis.sinica.edu.tw/pages/jenchunlin/index_zh.html"
+    ],
+    "emails": [
+      "602aa1a0244b75ad@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-waikitlam-60857c51d4",
+    "school_id": "ntu-ds",
+    "name_zh": "林偉傑",
+    "name_en": "Wai-Kit Lam",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "機率論"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://wk-lam.github.io/"
+    ],
+    "emails": [
+      "027d042caf6facb1@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-taichialin-2475a3552a",
+    "school_id": "ntu-ds",
+    "name_zh": "林太家",
+    "name_en": "Tai-Chia Lin",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "數學建模、偏微分方程、變分學"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/~tclin/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-linshoude-660534418a",
+    "school_id": "ntu-ds",
+    "name_zh": "林守德",
+    "name_en": "Lin, Shou-De",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "機器發明、知識發現、自然語言處理、人工智慧、社群網路分析"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.csie.ntu.edu.tw/~sdlin/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-lintsungnan-86da824817",
+    "school_id": "ntu-ds",
+    "name_zh": "林宗男",
+    "name_en": "Lin, Tsung-Nan",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "行動網際網路、網路資訊安全、機器學習、深度學習、大數據網路安全"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?id=76"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-linche-f9f2c9629d",
+    "school_id": "ntu-ds",
+    "name_zh": "林澤",
+    "name_en": "Lin, Che",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Deep Learning, Data Science, Medical AI, FinTech, Optimization Theory, and Systems Biology."
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.idssp.ee.ntu.edu.tw/che-lin",
+      "https://www.idssp.ee.ntu.edu.tw/idssp-home"
+    ],
+    "emails": [
+      "8d594b0cca83fd78@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-lintseyu-77ed214690",
+    "school_id": "ntu-ds",
+    "name_zh": "林澤佑",
+    "name_en": "Lin, Tse-Yu",
+    "role_groups": [
+      "full_time",
+      "project"
+    ],
+    "titles_zh": [
+      "專案計畫助理教授",
+      "專案教師"
+    ],
+    "titles_en": [
+      "Project Assistant Professor",
+      "專案教師"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "幾何重建、HodgeRank"
+    ],
+    "research_interests_en": [
+      "Geometric Reconstruction, HodgeRank"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=pt&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=pt&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.cakeresume.com/006f39?locale=zh-TW"
+    ],
+    "emails": [
+      "ba783c73bc9fc358@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-gaspardbernard-b86127ba99",
+    "school_id": "ntu-ds",
+    "name_zh": "柏嘉偲",
+    "name_en": "Gaspard Bernard",
+    "role_groups": [],
+    "titles_zh": [
+      "助研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Mathematical Statistics, Robust Statistics, Multivariate Analysis, Le Cam's Asymptotic Theory of Experiments, Semiparametric Inference, Dimension Reduction, Causal Inference."
+    ],
+    "research_interests_en": [
+      "Mathematical Statistics, Robust Statistics, Multivariate Analysis, Le Cam's Asymptotic Theory of Experiments, Semiparametric Inference, Dimension Reduction, Causal Inference."
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "dbbbccaac7ade37c@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-yangdenian-e6edbc63e2",
+    "school_id": "ntu-ds",
+    "name_zh": "楊得年",
+    "name_en": "Yang, De-Nian",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "社交網絡和移動數據管理、網絡和移動應用程序"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/pages/dnyang/index_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-hsinchouyang-a5478bbe7e",
+    "school_id": "ntu-ds",
+    "name_zh": "楊欣洲",
+    "name_en": "Hsin-Chou Yang",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "精準醫療、智慧醫療、生醫大數據"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://staff.stat.sinica.edu.tw/hsinchou/",
+      "https://sites.stat.sinica.edu.tw/SH/"
+    ],
+    "emails": [
+      "2ac8bc928ef6b831@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chunhaoyang-8f0203e6f5",
+    "school_id": "ntu-ds",
+    "name_zh": "楊鈞澔",
+    "name_en": "Chun-Hao Yang",
+    "role_groups": [
+      "full_time",
+      "joint"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Professor (Joint Appointment Faculty)",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "幾何統計、幾何與深度學習在醫學影像與電腦視覺上之應用、貝氏分析"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21728"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-jiangjiehongroland-e6ba2046e1",
+    "school_id": "ntu-ds",
+    "name_zh": "江介宏",
+    "name_en": "Jiang, Jie-Hong Roland",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "邏輯、驗證、設計自動化"
+    ],
+    "research_interests_en": [
+      "邏輯、驗證、設計自動化"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://cc.ee.ntu.edu.tw/~jhjiang",
+      "https://alcom.ee.ntu.edu.tw/"
+    ],
+    "emails": [
+      "902f8491f8608ca7@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-jiangirishuiru-ab283ad3ea",
+    "school_id": "ntu-ds",
+    "name_zh": "江蕙如",
+    "name_en": "Jiang, Iris Hui-Ru",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chintsangchiang-1f13653719",
+    "school_id": "ntu-ds",
+    "name_zh": "江金倉",
+    "name_en": "Chin-Tsang Chiang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "存活及遞迴性資料分析、半母數降維分析、接收器操作特徵曲線分析"
+    ],
+    "research_interests_en": [
+      "Bootstrapping Methods, Nonparametric Smoothing Methods, Recurrent Event Data Analysis"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21477",
+      "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21477"
+    ],
+    "emails": [
+      "6e68a7ed5725911e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-hungshihhao-96d729e98f",
+    "school_id": "ntu-ds",
+    "name_zh": "洪士灝",
+    "name_en": "Hung, Shih-Hao",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "電腦應用與架構相互最佳化、計算機架構與平行處理、計算機效能評估與最佳化、嵌入式系統設計"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.csie.ntu.edu.tw/~hungsh/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-hongdingyong-97b7056823",
+    "school_id": "ntu-ds",
+    "name_zh": "洪鼎詠",
+    "name_en": "Hong, Ding-Yong",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Optimizing Compiler, Dynamic Binary Translation, Virtualization, Parallel Architecture and Parallel Computing"
+    ],
+    "research_interests_en": [
+      "Optimizing Compiler, Dynamic Binary Translation, Virtualization, Parallel Architecture and Parallel Computing"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/dyhong/index_zh.html",
+      "https://homepage.iis.sinica.edu.tw/pages/dyhong/index_en.html"
+    ],
+    "emails": [
+      "4eba5ac6d6b740df@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-frederickkinhingphoa-95c5a56acb",
+    "school_id": "ntu-ds",
+    "name_zh": "潘建興",
+    "name_en": "Frederick Kin Hing Phoa",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "https://staff.stat.sinica.edu.tw/fredphoa/research.html"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://staff.stat.sinica.edu.tw/fredphoa/"
+    ],
+    "emails": [
+      "67ac94093c4e8a51@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-weichungwang-46d1252dcf",
+    "school_id": "ntu-ds",
+    "name_zh": "王偉仲",
+    "name_en": "Wei-Chung Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "智慧醫療、資料科學計算、高效能科學計算、矩陣計算、數值最佳化"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.wwang.info/ch",
+      "https://www.medalab.ai/"
+    ],
+    "emails": [
+      "4f0315d4ee3482f2@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-wangchienyao-f1c3a0bfd6",
+    "school_id": "ntu-ds",
+    "name_zh": "王建堯",
+    "name_en": "Wang, Chien Yao",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "機器學習、深度學習、多媒體訊號處理、電腦視覺"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://iis.sinica.edu.tw/pages/kinyiu/index_zh.html"
+    ],
+    "emails": [
+      "4689943d037b490a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-wangchihyu-3933d444d6",
+    "school_id": "ntu-ds",
+    "name_zh": "王志宇",
+    "name_en": "Wang, Chih-Yu",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Wireless Communication, Internet of Things, Edge Intelligence, Data Science"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://tom.ky",
+      "http://snaclab.citi.sinica.edu.tw"
+    ],
+    "emails": [
+      "d41e78b02413dd9e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-jennnanwang-96b57e19a5",
+    "school_id": "ntu-ds",
+    "name_zh": "王振男",
+    "name_en": "Jenn-Nan Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "偏微分方程、反問題"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/~jnwang/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-wangyute-7f585252dd",
+    "school_id": "ntu-ds",
+    "name_zh": "王有德",
+    "name_en": "Wang, Yu Te",
+    "role_groups": [],
+    "titles_zh": [
+      "助研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "腦機介面,人機互動,穩態視覺刺激電位"
+    ],
+    "research_interests_en": [
+      "Brain-Computer Interface, Steady-State Visual Evoked Potential, Human Computer Interaction"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://homepage.citi.sinica.edu.tw/pages/yutewang/index_zh.html"
+    ],
+    "emails": [
+      "32b3748fc7aeb458@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-wangchuanju-ba03252081",
+    "school_id": "ntu-ds",
+    "name_zh": "王釧茹",
+    "name_en": "Wang, Chuan-Ju",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "計量金融、財務資料分析、資料探勘、機器學習"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/cjwang/index_zh.html"
+    ],
+    "emails": [
+      "b728cbfb81e09f1e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chienmingchi-7c50de2827",
+    "school_id": "ntu-ds",
+    "name_zh": "紀建名",
+    "name_en": "Chien-Ming Chi",
+    "role_groups": [],
+    "titles_zh": [
+      "助研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "高維無母數預測(High-dimensional Nonparametric Prediction) 高維無母數推論(High-dimensional Nonparametric Inference) 時間序列分析(Time Series Analysis)"
+    ],
+    "research_interests_en": [
+      "High-dimensional Nonparametric Prediction, High-dimensional Nonparametric Inference, Time Series Analysis"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "95dab6530f4068fa@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-yehmiyen-560d12ebe9",
+    "school_id": "ntu-ds",
+    "name_zh": "葉彌妍",
+    "name_en": "Yeh, Mi-Yen",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "資料探勘、巨量資料分析、機器學習、人工智慧應用"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html"
+    ],
+    "emails": [
+      "ab6302e66f7c8c47@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-yapinghsieh-d16fa3e4c8",
+    "school_id": "ntu-ds",
+    "name_zh": "謝亞平",
+    "name_en": "Ya-Ping Hsieh",
+    "role_groups": [],
+    "titles_zh": [
+      "助研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "生成模型與多Agent系統(Generative Models and Multi-agent Systems)"
+    ],
+    "research_interests_en": [
+      "Generative Models and Multi-agent Systems"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "10fd3824aac24c49@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-hsiehhungyun-d8718bc559",
+    "school_id": "ntu-ds",
+    "name_zh": "謝宏昀",
+    "name_en": "Hsieh, Hung-Yun",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "網路科學、資訊安全與隱私、假新聞與假帳號偵測、人工智慧幻覺偵測與研究"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=942014&p=3",
+      "http://tonic.ee.ntu.edu.tw"
+    ],
+    "emails": [
+      "2c753dc973eec470@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-lienyunhsuan-dd216d994b",
+    "school_id": "ntu-ds",
+    "name_zh": "連云暄",
+    "name_en": "Lien, Yun-Hsuan",
+    "role_groups": [],
+    "titles_zh": [
+      "助研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "強化學習、生成式人工智慧、金融科技"
+    ],
+    "research_interests_en": [
+      "REINFORCEMENT LEARNING, GENERATIVE AI, FINTECH"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://homepage.citi.sinica.edu.tw/pages/sophia.yh.lien/index_zh.html",
+      "https://homepage.citi.sinica.edu.tw/pages/sophia.yh.lien/contact_en.html"
+    ],
+    "emails": [
+      "2ab1408f1bb78789@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chengpujen-ead86da3e9",
+    "school_id": "ntu-ds",
+    "name_zh": "鄭卜壬",
+    "name_en": "Cheng, Pu-Jen",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "網路探勘、資訊檢索、多媒體資料庫"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.csie.ntu.edu.tw/~pjcheng/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chengwenhuang-7531301010",
+    "school_id": "ntu-ds",
+    "name_zh": "鄭文皇",
+    "name_en": "Cheng, Wen-Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "人工智慧、多媒體 、電腦視覺、機器學習、數位轉型 、金融科技"
+    ],
+    "research_interests_en": [
+      "Artificial intelligence, multimedia, computer vision, machine learning, digital transformation, financial technology"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.csie.ntu.edu.tw/~wenhuang/",
+      "https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php",
+      "http://www.cmlab.csie.ntu.edu.tw/"
+    ],
+    "emails": [
+      "2f8beda439a602d0@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenghsiangyun-dd0d28d44a",
+    "school_id": "ntu-ds",
+    "name_zh": "鄭湘筠",
+    "name_en": "Cheng, Hsiang-Yun",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "計算機架構"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/hycheng/index_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenlingjyh-5fa406eb09",
+    "school_id": "ntu-ds",
+    "name_zh": "陳伶志",
+    "name_en": "Chen, Ling-Jyh",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "物聯網、大數據分析"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/pages/cclljj/index_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenhsinhsi-6c5257ce25",
+    "school_id": "ntu-ds",
+    "name_zh": "陳信希",
+    "name_en": "Chen, Hsin-Hsi",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "特聘教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Distinguished Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "自然語言處理、資訊檢索與擷取、網路探勘"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://nlg.csie.ntu.edu.tw/advisor.php"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chunhouhchen-0af0210f26",
+    "school_id": "ntu-ds",
+    "name_zh": "陳君厚",
+    "name_en": "Chun-Houh Chen",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "資料視覺化、矩陣視覺化、多變量統計分析、健康大數據、智慧醫療"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://gap.stat.sinica.edu.tw/",
+      "http://sites.stat.sinica.edu.tw/SH/"
+    ],
+    "emails": [
+      "97acaeb21924d1e5@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-tinglichen-27e41ae34a",
+    "school_id": "ntu-ds",
+    "name_zh": "陳定立",
+    "name_en": "Ting-Li Chen",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "統計計算"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.stat.sinica.edu.tw/tlchen/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenshangtse-47653327f1",
+    "school_id": "ntu-ds",
+    "name_zh": "陳尚澤",
+    "name_en": "Chen, Shang-Tse",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "機器學習, 資料探勘, 資訊安全, 賽局理論"
+    ],
+    "research_interests_en": [
+      "Machine learning, Security, Algorithmic Game Theory, and Data Mining"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.csie.ntu.edu.tw/~stchen/",
+      "https://www.csie.ntu.edu.tw/zh_tw/Research/TeachingLab/-57611568"
+    ],
+    "emails": [
+      "f50361de6e336527@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenchusong-9acf325951",
+    "school_id": "ntu-ds",
+    "name_zh": "陳祝嵩",
+    "name_en": "Chen, Chu-Song",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "深度學習、電腦視覺、機器學習、影像處理、多媒體處理、大數據分析"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://imp.iis.sinica.edu.tw/"
+    ],
+    "emails": [
+      "5a30c192301c369e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenyunnung-e290620faf",
+    "school_id": "ntu-ds",
+    "name_zh": "陳縕儂",
+    "name_en": "Chen, Yun-Nung",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "語言理解、對話系統、機器智慧、自然語言處理"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.csie.ntu.edu.tw/~yvchen/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-ikunchen-568f578c62",
+    "school_id": "ntu-ds",
+    "name_zh": "陳逸昆",
+    "name_en": "I-Kun Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "偏微分方程"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21618"
+    ],
+    "emails": [
+      "9785e010a09218a8@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenyufang-70dded9973",
+    "school_id": "ntu-ds",
+    "name_zh": "陳郁方",
+    "name_en": "Chen, Yu-Fang",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Software Verification, Model Checking, Automata Theory, Algorithmic Learning, Formal Methods"
+    ],
+    "research_interests_en": [
+      "Software Verification, Model Checking, Automata Theory, Algorithmic Learning, Formal Methods"
+    ],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenmingsyan-8fa63ae675",
+    "school_id": "ntu-ds",
+    "name_zh": "陳銘憲",
+    "name_en": "Chen, Ming-Syan",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "講座教授",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Data Mining and Machine Learning"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://arbor.ee.ntu.edu.tw/~mschen/"
+    ],
+    "emails": [
+      "998f5bca9af71ba1@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-chenjuncheng-090ef61af5",
+    "school_id": "ntu-ds",
+    "name_zh": "陳駿丞",
+    "name_en": "Chen, Jun-Cheng",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "從事深度學習於電腦視覺相關研究。詳細內容包含人臉辨識、動作識別、物體偵測和追蹤、深偽圖片生成和檢測、對抗樣本、深度生成模型(VAE, GAN, Glow, DDPM, etc)或其他電腦視覺與人工智慧安全(AI Security)相關研究。"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/pullpull/index_zh.html"
+    ],
+    "emails": [
+      "dc8c23cca5abcbdf@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-tsojungyen-ab6f30a1f1",
+    "school_id": "ntu-ds",
+    "name_zh": "顏佐榕",
+    "name_en": "Tso-Jung Yen",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "貝氏統計"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.stat.sinica.edu.tw/tjyen/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-maweiyun-d303532c6d",
+    "school_id": "ntu-ds",
+    "name_zh": "馬偉雲",
+    "name_en": "Ma, Wei-Yun",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "自然語言處理、機器學習、深度學習、知識表現與推理、自然語言理解、問題系統"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.iis.sinica.edu.tw/pages/ma/contact_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-mingyuehhuang-e0d8d52531",
+    "school_id": "ntu-ds",
+    "name_zh": "黃名鉞",
+    "name_en": "Ming-Yueh Huang",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "Causal inference, sufficient dimension reduction, semiparametric modeling, survival and recurrent event data analysis, variable selection"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.stat.sinica.edu.tw/cht/index.php?act=researcher_manager&code=view&member=11"
+    ],
+    "emails": [
+      "74bef6fe8cf8805e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-yentsunghuang-f1bca29996",
+    "school_id": "ntu-ds",
+    "name_zh": "黃彥棕",
+    "name_en": "Yen-Tsung Huang",
+    "role_groups": [],
+    "titles_zh": [
+      "研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "生物統計、統計遺傳學"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.stat.sinica.edu.tw/cht/index.php?act=researcher_manager&code=view&member=13"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-huangyennun-474cb98b48",
+    "school_id": "ntu-ds",
+    "name_zh": "黃彥男",
+    "name_en": "Huang, Yen-Nun",
+    "role_groups": [],
+    "titles_zh": [
+      "特聘研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Distinguished Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "行動通訊、多媒體系統"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/yennunhuang/index_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  },
+  {
+    "faculty_id": "ntu-ds-huanghenhsen-b5b46283ba",
+    "school_id": "ntu-ds",
+    "name_zh": "黃瀚萱",
+    "name_en": "Huang, Hen-Hsen",
+    "role_groups": [],
+    "titles_zh": [
+      "副研究員",
+      "核心師資"
+    ],
+    "titles_en": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [
+      "自然語言處理、知識庫組織與應用、醫學文件處理"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw"
+    ],
+    "listing_urls_en": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/hhhuang/contact_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:31:25+08:00"
+  }
+]

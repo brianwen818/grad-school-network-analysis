@@ -1,0 +1,120 @@
+{
+  "unit": "ntu-econ",
+  "level": "school",
+  "school_ids": [
+    "ntu-econ"
+  ],
+  "deduplicated": false,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 49,
+    "n_entities": 49,
+    "n_duplicate_records_removed": 0,
+    "n_in_network": 44,
+    "n_excluded_no_keywords": 5,
+    "coverage_pct": 89.8
+  },
+  "bipartite": {
+    "n_professors": 44,
+    "n_keywords": 28,
+    "n_edges": 100,
+    "density": 0.08116883116883117,
+    "n_connected_components": 2,
+    "lcc_n_nodes": 68,
+    "lcc_n_professors": 41,
+    "lcc_n_keywords": 27,
+    "lcc_node_share": 0.9444444444444444,
+    "lcc_professor_share": 0.9318181818181818,
+    "professor_degree_mean": 2.272727272727273,
+    "professor_degree_max": 5,
+    "keyword_degree_mean": 3.5714285714285716,
+    "keyword_degree_max": 13
+  },
+  "keyword_network": {
+    "n_nodes": 27,
+    "n_edges": 68,
+    "density": 0.19373219373219372,
+    "mean_degree": 5.037037037037037,
+    "mean_weight": 1.3235294117647058,
+    "avg_clustering": 0.6588621255287921,
+    "modularity_q_by_resolution": {
+      "0.7": 0.543037037037037,
+      "1.0": 0.44080246913580245,
+      "1.3": 0.3563765432098765
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 4,
+      "1.3": 4
+    },
+    "modularity_q": 0.44080246913580245,
+    "n_communities": 4,
+    "girvan_newman": {
+      "n_communities": 4,
+      "modularity_q": 0.3874691358024691
+    },
+    "taxonomy_alignment_nmi": 0.45710665116438143,
+    "taxonomy_alignment_ari": 0.12496600489529508,
+    "pearson_degree_betweenness_r": 0.7932704531253489,
+    "pearson_degree_betweenness_p": 8.003324549395692e-07
+  },
+  "professor_network": {
+    "n_nodes": 41,
+    "n_edges": 391,
+    "density": 0.4768292682926829,
+    "mean_degree": 19.073170731707318,
+    "avg_clustering": 0.8349508350944423,
+    "modularity_q_by_resolution": {
+      "0.7": 0.4303480002886325,
+      "1.0": 0.31252941454975885,
+      "1.3": 0.20690252400240122
+    },
+    "n_communities_by_resolution": {
+      "0.7": 2,
+      "1.0": 3,
+      "1.3": 4
+    },
+    "modularity_q": 0.31252941454975885,
+    "n_communities": 3,
+    "assortativity_dominant_l1": 0.10443060625581554,
+    "assortativity_role_groups": -0.052906700459369474,
+    "assortativity_school": NaN,
+    "community_vs_dominant_l1_nmi": 0.17283637440990374,
+    "community_vs_dominant_l1_ari": 0.0036424174031575067
+  },
+  "guardrails": {
+    "l1_too_broad": [
+      "Economics & Policy"
+    ],
+    "lambda_over_merging": [
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 4,
+    "professors_without_chinese_name": [
+      {
+        "node_id": "ntu-econ-joonkyohong-abba80fbe9",
+        "name_en": "Joonkyo Hong"
+      },
+      {
+        "node_id": "ntu-econ-junrokpark-d50100b56e",
+        "name_en": "Junrok Park"
+      },
+      {
+        "node_id": "ntu-econ-sungminpark-469370a4d3",
+        "name_en": "Sungmin Park"
+      },
+      {
+        "node_id": "ntu-econ-toshiakikomatsu-2c1f940cc4",
+        "name_en": "Toshiaki Komatsu"
+      }
+    ]
+  }
+}

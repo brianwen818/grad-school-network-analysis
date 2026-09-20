@@ -1,0 +1,34 @@
+{
+  "school_id": "nthu-cs",
+  "started_from": {
+    "zh": "https://dcs.site.nthu.edu.tw/p/404-1174-9870.php",
+    "en": "https://dcs-en.site.nthu.edu.tw/p/405-1010-9872,c1614.php"
+  },
+  "note": "",
+  "collected_at": "2026-09-09T09:28:57+08:00",
+  "pages": [
+    "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1107",
+    "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=461",
+    "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429",
+    "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108",
+    "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430",
+    "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465",
+    "https://dcs.site.nthu.edu.tw/p/404-1174-9870.php",
+    "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1110",
+    "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=674",
+    "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661",
+    "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112",
+    "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662",
+    "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675",
+    "https://dcs-en.site.nthu.edu.tw/p/405-1010-9872,c1614.php"
+  ],
+  "counts": {
+    "zh_raw": 78,
+    "en_raw": 64,
+    "faculty": 81
+  },
+  "warnings": [],
+  "errors": [],
+  "validation_issues": [],
+  "success": true
+}

@@ -1,0 +1,24 @@
+# Dependencies for the analysis stage: the notebooks under
+#   scripts/data-preprocessing/
+#   scripts/network-analysis/current-version/
+#
+# The scraper has its own, much smaller, dependency set:
+#   scripts/data-collection/requirements.txt
+#
+# Tested on Python 3.12 (the pinned versions below are the ones the published
+# results were produced with, on 2026-09-09).
+
+pandas>=2.2,<3            # 2.2.3
+numpy>=2.0,<3             # 2.3.0
+networkx>=3.4,<4          # 3.6.1  (Louvain lives in networkx, no python-louvain needed)
+scipy>=1.14,<2            # 1.16.1
+scikit-learn>=1.5,<2      # 1.7.1
+matplotlib>=3.9,<4        # 3.10.7
+matplotlib-venn>=1.1,<2   # 1.1.2
+
+# For running the notebooks headlessly (see "Reproducing" in the README).
+jupyter>=1.1,<2
+nbconvert>=7.16,<8
+
+# Note: the word clouds are drawn directly with matplotlib (see draw_wordcloud()
+# in 3_network_analysis.ipynb), so the `wordcloud` package is NOT required.

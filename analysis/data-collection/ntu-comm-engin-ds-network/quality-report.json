@@ -1,0 +1,25 @@
+{
+  "school_id": "ntu-comm-engin-ds-network",
+  "analyzed_at": "2026-09-09T09:29:31+08:00",
+  "faculty_count": 25,
+  "role_counts": {
+    "adjunct": 3,
+    "faculty": 3,
+    "full_time": 19
+  },
+  "merge_status_counts": {
+    "matched": 25
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 1.0,
+    "education_zh": 1.0,
+    "education_en": 0.92,
+    "research_interests_zh": 1.0,
+    "research_interests_en": 1.0
+  },
+  "pages_visited": 2,
+  "warnings": [],
+  "errors": []
+}

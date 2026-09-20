@@ -1,0 +1,91 @@
+﻿faculty_id,name_zh,name_en,missing_fields
+ntu-cs-ie-yilwunho-ce633fffa2,何奕倫,YI-LWUN HO,education_zh | education_en
+ntu-cs-ie-csfuh-8bd0c9a460,傅楸善,Chiou-Shann Fuh,education_zh | education_en
+ntu-cs-ie-lcfu-0a2a6d8908,傅立成,Li-Chen Fu,education_zh | education_en
+ntu-cs-ie-劉睦雄-ba3d0c924c,劉睦雄,Mu-Shiung Liu,education_zh | education_en
+ntu-cs-ie-pfliu-a4b8a4e929,劉邦鋒,Pangfeng Liu,education_zh | education_en
+ntu-cs-ie-cyliou-b8313079ec,劉長遠,Cheng-Yuan Liou,education_zh | education_en
+ntu-cs-ie-jlwu-0ea4251db7,吳家麟,Jia-Ling Wu,education_zh | education_en
+ntu-cs-ie-hilu-d3cc107f32,呂學一,Hsueh-I Lu,education_zh | education_en
+ntu-cs-ie-ydlyuu-ca115abad3,呂育道,Yuh-Dauh Lyuu,education_zh | education_en
+ntu-cs-ie-terrencechou-51f1a6db3d,周存貹,Terrence Chou,education_zh | education_en
+ntu-cs-ie-cfchou-e60f76bba3,周承復,Cheng-Fu Chou,education_zh | education_en
+ntu-cs-ie-fangjingwu-0e7f46cd57,巫芳璟,Fang-Jing Wu,education_zh | education_en
+ntu-cs-ie-shihweiliao-e37c5cad8a,廖世偉,Shih-wei Liao,education_zh | education_en
+ntu-cs-ie-yichiliao-7e93131d46,廖以圻,Yi-Chi Liao,education_zh | education_en
+ntu-cs-ie-wanjiunliao-48de453af9,廖婉君,Wanjiun Liao,education_zh | education_en
+ntu-cs-ie-jiefanchang-fcddfe88b0,張傑帆,Jie-Fan Chang,education_zh | education_en
+ntu-cs-ie-yuanhaochang-84d776f267,張原豪,Yuan-Hao Chang,education_zh | education_en
+ntu-cs-ie-jsjang-bd821014e6,張智星,Jyh-Shing Roger Jang,education_zh | education_en
+ntu-cs-ie-rfchang-4f18bf6937,張瑞峰,Ruey-Feng Chang,education_zh | education_en
+ntu-cs-ie-yaowenchang-e8bf92777c,張耀文,Yao-Wen Chang,education_zh | education_en
+ntu-cs-ie-winstonhsu-206405b911,徐宏民,Winston H. Hsu,education_zh | education_en
+ntu-cs-ie-wchsu-26f450013c,徐慰中,Wei-Chung Hsu,education_zh | education_en
+ntu-cs-ie-tshsu-28e268a2d5,徐讚昇,Tsan-Sheng Hsu,education_zh | education_en
+ntu-cs-ie-csshih-6714f0cdd0,施吉昇,Chi-Sheng Shih,education_zh | education_en
+ntu-cs-ie-yjtseng-dc282d14ca,曾宇鳳,Yufeng Jane Tseng,education_zh | education_en
+ntu-cs-ie-hhchu-844927e4cf,朱浩華,Hao-Hua Chu,education_zh | education_en
+ntu-cs-ie-jlee-8d3dfca2d4,李允中,Jonathan Lee,education_zh | education_en
+ntu-cs-ie-hungyilee-e3b7cae77a,李宏毅,Hung-Yi Lee,education_zh | education_en
+ntu-cs-ie-yenhuanli-d344991808,李彥寰,Yen-Huan Li,education_zh | education_en
+ntu-cs-ie-dtlee-ddd84693f6,李德財,Der-Tsai Lee,education_zh | education_en
+ntu-cs-ie-mslee-a3c2ec9374,李明穗,Ming-Sui Lee,education_zh | education_en
+ntu-cs-ie-chunyilee-d91b936234,李濬屹,Chun-Yi Lee,education_zh | education_en
+ntu-cs-ie-lslee-906cf8b461,李琳山,Lin-shan Lee,education_zh | education_en
+ntu-cs-ie-林一鵬-5c1481405f,林一鵬,I-Peng Lin,education_zh | education_en
+ntu-cs-ie-sdlin-d4d6f26c5f,林守德,Shou-De Lin,education_zh | education_en
+ntu-cs-ie-cwlin-9895f94a62,林忠緯,Chung-Wei Lin,education_zh | education_en
+ntu-cs-ie-cjlin-c23da9cccb,林智仁,CJ Lin,education_zh | education_en
+ntu-cs-ie-林桂傑-b717b8860b,林桂傑,Kwei-Jay Lin,education_zh | education_en
+ntu-cs-ie-htlin-969f525d2d,林軒田,Hsuan-Tien Lin,education_zh | education_en
+ntu-cs-ie-katelin-92cc65958e,林靖茹,Ching-Ju Lin,education_zh | education_en
+ntu-cs-ie-plin-79c1b50742,林風,Phone Lin,education_zh | education_en
+ntu-cs-ie-tsungweike-987483f265,柯宗瑋,Tsung-Wei Ke,education_zh | education_en
+ntu-cs-ie-borsungliang-d27fbde277,梁伯嵩,Bor-Sung Liang,education_zh | education_en
+ntu-cs-ie-clyang-d0981273f4,楊佳玲,Chia-Lin Yang,education_zh | education_en
+ntu-cs-ie-yjoyang-fee45b2738,歐陽彥正,Yen-Jen Oyang,education_zh | education_en
+ntu-cs-ie-mouhyoung-51e697d410,歐陽明,Ming Ouhyoung,education_zh | education_en
+ntu-cs-ie-yipinghung-ed06deae8f,洪一平,Yi-Ping Hung,education_zh | education_en
+ntu-cs-ie-shhung-41c464eeb6,洪士灝,Shih-Hao Hung,education_zh | education_en
+ntu-cs-ie-hwhon-8567f422b4,洪小文,Hsiao-Wuen Hon,education_zh | education_en
+ntu-cs-ie-dingyonghong-722d8f7585,洪鼎詠,Ding-Yong Hong,education_zh | education_en
+ntu-cs-ie-湯耀中-c089a7bc21,湯耀中,Gregory Y. Tang,education_zh | education_en
+ntu-cs-ie-shengdewang-f22c6c99e2,王勝德,Sheng-De Wang,education_zh | education_en
+ntu-cs-ie-shihhsinwang-5c3f5f97c1,王士欣,Shih-Hsin Wang,education_zh | education_en
+ntu-cs-ie-bywang-ec31f71e04,王柏堯,BY Wang,education_zh | education_en
+ntu-cs-ie-shaoyuanlo-aef937e217,羅紹元,Shao-Yuan Lo,education_zh | education_en
+ntu-cs-ie-yychuang-14a2c6366c,莊永裕,Yung-Yu Chuang,education_zh | education_en
+ntu-cs-ie-pingchengyeh-fcde14beb3,葉丙成,Ping-Cheng Yeh,education_zh | education_en
+ntu-cs-ie-hmtsai-001886954a,蔡欣穆,HM Tsai,education_zh | education_en | research_interests_en
+ntu-cs-ie-hsuchunhsiao-0666e32db0,蕭旭君,Hsu-Chun Hsiao,education_zh | education_en
+ntu-cs-ie-cwhsueh-17fce3b74f,薛智文,Chih-Wen Hsueh,education_zh | education_en
+ntu-cs-ie-yjhsu-ef1c81cb62,許永真,Jane Yung-Jen Hsu,education_zh | education_en
+ntu-cs-ie-許舜欽-908ebaaeaa,許舜欽,Shun-Chin Hsu,education_zh | education_en
+ntu-cs-ie-fplai-2ea339a83a,賴飛羆,Feipei Lai,education_zh | education_en
+ntu-cs-ie-kmchao-a077c2e3e5,趙坤茂,Kun-Mao Chao,education_zh | education_en
+ntu-cs-ie-acpang-9884f42033,逄愛君,Ai-Chun Pang,education_zh | education_en
+ntu-cs-ie-twkuo-d3cfd9197c,郭大維,Tei-Wei Kuo,education_zh | education_en
+ntu-cs-ie-shanyuanteng-a74b187adf,鄧善元,Shan-Yuan Teng,education_zh | education_en
+ntu-cs-ie-pjcheng-d0b6b668e5,鄭卜壬,Pu-Jen Cheng,education_zh | education_en
+ntu-cs-ie-wenhuangcheng-8221ffdc39,鄭文皇,Wen-Huang Cheng,education_zh | education_en
+ntu-cs-ie-lungpancheng-bd8ab20b0b,鄭龍磻,Lung-Pan Cheng,education_zh | education_en
+ntu-cs-ie-kaiminchung-1ecea18825,鐘楷閔,Kai-Min Chung,education_zh | education_en | research_interests_en
+ntu-cs-ie-陳俊良-323382e455,陳俊良,Chuen-Liang Chen,education_zh | education_en
+ntu-cs-ie-hhchen-7401af7bf1,陳信希,Hsin-Hsi Chen,education_zh | education_en
+ntu-cs-ie-ghchen-6420c9bb16,陳健輝,Gen-Huey Chen,education_zh | education_en
+ntu-cs-ie-shangtsechen-68ade9cf16,陳尚澤,Shang-Tse Chen,education_zh | education_en
+ntu-cs-ie-mikeychen-e0f3b8ad08,陳彥仰,Mike Yen-Yang Chen,education_zh | education_en
+ntu-cs-ie-wcchen-ce7e66d156,陳文進,Wen-Chin Chen,education_zh | education_en
+ntu-cs-ie-bychen-c5555c9a2f,陳炳宇,Bing-Yu Chen,education_zh | education_en
+ntu-cs-ie-chusongchen-19351beadd,陳祝嵩,Chu-Song Chen,education_zh | education_en
+ntu-cs-ie-weichaochen-820145e009,陳維超,Wei-Chao Chen,education_zh | education_en
+ntu-cs-ie-yunnungchen-3195f50578,陳縕儂,Yun-Nung Chen,education_zh | education_en
+ntu-cs-ie-mingsyanchen-dae7972888,陳銘憲,Ming-Syan Chen,education_zh | education_en
+ntu-cs-ie-jiehhsiang-90a6272e7f,項潔,Jieh Hsiang,education_zh | education_en
+ntu-cs-ie-wmyan-d6a9dcb9ff,顏文明,Wen-Ming Yan,education_zh | education_en
+ntu-cs-ie-kwanliuma-aa49af3036,馬匡六,Kwan-Liu Ma,education_zh | education_en
+ntu-cs-ie-高成炎-438b507e91,高成炎,Cheng-Yan Kao,education_zh | education_en
+ntu-cs-ie-shangenhuang-161fb441cf,黃上恩,Shang-En Huang,education_zh | education_en
+ntu-cs-ie-hsuanchenghuang-4a05bef87b,黃宣誠,Hsuan-Cheng Huang,education_zh | education_en
+ntu-cs-ie-taiyihuang-35a9a87e4f,黃泰一,Tai-Yi Huang,education_zh | education_en
+ntu-cs-ie-shihweili-fd4467548b,黎士瑋,Shih-Wei Li,education_zh | education_en

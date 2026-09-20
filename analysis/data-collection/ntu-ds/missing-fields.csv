@@ -1,0 +1,70 @@
+﻿faculty_id,name_zh,name_en,missing_fields
+ntu-ds-jengdawyu-e116138060,余正道,Jeng-Daw Yu,education_zh | education_en
+ntu-ds-hsiupicheng-b36d32ffcb,修丕承,"Hsiu, Pi-Cheng",education_zh | education_en | research_interests_en
+ntu-ds-liutzuyu-02a716bf8c,劉子毓,"Liu, Tzu-Yu",education_zh | education_en
+ntu-ds-kulunwei-57dc39df53,古倫維,"Ku, Lun-Wei",education_zh | education_en
+ntu-ds-wutzonglin-57f531b3cc,吳宗霖,"Wu, Tzong-Lin",education_zh | education_en | research_interests_zh | research_interests_en
+ntu-ds-wutirong-522ceb7891,吳廸融,"Wu, Ti-Rong",education_zh | education_en | research_interests_en
+ntu-ds-wupeiyuan-e3ad438290,吳沛遠,"Wu, Pei-Yuan",education_zh | education_en | research_interests_en
+ntu-ds-chunhsiunghsia-1536b23bc4,夏俊雄,Chun-Hsiung Hsia,education_zh | education_en | research_interests_en
+ntu-ds-sunshaohua-45e93fffca,孫紹華,"Sun, Shao-Hua",education_zh | education_en | research_interests_en
+ntu-ds-maopeitsui-a962c4a38f,崔茂培,Mao-Pei Tsui,education_zh | education_en | research_interests_en
+ntu-ds-wufangjing-301b084151,巫芳璟,"Wu, Fang-Jing",education_zh | education_en
+ntu-ds-liaowanjiun-bb42b0521f,廖婉君,"Liao, Wanjiun",education_zh | education_en | research_interests_en
+ntu-ds-changronaldy-a78313ae63,張佑榕,"Chang, Ronald Y.",education_zh | education_en | research_interests_en
+ntu-ds-changyuanhao-1d8a41b51b,張原豪,"Chang, Yuan-Hao",education_zh | education_en | research_interests_en
+ntu-ds-changyaowen-7aab305c05,張耀文,"Chang, Yao-Wen",education_zh | education_en | research_interests_en
+ntu-ds-hsinwenchang-2ac5eaf140,張馨文,Hsin-Wen Chang,education_zh | education_en | research_interests_zh | research_interests_en
+ntu-ds-tsaoyu-b589dcdd49,曹昱,"Tsao, Yu",education_zh | education_en | research_interests_en
+ntu-ds-leehungyi-7e8b2f51e2,李宏毅,"Lee, Hung-Yi",education_zh | education_en | research_interests_zh | research_interests_en
+ntu-ds-jhihhuangli-e48c60a9c2,李志煌,Jhih-Huang Li,education_zh | education_en | research_interests_en
+ntu-ds-leechunyi-1316e79287,李濬屹,"Lee, Chun-Yi",education_zh | education_en | research_interests_en
+ntu-ds-leeyuhjye-a5b58ea312,李育杰,"Lee, Yuh-Jye",education_zh | education_en | research_interests_en
+ntu-ds-linjenchun-7e473e6695,林仁俊,"Lin, Jen-Chun",education_zh | education_en | research_interests_en
+ntu-ds-waikitlam-60857c51d4,林偉傑,Wai-Kit Lam,education_zh | education_en | research_interests_en
+ntu-ds-taichialin-2475a3552a,林太家,Tai-Chia Lin,education_zh | education_en | research_interests_en
+ntu-ds-linshoude-660534418a,林守德,"Lin, Shou-De",education_zh | education_en | research_interests_en
+ntu-ds-lintsungnan-86da824817,林宗男,"Lin, Tsung-Nan",education_zh | education_en | research_interests_en
+ntu-ds-linche-f9f2c9629d,林澤,"Lin, Che",education_zh | education_en | research_interests_en
+ntu-ds-lintseyu-77ed214690,林澤佑,"Lin, Tse-Yu",education_zh | education_en
+ntu-ds-gaspardbernard-b86127ba99,柏嘉偲,Gaspard Bernard,education_zh | education_en
+ntu-ds-yangdenian-e6edbc63e2,楊得年,"Yang, De-Nian",education_zh | education_en | research_interests_en
+ntu-ds-hsinchouyang-a5478bbe7e,楊欣洲,Hsin-Chou Yang,education_zh | education_en | research_interests_en
+ntu-ds-chunhaoyang-8f0203e6f5,楊鈞澔,Chun-Hao Yang,education_zh | education_en | research_interests_en
+ntu-ds-jiangjiehongroland-e6ba2046e1,江介宏,"Jiang, Jie-Hong Roland",education_zh | education_en
+ntu-ds-jiangirishuiru-ab283ad3ea,江蕙如,"Jiang, Iris Hui-Ru",education_zh | education_en | research_interests_zh | research_interests_en
+ntu-ds-chintsangchiang-1f13653719,江金倉,Chin-Tsang Chiang,education_zh | education_en
+ntu-ds-hungshihhao-96d729e98f,洪士灝,"Hung, Shih-Hao",education_zh | education_en | research_interests_en
+ntu-ds-hongdingyong-97b7056823,洪鼎詠,"Hong, Ding-Yong",education_zh | education_en
+ntu-ds-frederickkinhingphoa-95c5a56acb,潘建興,Frederick Kin Hing Phoa,education_zh | education_en | research_interests_en
+ntu-ds-weichungwang-46d1252dcf,王偉仲,Wei-Chung Wang,education_zh | education_en | research_interests_en
+ntu-ds-wangchienyao-f1c3a0bfd6,王建堯,"Wang, Chien Yao",education_zh | education_en | research_interests_en
+ntu-ds-wangchihyu-3933d444d6,王志宇,"Wang, Chih-Yu",education_zh | education_en | research_interests_en
+ntu-ds-jennnanwang-96b57e19a5,王振男,Jenn-Nan Wang,education_zh | education_en | research_interests_en
+ntu-ds-wangyute-7f585252dd,王有德,"Wang, Yu Te",education_zh | education_en
+ntu-ds-wangchuanju-ba03252081,王釧茹,"Wang, Chuan-Ju",education_zh | education_en | research_interests_en
+ntu-ds-chienmingchi-7c50de2827,紀建名,Chien-Ming Chi,education_zh | education_en
+ntu-ds-yehmiyen-560d12ebe9,葉彌妍,"Yeh, Mi-Yen",education_zh | education_en | research_interests_en
+ntu-ds-yapinghsieh-d16fa3e4c8,謝亞平,Ya-Ping Hsieh,education_zh | education_en
+ntu-ds-hsiehhungyun-d8718bc559,謝宏昀,"Hsieh, Hung-Yun",education_zh | education_en | research_interests_en
+ntu-ds-lienyunhsuan-dd216d994b,連云暄,"Lien, Yun-Hsuan",education_zh | education_en
+ntu-ds-chengpujen-ead86da3e9,鄭卜壬,"Cheng, Pu-Jen",education_zh | education_en | research_interests_en
+ntu-ds-chengwenhuang-7531301010,鄭文皇,"Cheng, Wen-Huang",education_zh | education_en
+ntu-ds-chenghsiangyun-dd0d28d44a,鄭湘筠,"Cheng, Hsiang-Yun",education_zh | education_en | research_interests_en
+ntu-ds-chenlingjyh-5fa406eb09,陳伶志,"Chen, Ling-Jyh",education_zh | education_en | research_interests_en
+ntu-ds-chenhsinhsi-6c5257ce25,陳信希,"Chen, Hsin-Hsi",education_zh | education_en | research_interests_en
+ntu-ds-chunhouhchen-0af0210f26,陳君厚,Chun-Houh Chen,education_zh | education_en | research_interests_en
+ntu-ds-tinglichen-27e41ae34a,陳定立,Ting-Li Chen,education_zh | education_en | research_interests_en
+ntu-ds-chenshangtse-47653327f1,陳尚澤,"Chen, Shang-Tse",education_zh | education_en
+ntu-ds-chenchusong-9acf325951,陳祝嵩,"Chen, Chu-Song",education_zh | education_en | research_interests_en
+ntu-ds-chenyunnung-e290620faf,陳縕儂,"Chen, Yun-Nung",education_zh | education_en | research_interests_en
+ntu-ds-ikunchen-568f578c62,陳逸昆,I-Kun Chen,education_zh | education_en | research_interests_en
+ntu-ds-chenyufang-70dded9973,陳郁方,"Chen, Yu-Fang",education_zh | education_en
+ntu-ds-chenmingsyan-8fa63ae675,陳銘憲,"Chen, Ming-Syan",education_zh | education_en | research_interests_en
+ntu-ds-chenjuncheng-090ef61af5,陳駿丞,"Chen, Jun-Cheng",education_zh | education_en | research_interests_en
+ntu-ds-tsojungyen-ab6f30a1f1,顏佐榕,Tso-Jung Yen,education_zh | education_en | research_interests_en
+ntu-ds-maweiyun-d303532c6d,馬偉雲,"Ma, Wei-Yun",education_zh | education_en | research_interests_en
+ntu-ds-mingyuehhuang-e0d8d52531,黃名鉞,Ming-Yueh Huang,education_zh | education_en | research_interests_en
+ntu-ds-yentsunghuang-f1bca29996,黃彥棕,Yen-Tsung Huang,education_zh | education_en | research_interests_en
+ntu-ds-huangyennun-474cb98b48,黃彥男,"Huang, Yen-Nun",education_zh | education_en | research_interests_en
+ntu-ds-huanghenhsen-b5b46283ba,黃瀚萱,"Huang, Hen-Hsen",education_zh | education_en | research_interests_en

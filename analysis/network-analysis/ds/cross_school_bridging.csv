@@ -1,0 +1,103 @@
+﻿unit,node_id,professor_name,name_en,school_ids,n_appointments,joint_appointment,degree,n_cross_school_edges,cross_school_edge_share,betweenness,dominant_l1
+ds,ncku-stats-ds-鄭順林-58732da4fc,鄭順林,Shuen-Lin Jeng,ncku-stats-ds,1,False,72,39,0.5416666666666666,0.3522012578616352,Statistics & Statistical Methods
+ds,ncku-cs-ie-李政德-56478665e8,李政德,dept. CSIE,ncku-stats-ds,1,False,50,43,0.86,0.18364779874213835,AI & Machine Learning
+ds,ncku-stats-ds-馬瀰嘉-acd5f760d8,馬瀰嘉,Mi-Chia Ma,ncku-stats-ds,1,False,38,9,0.23684210526315788,0.12581611260856543,Statistics & Statistical Methods
+ds,ntu-comm-engin-ds-network-林澤-45fabc226a,林澤,Che Lin,ntu-comm-engin-ds-network | ntu-ds,2,True,67,15,0.22388059701492538,0.09415992812219227,AI & Machine Learning
+ds,ntu-cs-ie-chunyilee-d91b936234,李濬屹,Chun-Yi Lee,ntu-ds,1,False,45,16,0.35555555555555557,0.07933513027852651,"Systems, Software & Architecture"
+ds,ntu-cs-ie-chusongchen-19351beadd,陳祝嵩,Chu-Song Chen,ntu-ds,1,False,51,20,0.39215686274509803,0.07825696316262352,"Vision, Multimedia & Human-Centered Computing"
+ds,ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,陳銘憲,Ming-Syan Chen,ntu-comm-engin-ds-network | ntu-ds,2,True,53,8,0.1509433962264151,0.07681940700808625,"Data, Databases & Knowledge Discovery"
+ds,ncku-cs-ie-連震杰-f316933353,連震杰,dept. CSIE,ncku-stats-ds,1,False,44,39,0.8863636363636364,0.06415094339622641,"Vision, Multimedia & Human-Centered Computing"
+ds,ncku-stats-ds-溫敏杰-99a3082790,溫敏杰,Miin-Jye Wen,ncku-stats-ds,1,False,35,7,0.2,0.06289308176100629,Statistics & Statistical Methods
+ds,ncku-stats-ds-李俊毅-6ad50d7c53,李俊毅,Chung-I Li,ncku-stats-ds,1,False,36,9,0.25,0.05543575920934411,Statistics & Statistical Methods
+ds,ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,吳沛遠,Pei-Yuan Wu,ntu-comm-engin-ds-network | ntu-ds,2,True,62,23,0.3709677419354839,0.05247079964061096,AI & Machine Learning
+ds,ntu-comm-engin-ds-network-林宗男-d804481822,林宗男,Tsung-Nan Lin,ntu-comm-engin-ds-network | ntu-ds,2,True,49,6,0.12244897959183673,0.04303683737646002,AI & Machine Learning
+ds,ntu-ds-chunhaoyang-8f0203e6f5,楊鈞澔,Chun-Hao Yang,ntu-ds,1,False,66,35,0.5303030303030303,0.04007187780772686,Statistics & Statistical Methods
+ds,ncku-stats-ds-李宜真-1ca5a58f06,李宜真,I-Chen Lee,ncku-stats-ds,1,False,32,7,0.21875,0.031266846361185985,Statistics & Statistical Methods
+ds,ntu-ds-yehmiyen-560d12ebe9,葉彌妍,"Yeh, Mi-Yen",ntu-ds,1,False,46,14,0.30434782608695654,0.027672955974842768,AI & Machine Learning
+ds,ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,孫紹華,Shao-Hua Sun,ntu-comm-engin-ds-network | ntu-ds,2,True,39,5,0.1282051282051282,0.022282120395327943,AI & Machine Learning
+ds,ncku-stats-ds-許秀麗-975216e01f,許秀麗,nan,ncku-stats-ds,1,False,25,4,0.16,0.01931716082659479,Statistics & Statistical Methods
+ds,ncku-stats-ds-潘浙楠-852778d16a,潘浙楠,Jeh-Nan Pan,ncku-stats-ds,1,False,31,6,0.1935483870967742,0.018688230008984726,Statistics & Statistical Methods
+ds,ncku-stats-ds-任眉眉-233662b353,任眉眉,Mei-Mei Zen,ncku-stats-ds,1,False,27,7,0.25925925925925924,0.018508535489667566,Statistics & Statistical Methods
+ds,ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,廖婉君,Wanjiun Liao,ntu-comm-engin-ds-network | ntu-ds,2,True,38,2,0.05263157894736842,0.018508535489667566,Networks & Communications
+ds,ncku-stats-ds-蘇佩芳-7c1f71e6de,蘇佩芳,Pei-Fang Su,ncku-stats-ds,1,False,42,16,0.38095238095238093,0.017250673854447438,Biomedical & Health Informatics
+ds,ncku-stats-ds-王婉倫-fe18c219d3,王婉倫,Wan-Lun Wang,ncku-stats-ds,1,False,32,7,0.21875,0.017130877508235998,Statistics & Statistical Methods
+ds,ntu-ds-leeyuhjye-a5b58ea312,李育杰,"Lee, Yuh-Jye",ntu-ds,1,False,44,16,0.36363636363636365,0.014734950584007188,"Data, Databases & Knowledge Discovery"
+ds,ntu-comm-engin-ds-network-劉子毓-3ebc338425,劉子毓,Tzu-Yu Liu,ntu-comm-engin-ds-network | ntu-ds,2,True,48,12,0.25,0.014555256064690027,AI & Machine Learning
+ds,ntu-ds-wangchienyao-f1c3a0bfd6,王建堯,"Wang, Chien Yao",ntu-ds,1,False,44,18,0.4090909090909091,0.014016172506738542,"Vision, Multimedia & Human-Centered Computing"
+ds,ntu-ds-weichungwang-46d1252dcf,王偉仲,Wei-Chung Wang,ntu-ds,1,False,26,9,0.34615384615384615,0.013836477987421384,Applied Mathematics & Operations Research
+ds,ncku-stats-ds-戴安順-b1f00ad732,戴安順,An-Shun Tai,ncku-stats-ds,1,False,34,9,0.2647058823529412,0.01108116202455825,Biomedical & Health Informatics
+ds,ncku-stats-ds-趙昌泰-c9b9a4a18b,趙昌泰,Chang-Tai Chao,ncku-stats-ds,1,False,37,12,0.32432432432432434,0.010422282120395327,Statistics & Statistical Methods
+ds,ntu-ds-gaspardbernard-b86127ba99,柏嘉偲,Gaspard Bernard,ntu-ds,1,False,31,25,0.8064516129032258,0.009703504043126684,Statistics & Statistical Methods
+ds,ntu-comm-engin-ds-network-魏宏宇-c14d33111c,魏宏宇,Hung-Yu Wei,ntu-comm-engin-ds-network,1,False,29,15,0.5172413793103449,0.009703504043126684,Applied Mathematics & Operations Research
+ds,ntu-cs-ie-shhung-41c464eeb6,洪士灝,Shih-Hao Hung,ntu-ds,1,False,13,3,0.23076923076923078,0.009613656783468105,"Systems, Software & Architecture"
+ds,ntu-comm-engin-ds-network-李宏毅-617adf302c,李宏毅,Hung-yi Lee,ntu-comm-engin-ds-network | ntu-ds,2,True,37,5,0.13513513513513514,0.008625336927223719,AI & Machine Learning
+ds,ncku-stats-ds-許志仲-042daaf5f7,許志仲,Chih-Chung Hsu,ncku-stats-ds,1,False,45,40,0.8888888888888888,0.006738544474393532,"Vision, Multimedia & Human-Centered Computing"
+ds,ntu-cs-ie-wenhuangcheng-8221ffdc39,鄭文皇,Wen-Huang Cheng,ntu-ds,1,False,49,18,0.3673469387755102,0.00646900269541779,AI & Machine Learning
+ds,ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6,貝蘇章,Soo-Chang Pei,ntu-comm-engin-ds-network,1,False,27,14,0.5185185185185185,0.005390835579514825,"Vision, Multimedia & Human-Centered Computing"
+ds,ntu-cs-ie-fangjingwu-0e7f46cd57,巫芳璟,Fang-Jing Wu,ntu-ds,1,False,31,10,0.3225806451612903,0.00440251572327044,Networks & Communications
+ds,ncku-stats-ds-wengkeewong-5482e739e7,Weng Kee Wong,Weng Kee Wong,ncku-stats-ds,1,False,35,7,0.2,0.0036537885594489367,Statistics & Statistical Methods
+ds,ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,謝宏昀,Hung-Yun Hsieh,ntu-comm-engin-ds-network | ntu-ds,2,True,34,2,0.058823529411764705,0.003504043126684636,Networks & Communications
+ds,ntu-comm-engin-ds-network-王鈺強-43bfbd0d23,王鈺強,Yu-Chiang Frank Wang,ntu-comm-engin-ds-network,1,False,45,27,0.6,0.003234501347708895,AI & Machine Learning
+ds,ntu-comm-engin-ds-network-陳宏銘-9a7386a945,陳宏銘,Homer H. Chen,ntu-comm-engin-ds-network,1,False,40,27,0.675,0.0025157232704402514,"Vision, Multimedia & Human-Centered Computing"
+ds,ntu-ds-wangchihyu-3933d444d6,王志宇,"Wang, Chih-Yu",ntu-ds,1,False,30,12,0.4,0.002336028751123091,Networks & Communications
+ds,ntu-ds-chenjuncheng-090ef61af5,陳駿丞,"Chen, Jun-Cheng",ntu-ds,1,False,45,16,0.35555555555555557,0.0016172506738544475,AI & Machine Learning
+ds,ntu-ds-lienyunhsuan-dd216d994b,連云暄,"Lien, Yun-Hsuan",ntu-ds,1,False,37,10,0.2702702702702703,0.0014375561545372866,AI & Machine Learning
+ds,ncku-stats-ds-詹世煌-86dc72a847,詹世煌,Shih-Huang Chan,ncku-stats-ds,1,False,25,3,0.12,0.0012578616352201257,Statistics & Statistical Methods
+ds,ntu-cs-ie-pjcheng-d0b6b668e5,鄭卜壬,Pu-Jen Cheng,ntu-ds,1,False,28,11,0.39285714285714285,0.0012578616352201257,"Data, Databases & Knowledge Discovery"
+ds,ncku-stats-ds-嵇允嬋-5dd8a77c5a,嵇允嬋,Yun-Chan Chi,ncku-stats-ds,1,False,25,2,0.08,0.0010781671159029648,Statistics & Statistical Methods
+ds,ntu-cs-ie-hhchen-7401af7bf1,陳信希,Hsin-Hsi Chen,ntu-ds,1,False,24,6,0.25,0.0008984725965858042,"Data, Databases & Knowledge Discovery"
+ds,ntu-comm-engin-ds-network-葉丙成-281ee85757,葉丙成,Ping-Cheng Yeh,ntu-comm-engin-ds-network,1,False,13,3,0.23076923076923078,0.0008984725965858042,Networks & Communications
+ds,ncku-stats-ds-石瑜-38ea37cc03,石 瑜,Yu Shyr,ncku-stats-ds,1,False,16,3,0.1875,0.0007487271638215035,Biomedical & Health Informatics
+ds,ncku-stats-ds-呂金河-421da4de18,呂金河,nan,ncku-stats-ds,1,False,19,1,0.05263157894736842,0.0007187780772686433,Statistics & Statistical Methods
+ds,ntu-ds-maweiyun-d303532c6d,馬偉雲,"Ma, Wei-Yun",ntu-ds,1,False,37,10,0.2702702702702703,0.0007187780772686433,AI & Machine Learning
+ds,ncku-stats-ds-陳瑞彬-f146defa8b,陳瑞彬,Ray-Bing Chen,ncku-stats-ds,1,False,24,4,0.16666666666666666,0.0006289308176100629,Statistics & Statistical Methods
+ds,ntu-ds-changronaldy-a78313ae63,張佑榕,"Chang, Ronald Y.",ntu-ds,1,False,30,15,0.5,0.0005390835579514824,Networks & Communications
+ds,ntu-ds-tsaoyu-b589dcdd49,曹昱,"Tsao, Yu",ntu-ds,1,False,27,10,0.37037037037037035,0.00035938903863432165,AI & Machine Learning
+ds,ntu-ds-chenlingjyh-5fa406eb09,陳伶志,"Chen, Ling-Jyh",ntu-ds,1,False,23,7,0.30434782608695654,0.00035938903863432165,"Data, Databases & Knowledge Discovery"
+ds,ncku-stats-ds-吳致杰-e83801110c,吳致杰,nan,ncku-stats-ds,1,False,30,7,0.23333333333333334,0.00023959269242288108,Biomedical & Health Informatics
+ds,ntu-cs-ie-shangtsechen-68ade9cf16,陳尚澤,Shang-Tse Chen,ntu-ds,1,False,43,15,0.3488372093023256,0.00017969451931716083,AI & Machine Learning
+ds,ntu-comm-engin-ds-network-黃寶儀-3684ae24b6,黃寶儀,Polly Huang,ntu-comm-engin-ds-network,1,False,25,12,0.48,0.00017969451931716083,Networks & Communications
+ds,ntu-ds-hsiupicheng-b36d32ffcb,修丕承,"Hsiu, Pi-Cheng",ntu-ds,1,False,37,10,0.2702702702702703,0.0,AI & Machine Learning
+ds,ntu-ds-huanghenhsen-b5b46283ba,黃瀚萱,"Huang, Hen-Hsen",ntu-ds,1,False,8,1,0.125,0.0,AI & Machine Learning
+ds,ntu-ds-huangyennun-474cb98b48,黃彥男,"Huang, Yen-Nun",ntu-ds,1,False,18,7,0.3888888888888889,0.0,Networks & Communications
+ds,ntu-ds-jiangjiehongroland-e6ba2046e1,江介宏,"Jiang, Jie-Hong Roland",ntu-ds,1,False,7,2,0.2857142857142857,0.0,"Robotics, Control & Smart Manufacturing"
+ds,ntu-ds-kulunwei-57dc39df53,古倫維,"Ku, Lun-Wei",ntu-ds,1,False,24,4,0.16666666666666666,0.0,AI & Machine Learning
+ds,ntu-ds-linjenchun-7e473e6695,林仁俊,"Lin, Jen-Chun",ntu-ds,1,False,43,14,0.32558139534883723,0.0,AI & Machine Learning
+ds,ncku-stats-ds-piocheng-2e27b06feb,Pi-O Cheng,Pi-O Cheng,ncku-stats-ds,1,False,31,6,0.1935483870967742,0.0,Statistics & Statistical Methods
+ds,ncku-stats-ds-yihauchen-1c07c2ff45,Yi-Hau Chen,Yi-Hau Chen,ncku-stats-ds,1,False,9,1,0.1111111111111111,0.0,Biomedical & Health Informatics
+ds,ntu-ds-tinglichen-27e41ae34a,陳定立,Ting-Li Chen,ntu-ds,1,False,11,9,0.8181818181818182,0.0,Statistics & Statistical Methods
+ds,ntu-ds-mingyuehhuang-e0d8d52531,黃名鉞,Ming-Yueh Huang,ntu-ds,1,False,24,18,0.75,0.0,Statistics & Statistical Methods
+ds,ntu-ds-tsojungyen-ab6f30a1f1,顏佐榕,Tso-Jung Yen,ntu-ds,1,False,27,20,0.7407407407407407,0.0,Statistics & Statistical Methods
+ds,ntu-ds-waikitlam-60857c51d4,林偉傑,Wai-Kit Lam,ntu-ds,1,False,24,18,0.75,0.0,Statistics & Statistical Methods
+ds,ncku-stats-ds-liangchinglin-1a87e637fa,林良靖,Liang-Ching Lin,ncku-stats-ds,1,False,5,2,0.4,0.0,Applied Mathematics & Operations Research
+ds,ncku-stats-ds-chingtiliu-2cc20e2d15,Ching-Ti Liu,Ching-Ti Liu,ncku-stats-ds,1,False,9,2,0.2222222222222222,0.0,Biomedical & Health Informatics
+ds,ntu-ds-wangchuanju-ba03252081,王釧茹,"Wang, Chuan-Ju",ntu-ds,1,False,41,14,0.34146341463414637,0.0,AI & Machine Learning
+ds,ntu-ds-wangyute-7f585252dd,王有德,"Wang, Yu Te",ntu-ds,1,False,1,1,1.0,0.0,"Vision, Multimedia & Human-Centered Computing"
+ds,ncku-stats-ds-chihchiehwu-f4240ef7d4,Chih-Chieh Wu,Chih-Chieh Wu,ncku-stats-ds,1,False,9,1,0.1111111111111111,0.0,Biomedical & Health Informatics
+ds,ntu-ds-wutirong-522ceb7891,吳廸融,"Wu, Ti-Rong",ntu-ds,1,False,37,10,0.2702702702702703,0.0,AI & Machine Learning
+ds,ncku-stats-ds-chichunhsia-826f072271,Chi-Chun Hsia,Chi-Chun Hsia,ncku-stats-ds,1,False,18,14,0.7777777777777778,0.0,"Data, Databases & Knowledge Discovery"
+ds,ncku-stats-ds-余定宏-2852d11565,余定宏,Ting-Hung Yu,ncku-stats-ds,1,False,4,1,0.25,0.0,Statistics & Statistical Methods
+ds,ntu-comm-engin-ds-network-王奕翔-e163a124b7,王奕翔,I-Hsiang Wang,ntu-comm-engin-ds-network,1,False,13,3,0.23076923076923078,0.0,Networks & Communications
+ds,ntu-ds-chienmingchi-7c50de2827,紀建名,Chien-Ming Chi,ntu-ds,1,False,4,4,1.0,0.0,Statistics & Statistical Methods
+ds,ncku-stats-ds-鄧浩陽-56bcccee94,鄧浩陽,Hao Yang Teng,ncku-stats-ds,1,False,35,28,0.8,0.0,AI & Machine Learning
+ds,ntu-comm-engin-ds-network-簡翌-6a29f81209,簡翌,Eli Chien,ntu-comm-engin-ds-network,1,False,37,24,0.6486486486486487,0.0,AI & Machine Learning
+ds,ntu-comm-engin-ds-network-李琳山-193d6b842c,李琳山,Lin-Shan Lee,ntu-comm-engin-ds-network,1,False,19,11,0.5789473684210527,0.0,"Vision, Multimedia & Human-Centered Computing"
+ds,ntu-comm-engin-ds-network-蔡志宏-22700a6730,蔡志宏,Zsehong Tsai,ntu-comm-engin-ds-network,1,False,13,3,0.23076923076923078,0.0,Networks & Communications
+ds,ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee,蘇炫榮,Hsuan-Jung Su,ntu-comm-engin-ds-network,1,False,19,11,0.5789473684210527,0.0,"Vision, Multimedia & Human-Centered Computing"
+ds,ntu-comm-engin-ds-network-周俊廷-e6686de123,周俊廷,Chun-Ting Chou,ntu-comm-engin-ds-network,1,False,13,3,0.23076923076923078,0.0,Networks & Communications
+ds,ntu-comm-engin-ds-network-丁建均-e5141fb566,丁建均,Jian-Jiun Ding,ntu-comm-engin-ds-network,1,False,19,11,0.5789473684210527,0.0,"Vision, Multimedia & Human-Centered Computing"
+ds,ntu-comm-engin-ds-network-鄭士康-08dd5999fd,鄭士康,Shyh-Kang Jeng,ntu-comm-engin-ds-network,1,False,40,24,0.6,0.0,AI & Machine Learning
+ds,ntu-comm-engin-ds-network-鄭皓中-046d884ef1,鄭皓中,Hao-Chung Cheng,ntu-comm-engin-ds-network,1,False,31,20,0.6451612903225806,0.0,AI & Machine Learning
+ds,ncku-stats-ds-鄭碧娥-4a76d96528,鄭碧娥,nan,ncku-stats-ds,1,False,31,6,0.1935483870967742,0.0,Statistics & Statistical Methods
+ds,ncku-stats-ds-王義富-84941b85dc,王義富,Yi-Fu Wang,ncku-stats-ds,1,False,32,7,0.21875,0.0,Statistics & Statistical Methods
+ds,ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b,楊奕軒,Yi-Hsuan Yang,ntu-comm-engin-ds-network,1,False,37,24,0.6486486486486487,0.0,AI & Machine Learning
+ds,ncku-stats-ds-楊明宗-97d04aab5b,楊明宗,Ming-Tzong Yang,ncku-stats-ds,1,False,24,6,0.25,0.0,Statistics & Statistical Methods
+ds,ncku-stats-ds-李宗翰-1d5a48a614,李宗翰,Chung-Han Lee,ncku-stats-ds,1,False,19,1,0.05263157894736842,0.0,Statistics & Statistical Methods
+ds,ncku-stats-ds-李國榮-1200a0959b,李國榮,Kuo-Jung Lee,ncku-stats-ds,1,False,27,7,0.25925925925925924,0.0,Statistics & Statistical Methods
+ds,ntu-cs-ie-sdlin-d4d6f26c5f,林守德,Shou-De Lin,ntu-ds,1,False,38,9,0.23684210526315788,0.0,AI & Machine Learning
+ds,ncku-stats-ds-戴齊賢-6fec31cf3d,戴齊賢,Chi-Shian Dai,ncku-stats-ds,1,False,24,6,0.25,0.0,Statistics & Statistical Methods
+ds,ncku-stats-ds-張欣民-2a561caa4d,張欣民,Hsing-Ming Chang,ncku-stats-ds,1,False,34,28,0.8235294117647058,0.0,"Data, Databases & Knowledge Discovery"
+ds,ntu-cs-ie-yaowenchang-e8bf92777c,張耀文,Yao-Wen Chang,ntu-ds,1,False,7,2,0.2857142857142857,0.0,"Robotics, Control & Smart Manufacturing"
+ds,ntu-cs-ie-yuanhaochang-84d776f267,張原豪,Yuan-Hao Chang,ntu-ds,1,False,3,1,0.3333333333333333,0.0,"Systems, Software & Architecture"
+ds,ntu-cs-ie-yunnungchen-3195f50578,陳縕儂,Yun-Nung Chen,ntu-ds,1,False,24,4,0.16666666666666666,0.0,AI & Machine Learning
+ds,ntu-ds-yentsunghuang-f1bca29996,黃彥棕,Yen-Tsung Huang,ntu-ds,1,False,9,9,1.0,0.0,Biomedical & Health Informatics

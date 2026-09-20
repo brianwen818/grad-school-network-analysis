@@ -1,0 +1,142 @@
+﻿node_id,professor_name,name_en,school_ids,role_groups,n_keywords,phd_institution,n_appointments
+nycu-cs-albertchen-b778265b06,陳逸萍,Albert Chen,nycu-cs,chair | visiting,3,University of Wisconsin-Madison,1
+nycu-cs-anziyen-c5e4ec36a0,顏安孜,An-Zi Yen,nycu-cs,full_time,4,National Taiwan University,1
+nycu-cs-baoshuhpaullin-f45b49177f,林寶樹,Bao-Shuh Paul Lin,nycu-cs,chair,3,,1
+nycu-cs-borsungliang-41c59be975,梁伯嵩,Bor-Sung Liang,nycu-cs,visiting,2,National Chiao Tung University,2
+nycu-cs-changjiuchen-623e005323,陳昌居,Chang-Jiu Chen,nycu-cs,emeritus,1,,1
+nycu-cs-chaokaichiang-014eb10d77,蔣兆凱,Chao-Kai Chiang,nycu-cs,full_time,1,National Taiwan University,1
+nycu-cs-chencheng-ff117c41c9,陳正,Chen Cheng,nycu-cs,emeritus,2,,1
+nycu-cs-chengchunglin-d77196b666,林正中,Cheng-Chung Lin,nycu-cs,full_time,2,Northwestern University,1
+nycu-cs-chengkuanlin-542e57dc09,林政寬,Cheng-Kuan Lin,nycu-cs,full_time | project,4,National Chiao Tung University,1
+nycu-cs-chiahoanglee-c1b52dd580,李嘉晃,Chia-Hoang Lee,nycu-cs,emeritus,1,"University of Maryland, College Park",1
+nycu-cs-chiamuyu-baf01c6c43,游家牧,Chia-Mu Yu,nycu-cs,full_time,4,National Taiwan University,2
+nycu-cs-chienchaotseng-d8137d52bf,曾建超,Chien-Chao Tseng,nycu-cs,chair,1,,1
+nycu-cs-chienchen-e28bfad248,陳健,Chien Chen,nycu-cs,chair | full_time,1,,1
+nycu-cs-chihweiyi-09071093fb,易志偉,Chih-Wei Yi,nycu-cs,faculty,3,,1
+nycu-cs-chingchunhuang-4300ad3a0d,黃敬群,Ching-Chun Huang,nycu-cs,faculty,6,National Chiao Tung University,1
+nycu-cs-chiyuli-f64e0331c5,李奇育,CHI-YU LI,nycu-cs,faculty,2,"University of California, Los Angeles",1
+nycu-cs-chuentsaisun-1084a4d050,孫春在,Chuen-Tsai Sun,nycu-cs,faculty,2,"University of California, Berkeley",1
+nycu-cs-chulankao-a2f5f3a7bf,高竹嵐,Chu-Lan Kao,nycu-cs,full_time,2,National Central University,1
+nycu-cs-chunfengwu-749fae2324,吳俊峯,Chun-Feng Wu,nycu-cs,full_time,4,National Taiwan University,1
+nycu-cs-chungpingchung-e03e9cf670,鍾崇斌,Chung-Ping Chung,nycu-cs,emeritus,4,Texas A&M University,1
+nycu-cs-chunifan-25975207ac,范俊逸,Chun-I FAN,nycu-cs,faculty,2,National Taiwan University,1
+nycu-cs-chunjentsai-31585fceca,蔡淳仁,Chun-Jen Tsai,nycu-cs,full_time,2,Northwestern University,1
+nycu-cs-chunronghuang-e31844e5ff,黃春融,Chun-Rong Huang,nycu-cs,faculty,7,National Cheng Kung University,1
+nycu-cs-chunshuwei-bd7c6c6cbb,魏群樹,Chun-Shu Wei,nycu-cs,chair | full_time,3,"University of California, San Diego",1
+nycu-cs-chunyinghuang-8274c3d2d8,黃俊穎,Chun-Ying Huang,nycu-cs,faculty,3,National Taiwan University,1
+nycu-cs-chunyulin-eb97e98272,林峻宇,Chun-Yu Lin,nycu-cs,full_time,2,National Chiao Tung University,1
+nycu-cs-chyangoeichung-3589223c97,鍾乾癸,Chyan-Goei Chung,nycu-cs,emeritus,2,National Chiao Tung University,1
+nycu-cs-ciouyuanchen-19348dd8be,陳秋媛,CIOU-YUAN CHEN,nycu-cs,faculty,3,National Chiao Tung University,1
+nycu-cs-davidhungchangdu-fbf57e0d1d,杜宏章,David Hung-Chang Du,nycu-cs,chair | emeritus,3,University of Washington,1
+nycu-cs-denniswang-ad355464b4,王邦任,Dennis Wang,nycu-cs,full_time,3,"University of California, Irvine",1
+nycu-cs-fandellin-355296aa1b,林寰鐸,Fandel Lin,nycu-cs,full_time,4,University of Southern California,1
+nycu-cs-fengjianwang-d39029c5b2,王豐堅,Feng-Jian Wang,nycu-cs,faculty,2,Northwestern University,1
+nycu-cs-fuhauhsu-7d03be9742,許富皓,Fu-Hau Hsu,nycu-cs,faculty,5,Stony Brook University,1
+nycu-cs-guanhuahuang-c739eb01e5,黃冠華,GUAN-HUA HUANG,nycu-cs,faculty,2,,1
+nycu-cs-harrywaihowong-b233b535e5,王偉豪,Harry Wai Ho Wong,nycu-cs,full_time,2,Chinese University of Hong Kong,1
+nycu-cs-henryhorngshinglu-4a431c90e1,盧鴻興,Henry Horng-Shing Lu,nycu-cs,faculty,2,Cornell University,1
+nycu-cs-hsiluchao-8cc2ec929a,趙禧綠,Hsi-Lu Chao,nycu-cs,full_time,3,National Taiwan University,1
+nycu-cs-hsinchiafu-9c15fb612b,傅心家,Hsin-Chia Fu,nycu-cs,emeritus,3,New Mexico State University,1
+nycu-cs-hsiuyingwang-b0710cdb64,王秀瑛,Hsiu-Ying Wang,nycu-cs,faculty,3,National Tsing Hua University,1
+nycu-cs-hsufenghsiao-a993ebeba6,蕭旭峰,Hsu-Feng Hsiao,nycu-cs,chair | full_time,3,University of Washington,1
+nycu-cs-hueinianhong-bfb4677fda,洪慧念,HUEI-NIAN HONG,nycu-cs,faculty,2,University of Chicago,1
+nycu-cs-ichenlin-6ba082f1de,林奕成,I-Chen Lin,nycu-cs,chair,4,National Taiwan University,1
+nycu-cs-ichenwu-a745312e56,吳毅成,I-Chen Wu,nycu-cs,chair,2,Carnegie Mellon University,1
+nycu-cs-ihengmeng-d93e9ca59d,蒙以亨,I Heng Meng,nycu-cs,faculty,4,National Chiao Tung University,1
+nycu-cs-jasonyibinglin-a81c69af89,林一平,Jason Yi-Bing Lin,nycu-cs,chair | emeritus,1,University of Washington,1
+nycu-cs-jeanjyhjiunshann-a5cae0db34,單智君,Jean Jyh-Jiun Shann,nycu-cs,full_time,5,National Chiao Tung University,1
+nycu-cs-jenhuichuang-3cb2bcd4b1,莊仁輝,Jen-Hui Chuang,nycu-cs,faculty,3,University of Illinois Urbana-Champaign,1
+nycu-cs-jenqnenghwang-d231fe3af3,黃正能,Jenq-Neng Hwang,nycu-cs,chair | emeritus,4,University of Southern California,1
+nycu-cs-jentzungchien-0e6e82e914,簡仁宗,Jen-Tzung Chien,nycu-cs,joint,2,National Tsing Hua University,1
+nycu-cs-jhihrongchen-063b4650df,陳志榮,JHIH-RONG CHEN,nycu-cs,full_time,2,University of Chicago,1
+nycu-cs-jimmyjmtan-32fa81395b,譚建民,Jimmy J.M. Tan,nycu-cs,emeritus,3,,1
+nycu-cs-jinnmoonyang-a565e89514,楊進木,Jinn-Moon Yang,nycu-cs,faculty,2,National Taiwan University,1
+nycu-cs-jiunlonghuang-a091703505,黃俊龍,Jiun-Long Huang,nycu-cs,chair,3,National Taiwan University,1
+nycu-cs-jongchuangtsay-8476cdaaab,蔡中川,Jong-Chuang Tsay,nycu-cs,emeritus,2,National Chiao Tung University,1
+nycu-cs-juihunghung-00f0b25000,洪瑞鴻,Jui-Hung Hung,nycu-cs,faculty,5,Boston University,1
+nycu-cs-junghongchuang-dc2cbcbefa,莊榮宏,Jung-Hong Chuang,nycu-cs,faculty,3,Purdue University,1
+nycu-cs-jyhchengchen-3ea270c995,陳志成,Jyh-Cheng Chen,nycu-cs,chair,2,University at Buffalo,1
+nycu-cs-kaichiangwu-34f06ed7b9,吳凱強,Kai-Chiang Wu,nycu-cs,faculty,5,Carnegie Mellon University,1
+nycu-cs-kouyuanhuang-85a556603b,黃國源,Kou-Yuan Huang,nycu-cs,emeritus,5,Purdue University,1
+nycu-cs-kuanwenchen-78bcb4ae61,陳冠文,Kuan-Wen Chen,nycu-cs,full_time,3,National Taiwan University,1
+nycu-cs-kuoanhwang-41f3d7be96,黃國安,Kuo-An Hwang,nycu-cs,emeritus,1,National Chiao Tung University,1
+nycu-cs-kuochenwang-4c84cd426d,王國禎,Kuo-Chen Wang,nycu-cs,emeritus,5,University of Arizona,1
+nycu-cs-kuohuiyeh-60e6731211,葉國暉,Kuo-Hui Yeh,nycu-cs,faculty,5,National Taiwan University of Science and Technology,1
+nycu-cs-landavan-4c6441da0d,范倫達,Lan-Da Van,nycu-cs,faculty,3,National Taiwan University,1
+nycu-cs-lihsingyen-ede27140ba,嚴力行,Li-Hsing Yen,nycu-cs,chair,4,National Chiao Tung University,1
+nycu-cs-linghweichen-36cc189e4d,陳玲慧,Ling-Hwei Chen,nycu-cs,emeritus,2,National Chiao Tung University,1
+nycu-cs-lipinchang-68fafb736a,張立平,Li-Pin Chang,nycu-cs,faculty,2,National Taiwan University,1
+nycu-cs-liweichan-cb049f6bb6,詹力韋,Liwei Chan,nycu-cs,faculty,4,National Taiwan University,1
+nycu-cs-lopangyunting-3b16a3f0bf,丁羅邦芸,Lo Pang-Yun Ting,nycu-cs,full_time,5,National Cheng Kung University,1
+nycu-cs-lunweiku-1d74e592a7,古倫維,Lun-Wei Ku,nycu-cs,faculty,3,National Taiwan University,2
+nycu-cs-mariacyuang-0b248f4f96,楊啟瑞,Maria C. Yuang,nycu-cs,faculty,2,New York University,1
+nycu-cs-markliao-3ab99628be,廖弘源,Mark Liao,nycu-cs,chair | emeritus,3,Northwestern University,1
+nycu-cs-menghsuntsai-28ab46dd17,蔡孟勳,Meng-Hsun Tsai,nycu-cs,faculty,2,National Chiao Tung University,1
+nycu-cs-mingfengchang-1f41c91886,張明峰,Ming-Feng Chang,nycu-cs,chair,1,University of Illinois Urbana-Champaign,1
+nycu-cs-minzhengshieh-6add7d4ed1,謝旻錚,Min-Zheng Shieh,nycu-cs,full_time,2,National Chiao Tung University,1
+nycu-cs-mongjenkao-a4b0d44ba8,高孟駿,Mong-Jen Kao,nycu-cs,faculty,2,National Taiwan University,1
+nycu-cs-philipsyu-32aa417b88,俞士綸,Philip S. Yu,nycu-cs,chair | emeritus,3,,1
+nycu-cs-pingchunhsieh-65450d0a77,謝秉均,Ping-Chun Hsieh,nycu-cs,chair | full_time,4,Texas A&M University,1
+nycu-cs-pokaiyang-cf78685bcf,楊博凱,Po-Kai Yang,nycu-cs,full_time,5,,1
+nycu-cs-robertchsieh-bbf69924e6,謝志鴻,Robert C. Hsieh,nycu-cs,chair | emeritus,1,,1
+nycu-cs-rongjayechen-92010fa6b3,陳榮傑,Rong-Jaye Chen,nycu-cs,emeritus,4,University of Wisconsin-Madison,1
+nycu-cs-rueichuanchang-4b1a14c4a7,張瑞川,Ruei-Chuan Chang,nycu-cs,emeritus,3,National Chiao Tung University,1
+nycu-cs-sachiosemmoto-ef8589eda2,千本倖生,Sachio Semmoto,nycu-cs,chair | emeritus,1,University of Florida,1
+nycu-cs-saikeungwong-f96a50c8c1,黃世強,Sai-Keung Wong,nycu-cs,faculty,3,,1
+nycu-cs-shenghsuanlin-e373817af9,林聖軒,Sheng-Hsuan Lin,nycu-cs,faculty,3,Columbia University,1
+nycu-cs-shianshyongtseng-d3bd119f88,曾憲雄,Shian-Shyong Tseng,nycu-cs,emeritus,1,National Chiao Tung University,1
+nycu-cs-shiaolitsao-d45150ec07,曹孝櫟,Shiao-Li Tsao,nycu-cs,faculty,3,National Cheng Kung University,1
+nycu-cs-shiawshianyu-9f00080370,余孝先,Shiaw-Shian Yu,nycu-cs,visiting,4,National Chiao Tung University,1
+nycu-cs-shichuntsai-2c8ef8afc5,蔡錫鈞,Shi-Chun Tsai,nycu-cs,faculty,7,University of Chicago,1
+nycu-cs-shieyuanwang-c0a10157f3,王協源,Shie-Yuan Wang,nycu-cs,faculty,5,Harvard University,1
+nycu-cs-shihkunhuang-b8c345a5b6,黃世昆,Shih-Kun Huang,nycu-cs,faculty,2,National Chiao Tung University,1
+nycu-cs-shiuhpyngshieh-cfcd6bedd1,謝續平,Shiuhpyng Shieh,nycu-cs,chair,3,"University of Maryland, College Park",1
+nycu-cs-shuohanchen-e41f1e1a0b,陳碩漢,Shuo-Han Chen,nycu-cs,full_time,3,National Tsing Hua University,1
+nycu-cs-shyanmingyuan-33e899b080,袁賢銘,Shyan-Ming Yuan,nycu-cs,faculty,1,"University of Maryland, College Park",1
+nycu-cs-suhyinlee-86023df5c6,李素瑛,Suh-Yin Lee,nycu-cs,emeritus,3,National Chiao Tung University,1
+nycu-cs-syho-4d3a7858ca,何信瑩,S.-Y. Ho,nycu-cs,faculty,3,National Chiao Tung University,1
+nycu-cs-taiyihuang-b598f32bda,黃泰一,Tai-Yi Huang,nycu-cs,visiting,4,University of Illinois Urbana-Champaign,2
+nycu-cs-teshenglin-f7015f5fff,林得勝,Te-Sheng Lin,nycu-cs,faculty,3,,1
+nycu-cs-tienfuchen-4c448823c1,陳添福,Tien-Fu Chen,nycu-cs,faculty,2,University of Washington,1
+nycu-cs-tingjungchang-8694406b3f,張庭榕,Ting-Jung Chang,nycu-cs,full_time,1,Princeton University,1
+nycu-cs-tingluhuang-7bb71e262e,黃廷祿,Ting-Lu Huang,nycu-cs,emeritus,2,Northwestern University,1
+nycu-cs-tsaipeiwang-5b213dba86,王才沛,Tsaipei Wang,nycu-cs,full_time,5,University of Missouri,1
+nycu-cs-tsungtaiyeh-aed61de71c,葉宗泰,Tsung-Tai Yeh,nycu-cs,full_time,2,Purdue University,1
+nycu-cs-tyneliang-16f83307e0,梁婷,Tyne Liang,nycu-cs,emeritus,4,National Chiao Tung University,1
+nycu-cs-tzongyilee-a682aad84a,李宗夷,Tzong-Yi Lee,nycu-cs,faculty,6,National Chiao Tung University,1
+nycu-cs-tzuchienhsiao-e2f1ea5656,蕭子健,Tzu-Chien Hsiao,nycu-cs,full_time,2,,1
+nycu-cs-vincentstseng-9a223c9f3f,曾新穆,Vincent S. Tseng,nycu-cs,chair,5,National Chiao Tung University,1
+nycu-cs-weichenchiu-3caf4c9228,邱維辰,Wei-Chen Chiu,nycu-cs,faculty,5,,1
+nycu-cs-weichingwang-636e5be695,王維菁,Wei-Ching Wang,nycu-cs,faculty,3,Cornell University,1
+nycu-cs-wenchiehlin-8b8d7a58a8,林文杰,Wen-Chieh Lin,nycu-cs,faculty,4,Carnegie Mellon University,1
+nycu-cs-wenchihpeng-e0f2cd052a,彭文志,Wen-Chih Peng,nycu-cs,faculty,4,National Taiwan University,1
+nycu-cs-wengueytzeng-322bddcb23,曾文貴,Wen-Guey Tzeng,nycu-cs,faculty,5,Stony Brook University,1
+nycu-cs-wenhsiangtsai-6d30bccf0e,蔡文祥,Wen-Hsiang Tsai,nycu-cs,chair,5,Purdue University,1
+nycu-cs-wenhsiaopeng-09b23b8ea5,彭文孝,Wen-Hsiao Peng,nycu-cs,faculty,3,National Chiao Tung University,1
+nycu-cs-wennungtsai-e203bf6296,蔡文能,Wen-Nung Tsai,nycu-cs,emeritus,4,Northwestern University,1
+nycu-cs-wenpinghwang-3ec6c9d6ca,黃問泙,Wen-Ping Hwang,nycu-cs,emeritus,1,,1
+nycu-cs-wjtsai-821adecac2,蔡文錦,W. J. Tsai,nycu-cs,full_time,3,National Chiao Tung University,1
+nycu-cs-wuuyang-0962a60276,楊武,Wuu Yang,nycu-cs,faculty,4,University of Wisconsin-Madison,1
+nycu-cs-yawchungchen-fcbdbf6aa9,陳耀宗,Yaw-Chung Chen,nycu-cs,emeritus,2,Northwestern University,1
+nycu-cs-yenyulin-5a92a30687,林彥宇,Yen-Yu Lin,nycu-cs,chair,4,National Taiwan University,1
+nycu-cs-yihlangli-b43ed401d1,李毅郎,Yih-Lang Li,nycu-cs,chair,3,National Tsing Hua University,1
+nycu-cs-yijutseng-7702f61163,曾意儒,Yi-Ju Tseng,nycu-cs,faculty,3,National Taiwan University,1
+nycu-cs-yingdarlin-507b4b80a7,林盈達,Ying-Dar Lin,nycu-cs,chair,1,"University of California, Los Angeles",1
+nycu-cs-yingpingchen-a268139c0e,陳穎平,Ying-Ping Chen,nycu-cs,chair,3,University of Illinois Urbana-Champaign,1
+nycu-cs-yipingyou-26eb6eb15e,游逸平,Yi-Ping You,nycu-cs,full_time,4,National Tsing Hua University,1
+nycu-cs-yitingchen-c0ac044810,陳奕廷,Yi-Ting Chen,nycu-cs,full_time,4,Purdue University,1
+nycu-cs-yongshengchen-0447e10db7,陳永昇,Yong-Sheng Chen,nycu-cs,faculty,4,National Taiwan University,1
+nycu-cs-yuangchehhsueh-31a965b1a3,薛元澤,Yuang-Cheh Hsueh,nycu-cs,emeritus,1,"University of California, Los Angeles",1
+nycu-cs-yucheetseng-714071fcd3,曾煜棋,Yu-Chee Tseng,nycu-cs,chair,3,The Ohio State University,1
+nycu-cs-yuchihchen-7ab9bc53da,陳昱芝,Yu-Chih Chen,nycu-cs,full_time,4,University of Texas at Austin,1
+nycu-cs-yuchunyen-801e3b9f54,顏羽君,Yu-Chun Yen,nycu-cs,full_time,2,University of Illinois Urbana-Champaign,1
+nycu-cs-yuhjyhhu-4321b6e2c8,胡毓志,Yuh-Jyh Hu,nycu-cs,faculty,4,"University of California, Irvine",1
+nycu-cs-yulinwei-c6e4aed5d0,魏佑霖,Yu-Lin Wei,nycu-cs,full_time,4,University of Illinois Urbana-Champaign,1
+nycu-cs-yulunliu-3663ddf7cc,劉育綸,Yu-Lun Liu,nycu-cs,full_time,4,National Taiwan University,1
+nycu-cs-yungjuchang-a04a034080,張永儒,Yung-Ju Chang,nycu-cs,faculty,1,University of Michigan,1
+nycu-cs-yushuenwang-9e79dea00b,王昱舜,Yu-Shuen Wang,nycu-cs,faculty,1,National Cheng Kung University,1
+nycu-cs-yusungwu-377df1bd69,吳育松,Yu-Sung Wu,nycu-cs,faculty,3,Purdue University,1
+nycu-cs-yutaiching-49dcd94e56,荊宇泰,Yu-Tai Ching,nycu-cs,faculty,2,Northwestern University,1
+nycu-cs-zenchen-ab4e753f4d,陳稔,Zen Chen,nycu-cs,emeritus,4,Purdue University,1
+nycu-cs-zenchungshih-17e118bf3c,施仁忠,Zen-Chung Shih,nycu-cs,faculty,2,National Tsing Hua University,1
+nycu-cs-白培霖paipeilin-60cb86298c,"白培霖 Pai, Pei-Lin","白培霖 Pai, Pei-Lin",nycu-cs,chair | emeritus,2,"University of California, Berkeley",1

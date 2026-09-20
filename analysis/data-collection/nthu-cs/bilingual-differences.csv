@@ -1,0 +1,320 @@
+﻿faculty_id,field,difference_type,zh_value,en_value
+nthu-cs-chengwenwu-0931c8d9b1,name,missing_zh,,Cheng-Wen Wu
+nthu-cs-chengwenwu-0931c8d9b1,titles,missing_zh,,Professor | Joint Professors
+nthu-cs-chengwenwu-0931c8d9b1,education,missing_zh,,"PhD, University of California at Santa Barbara"
+nthu-cs-chengwenwu-0931c8d9b1,research_interests,missing_zh,,Design and testing of reliable VLSI cores and systems
+nthu-cs-chunglaungliu-81c34bb998,name,missing_zh,,Chung Laung Liu
+nthu-cs-chunglaungliu-81c34bb998,titles,missing_zh,,"Professor | Chair, Honorary Chair Professor and Honorary Professor"
+nthu-cs-chunglaungliu-81c34bb998,education,missing_zh,,"PhD,MIT"
+nthu-cs-chunglaungliu-81c34bb998,research_interests,missing_zh,,"Algorithms, CAD"
+nthu-cs-wenlianhsu-baee37b511,name,missing_zh,,Wen-Lian Hsu
+nthu-cs-wenlianhsu-baee37b511,titles,missing_zh,,Professor | Joint Professors
+nthu-cs-wenlianhsu-baee37b511,education,missing_zh,,"PhD,Cornell University"
+nthu-cs-wenlianhsu-baee37b511,research_interests,missing_zh,,"Natural language processing, Operations research, Discrete math"
+nthu-cs-丁川康-09362c5c83,name,both_present_different,丁川康,Chuan-Kang Ting
+nthu-cs-丁川康-09362c5c83,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-丁川康-09362c5c83,education,both_present_different,德國帕德博恩大學博士,"Dr. rer. nat., Universität Paderborn, Germany"
+nthu-cs-丁川康-09362c5c83,research_interests,both_present_different,演化計算、人工智慧、計算智慧、機器學習、AI音樂與藝術,"Evolutionary Computation, Artificial Intelligence, Computational Intelligence, Machine Learning, AI Music and Art"
+nthu-cs-劉炯朗-714cd73f70,name,missing_en,劉炯朗,
+nthu-cs-劉炯朗-714cd73f70,titles,missing_en,蒙民偉榮譽講座 / | 榮譽講座,
+nthu-cs-劉炯朗-714cd73f70,education,missing_en,美國麻省理工學院博士,
+nthu-cs-劉炯朗-714cd73f70,research_interests,missing_en,計算機演算法、設計自動化,
+nthu-cs-吳中浩-2da90a2f27,name,both_present_different,吳中浩,Wu Chung -Haw
+nthu-cs-吳中浩-2da90a2f27,titles,both_present_different,兼任教授,Professor | Adjunct Professors
+nthu-cs-吳中浩-2da90a2f27,education,both_present_different,美國加州大學爾灣分校博士,"PhD, University of California, Irvine"
+nthu-cs-吳中浩-2da90a2f27,research_interests,both_present_different,計算機結構、數字媒體,"Computer Architecture, Digital Media"
+nthu-cs-吳尚鴻-69aaff2ef5,name,both_present_different,吳尚鴻,Shan-Hung Wu
+nthu-cs-吳尚鴻-69aaff2ef5,titles,both_present_different,教授 | 專任教授,Full Time Professors
+nthu-cs-吳尚鴻-69aaff2ef5,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-吳尚鴻-69aaff2ef5,research_interests,both_present_different,機器學習、巨量資料處理、App 智能,"Machine Learning and Data Mining, Cloud Database Systems, Social Network and User Behavior Analysis"
+nthu-cs-周志遠-5af43e1b90,name,missing_en,周志遠,
+nthu-cs-周志遠-5af43e1b90,titles,missing_en,特聘教授/ 資應所所長 | 專任教授,
+nthu-cs-周志遠-5af43e1b90,education,missing_en,加州大學 聖地牙哥分校博士,
+nthu-cs-周志遠-5af43e1b90,research_interests,missing_en,分散式系統、雲端計算、高效計算、系統資源管理、儲存系統,
+nthu-cs-周百祥-cf9a8d7b4b,name,both_present_different,周百祥,Pai H. Chou
+nthu-cs-周百祥-cf9a8d7b4b,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-周百祥-cf9a8d7b4b,education,both_present_different,美國華盛頓大學博士,"PhD, University of Washington, USA"
+nthu-cs-周百祥-cf9a8d7b4b,research_interests,both_present_different,嵌入式系統硬軟體,Hardware and software for embedded systems
+nthu-cs-唐傳義-7f081eb094,name,both_present_different,唐傳義,Chuan-Yi Tang
+nthu-cs-唐傳義-7f081eb094,titles,both_present_different,教授 | 兼任教授 | 榮譽退休教授,Professor | Joint Professors
+nthu-cs-唐傳義-7f081eb094,education,both_present_different,國立交通大學博士,"PhD, National Chiao Tung University"
+nthu-cs-唐傳義-7f081eb094,research_interests,both_present_different,"Algorithm design, Parallel algorithms, Protocol testing, Computational biology","lgorithm design, Parallel algorithms, Protocol testing, Computational biology"
+nthu-cs-孫宏民-ae6348d2b8,name,both_present_different,孫宏民,Hung-Min Sun
+nthu-cs-孫宏民-ae6348d2b8,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-孫宏民-ae6348d2b8,education,both_present_different,國立交通大學博士,"PhD, National Chiao-Tung University"
+nthu-cs-孫宏民-ae6348d2b8,research_interests,both_present_different,資訊安全、深度學習、區塊鏈、金融商品程式交易,"Information Security, Deep Learning, BlockChain, Program Trading"
+nthu-cs-張世杰-c7720e7bf2,name,missing_en,張世杰,
+nthu-cs-張世杰-c7720e7bf2,titles,missing_en,教授 | 專任教授,
+nthu-cs-張世杰-c7720e7bf2,education,missing_en,美國加州大學聖塔芭芭拉分校博士,
+nthu-cs-張世杰-c7720e7bf2,research_interests,missing_en,VLSI設計與設計自動化,
+nthu-cs-張俊盛-260bd4fef4,name,both_present_different,張俊盛,Jason S. Chang
+nthu-cs-張俊盛-260bd4fef4,titles,both_present_different,教授 | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-張俊盛-260bd4fef4,education,both_present_different,美國紐約大學博士,"PhD, New York University"
+nthu-cs-張俊盛-260bd4fef4,research_interests,both_present_different,自然語言處理、資訊檢索、機器翻譯、自動問題回答,"Natural language processing, Knowledge management, IR, MT, AI"
+nthu-cs-張君天-43ab3fd7b9,name,both_present_different,張君天,Chun-Tien Chang
+nthu-cs-張君天-43ab3fd7b9,titles,both_present_different,兼任助理教授 | 兼任教授,Adjunct Professors
+nthu-cs-張君天-43ab3fd7b9,education,both_present_different,國立清華大學博士,"PhD, National Tsing Hua University"
+nthu-cs-張君天-43ab3fd7b9,research_interests,both_present_different,生物資訊系統管理,Bioinformatics system management
+nthu-cs-張峻銘-b2df996158,name,both_present_different,張峻銘,Tsun Ming Cheung
+nthu-cs-張峻銘-b2df996158,titles,both_present_different,助理教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-張峻銘-b2df996158,education,both_present_different,加拿大麥基爾大學博士,"PhD, McGill University"
+nthu-cs-張峻銘-b2df996158,research_interests,both_present_different,複雜度理論、演算法理論及應用、離散數學,"Complexity Theory, Algorithm Theory and Applications, Discrete Mathematics"
+nthu-cs-張正尚-0173f59db1,name,both_present_different,張正尚,Cheng-Shang Chang
+nthu-cs-張正尚-0173f59db1,titles,both_present_different,教授 | 合聘教授,Professor | Joint Professors
+nthu-cs-張正尚-0173f59db1,education,both_present_different,美國哥倫比亞大學博士,"PhD, University of Columbia"
+nthu-cs-張正尚-0173f59db1,research_interests,both_present_different,通訊網路、排隊理論、隨機程序,"Queueing theory, Stochastic scheduling performance evaluation of telecommunication networks and parallel processing systems"
+nthu-cs-張真誠-f90f3dfae1,name,both_present_different,張真誠,Chin-Chen Chang
+nthu-cs-張真誠-f90f3dfae1,titles,both_present_different,教授 | 合聘教授,Professor | Joint Professors
+nthu-cs-張真誠-f90f3dfae1,education,both_present_different,國立交通大學博士,"PhD, National Chiao Tung University"
+nthu-cs-張真誠-f90f3dfae1,research_interests,both_present_different,資料庫設計、密碼與網路安全、多媒體影像處理,"Database design, E-Business security, Electronic imaging techniques, Computer cryptography"
+nthu-cs-張隆紋-6579e42cba,name,both_present_different,張隆紋,Long-Wen Chang
+nthu-cs-張隆紋-6579e42cba,titles,both_present_different,教授 | 兼任教授 | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-張隆紋-6579e42cba,education,both_present_different,美國新墨西哥大學博士,"PhD, University of New Mexico"
+nthu-cs-張隆紋-6579e42cba,research_interests,both_present_different,影像處理、影像壓縮、數位浮水印、多媒體資訊安全、計算機視覺、策略賽局,"Image data compression, Information security and cryptography, Video communication, Image processing, Game theory"
+nthu-cs-張韻詩-a94b4eca78,name,missing_en,張韻詩,
+nthu-cs-張韻詩-a94b4eca78,titles,missing_en,信興榮譽講座 | 榮譽講座,
+nthu-cs-張韻詩-a94b4eca78,education,missing_en,美國麻省理工學院博士,
+nthu-cs-張韻詩-a94b4eca78,research_interests,missing_en,即時系統、分散式系統,
+nthu-cs-徐正炘-8b568ce001,name,both_present_different,徐正炘,Cheng-Hsin Hsu
+nthu-cs-徐正炘-8b568ce001,titles,both_present_different,教授/ 副系主任 | 主任 / 副系主任 | 專任教授,Full Time Professors
+nthu-cs-徐正炘-8b568ce001,education,both_present_different,西門菲莎大學博士,"PhD, Simon Fraser University, Canada."
+nthu-cs-徐正炘-8b568ce001,research_interests,both_present_different,"多媒體通訊, 通訊網路, 分散式系統, 線上遊戲","Multimedia networking, mobile multimedia, networked games, and peer-to-peer networks."
+nthu-cs-徐爵民-eade3af147,name,both_present_different,徐爵民,Jyuo-Min Shyu
+nthu-cs-徐爵民-eade3af147,titles,both_present_different,教授 Jyuo-Min Shyu | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-徐爵民-eade3af147,education,both_present_different,美國加州大學柏克萊分校博士,"PhD, University of California at Berkeley"
+nthu-cs-徐爵民-eade3af147,research_interests,both_present_different,微電子、設計自動化,"Microelectronic system design and applications, Optimization-based design, Multicore design automation"
+nthu-cs-朱宏國-642998a4aa,name,both_present_different,朱宏國,Hung-Kuo Chu
+nthu-cs-朱宏國-642998a4aa,titles,both_present_different,教授 | 專任教授,Full Time Professors
+nthu-cs-朱宏國-642998a4aa,education,both_present_different,國立成功大學博士,"PhD, National Cheng Kung University"
+nthu-cs-朱宏國-642998a4aa,research_interests,both_present_different,電腦圖學、電腦視覺、三維重建、延展實境、數位雙生、運動科技,"Computer Graphics, Computer Vision, 3D Modeling/Reconstruction, Extended Reality, Digital Twin, Sports Technology"
+nthu-cs-李哲榮-722a84d1c8,name,missing_en,李哲榮,
+nthu-cs-李哲榮-722a84d1c8,titles,missing_en,教授 / 電資班主任 | 專任教授,
+nthu-cs-李哲榮-722a84d1c8,education,missing_en,美國馬里蘭大學博士,
+nthu-cs-李哲榮-722a84d1c8,research_interests,missing_en,數值分析、科學計算、高效計算,
+nthu-cs-李家同-c1f2d67113,name,missing_en,李家同,
+nthu-cs-李家同-c1f2d67113,titles,missing_en,清華榮譽講座 | 榮譽講座,
+nthu-cs-李家同-c1f2d67113,education,missing_en,美國加州大學柏克萊分校博士,
+nthu-cs-李家同-c1f2d67113,research_interests,missing_en,計算方法設計、平行計算方法、自動定理證、通訊理論,
+nthu-cs-李政崑-965a47032e,name,both_present_different,李政崑,Jenq-Kuen Lee
+nthu-cs-李政崑-965a47032e,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-李政崑-965a47032e,education,both_present_different,美國印地安那大學博士,"PhD, Indiana University"
+nthu-cs-李政崑-965a47032e,research_interests,both_present_different,平行語言設計、編譯器、Java系統軟體環境,"Optimizing compiler, System software for low-power and embedded systems, Object-oriented parallel languages, Computer architectures, Pervasive computing"
+nthu-cs-李端興-72950bb080,name,both_present_different,李端興,Duan-Shin Lee
+nthu-cs-李端興-72950bb080,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-李端興-72950bb080,education,both_present_different,美國哥倫比亞大學博士,"PhD, Columbia University"
+nthu-cs-李端興-72950bb080,research_interests,both_present_different,強化學習、賽局理論、羽球之電腦視覺、無線網路,"Computer communication networks, Performance analysis, Queueing theory, Social networks, Data science, Machine learning, AI"
+nthu-cs-林文綺-074edb2d01,name,missing_en,林文綺,
+nthu-cs-林文綺-074edb2d01,titles,missing_en,兼任助理教授級實務教師 | 兼任教授,
+nthu-cs-林文綺-074edb2d01,education,missing_en,國立交通大學碩士,
+nthu-cs-林文綺-074edb2d01,research_interests,missing_en,UXUI 用戶經驗設計、劇本導引設計思考、資訊設計、Usability 使用性評估,
+nthu-cs-林桂傑-3eab7348de,name,both_present_different,林桂傑,Kwei-Jay Lin
+nthu-cs-林桂傑-3eab7348de,titles,both_present_different,教授 | 合聘教授,Professor | Joint Professors
+nthu-cs-林桂傑-3eab7348de,education,both_present_different,美國馬里蘭大學博士,"PhD, University of Maryland, College Park"
+nthu-cs-林桂傑-3eab7348de,research_interests,both_present_different,電子商務網路系統,Electronic commerce and internet computing
+nthu-cs-林永隆-971ac78e0f,name,missing_en,林永隆,
+nthu-cs-林永隆-971ac78e0f,titles,missing_en,清華講座 | 榮譽退休教授,
+nthu-cs-林永隆-971ac78e0f,education,missing_en,美國伊利諾大學香檳城分校博士,
+nthu-cs-林永隆-971ac78e0f,research_interests,missing_en,設計自動化、積體電路與系統設計,
+nthu-cs-林沿妊-ab6c251917,name,missing_en,林沿妊,
+nthu-cs-林沿妊-ab6c251917,titles,missing_en,兼任副教授 | 兼任教授,
+nthu-cs-林沿妊-ab6c251917,education,missing_en,國立清華大學博士,
+nthu-cs-林沿妊-ab6c251917,research_interests,missing_en,生物資訊,
+nthu-cs-林瀚仚-8176500c13,name,both_present_different,林瀚仚,Han-Hsuan Lin
+nthu-cs-林瀚仚-8176500c13,titles,both_present_different,副教授 | 專任教授,Associate Professor | Full Time Professors
+nthu-cs-林瀚仚-8176500c13,education,both_present_different,麻省理工學院博士,"PhD, Massachusetts Institute of Technology"
+nthu-cs-林瀚仚-8176500c13,research_interests,both_present_different,量子運算,Quantum Computing
+nthu-cs-林華君-4d8a5842a2,name,both_present_different,林華君,Hwa-Chun Lin
+nthu-cs-林華君-4d8a5842a2,titles,both_present_different,教授 | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-林華君-4d8a5842a2,education,both_present_different,美國南加州大學博士,"PhD, University of Southern California"
+nthu-cs-林華君-4d8a5842a2,research_interests,both_present_different,電腦通訊網路、網路管理、無線網路、系統效率評估,"Computer communication networks, Network managenmet, Wireless networks, Performance evaluation"
+nthu-cs-梁雅鈞-9f3d7465e1,name,both_present_different,梁雅鈞,Ya-Chun Liang
+nthu-cs-梁雅鈞-9f3d7465e1,titles,both_present_different,助理教授 | 專任教授,Assistant Professor | Full Time Professors
+nthu-cs-梁雅鈞-9f3d7465e1,education,both_present_different,英國利物浦大學博士、國立清華大學博士,"Dual Ph.D.s, University of Liverpool, UK and National Tsing Hua University"
+nthu-cs-梁雅鈞-9f3d7465e1,research_interests,both_present_different,動態演算法、排程與最佳化、演算法理論與應用,"Dynamic Algorithms, Online Algorithms, Scheduling and Optimization, Algorithm Theory and Applications"
+nthu-cs-楊熙年-e1cd89ea15,name,both_present_different,楊熙年,Shi-Nine Yang
+nthu-cs-楊熙年-e1cd89ea15,titles,both_present_different,教授 Shi-Nine Yang | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-楊熙年-e1cd89ea15,education,both_present_different,美國紐約州立大學博士,"PhD, State University N.Y. at Buffalo"
+nthu-cs-楊熙年-e1cd89ea15,research_interests,both_present_different,計算機圖學、計算機動畫、多媒體系統,"Computer graphics, Multimedia systems"
+nthu-cs-楊舜仁-77d533ddf8,name,missing_en,楊舜仁,
+nthu-cs-楊舜仁-77d533ddf8,titles,missing_en,教授 / 系主任 | 主任 / 副系主任 | 專任教授,
+nthu-cs-楊舜仁-77d533ddf8,education,missing_en,國立交通大學博士,
+nthu-cs-楊舜仁-77d533ddf8,research_interests,missing_en,行動通信網路、行動計算、無線網際網路、網際網路語音、計算機系統效能評估,
+nthu-cs-沈之涯-d5bb9630d8,name,both_present_different,沈之涯,Chih-Ya Shen
+nthu-cs-沈之涯-d5bb9630d8,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-沈之涯-d5bb9630d8,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-洪仕軒-a9fa041928,name,both_present_different,洪仕軒,Shih-Hsuan Hung
+nthu-cs-洪仕軒-a9fa041928,titles,both_present_different,助理教授 | 專任教授,Assistant Professor | Full Time Professors
+nthu-cs-洪仕軒-a9fa041928,education,both_present_different,美國俄勒岡州立大學,"PhD, Oregon State University"
+nthu-cs-洪仕軒-a9fa041928,research_interests,both_present_different,電腦圖學、科學及資訊視覺化、幾何建模,"Computer Graphics, scientific visualization, information visualization, and geometric modeling"
+nthu-cs-王俊堯-29ae2991f7,name,both_present_different,王俊堯,Chun-Yao Wang
+nthu-cs-王俊堯-29ae2991f7,titles,both_present_different,特聘教授 / 電通中心主任 | 專任教授,Professor | Full Time Professors
+nthu-cs-王俊堯-29ae2991f7,education,both_present_different,國立交通大學博士,"PhD, National Chiao Tung University"
+nthu-cs-王俊堯-29ae2991f7,research_interests,both_present_different,"量子邏輯電路合成,、VLSI設計自動化、設計驗證","Electronics design automation, Interconnect verification for SoC"
+nthu-cs-王家祥-79b45fac37,name,both_present_different,王家祥,Jia-Shung Wang
+nthu-cs-王家祥-79b45fac37,titles,both_present_different,教授 | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-王家祥-79b45fac37,education,both_present_different,國立清華大學博士,"PhD, National Tsing Hua University"
+nthu-cs-王家祥-79b45fac37,research_interests,both_present_different,多媒體網路、訊號壓縮、演算法設計、超大型積體電路設計,"Algorithm design, Neural networks, Image compression, VLSI testing"
+nthu-cs-王廷基-66e8de998a,name,both_present_different,王廷基,Ting-Chi Wang
+nthu-cs-王廷基-66e8de998a,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-王廷基-66e8de998a,education,both_present_different,美國德州大學奧斯汀分校博士,"PhD, University of Texas at Austin"
+nthu-cs-王廷基-66e8de998a,research_interests,both_present_different,電子設計自動化的方法與軟體製作,Research and Development of Algorithms and Software Tools for Electronic Design Automation
+nthu-cs-王炳豐-db84c4528b,name,both_present_different,王炳豐,Biing-Feng Wang
+nthu-cs-王炳豐-db84c4528b,titles,both_present_different,清華講座 | 專任教授,Professor | Full Time Professors
+nthu-cs-王炳豐-db84c4528b,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-王炳豐-db84c4528b,research_interests,both_present_different,演算法設計與分析、平行計算,"Parallel processing, Distributed algorithms, Algorithm design"
+nthu-cs-盧錦隆-6983c0f1dd,name,both_present_different,盧錦隆,Chin-Lung Lu
+nthu-cs-盧錦隆-6983c0f1dd,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-盧錦隆-6983c0f1dd,education,both_present_different,國立清華大學博士,"PhD, National Tsing Hua University"
+nthu-cs-盧錦隆-6983c0f1dd,research_interests,both_present_different,演算法的設計與分析、圖論演算法、計算生物,"Design and analysis of algorithms, Graph algorithms and Computational molecular biology"
+nthu-cs-石維寬-b54c54300e,name,both_present_different,石維寬,Wei-Kuan Shih
+nthu-cs-石維寬-b54c54300e,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-石維寬-b54c54300e,education,both_present_different,美國伊利諾大學香檳城分校博士,"PhD, University of Illinois, Urbana-Champaign"
+nthu-cs-石維寬-b54c54300e,research_interests,both_present_different,即時系統設計、無線及個人通訊、網際網路技術、多媒體系統,"Real-time systems, VLSI/CAD, Algorithm design"
+nthu-cs-羅婈-fdd893b309,name,both_present_different,羅婈,Ling Lo
+nthu-cs-羅婈-fdd893b309,titles,both_present_different,助理教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-羅婈-fdd893b309,education,both_present_different,國立陽明交通大學博士,"PhD, National Yang Ming Chiao Tung University"
+nthu-cs-羅婈-fdd893b309,research_interests,both_present_different,電腦視覺、視覺生成、多模態理解、可信任AI,"Computer Vision, Generative AI, Multimodal Understanding, Trustworthy AI"
+nthu-cs-翁正明-fe545e34a2,name,both_present_different,翁正明,Cheng-Ming Weng
+nthu-cs-翁正明-fe545e34a2,titles,both_present_different,教授 Cheng-Ming Weng | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-翁正明-fe545e34a2,education,both_present_different,美國南佛羅里達大學博士,"PhD, University of Southern Florida"
+nthu-cs-翁正明-fe545e34a2,research_interests,both_present_different,系統效應評估、計算機圖學、計算機輔助設計,"Performance evaluation, Computer graphics, B-ISDN"
+nthu-cs-胡敏君-d30f85d433,name,both_present_different,胡敏君,Min-Chun Hu
+nthu-cs-胡敏君-d30f85d433,titles,both_present_different,教授 | 專任教授,Full Time Professors
+nthu-cs-胡敏君-d30f85d433,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-胡敏君-d30f85d433,research_interests,both_present_different,多媒體運算、電腦視覺、電腦圖學、擴增實境與虛擬實境,"Multimedia Computing, Computer Vision, Computer Graphic, AR/VR"
+nthu-cs-葉肩宇-1907b9cbf9,name,missing_en,葉肩宇,
+nthu-cs-葉肩宇-1907b9cbf9,titles,missing_en,兼任助理教授級實務教師 | 兼任教授,
+nthu-cs-葉肩宇-1907b9cbf9,education,missing_en,中華工學院碩士 (國立清華大學資訊工程學系 博士候選人),
+nthu-cs-葉肩宇-1907b9cbf9,research_interests,missing_en,資訊安全、軟體工程、系統研發,
+nthu-cs-蔡仁松-13fcaf5bbe,name,both_present_different,蔡仁松,Ren-Song Tsay
+nthu-cs-蔡仁松-13fcaf5bbe,titles,both_present_different,教授 | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-蔡仁松-13fcaf5bbe,education,both_present_different,美國加州大學柏克萊分校博士,"PhD, UC Berkeley, Electrical Engineering and Computer Science"
+nthu-cs-蔡仁松-13fcaf5bbe,research_interests,both_present_different,"Blockchain Core Technology and Applications, Distributed Secure IoT Framework, Trusted Computing and Hardware Security Chip, Dafuon Entrepreneurship Education System, Entrepreneurship Learning Map, Edge AI Technology","Distributed IoT framework, AI implementation on edge devices, Blockchain applications, Entrepreneurship learning map"
+nthu-cs-蔡明哲-9d609636c8,name,both_present_different,蔡明哲,Ming-Jer Tsai
+nthu-cs-蔡明哲-9d609636c8,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-蔡明哲-9d609636c8,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-蔡明哲-9d609636c8,research_interests,both_present_different,無線網路(5G)、近似演算法、圖形理論,"Wireless networks(5G), Approximation algorithm, Graph theory"
+nthu-cs-蘇豐文-f06969cec0,name,missing_en,蘇豐文,
+nthu-cs-蘇豐文-f06969cec0,titles,missing_en,教授 | 合聘教授 | 榮譽退休教授,
+nthu-cs-蘇豐文-f06969cec0,education,missing_en,美國羅格斯大學博士,
+nthu-cs-蘇豐文-f06969cec0,research_interests,missing_en,"智慧代理人、機器學習理論,基因體知識管理,生物資訊",
+nthu-cs-許健平-128c6ac6ab,name,both_present_different,許健平,Jang-Ping Sheu
+nthu-cs-許健平-128c6ac6ab,titles,both_present_different,清華講座 | 專任教授,Professor | Full Time Professors
+nthu-cs-許健平-128c6ac6ab,education,both_present_different,國立清華大學博士,"PhD, National Tsing Hua University"
+nthu-cs-許健平-128c6ac6ab,research_interests,both_present_different,無線網路、行動計算、雲端計算、平行與分散式處理,"Wireless sensor networks, Wireless ad hoc networks, Parallel and distributed processing"
+nthu-cs-許秋婷-e17039873f,name,both_present_different,許秋婷,Chiou-Ting Hsu
+nthu-cs-許秋婷-e17039873f,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-許秋婷-e17039873f,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-許秋婷-e17039873f,research_interests,both_present_different,影像分析與處理、人臉生理訊號偵測、人臉防偽、圖形識別、深度學習,"Image/video analysis and processing, Facial physiological signal estimation, Face anti-spoofing, Pattern recognition, Deep Learning"
+nthu-cs-許聞廉-24d823b30b,name,missing_en,許聞廉,
+nthu-cs-許聞廉-24d823b30b,titles,missing_en,教授 | 合聘教授,
+nthu-cs-許聞廉-24d823b30b,education,missing_en,美國康乃爾大學博士,
+nthu-cs-許聞廉-24d823b30b,research_interests,missing_en,演算法、自然語言、生物資訊,
+nthu-cs-謝源-fe3951f144,name,both_present_different,謝源,Yuan Xie
+nthu-cs-謝源-fe3951f144,titles,both_present_different,教授 | 合聘教授,Professor | Joint Professors
+nthu-cs-謝源-fe3951f144,education,both_present_different,Ph.D. Princeton University Princeton,"Princeton University Princeton, NJ PhD in Electrical Engineering"
+nthu-cs-賴尚宏-15f146b4f1,name,both_present_different,賴尚宏,Shang-Hong Lai
+nthu-cs-賴尚宏-15f146b4f1,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-賴尚宏-15f146b4f1,education,both_present_different,美國佛羅里達大學博士,"PhD, University of Florida"
+nthu-cs-賴尚宏-15f146b4f1,research_interests,both_present_different,電腦視覺、視訊分析、多媒體技術、人臉影像處理,"Computer vision, Image processing, Pattern recognition"
+nthu-cs-邱德泉-23a7d7b698,name,both_present_different,邱德泉,Te-Chuan Chiu
+nthu-cs-邱德泉-23a7d7b698,titles,both_present_different,助理教授 | 專任教授,Assistant Professor | Full Time Professors
+nthu-cs-邱德泉-23a7d7b698,education,both_present_different,國立臺灣大學博士,"PhD, National Taiwan University"
+nthu-cs-邱德泉-23a7d7b698,research_interests,both_present_different,次世代通訊、邊緣智慧、霧端邊緣運算、智慧物聯網,"B5G/6G communications, Edge Intelligence/AI, Fog/Edge Computing, AIoT"
+nthu-cs-邱瀞德-99539b19ee,name,both_present_different,邱瀞德,Ching-Te Chiu
+nthu-cs-邱瀞德-99539b19ee,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-邱瀞德-99539b19ee,education,both_present_different,美國馬里蘭大學博士,"PhD, University of Maryland"
+nthu-cs-邱瀞德-99539b19ee,research_interests,both_present_different,多媒體信號處理演算法、電腦視覺演算法、超大型積體電路設計、多媒體信號處理與電腦視覺之多核心與平台加速,"Multimedia Signal Processing-Algorithm, Computer Vision-Algorithm/Architecture/VLSI Design; Multimedia and Computer Acceleration in Multi-core/GPU Plat form; High Speed Network design."
+nthu-cs-郭昱廷-cb1da4e458,name,both_present_different,郭昱廷,Yu-Ting Kuo
+nthu-cs-郭昱廷-cb1da4e458,titles,both_present_different,兼任教授級實務教師 | 兼任教授,Assistant Professor | Adjunct Professors
+nthu-cs-郭昱廷-cb1da4e458,education,both_present_different,美國麻省理工學院碩士,"Master, Massachusetts Institute of Technology"
+nthu-cs-郭柏志-70f6925e3a,name,both_present_different,郭柏志,Po-Chih Kuo
+nthu-cs-郭柏志-70f6925e3a,titles,both_present_different,副教授 | 專任教授,Associate Professor | Full Time Professors
+nthu-cs-郭柏志-70f6925e3a,education,both_present_different,國立交通大學博士,"PhD, National Chiao Tung University"
+nthu-cs-郭柏志-70f6925e3a,research_interests,both_present_different,生醫訊號與影像處理、神經造影、機器學習、智慧醫療,"Biomedical signal and image processing, Neuroimaging, Machine Learning, AI for medicine"
+nthu-cs-郭詩芝-9e30a0d384,name,both_present_different,郭詩芝,Shih Chih Kuo
+nthu-cs-郭詩芝-9e30a0d384,titles,both_present_different,兼任助理教授 | 兼任教授,Assistant Professor | Adjunct Professors
+nthu-cs-金仲達-87bd908f7e,name,both_present_different,金仲達,Chung-Ta King
+nthu-cs-金仲達-87bd908f7e,titles,both_present_different,教授 | 榮譽退休教授,Professor | Adjunct Professors | Emeritus Professors
+nthu-cs-金仲達-87bd908f7e,education,both_present_different,美國密西根州立大學博士,"PhD, Michigan State University"
+nthu-cs-金仲達-87bd908f7e,research_interests,both_present_different,分散式處理、普及計算、叢集系統,"Pervasive computing, Cluster computing, Parallel and distributed systems"
+nthu-cs-金陽和-83ed0dbb2c,name,both_present_different,金陽和,Y.H. Chin
+nthu-cs-金陽和-83ed0dbb2c,titles,both_present_different,教授 Y.H. Chin | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-金陽和-83ed0dbb2c,education,both_present_different,美國德州大學奧斯汀分校博士,"PhD, University of Texas, Austin"
+nthu-cs-金陽和-83ed0dbb2c,research_interests,both_present_different,資料庫系統設計、操作系統、計算方法分析,"Database systems, Algorithm design, System programming, Software engineering"
+nthu-cs-鍾葉青-fb3791172c,name,both_present_different,鍾葉青,Yeh-Ching Chung
+nthu-cs-鍾葉青-fb3791172c,titles,both_present_different,教授 Yeh-Ching Chung | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-鍾葉青-fb3791172c,education,both_present_different,美國雪城大學博士,"PhD, Syracuse University"
+nthu-cs-鍾葉青-fb3791172c,research_interests,both_present_different,嵌入式系統、平行處理、雲端計算、格網計算,"Parallel and distributed processing, Pervasive computing, Embedded systems, Cluster systems, Grid computing"
+nthu-cs-闕志克-667b8d485c,name,both_present_different,闕志克,Tzi-Cker Chiueh
+nthu-cs-闕志克-667b8d485c,titles,both_present_different,教授 | 合聘教授,Joint Professors
+nthu-cs-闕志克-667b8d485c,education,both_present_different,美國柏克萊大學博士,"PhD, University of California at Santa Barbara"
+nthu-cs-闕志克-667b8d485c,research_interests,both_present_different,軟體、資安、網路架構,"Software, Information security, Network architecture"
+nthu-cs-陳宜欣-10568557fc,name,both_present_different,陳宜欣,Yi-Shin Chen
+nthu-cs-陳宜欣-10568557fc,titles,both_present_different,教授 | 專任教授,Full Time Professors
+nthu-cs-陳宜欣-10568557fc,education,both_present_different,美國南加州大學博士,"PhD, University of Southern California"
+nthu-cs-陳宜欣-10568557fc,research_interests,both_present_different,Web Intelligence、資料探勘、資料擷取、社群網路、巨量資料,"Web intelligence, Multimedia retrieval, Data mining, Social networks, Big Data"
+nthu-cs-陳文村-da14007351,name,missing_en,陳文村,
+nthu-cs-陳文村-da14007351,titles,missing_en,清華榮譽講座 / | 榮譽講座,
+nthu-cs-陳文村-da14007351,education,missing_en,美國加州大學柏克萊分校博士,
+nthu-cs-陳文村-da14007351,research_interests,missing_en,計算機網路、無線網際網路、多處理機系統,
+nthu-cs-陳朝欽-11b8fb7840,name,both_present_different,陳朝欽,Chaur-Chin Chen
+nthu-cs-陳朝欽-11b8fb7840,titles,both_present_different,教授 | 榮譽退休教授,Professor | Emeritus Professors
+nthu-cs-陳朝欽-11b8fb7840,education,both_present_different,美國密西根州立大學博士,"PhD, Michigan State University"
+nthu-cs-陳朝欽-11b8fb7840,research_interests,both_present_different,生物特徵辨識、微晶片影像資料分析,"Biometric recognition, Microarray data analysis"
+nthu-cs-陳煥宗-7c43119c40,name,missing_en,陳煥宗,
+nthu-cs-陳煥宗-7c43119c40,titles,missing_en,特聘教授 | 專任教授,
+nthu-cs-陳煥宗-7c43119c40,education,missing_en,國立台灣大學博士,
+nthu-cs-陳煥宗-7c43119c40,research_interests,missing_en,電腦視覺、圖像辨識,
+nthu-cs-陳耘志-1b3b5d7ab0,name,both_present_different,陳耘志,Yun-Chih Chen
+nthu-cs-陳耘志-1b3b5d7ab0,titles,both_present_different,助理教授 | 專任教授,Assistant Professor | Full Time Professors
+nthu-cs-陳耘志-1b3b5d7ab0,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-陳耘志-1b3b5d7ab0,research_interests,both_present_different,儲存系統 記憶體 資料庫,"Storage System, Memory, Database"
+nthu-cs-陳聿廣-13aceaf00c,name,missing_en,陳聿廣,
+nthu-cs-陳聿廣-13aceaf00c,titles,missing_en,兼任副教授 | 兼任教授,
+nthu-cs-陳聿廣-13aceaf00c,education,missing_en,國立清華大學博士,
+nthu-cs-陳聿廣-13aceaf00c,research_interests,missing_en,VLSI設計自動化、低功耗設計與優化、可靠晶片設計與優化、IMC運算架構設計與優化,
+nthu-cs-陳良弼-2847ebc1d7,name,both_present_different,陳良弼,Arbee L.P Chen
+nthu-cs-陳良弼-2847ebc1d7,titles,both_present_different,教授 | 合聘教授,Professor | Joint Professors
+nthu-cs-陳良弼-2847ebc1d7,education,both_present_different,美國南加州大學博士,"PhD, University of Southern California"
+nthu-cs-陳良弼-2847ebc1d7,research_interests,both_present_different,巨量資料分析、深度學習、健康資訊學,"Big Data Analysis, Deep Learning, Health Informatics"
+nthu-cs-韓永楷-05d57868e3,name,both_present_different,韓永楷,Wing-Kai Hon
+nthu-cs-韓永楷-05d57868e3,titles,both_present_different,特聘教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-韓永楷-05d57868e3,education,both_present_different,香港大學博士,"PhD, The University of Hong Kong"
+nthu-cs-韓永楷-05d57868e3,research_interests,both_present_different,資料結構、演算法,"Data structure, Algorithms"
+nthu-cs-顏子斌-46d093b11d,name,both_present_different,顏子斌,Tzu-Bin Yan
+nthu-cs-顏子斌-46d093b11d,titles,both_present_different,助理教授 | 專任教授,Assistant Professor | Full Time Professors
+nthu-cs-顏子斌-46d093b11d,education,both_present_different,美國伊利諾大學厄巴納-香檳分校博士,"PhD, University of Illinois Urbana-Champaign"
+nthu-cs-顏子斌-46d093b11d,research_interests,both_present_different,網際網路測量、網路系統設計、計算機安全,Internet measurement、Network System Design、Computer Security
+nthu-cs-高宏宇-e0f4516945,name,both_present_different,高宏宇,Hung-Yu Kao
+nthu-cs-高宏宇-e0f4516945,titles,both_present_different,教授 / 計通中心主任 | 專任教授,Professor | Full Time Professors
+nthu-cs-高宏宇-e0f4516945,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-高宏宇-e0f4516945,research_interests,both_present_different,"自然語言處理, 資料探勘, 機器學習, 深度學習, 資訊檢索","Natural Language Processing, Data Mining, Machine Learning, Deep Learning, Information Retrieval"
+nthu-cs-高榮駿-458af60731,name,both_present_different,高榮駿,Jung-Chun Kao
+nthu-cs-高榮駿-458af60731,titles,both_present_different,副教授 | 專任教授,Full Time Professors
+nthu-cs-高榮駿-458af60731,education,both_present_different,美國卡耐基美隆大學博士,"PhD, Carnegie Mellon University"
+nthu-cs-高榮駿-458af60731,research_interests,both_present_different,無線網路、電信網路、數位通訊,"Wireless networks, Telecommunication networks, Digital communication"
+nthu-cs-麥偉基-5269f158c4,name,both_present_different,麥偉基,Wai-Kei Mak
+nthu-cs-麥偉基-5269f158c4,titles,both_present_different,教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-麥偉基-5269f158c4,education,both_present_different,美國德州大學奧斯汀分校博士,"PhD, The University of Texas at Austin"
+nthu-cs-麥偉基-5269f158c4,research_interests,both_present_different,VLSI設計自動化、計算機演算法,"Computer-aided design of VLSI circuits, Combinatorial optimization"
+nthu-cs-黃兆源兼任講師-2e374aa4b3,name,missing_en,黃兆源 兼任講師,
+nthu-cs-黃兆源兼任講師-2e374aa4b3,titles,missing_en,兼任教授,
+nthu-cs-黃兆源兼任講師-2e374aa4b3,education,missing_en,國立清華大學碩士,
+nthu-cs-黃兆源兼任講師-2e374aa4b3,research_interests,missing_en,資料結構與計算方法,
+nthu-cs-黃婷婷-c521072c08,name,both_present_different,黃婷婷,Ting-Ting Hwang
+nthu-cs-黃婷婷-c521072c08,titles,both_present_different,特聘教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-黃婷婷-c521072c08,education,both_present_different,美國賓州州立大學博士,"PhD, Pennsylvania State University"
+nthu-cs-黃婷婷-c521072c08,research_interests,both_present_different,邏輯設計、VLSI輔助設計,"Logic design, VLSI design automation"
+nthu-cs-黃慶育-97536649ca,name,both_present_different,黃慶育,Chin-Yu Huang
+nthu-cs-黃慶育-97536649ca,titles,both_present_different,教授 / 資安所所長 | 專任教授,Professor | Full Time Professors
+nthu-cs-黃慶育-97536649ca,education,both_present_different,國立台灣大學博士,"PhD, National Taiwan University"
+nthu-cs-黃慶育-97536649ca,research_interests,both_present_different,軟體工程、軟體可靠度、軟體測試,"Software engineering, Software reliability, Software testing, Software rejuvenation, Software fault-tolerance"
+nthu-cs-黃稚存-6ad9444e87,name,both_present_different,黃稚存,Chih-Tsun Huang
+nthu-cs-黃稚存-6ad9444e87,titles,both_present_different,副教授 | 專任教授,Associate Professor | Full Time Professors
+nthu-cs-黃稚存-6ad9444e87,education,both_present_different,國立清華大學博士,"PhD, National Tsing Hua University"
+nthu-cs-黃稚存-6ad9444e87,research_interests,both_present_different,電腦視覺與深度學習系統設計、仿神經型態計算(Neuromorphic Computing)、Brain-Inspired Computing、設計自動化、積體電路與智慧系統設計,"Electronic Design Automation, Intelligent Electronic System Design, Computer Vision and Deep Learning System Platform, Neuromorphic Computing, Brain-Inspired Computing"
+nthu-cs-黃能富-478224d15b,name,both_present_different,黃能富,Nen-Fu Huang
+nthu-cs-黃能富-478224d15b,titles,both_present_different,特聘教授 | 專任教授,Professor | Full Time Professors
+nthu-cs-黃能富-478224d15b,education,both_present_different,國立清華大學博士,"PhD, National Tsing Hua University"
+nthu-cs-黃能富-478224d15b,research_interests,both_present_different,"人工智慧物聯網 (AIoT), 智慧科技農業, 農業區塊鏈服務平台, 長距離低功耗物聯網無線網路, 網路安全","Network security, Switching routers, WDM network design"

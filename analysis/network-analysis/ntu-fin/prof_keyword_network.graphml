@@ -1,0 +1,922 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="source" attr.type="string"/>
+<key id="d12" for="node" attr.name="idf" attr.type="double"/>
+<key id="d11" for="node" attr.name="parent_l1" attr.type="string"/>
+<key id="d10" for="node" attr.name="parent_l2" attr.type="string"/>
+<key id="d9" for="node" attr.name="label" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ntu-fin-何耕宇-d2b3346e2a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">何耕宇</data>
+  <data key="d3">Keng-Yu Ho</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Warwick</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-何耕宇-d2b3346e2a</data>
+</node>
+<node id="ntu-fin-劉博瑀-e3648c529a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉博瑀</data>
+  <data key="d3">Po-Yu Liu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Hong Kong</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-劉博瑀-e3648c529a</data>
+</node>
+<node id="ntu-fin-吳瑞萱-1b792bb68d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳瑞萱</data>
+  <data key="d3">Ruei-Shian Wu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">4</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-吳瑞萱-1b792bb68d</data>
+</node>
+<node id="ntu-fin-呂育道-595ae04f68">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">呂育道</data>
+  <data key="d3">Yun-Dauh Lyuu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">joint</data>
+  <data key="d6">4</data>
+  <data key="d7">Harvard University</data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-fin-呂育道-595ae04f68</data>
+</node>
+<node id="ntu-fin-姜堯民-f95a106036">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">姜堯民</data>
+  <data key="d3">Yao-Min Chiang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Iowa</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-姜堯民-f95a106036</data>
+</node>
+<node id="ntu-fin-廖咸興-3f10a438b5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">廖咸興</data>
+  <data key="d3">Hsien-Hsing Liao</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Rutgers University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-廖咸興-3f10a438b5</data>
+</node>
+<node id="ntu-fin-張晏誠-e89d9c3220">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張晏誠</data>
+  <data key="d3">Yen-Cheng Chang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">6</data>
+  <data key="d7">University of Washington</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-張晏誠-e89d9c3220</data>
+</node>
+<node id="ntu-fin-張景宏-44af4653d2">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張景宏</data>
+  <data key="d3">Ching-Hung Chang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">Arizona State University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-張景宏-44af4653d2</data>
+</node>
+<node id="ntu-fin-張森林-1b507984fb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張森林</data>
+  <data key="d3">San-Lin Chung</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">Lancaster University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-張森林-1b507984fb</data>
+</node>
+<node id="ntu-fin-曾郁仁-f6b4b8a7f0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">曾郁仁</data>
+  <data key="d3">Larry Y. Tzeng</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-曾郁仁-f6b4b8a7f0</data>
+</node>
+<node id="ntu-fin-李賢源-f154346550">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李賢源</data>
+  <data key="d3">Shyan-Yuan Lee</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Columbia University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-李賢源-f154346550</data>
+</node>
+<node id="ntu-fin-林則君-5dcca23591">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林則君</data>
+  <data key="d3">Tse-Chun Lin</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">chair</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Amsterdam</data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-fin-林則君-5dcca23591</data>
+</node>
+<node id="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林姿婷</data>
+  <data key="d3">Tzu-Ting Lin</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-林姿婷-fdcec17cd0</data>
+</node>
+<node id="ntu-fin-林岳祥-60b88640bb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林岳祥</data>
+  <data key="d3">Yueh-Hsiang Lin</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-林岳祥-60b88640bb</data>
+</node>
+<node id="ntu-fin-林軒馳-f0dadcf7f0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林軒馳</data>
+  <data key="d3">Hsuan-Chih Lin</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-林軒馳-f0dadcf7f0</data>
+</node>
+<node id="ntu-fin-池祥麟-0a614738b2">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">池祥麟</data>
+  <data key="d3">Hsiang-Lin Chih</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-池祥麟-0a614738b2</data>
+</node>
+<node id="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">洪志清</data>
+  <data key="d3">Chih-Ching Hung</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Baruch College</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-洪志清-04c9cc50a7</data>
+</node>
+<node id="ntu-fin-王衍智-97f457b74b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王衍智</data>
+  <data key="d3">Yan-Zhi Wang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-王衍智-97f457b74b</data>
+</node>
+<node id="ntu-fin-石百達-b922fdf1bd">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">石百達</data>
+  <data key="d3">Pai-Ta Shih</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Texas at Austin</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-石百達-b922fdf1bd</data>
+</node>
+<node id="ntu-fin-管中閔-7ca9563996">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">管中閔</data>
+  <data key="d3">Chung-Ming Kuan</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">chair</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, San Diego</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-管中閔-7ca9563996</data>
+</node>
+<node id="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">胡星陽</data>
+  <data key="d3">Shing-Yang Hu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Rochester</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-胡星陽-4994e4eee9</data>
+</node>
+<node id="ntu-fin-莊文議-571404c55b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">莊文議</data>
+  <data key="d3">Wen-I Chuang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Houston</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-莊文議-571404c55b</data>
+</node>
+<node id="ntu-fin-蔡易達-f68700fe00">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡易達</data>
+  <data key="d3">Yi-Da Tsai</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University at Buffalo</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-蔡易達-f68700fe00</data>
+</node>
+<node id="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蕭湛東</data>
+  <data key="d3">Lawrence Hsiao</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Northwestern University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-蕭湛東-be0195ff06</data>
+</node>
+<node id="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">賴淑青</data>
+  <data key="d3">Sandy Lai</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Georgia Institute of Technology</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-賴淑青-e9105e48ac</data>
+</node>
+<node id="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">邱顯比</data>
+  <data key="d3">Shean-Bii Chiu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Washington</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-邱顯比-9fc73b83ef</data>
+</node>
+<node id="ntu-fin-陳宜廷-dc86876d95">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳宜廷</data>
+  <data key="d3">Yi-Ting Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-陳宜廷-dc86876d95</data>
+</node>
+<node id="ntu-fin-陳彥行-8829488460">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳彥行</data>
+  <data key="d3">Yan-Shing Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-陳彥行-8829488460</data>
+</node>
+<node id="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳明賢</data>
+  <data key="d3">Ming-Shen Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Michigan State University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-陳明賢-3e54e36dc3</data>
+</node>
+<node id="ntu-fin-陳業寧-736c019d65">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳業寧</data>
+  <data key="d3">Yehning Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-陳業寧-736c019d65</data>
+</node>
+<node id="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳聖賢</data>
+  <data key="d3">Sheng-Syan Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">chair</data>
+  <data key="d6">3</data>
+  <data key="d7">University at Buffalo</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-陳聖賢-7059d0af03</data>
+</node>
+<node id="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">顏廣杰</data>
+  <data key="d3">Kuang-Chieh Yen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-fin-顏廣杰-074de26dd3</data>
+</node>
+<node id="Asset Pricing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Asset Pricing &amp; Investments</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.529297384289471</data>
+  <data key="d9">Asset Pricing</data>
+</node>
+<node id="Corporate Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">3.0189891357182583</data>
+  <data key="d9">Corporate Finance</data>
+</node>
+<node id="Econometrics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Econometrics</data>
+  <data key="d11">Economics &amp; Policy</data>
+  <data key="d12">3.138388573955514</data>
+  <data key="d9">Econometrics</data>
+</node>
+<node id="Asset Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Asset Pricing &amp; Investments</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Asset Management</data>
+</node>
+<node id="Institutional Investors">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Governance &amp; Corporate Control</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Institutional Investors</data>
+</node>
+<node id="Behavioral Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Behavioral &amp; International Finance</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Behavioral Finance</data>
+</node>
+<node id="Corporate Governance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Governance &amp; Corporate Control</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Corporate Governance</data>
+</node>
+<node id="Sustainable Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Sustainable Finance</data>
+</node>
+<node id="Algorithms">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Algorithms &amp; Computational Complexity</data>
+  <data key="d11">Theory &amp; Algorithms</data>
+  <data key="d12">2.674852131692614</data>
+  <data key="d9">Algorithms</data>
+</node>
+<node id="Financial Derivatives">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Derivatives &amp; Financial Engineering</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Derivatives</data>
+</node>
+<node id="Risk Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.3939246223330755</data>
+  <data key="d9">Risk Management</data>
+</node>
+<node id="Theory of Computation">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Algorithms &amp; Computational Complexity</data>
+  <data key="d11">Theory &amp; Algorithms</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Theory of Computation</data>
+</node>
+<node id="Initial Public Offerings">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Initial Public Offerings</data>
+</node>
+<node id="Special Purpose Acquisition Companies">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Governance &amp; Corporate Control</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Special Purpose Acquisition Companies</data>
+</node>
+<node id="Credit Risk">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Credit Risk</data>
+</node>
+<node id="Investments">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Asset Pricing &amp; Investments</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Investments</data>
+</node>
+<node id="Accounting">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">4.427836170705175</data>
+  <data key="d9">Accounting</data>
+</node>
+<node id="Causal Inference">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Statistical Theory &amp; Inference</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Causal Inference</data>
+</node>
+<node id="Financial Engineering">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Derivatives &amp; Financial Engineering</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Engineering</data>
+</node>
+<node id="Interest Rate Modeling">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Derivatives &amp; Financial Engineering</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Interest Rate Modeling</data>
+</node>
+<node id="Insurance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Insurance</data>
+</node>
+<node id="Financial Markets">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Financial Markets &amp; Microstructure</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Markets</data>
+</node>
+<node id="International Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Behavioral &amp; International Finance</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">International Finance</data>
+</node>
+<node id="Macroeconomics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Macroeconomics &amp; Monetary Economics</data>
+  <data key="d11">Economics &amp; Policy</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Macroeconomics</data>
+</node>
+<node id="Mergers and Acquisitions">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Governance &amp; Corporate Control</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Mergers and Acquisitions</data>
+</node>
+<node id="Time Series Analysis">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Time Series &amp; Change Point Analysis</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Time Series Analysis</data>
+</node>
+<node id="Political Economy">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Applied &amp; Policy Economics</data>
+  <data key="d11">Economics &amp; Policy</data>
+  <data key="d12">4.559873911072915</data>
+  <data key="d9">Political Economy</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">2.584696120396371</data>
+  <data key="d9">Deep Learning</data>
+</node>
+<node id="Personal Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Personal Finance</data>
+</node>
+<node id="Information Security">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Information &amp; Systems Security</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">2.888946240904944</data>
+  <data key="d9">Information Security</data>
+</node>
+<node id="Banking and Financial Institutions">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Banking and Financial Institutions</data>
+</node>
+<node id="Game Theory">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Game Theory &amp; Mechanism Design</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Game Theory</data>
+</node>
+<node id="Cryptocurrency">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Cryptocurrency</data>
+</node>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="Asset Pricing">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="Econometrics">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="Asset Management">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="Institutional Investors">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="Behavioral Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="Corporate Governance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="Sustainable Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="Algorithms">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="Financial Derivatives">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="Risk Management">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="Theory of Computation">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="Initial Public Offerings">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="Special Purpose Acquisition Companies">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="Credit Risk">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="Investments">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="Accounting">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="Asset Pricing">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="Behavioral Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="Causal Inference">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="Corporate Governance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張景宏-44af4653d2" target="Corporate Governance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="Behavioral Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="Financial Engineering">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="Interest Rate Modeling">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="Risk Management">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-曾郁仁-f6b4b8a7f0" target="Insurance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-曾郁仁-f6b4b8a7f0" target="Risk Management">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="Financial Derivatives">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="Financial Markets">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="International Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="Asset Pricing">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="Behavioral Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="Financial Markets">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="Accounting">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="Insurance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="Behavioral Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="Investments">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-林軒馳-f0dadcf7f0" target="Macroeconomics">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-池祥麟-0a614738b2" target="Sustainable Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="Asset Pricing">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="Behavioral Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="Mergers and Acquisitions">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-石百達-b922fdf1bd" target="Risk Management">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-管中閔-7ca9563996" target="Econometrics">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-管中閔-7ca9563996" target="Macroeconomics">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-管中閔-7ca9563996" target="Time Series Analysis">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="Behavioral Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="Corporate Governance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-莊文議-571404c55b" target="Behavioral Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-莊文議-571404c55b" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="International Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="Political Economy">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="Sustainable Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-蕭湛東-be0195ff06" target="Asset Pricing">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-蕭湛東-be0195ff06" target="Deep Learning">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-賴淑青-e9105e48ac" target="Asset Pricing">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-賴淑青-e9105e48ac" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-賴淑青-e9105e48ac" target="International Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-邱顯比-9fc73b83ef" target="Asset Management">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-邱顯比-9fc73b83ef" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳宜廷-dc86876d95" target="Econometrics">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳宜廷-dc86876d95" target="Time Series Analysis">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳彥行-8829488460" target="Corporate Governance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳彥行-8829488460" target="Personal Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳彥行-8829488460" target="Sustainable Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳明賢-3e54e36dc3" target="Asset Pricing">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳明賢-3e54e36dc3" target="Financial Markets">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳明賢-3e54e36dc3" target="Information Security">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳業寧-736c019d65" target="Banking and Financial Institutions">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳業寧-736c019d65" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳業寧-736c019d65" target="Game Theory">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳聖賢-7059d0af03" target="Corporate Finance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳聖賢-7059d0af03" target="Corporate Governance">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-陳聖賢-7059d0af03" target="Investments">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-顏廣杰-074de26dd3" target="Cryptocurrency">
+  <data key="d13">ntu-fin</data>
+</edge>
+<edge source="ntu-fin-顏廣杰-074de26dd3" target="Financial Derivatives">
+  <data key="d13">ntu-fin</data>
+</edge>
+</graph></graphml>

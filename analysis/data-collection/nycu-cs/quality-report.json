@@ -1,0 +1,29 @@
+{
+  "school_id": "nycu-cs",
+  "analyzed_at": "2026-09-09T09:36:07+08:00",
+  "faculty_count": 152,
+  "role_counts": {
+    "chair": 29,
+    "emeritus": 33,
+    "faculty": 57,
+    "full_time": 41,
+    "joint": 1,
+    "project": 1,
+    "visiting": 4
+  },
+  "merge_status_counts": {
+    "matched": 152
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 1.0,
+    "education_zh": 1.0,
+    "education_en": 1.0,
+    "research_interests_zh": 0.9934,
+    "research_interests_en": 0.9934
+  },
+  "pages_visited": 2,
+  "warnings": [],
+  "errors": []
+}

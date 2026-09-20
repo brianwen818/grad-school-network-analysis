@@ -1,0 +1,5 @@
+﻿unit,lambda,n_nodes,n_edges,density,mean_degree,lcc_share,n_communities,modularity_q,density_change_vs_baseline,modularity_drop_vs_baseline,flag_over_merging
+ntu-comm-engin-ds-network,0.0,25,104,0.3466666666666667,8.32,1.0,3,0.4406422024332015,0.0,0.0,False
+ntu-comm-engin-ds-network,0.3,25,153,0.51,12.24,1.0,3,0.38777815248239217,0.47115384615384603,0.052864049950809344,False
+ntu-comm-engin-ds-network,0.4,25,153,0.51,12.24,1.0,3,0.37393381193176095,0.47115384615384603,0.06670839050144056,False
+ntu-comm-engin-ds-network,0.5,25,153,0.51,12.24,1.0,3,0.3614511267294925,0.47115384615384603,0.07919107570370904,False

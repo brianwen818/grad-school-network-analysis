@@ -1,0 +1,4031 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="s_exp" attr.type="double"/>
+<key id="d17" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d16" for="edge" attr.name="n_shared_keywords" attr.type="long"/>
+<key id="d15" for="edge" attr.name="s_inf" attr.type="double"/>
+<key id="d14" for="edge" attr.name="s_exp" attr.type="long"/>
+<key id="d13" for="edge" attr.name="w_cos" attr.type="double"/>
+<key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="primary_role" attr.type="string"/>
+<key id="d9" for="node" attr.name="dominant_l1" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ntu-ds-changronaldy-a78313ae63">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張佑榕</data>
+  <data key="d3">Chang, Ronald Y.</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">nan</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-changyaowen-7aab305c05">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張耀文</data>
+  <data key="d3">Chang, Yao-Wen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Robotics, Control &amp; Smart Manufacturing</data>
+  <data key="d10">faculty</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-ds-changyuanhao-1d8a41b51b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張原豪</data>
+  <data key="d3">Chang, Yuan-Hao</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Systems, Software &amp; Architecture</data>
+  <data key="d10">faculty</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-ds-chenchusong-9acf325951">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳祝嵩</data>
+  <data key="d3">Chen, Chu-Song</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-chenghsiangyun-dd0d28d44a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭湘筠</data>
+  <data key="d3">Cheng, Hsiang-Yun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Systems, Software &amp; Architecture</data>
+  <data key="d10">nan</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-ds-chengpujen-ead86da3e9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭卜壬</data>
+  <data key="d3">Cheng, Pu-Jen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-chengwenhuang-7531301010">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭文皇</data>
+  <data key="d3">Cheng, Wen-Huang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-chenhsinhsi-6c5257ce25">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳信希</data>
+  <data key="d3">Chen, Hsin-Hsi</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">chair</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d10">chair</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-ds-chenjuncheng-090ef61af5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳駿丞</data>
+  <data key="d3">Chen, Jun-Cheng</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-chenlingjyh-5fa406eb09">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳伶志</data>
+  <data key="d3">Chen, Ling-Jyh</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d10">nan</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-chenmingsyan-8fa63ae675">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳銘憲</data>
+  <data key="d3">Chen, Ming-Syan</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">chair</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">3</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">chair</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-ds-chenshangtse-47653327f1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳尚澤</data>
+  <data key="d3">Chen, Shang-Tse</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-ds-chenyunnung-e290620faf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳縕儂</data>
+  <data key="d3">Chen, Yun-Nung</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-ds-chunhaoyang-8f0203e6f5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊鈞澔</data>
+  <data key="d3">Chun-Hao Yang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time | joint</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">5</data>
+</node>
+<node id="ntu-ds-chunhouhchen-0af0210f26">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳君厚</data>
+  <data key="d3">Chun-Houh Chen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">nan</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-ds-gaspardbernard-b86127ba99">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">柏嘉偲</data>
+  <data key="d3">Gaspard Bernard</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">nan</data>
+  <data key="d11">5</data>
+</node>
+<node id="ntu-ds-hongdingyong-97b7056823">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">洪鼎詠</data>
+  <data key="d3">Hong, Ding-Yong</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Systems, Software &amp; Architecture</data>
+  <data key="d10">nan</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-ds-hsiehhungyun-d8718bc559">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝宏昀</data>
+  <data key="d3">Hsieh, Hung-Yun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-hsinchouyang-a5478bbe7e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊欣洲</data>
+  <data key="d3">Hsin-Chou Yang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">nan</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">修丕承</data>
+  <data key="d3">Hsiu, Pi-Cheng</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-huanghenhsen-b5b46283ba">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃瀚萱</data>
+  <data key="d3">Huang, Hen-Hsen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-ds-huangyennun-474cb98b48">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃彥男</data>
+  <data key="d3">Huang, Yen-Nun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">nan</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-hungshihhao-96d729e98f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">洪士灝</data>
+  <data key="d3">Hung, Shih-Hao</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Systems, Software &amp; Architecture</data>
+  <data key="d10">faculty</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-ds-jiangjiehongroland-e6ba2046e1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">江介宏</data>
+  <data key="d3">Jiang, Jie-Hong Roland</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Robotics, Control &amp; Smart Manufacturing</data>
+  <data key="d10">faculty</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-ds-kulunwei-57dc39df53">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">古倫維</data>
+  <data key="d3">Ku, Lun-Wei</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-ds-leechunyi-1316e79287">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李濬屹</data>
+  <data key="d3">Lee, Chun-Yi</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">8</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Systems, Software &amp; Architecture</data>
+  <data key="d10">faculty</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李育杰</data>
+  <data key="d3">Lee, Yuh-Jye</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d10">nan</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-ds-liaowanjiun-bb42b0521f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">廖婉君</data>
+  <data key="d3">Liao, Wanjiun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">chair</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">3</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">chair</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">連云暄</data>
+  <data key="d3">Lien, Yun-Hsuan</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-linche-f9f2c9629d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林澤</data>
+  <data key="d3">Lin, Che</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-linjenchun-7e473e6695">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林仁俊</data>
+  <data key="d3">Lin, Jen-Chun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-linshoude-660534418a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林守德</data>
+  <data key="d3">Lin, Shou-De</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-ds-lintsungnan-86da824817">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林宗男</data>
+  <data key="d3">Lin, Tsung-Nan</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉子毓</data>
+  <data key="d3">Liu, Tzu-Yu</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-maweiyun-d303532c6d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">馬偉雲</data>
+  <data key="d3">Ma, Wei-Yun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-ds-mingyuehhuang-e0d8d52531">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃名鉞</data>
+  <data key="d3">Ming-Yueh Huang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">nan</data>
+  <data key="d11">5</data>
+</node>
+<node id="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">孫紹華</data>
+  <data key="d3">Sun, Shao-Hua</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">曹昱</data>
+  <data key="d3">Tsao, Yu</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-ds-tsojungyen-ab6f30a1f1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">顏佐榕</data>
+  <data key="d3">Tso-Jung Yen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">nan</data>
+  <data key="d11">5</data>
+</node>
+<node id="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王建堯</data>
+  <data key="d3">Wang, Chien Yao</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">nan</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王志宇</data>
+  <data key="d3">Wang, Chih-Yu</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">nan</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-wangchuanju-ba03252081">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王釧茹</data>
+  <data key="d3">Wang, Chuan-Ju</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王偉仲</data>
+  <data key="d3">Wei-Chung Wang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Applied Mathematics &amp; Operations Research</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-ds-wufangjing-301b084151">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">巫芳璟</data>
+  <data key="d3">Wu, Fang-Jing</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳沛遠</data>
+  <data key="d3">Wu, Pei-Yuan</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">5</data>
+</node>
+<node id="ntu-ds-wutirong-522ceb7891">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳廸融</data>
+  <data key="d3">Wu, Ti-Rong</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">葉彌妍</data>
+  <data key="d3">Yeh, Mi-Yen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">nan</data>
+  <data key="d11">2</data>
+</node>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-chenjuncheng-090ef61af5">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.04331235979156608</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-chenchusong-9acf325951">
+  <data key="d12">1.2397432678767777</data>
+  <data key="d13">0.03520776551927418</data>
+  <data key="d14">0</data>
+  <data key="d15">3.099358169691944</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8066186168630144</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-chengwenhuang-7531301010">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.027805805372502438</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.10477888793185072</data>
+  <data key="d18">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.03076996233145761</data>
+  <data key="d14">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-chunhaoyang-8f0203e6f5">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.0282538287976457</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">4.207673247529104</data>
+  <data key="d13">0.11905139278450469</data>
+  <data key="d18">4.207673247529104</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2376610400028652</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.020935806033782783</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.10775142467126819</data>
+  <data key="d18">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-liaowanjiun-bb42b0521f">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.038215836021596734</data>
+  <data key="d14">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.032602373141895055</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-changyaowen-7aab305c05" target="ntu-ds-hungshihhao-96d729e98f">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.04350509624160786</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-ds-changyaowen-7aab305c05" target="ntu-ds-chenghsiangyun-dd0d28d44a">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.08057611846636659</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-ds-changyaowen-7aab305c05" target="ntu-ds-jiangjiehongroland-e6ba2046e1">
+  <data key="d12">7.228530987547981</data>
+  <data key="d13">0.27631119309175833</data>
+  <data key="d18">7.228530987547981</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13834069491057324</data>
+</edge>
+<edge source="ntu-ds-changyaowen-7aab305c05" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">1.4447374074263084</data>
+  <data key="d13">0.04556017793125167</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6118435185657707</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6921673065705588</data>
+</edge>
+<edge source="ntu-ds-changyaowen-7aab305c05" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">7.228530987547981</data>
+  <data key="d13">0.13518785810983105</data>
+  <data key="d18">7.228530987547981</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13834069491057324</data>
+</edge>
+<edge source="ntu-ds-changyuanhao-1d8a41b51b" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">1.5231129695476096</data>
+  <data key="d13">0.04735385059433126</data>
+  <data key="d14">0</data>
+  <data key="d15">3.807782423869024</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6565501180762823</data>
+</edge>
+<edge source="ntu-ds-changyuanhao-1d8a41b51b" target="ntu-ds-hungshihhao-96d729e98f">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.1529838326222501</data>
+  <data key="d18">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-huangyennun-474cb98b48">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.08744914770507575</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">1.4307973017025664</data>
+  <data key="d13">0.03327859420743952</data>
+  <data key="d14">0</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6989110189193519</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">3.3754513329831672</data>
+  <data key="d13">0.08318684899605676</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29625667839690545</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-chenlingjyh-5fa406eb09">
+  <data key="d12">3.2394044050093296</data>
+  <data key="d13">0.10973769297845629</data>
+  <data key="d18">3.2394044050093296</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.308698722040887</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">3.87540085947001</data>
+  <data key="d13">0.05664095940766722</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2580378227342287</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-chenhsinhsi-6c5257ce25">
+  <data key="d12">1.53733669097263</data>
+  <data key="d13">0.03421967495708965</data>
+  <data key="d14">0</data>
+  <data key="d15">3.843341727431575</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6504755957963431</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-chunhaoyang-8f0203e6f5">
+  <data key="d12">5.169392240792742</data>
+  <data key="d13">0.10196264188024261</data>
+  <data key="d18">5.169392240792742</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.19344633825786972</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-chenmingsyan-8fa63ae675">
+  <data key="d12">3.3084109386461154</data>
+  <data key="d13">0.14189003747236578</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.0591608618414656</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3022599122493607</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.2236643447365863</data>
+  <data key="d13">0.02895649304423853</data>
+  <data key="d14">0</data>
+  <data key="d15">3.0591608618414656</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8172175681193574</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">3.5155438956120957</data>
+  <data key="d13">0.08762291063734536</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2844510066417159</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">4.6694427143059</data>
+  <data key="d13">0.11957468338916855</data>
+  <data key="d18">4.6694427143059</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21415831849404052</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">5.960147453379538</data>
+  <data key="d13">0.13565334328012485</data>
+  <data key="d18">4.6694427143059</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16778108391143534</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">3.3084109386461154</data>
+  <data key="d13">0.14189003747236578</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.0591608618414656</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3022599122493607</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">4.6694427143059</data>
+  <data key="d13">0.14928805337476816</data>
+  <data key="d18">4.6694427143059</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21415831849404052</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">4.015493422098937</data>
+  <data key="d13">0.07139279970901015</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2490353973677512</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">5.324150998918858</data>
+  <data key="d13">0.1565175317620551</data>
+  <data key="d18">5.324150998918858</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.18782337319190678</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">4.619556683796025</data>
+  <data key="d13">0.18473269811043533</data>
+  <data key="d18">4.619556683796025</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21647098811617366</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.12182926181677423</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-chenshangtse-47653327f1">
+  <data key="d12">3.3084109386461154</data>
+  <data key="d13">0.08204379271528248</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.0591608618414656</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3022599122493607</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-chenjuncheng-090ef61af5">
+  <data key="d12">5.169392240792742</data>
+  <data key="d13">0.15630598819171942</data>
+  <data key="d18">5.169392240792742</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.19344633825786972</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.4307973017025664</data>
+  <data key="d13">0.02746762301514602</data>
+  <data key="d14">0</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6989110189193519</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07544193892135505</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.2397432678767777</data>
+  <data key="d13">0.032752045984687485</data>
+  <data key="d14">0</data>
+  <data key="d15">3.099358169691944</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8066186168630144</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-liaowanjiun-bb42b0521f">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.05331647363688496</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-chengwenhuang-7531301010">
+  <data key="d12">7.2042528041923966</data>
+  <data key="d13">0.13984556779099303</data>
+  <data key="d18">7.2042528041923966</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.1388069001990139</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.02650502087908932</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">11.028692192465545</data>
+  <data key="d13">0.2833227548981825</data>
+  <data key="d18">9.788948924588768</data>
+  <data key="d15">3.099358169691944</data>
+  <data key="d16">4</data>
+  <data key="d17">0.09067258225623238</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.1114170029976647</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="ntu-ds-chengpujen-ead86da3e9">
+  <data key="d12">4.072146780859127</data>
+  <data key="d13">0.085029837578891</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">3.843341727431575</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24557071584463458</data>
+</edge>
+<edge source="ntu-ds-chenghsiangyun-dd0d28d44a" target="ntu-ds-hungshihhao-96d729e98f">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.15298383262225007</data>
+  <data key="d18">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-ds-chenghsiangyun-dd0d28d44a" target="ntu-ds-jiangjiehongroland-e6ba2046e1">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.08057611846636659</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-ds-chenghsiangyun-dd0d28d44a" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.0956562661521599</data>
+  <data key="d18">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">1.451797814815527</data>
+  <data key="d13">0.055691052945941386</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6294945370388176</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6888011469607186</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">1.697547538253144</data>
+  <data key="d13">0.026995058636043123</data>
+  <data key="d14">0</data>
+  <data key="d15">4.24386884563286</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5890851227819204</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.53733669097263</data>
+  <data key="d13">0.040422991879279176</data>
+  <data key="d14">0</data>
+  <data key="d15">3.843341727431575</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6504755957963431</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.09066417948384235</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-chenshangtse-47653327f1">
+  <data key="d12">1.451797814815527</data>
+  <data key="d13">0.03220173371849667</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6294945370388176</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6888011469607186</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.697547538253144</data>
+  <data key="d13">0.02914820037147948</data>
+  <data key="d14">0</data>
+  <data key="d15">4.24386884563286</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5890851227819204</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-chengwenhuang-7531301010">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.044010066515148084</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-chenhsinhsi-6c5257ce25">
+  <data key="d12">8.36949498288298</data>
+  <data key="d13">0.16662991636385271</data>
+  <data key="d18">8.36949498288298</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11948152212829659</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.05824380011485584</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-huangyennun-474cb98b48">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.07821722726988306</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">1.697547538253144</data>
+  <data key="d13">0.03784372962145812</data>
+  <data key="d14">0</data>
+  <data key="d15">4.24386884563286</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5890851227819204</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">1.697547538253144</data>
+  <data key="d13">0.03531470966762308</data>
+  <data key="d14">0</data>
+  <data key="d15">4.24386884563286</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5890851227819204</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-chenlingjyh-5fa406eb09">
+  <data key="d12">1.53733669097263</data>
+  <data key="d13">0.04658075089316842</data>
+  <data key="d14">0</data>
+  <data key="d15">3.843341727431575</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6504755957963431</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-liaowanjiun-bb42b0521f">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.0476879060016603</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-chenmingsyan-8fa63ae675">
+  <data key="d12">1.451797814815527</data>
+  <data key="d13">0.055691052945941386</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6294945370388176</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6888011469607186</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.451797814815527</data>
+  <data key="d13">0.030728165332814097</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6294945370388176</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6888011469607186</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-chenyunnung-e290620faf">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.06284779750378164</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.025866367909741873</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-liaowanjiun-bb42b0521f">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.04433228223145571</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-chenmingsyan-8fa63ae675">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07434373914974848</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.04439010096865492</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">4.6694427143059</data>
+  <data key="d13">0.08836844671047758</data>
+  <data key="d18">4.6694427143059</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21415831849404052</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07434373914974848</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">6.694481799502081</data>
+  <data key="d13">0.09896716547811812</data>
+  <data key="d18">5.76596156314425</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14937675983738988</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.09878011061200166</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">6.575897175130211</data>
+  <data key="d13">0.21865386508260676</data>
+  <data key="d18">6.575897175130211</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.1520705043536814</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.11306433830724556</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-chenshangtse-47653327f1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.04298710771479576</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-chenjuncheng-090ef61af5">
+  <data key="d12">5.469556848088388</data>
+  <data key="d13">0.1375140086938286</data>
+  <data key="d18">4.541036611730557</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">2</data>
+  <data key="d17">0.18283016847141836</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.17957880650325733</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.12159520528543151</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-kulunwei-57dc39df53">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.035384038418582946</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">6.925136001423131</data>
+  <data key="d13">0.11824648096197568</data>
+  <data key="d18">5.76596156314425</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1444014962008685</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">7.2042528041923966</data>
+  <data key="d13">0.15388810667263791</data>
+  <data key="d18">7.2042528041923966</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.1388069001990139</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-hsiehhungyun-d8718bc559">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.0712360585266353</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-huangyennun-474cb98b48">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.0727133666672142</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.027548801250655983</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-chunhaoyang-8f0203e6f5">
+  <data key="d12">3.5132163567542016</data>
+  <data key="d13">0.05761892629597939</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.28463945810723773</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.03849344434469287</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.04320530699948337</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.08280941278574129</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">3.743870558675252</data>
+  <data key="d13">0.045498121564930286</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">1</data>
+  <data key="d17">0.267103251655646</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.055420692531979475</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-chenlingjyh-5fa406eb09">
+  <data key="d12">1.53733669097263</data>
+  <data key="d13">0.04965528135662652</data>
+  <data key="d14">0</data>
+  <data key="d15">3.843341727431575</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6504755957963431</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.10476944681522364</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-chenyunnung-e290620faf">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.126608129922698</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.609798137885731</data>
+  <data key="d13">0.04054934976317697</data>
+  <data key="d14">0</data>
+  <data key="d15">4.024495344714327</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6211958980853185</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-chenmingsyan-8fa63ae675">
+  <data key="d12">1.451797814815527</data>
+  <data key="d13">0.059366902637953696</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6294945370388176</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6888011469607186</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-huanghenhsen-b5b46283ba">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.14568215006292776</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">1.451797814815527</data>
+  <data key="d13">0.059366902637953696</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6294945370388176</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6888011469607186</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">1.697547538253144</data>
+  <data key="d13">0.028776848936712684</data>
+  <data key="d14">0</data>
+  <data key="d15">4.24386884563286</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5890851227819204</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.53733669097263</data>
+  <data key="d13">0.04309108368917722</data>
+  <data key="d14">0</data>
+  <data key="d15">3.843341727431575</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6504755957963431</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-chenshangtse-47653327f1">
+  <data key="d12">1.451797814815527</data>
+  <data key="d13">0.034327187031191204</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6294945370388176</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6888011469607186</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.697547538253144</data>
+  <data key="d13">0.031072107313268132</data>
+  <data key="d14">0</data>
+  <data key="d15">4.24386884563286</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5890851227819204</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-kulunwei-57dc39df53">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.07128184457092748</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">4.888713279079761</data>
+  <data key="d13">0.11030216102638907</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">3.6294945370388176</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20455280212060983</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">1.697547538253144</data>
+  <data key="d13">0.04034157899788604</data>
+  <data key="d14">0</data>
+  <data key="d15">4.24386884563286</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5890851227819204</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">1.697547538253144</data>
+  <data key="d13">0.03764563281934088</data>
+  <data key="d14">0</data>
+  <data key="d15">4.24386884563286</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5890851227819204</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">5.169392240792742</data>
+  <data key="d13">0.1720013938544616</data>
+  <data key="d18">5.169392240792742</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.19344633825786972</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-hsiehhungyun-d8718bc559">
+  <data key="d12">4.8452867322391295</data>
+  <data key="d13">0.274821868707439</data>
+  <data key="d18">4.8452867322391295</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20638613466284475</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.04291203134057515</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-chunhaoyang-8f0203e6f5">
+  <data key="d12">5.169392240792742</data>
+  <data key="d13">0.13206146757048715</data>
+  <data key="d18">5.169392240792742</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.19344633825786972</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.0599602093425685</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.029974473483130502</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">3.247045230407824</data>
+  <data key="d13">0.10364448578506028</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3079723037533424</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">3.87540085947001</data>
+  <data key="d13">0.07336106721089526</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2580378227342287</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.10702975563988258</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">4.541036611730557</data>
+  <data key="d13">0.10456962185230124</data>
+  <data key="d18">4.541036611730557</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.22021403602357373</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-chenyunnung-e290620faf">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.09789633427712865</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-chenshangtse-47653327f1">
+  <data key="d12">3.817466477262774</data>
+  <data key="d13">0.1226130095044297</data>
+  <data key="d18">2.888946240904944</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2619538392690816</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.1352133147965062</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.04029134989615057</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-chenmingsyan-8fa63ae675">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.05157733140994816</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">5.473642361301315</data>
+  <data key="d13">0.18154556558140167</data>
+  <data key="d18">5.473642361301315</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.18269370448277844</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">6.764347100374954</data>
+  <data key="d13">0.1994042551274915</data>
+  <data key="d18">5.473642361301315</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14783392767419773</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.05157733140994816</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.10984303337012032</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">3.247045230407824</data>
+  <data key="d13">0.08636238429400574</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3079723037533424</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.1494181531306468</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d12">4.541036611730557</data>
+  <data key="d13">0.27722485483459397</data>
+  <data key="d18">4.541036611730557</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.22021403602357373</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.19969081541914224</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="ntu-ds-kulunwei-57dc39df53">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.05511677084454594</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.2236643447365863</data>
+  <data key="d13">0.042018014812118205</data>
+  <data key="d14">0</data>
+  <data key="d15">3.0591608618414656</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8172175681193574</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">1.4307973017025664</data>
+  <data key="d13">0.0517479118768657</data>
+  <data key="d14">0</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6989110189193519</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">4.56918587565808</data>
+  <data key="d13">0.15421096408282767</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21885736917103954</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-chenshangtse-47653327f1">
+  <data key="d12">1.2236643447365863</data>
+  <data key="d13">0.04403298764195259</data>
+  <data key="d14">0</data>
+  <data key="d15">3.0591608618414656</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8172175681193574</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.4307973017025664</data>
+  <data key="d13">0.03985755419141553</data>
+  <data key="d14">0</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6989110189193519</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-liaowanjiun-bb42b0521f">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.09578825710139206</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-chenmingsyan-8fa63ae675">
+  <data key="d12">1.2236643447365863</data>
+  <data key="d13">0.07615252854312612</data>
+  <data key="d14">0</data>
+  <data key="d15">3.0591608618414656</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8172175681193574</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">1.2236643447365863</data>
+  <data key="d13">0.07615252854312612</data>
+  <data key="d14">0</data>
+  <data key="d15">3.0591608618414656</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8172175681193574</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">1.4307973017025664</data>
+  <data key="d13">0.03691332565214955</data>
+  <data key="d14">0</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6989110189193519</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">3.2394044050093296</data>
+  <data key="d13">0.13818705519329305</data>
+  <data key="d18">3.2394044050093296</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.308698722040887</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-huangyennun-474cb98b48">
+  <data key="d12">1.3504222638324483</data>
+  <data key="d13">0.06760352013323105</data>
+  <data key="d14">0</data>
+  <data key="d15">3.376055659581121</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7405091183568294</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.07712512323792053</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.04373019427226293</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.0983879876968271</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">2.888946240904944</data>
+  <data key="d13">0.12558983285562575</data>
+  <data key="d18">2.888946240904944</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3461469742291765</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.22773798621286287</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">1.3511863785294385</data>
+  <data key="d13">0.057734243961067085</data>
+  <data key="d14">0</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7400903501472154</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.09438597390578495</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.03112390854088917</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.12244601098990487</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-chunhaoyang-8f0203e6f5">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.0336452942880261</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.0980751149566476</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08716821153185245</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.39187068944332565</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">2.2797066148872687</data>
+  <data key="d13">0.07446047785747295</data>
+  <data key="d14">0</data>
+  <data key="d15">5.699266537218172</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4386529360706575</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.26861047953588957</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.153153917807708</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.08040163124711294</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-chenshangtse-47653327f1">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.22658784357671777</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.3511863785294385</data>
+  <data key="d13">0.04765292783408942</data>
+  <data key="d14">0</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7400903501472154</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.20468350124041662</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.1385939289635377</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08013791371149381</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.02528571461524438</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.0568899960283988</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">1.3511863785294385</data>
+  <data key="d13">0.03338314957480968</data>
+  <data key="d14">0</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7400903501472154</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.0545759477994672</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.017996496063477606</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-hsiehhungyun-d8718bc559">
+  <data key="d12">2.888946240904944</data>
+  <data key="d13">0.1343882865868726</data>
+  <data key="d18">2.888946240904944</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3461469742291765</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-chunhaoyang-8f0203e6f5">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.019454414133544075</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">2.888946240904944</data>
+  <data key="d13">0.07261867286461667</data>
+  <data key="d18">2.888946240904944</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3461469742291765</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.13168287546532598</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.13529393826130037</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.12024794092315318</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.22658784357671777</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07080084918876339</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">2.2797066148872687</data>
+  <data key="d13">0.04305460848165024</data>
+  <data key="d14">0</data>
+  <data key="d15">5.699266537218172</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4386529360706575</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.15531620751377412</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08855680433938995</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.04648990785764945</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.3511863785294385</data>
+  <data key="d13">0.02755392135446985</data>
+  <data key="d14">0</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7400903501472154</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.11835228918927856</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.1818505880943209</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.0575633147675657</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.15260628562639533</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.11716283418579415</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.609798137885731</data>
+  <data key="d13">0.07038238079352507</data>
+  <data key="d14">0</data>
+  <data key="d15">4.024495344714327</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6211958980853185</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-huanghenhsen-b5b46283ba">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.25286364936632466</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.095179392092979</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.0664862052763657</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.12947137880570558</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.17303282543283624</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-kulunwei-57dc39df53">
+  <data key="d12">5.39325595559842</data>
+  <data key="d13">0.19415168768610744</data>
+  <data key="d18">5.39325595559842</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.18541675163070262</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.07979085586856789</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-hsiehhungyun-d8718bc559">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.1417839483628247</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.054831470111731076</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">5.39325595559842</data>
+  <data key="d13">0.2112129513302928</data>
+  <data key="d18">5.39325595559842</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.18541675163070262</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.01955316325795876</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-gaspardbernard-b86127ba99">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.05325730752972596</data>
+  <data key="d18">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.0268751087786866</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">3.87540085947001</data>
+  <data key="d13">0.047855416868623796</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2580378227342287</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-mingyuehhuang-e0d8d52531">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.04094519324201425</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.06981841688274718</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.038826253723182755</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.6211280520149076</data>
+  <data key="d13">0.0262942500944673</data>
+  <data key="d14">0</data>
+  <data key="d15">4.052820130037269</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6168544173651769</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-chunhouhchen-0af0210f26">
+  <data key="d12">1.6211280520149076</data>
+  <data key="d13">0.054933413764040186</data>
+  <data key="d14">0</data>
+  <data key="d15">4.052820130037269</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6168544173651769</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.026283141982338908</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.05592219139283448</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">6.952136917177088</data>
+  <data key="d13">0.13368796633269722</data>
+  <data key="d18">5.66143217810345</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14384066538293228</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.0336452942880261</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.023062400113851498</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.022393844252375047</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.031371504646639514</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.10293240390008714</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.04192664152618238</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.0283890882369372</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-hsinchouyang-a5478bbe7e">
+  <data key="d12">1.6211280520149076</data>
+  <data key="d13">0.054933413764040186</data>
+  <data key="d14">0</data>
+  <data key="d15">4.052820130037269</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6168544173651769</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-tsojungyen-ab6f30a1f1">
+  <data key="d12">7.38828061734254</data>
+  <data key="d13">0.18006682667150928</data>
+  <data key="d18">7.38828061734254</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13534948816815323</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">5.169392240792742</data>
+  <data key="d13">0.11220118133269394</data>
+  <data key="d18">5.169392240792742</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.19344633825786972</data>
+</edge>
+<edge source="ntu-ds-chunhouhchen-0af0210f26" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.1256441928117004</data>
+  <data key="d18">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="ntu-ds-chunhouhchen-0af0210f26" target="ntu-ds-hsinchouyang-a5478bbe7e">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.2624932981916939</data>
+  <data key="d18">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="ntu-ds-gaspardbernard-b86127ba99" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.061454135121023476</data>
+  <data key="d18">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ntu-ds-gaspardbernard-b86127ba99" target="ntu-ds-tsojungyen-ab6f30a1f1">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.0778874417776063</data>
+  <data key="d18">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ntu-ds-gaspardbernard-b86127ba99" target="ntu-ds-mingyuehhuang-e0d8d52531">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.1340873838360845</data>
+  <data key="d18">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ntu-ds-hongdingyong-97b7056823" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.061633173769529086</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="ntu-ds-hongdingyong-97b7056823" target="ntu-ds-hungshihhao-96d729e98f">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.0985704284645318</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">2.888946240904944</data>
+  <data key="d13">0.13877438906043302</data>
+  <data key="d18">2.888946240904944</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3461469742291765</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.10788293329224541</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.07536008258676195</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.14675185264165302</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.19612742163034289</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-kulunwei-57dc39df53">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.07982600624479637</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.06214979631936507</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.08684079223216694</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">2.888946240904944</data>
+  <data key="d13">0.12334133185742946</data>
+  <data key="d18">2.888946240904944</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3461469742291765</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.09044049758786872</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.06524625878134716</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.17297456277223072</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.13280049332999294</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsinchouyang-a5478bbe7e" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.1256441928117004</data>
+  <data key="d18">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.05931184498626599</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.08040163124711294</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.16684397409065363</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">4.541036611730557</data>
+  <data key="d13">0.16300897983638465</data>
+  <data key="d18">4.541036611730557</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.22021403602357373</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.2329213807932253</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.21077808368099551</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-kulunwei-57dc39df53">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.0859191075581718</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.17122946888999607</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">3.247045230407824</data>
+  <data key="d13">0.13462651877892276</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3079723037533424</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.13406270026611444</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.3112892207848585</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">3.247045230407824</data>
+  <data key="d13">0.16156682595020344</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3079723037533424</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.03808745077340951</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.066893676458104</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.09346933060074994</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.0467258870890747</data>
+  <data key="d14">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.13363638232456476</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-huanghenhsen-b5b46283ba" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.1548756392472285</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-huanghenhsen-b5b46283ba" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.2092471050631878</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-huanghenhsen-b5b46283ba" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.609798137885731</data>
+  <data key="d13">0.08098576739747129</data>
+  <data key="d14">0</data>
+  <data key="d15">4.024495344714327</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6211958980853185</data>
+</edge>
+<edge source="ntu-ds-huanghenhsen-b5b46283ba" target="ntu-ds-kulunwei-57dc39df53">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.1423651653552815</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-huangyennun-474cb98b48" target="ntu-ds-liaowanjiun-bb42b0521f">
+  <data key="d12">3.885232353718945</data>
+  <data key="d13">0.12076526826682853</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">3.376055659581121</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25738486375024644</data>
+</edge>
+<edge source="ntu-ds-huangyennun-474cb98b48" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.14979522296612835</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-huangyennun-474cb98b48" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.0962303202242546</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-huangyennun-474cb98b48" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">3.631721040273988</data>
+  <data key="d13">0.09089105317856003</data>
+  <data key="d18">3.631721040273988</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2753515451518702</data>
+</edge>
+<edge source="ntu-ds-huangyennun-474cb98b48" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">1.3504222638324483</data>
+  <data key="d13">0.0464157649940177</data>
+  <data key="d14">0</data>
+  <data key="d15">3.376055659581121</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7405091183568294</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.07605017467197571</data>
+  <data key="d18">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.05424885298269405</data>
+  <data key="d18">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.05857577336584277</data>
+  <data key="d18">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="ntu-ds-jiangjiehongroland-e6ba2046e1">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.04350509624160786</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">8.446334976170156</data>
+  <data key="d13">0.12360250222323926</data>
+  <data key="d18">6.923222006622547</data>
+  <data key="d15">3.807782423869024</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11839454660764977</data>
+</edge>
+<edge source="ntu-ds-jiangjiehongroland-e6ba2046e1" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">1.4447374074263084</data>
+  <data key="d13">0.04556017793125167</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6118435185657707</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6921673065705588</data>
+</edge>
+<edge source="ntu-ds-jiangjiehongroland-e6ba2046e1" target="ntu-ds-leechunyi-1316e79287">
+  <data key="d12">7.228530987547981</data>
+  <data key="d13">0.13518785810983105</data>
+  <data key="d18">7.228530987547981</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13834069491057324</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.04492317665285148</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">2.092151626375278</data>
+  <data key="d13">0.05149950141719984</data>
+  <data key="d14">0</data>
+  <data key="d15">5.2303790659381955</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4779768289225447</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.030870753185330526</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">5.39325595559842</data>
+  <data key="d13">0.11891533961748899</data>
+  <data key="d18">5.39325595559842</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.18541675163070262</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.10238398879744628</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.03240881338942656</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.05358710090473245</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.07289388687793448</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.09741948621863843</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.06596403359737073</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.03743250416473481</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.03112390854088917</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.014366642295005986</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.0213340987816046</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.051789111608237924</data>
+  <data key="d18">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.02902051719486895</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.03878464979728086</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.02626160372626372</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">3.87540085947001</data>
+  <data key="d13">0.0623285395529642</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2580378227342287</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.018087844906809595</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">7.774882026824921</data>
+  <data key="d13">0.1199580813179141</data>
+  <data key="d18">7.774882026824921</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12861931493620057</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.02583448375188259</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.019475546710556683</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.02069254803262168</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">6.613019581520678</data>
+  <data key="d13">0.09422934789105392</data>
+  <data key="d18">6.613019581520678</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1512168514961584</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.025414062976768653</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.05717876531526583</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.11895303639501237</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.09808034696716718</data>
+  <data key="d18">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.05485297115377148</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">2.888946240904944</data>
+  <data key="d13">0.07298727971714444</data>
+  <data key="d18">2.888946240904944</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3461469742291765</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.056996937457993314</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.050658325541624756</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.22773798621286287</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07116022890676536</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">7.925687853867136</data>
+  <data key="d13">0.15044457047464624</data>
+  <data key="d18">6.997167617509305</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12617201414411944</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">6.4044901365170395</data>
+  <data key="d13">0.201011658923416</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">2</data>
+  <data key="d17">0.15614045438187388</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08900631193337086</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">6.997167617509305</data>
+  <data key="d13">0.14341325846510186</data>
+  <data key="d18">6.997167617509305</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14291496997980413</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.0805446876578644</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">8.22777520214709</data>
+  <data key="d13">0.1255442733485707</data>
+  <data key="d18">6.451847041309662</data>
+  <data key="d15">4.439820402093569</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12153953838445218</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">4.631945431922955</data>
+  <data key="d13">0.09706556657580417</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21589200794726318</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.09132796906311448</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.05867022682266431</data>
+  <data key="d18">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.0806488146964335</data>
+  <data key="d18">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">5.984663952458493</data>
+  <data key="d13">0.12973667051874743</data>
+  <data key="d18">5.984663952458493</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16709375964028877</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.03629836503051137</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-linche-f9f2c9629d">
+  <data key="d12">7.056666302217889</data>
+  <data key="d13">0.11036089940501248</data>
+  <data key="d18">5.76596156314425</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1417099742530978</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">3.1155149296130666</data>
+  <data key="d13">0.09917211175364585</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32097422820701926</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.029073763157537756</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">1.159174438278881</data>
+  <data key="d13">0.04373019427226293</data>
+  <data key="d14">0</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8626829293137106</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">3.1155149296130666</data>
+  <data key="d13">0.08056429647579721</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32097422820701926</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">3.1155149296130666</data>
+  <data key="d13">0.10959064055634526</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32097422820701926</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">3.1155149296130666</data>
+  <data key="d13">0.14646308976840167</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.8979360956972022</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32097422820701926</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.029166512352381425</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.029143666569360738</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.04072192096058121</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.06996363053817095</data>
+  <data key="d18">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">3.247045230407824</data>
+  <data key="d13">0.060943243720227504</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3079723037533424</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.025232392873675458</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">3.307526869863624</data>
+  <data key="d13">0.059607573420548204</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">1</data>
+  <data key="d17">0.30234070329449264</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.050407839418752896</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.022372514922143955</data>
+  <data key="d14">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.2797066148872687</data>
+  <data key="d13">0.07446047785747295</data>
+  <data key="d14">0</data>
+  <data key="d15">5.699266537218172</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4386529360706575</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.06293379173885556</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.315658029394582</data>
+  <data key="d13">0.09662156218288814</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">5.898293845150992</data>
+  <data key="d16">1</data>
+  <data key="d17">0.23171437430603928</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-linjenchun-7e473e6695">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.08785828646351256</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">6.997167617509305</data>
+  <data key="d13">0.1023009454981479</data>
+  <data key="d18">6.997167617509305</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14291496997980413</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.884860727692016</data>
+  <data key="d13">0.11741875065131495</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">1</data>
+  <data key="d17">0.34663718438845853</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">4.44454554140468</data>
+  <data key="d13">0.12249019711862832</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">6.2205126251762355</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2249948820828044</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.05056864717159056</data>
+  <data key="d18">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-lintsungnan-86da824817">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.09144708018432023</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08127727847171692</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.153153917807708</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.2034947544302793</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.36994638803150953</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.25049563405177966</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">4.619556683796025</data>
+  <data key="d13">0.20328256091197938</data>
+  <data key="d18">4.619556683796025</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21647098811617366</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.05675268544060209</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-linshoude-660534418a">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.07929950630311579</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.17059386768192833</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.11417096161644648</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.888946240904944</data>
+  <data key="d13">0.12558983285562575</data>
+  <data key="d18">2.888946240904944</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3461469742291765</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">3.4369154642642346</data>
+  <data key="d13">0.11138107889042899</data>
+  <data key="d18">3.4369154642642346</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2909585674706367</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.3511863785294385</data>
+  <data key="d13">0.026293039323568253</data>
+  <data key="d14">0</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7400903501472154</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.07176068559484482</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.609798137885731</data>
+  <data key="d13">0.04310827690913938</data>
+  <data key="d14">0</data>
+  <data key="d15">4.024495344714327</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6211958980853185</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.8452867322391295</data>
+  <data key="d13">0.14438253940852339</data>
+  <data key="d18">4.8452867322391295</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20638613466284475</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.10598031594031694</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.048870843396020644</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.033583549892207604</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d12">1.3511863785294385</data>
+  <data key="d13">0.03185551897398597</data>
+  <data key="d14">0</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7400903501472154</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">3.3754513329831672</data>
+  <data key="d13">0.0912489281395469</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29625667839690545</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">6.264397573888112</data>
+  <data key="d13">0.156396095946406</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1596322692174424</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.0980751149566476</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">4.6694427143059</data>
+  <data key="d13">0.1637563511407049</data>
+  <data key="d18">4.6694427143059</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21415831849404052</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.06722626715579505</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.12221501622858097</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08275341771472954</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">4.6694427143059</data>
+  <data key="d13">0.13158172921319017</data>
+  <data key="d18">4.6694427143059</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21415831849404052</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08301741219050529</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.3347764403097492</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.051357338859071254</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07355043553637308</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.15437590312779054</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.1385939289635377</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="ntu-ds-maweiyun-d303532c6d">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.10331699228116126</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.18414897864625998</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">4.6694427143059</data>
+  <data key="d13">0.16427875581314233</data>
+  <data key="d18">4.6694427143059</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21415831849404052</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d12">3.3754513329831672</data>
+  <data key="d13">0.1139235703443311</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29625667839690545</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d12">1.609798137885731</data>
+  <data key="d13">0.05824209792671509</data>
+  <data key="d14">0</data>
+  <data key="d15">4.024495344714327</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6211958980853185</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">3.3754513329831672</data>
+  <data key="d13">0.10521175411243895</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29625667839690545</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.12244601098990487</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08393146671923243</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.15258448819429</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-mingyuehhuang-e0d8d52531" target="ntu-ds-tsojungyen-ab6f30a1f1">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.05988129146277615</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ntu-ds-mingyuehhuang-e0d8d52531" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.04724706438917694</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">6.113070055033836</data>
+  <data key="d13">0.14687727393160777</data>
+  <data key="d18">6.113070055033836</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16358392607926117</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.09438597390578495</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.1254101158922739</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.2279912301761835</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">3.3754513329831672</data>
+  <data key="d13">0.09154002443036524</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29625667839690545</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.03497564779116801</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-tsaoyu-b589dcdd49" target="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.09747062629946579</data>
+  <data key="d18">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-ds-tsaoyu-b589dcdd49" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.0303283780894511</data>
+  <data key="d14">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-ds-tsojungyen-ab6f30a1f1" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08652716499172117</data>
+  <data key="d18">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">5.960147453379538</data>
+  <data key="d13">0.14927492155054436</data>
+  <data key="d18">4.6694427143059</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16778108391143534</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.0983879876968271</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.06744072794359399</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.12260489848398716</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-wangchihyu-3933d444d6" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.4307973017025664</data>
+  <data key="d13">0.04190602891024379</data>
+  <data key="d14">0</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6989110189193519</data>
+</edge>
+<edge source="ntu-ds-wangchihyu-3933d444d6" target="ntu-ds-wufangjing-301b084151">
+  <data key="d12">4.631945431922955</data>
+  <data key="d13">0.07815356507002029</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21589200794726318</data>
+</edge>
+<edge source="ntu-ds-wangchihyu-3933d444d6" target="ntu-ds-wangchuanju-ba03252081">
+  <data key="d12">1.3511863785294385</data>
+  <data key="d13">0.057734243961067085</data>
+  <data key="d14">0</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7400903501472154</data>
+</edge>
+<edge source="ntu-ds-wangchihyu-3933d444d6" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.07554397081101084</data>
+  <data key="d18">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-ds-wangchuanju-ba03252081" target="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d12">1.3511863785294385</data>
+  <data key="d13">0.04765292783408942</data>
+  <data key="d14">0</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7400903501472154</data>
+</edge>
+<edge source="ntu-ds-wangchuanju-ba03252081" target="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.08716821153185245</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-wangchuanju-ba03252081" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.973692834814473</data>
+  <data key="d13">0.26861047953588957</data>
+  <data key="d18">4.973692834814473</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.20105785242712954</data>
+</edge>
+<edge source="ntu-ds-wangchuanju-ba03252081" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.20468350124041662</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-weichungwang-46d1252dcf" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.4307973017025664</data>
+  <data key="d13">0.03458857056861688</data>
+  <data key="d14">0</data>
+  <data key="d15">3.576993254256416</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6989110189193519</data>
+</edge>
+<edge source="ntu-ds-wufangjing-301b084151" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.07584747766859817</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-wufangjing-301b084151" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.041721082680263574</data>
+  <data key="d18">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-ds-wupeiyuan-e3ad438290" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.05975005462418755</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-wupeiyuan-e3ad438290" target="ntu-ds-wutirong-522ceb7891">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.1086235217944003</data>
+  <data key="d18">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-ds-wutirong-522ceb7891" target="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.27196182387671225</data>
+  <data key="d18">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+</graph></graphml>

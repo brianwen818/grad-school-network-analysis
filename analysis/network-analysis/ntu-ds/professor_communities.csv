@@ -1,0 +1,48 @@
+﻿node,professor_name,name_en,school_ids,dominant_l1,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+ntu-ds-changronaldy-a78313ae63,張佑榕,"Chang, Ronald Y.",ntu-ds,Networks & Communications,1,1,3,1
+ntu-ds-changyaowen-7aab305c05,張耀文,"Chang, Yao-Wen",ntu-ds,"Robotics, Control & Smart Manufacturing",2,3,1,3
+ntu-ds-changyuanhao-1d8a41b51b,張原豪,"Chang, Yuan-Hao",ntu-ds,"Systems, Software & Architecture",2,3,1,3
+ntu-ds-chenchusong-9acf325951,陳祝嵩,"Chen, Chu-Song",ntu-ds,"Vision, Multimedia & Human-Centered Computing",0,1,7,1
+ntu-ds-chenghsiangyun-dd0d28d44a,鄭湘筠,"Cheng, Hsiang-Yun",ntu-ds,"Systems, Software & Architecture",2,3,1,3
+ntu-ds-chengpujen-ead86da3e9,鄭卜壬,"Cheng, Pu-Jen",ntu-ds,"Data, Databases & Knowledge Discovery",1,1,3,1
+ntu-ds-chengwenhuang-7531301010,鄭文皇,"Cheng, Wen-Huang",ntu-ds,AI & Machine Learning,0,0,4,0
+ntu-ds-chenhsinhsi-6c5257ce25,陳信希,"Chen, Hsin-Hsi",ntu-ds,"Data, Databases & Knowledge Discovery",1,4,2,4
+ntu-ds-chenjuncheng-090ef61af5,陳駿丞,"Chen, Jun-Cheng",ntu-ds,AI & Machine Learning,0,0,0,0
+ntu-ds-chenlingjyh-5fa406eb09,陳伶志,"Chen, Ling-Jyh",ntu-ds,"Data, Databases & Knowledge Discovery",1,1,3,1
+ntu-ds-chenmingsyan-8fa63ae675,陳銘憲,"Chen, Ming-Syan",ntu-ds,AI & Machine Learning,0,2,5,2
+ntu-ds-chenshangtse-47653327f1,陳尚澤,"Chen, Shang-Tse",ntu-ds,AI & Machine Learning,0,2,5,2
+ntu-ds-chenyunnung-e290620faf,陳縕儂,"Chen, Yun-Nung",ntu-ds,AI & Machine Learning,1,4,2,4
+ntu-ds-chunhaoyang-8f0203e6f5,楊鈞澔,Chun-Hao Yang,ntu-ds,Statistics & Statistical Methods,0,5,0,5
+ntu-ds-chunhouhchen-0af0210f26,陳君厚,Chun-Houh Chen,ntu-ds,Biomedical & Health Informatics,1,2,6,2
+ntu-ds-gaspardbernard-b86127ba99,柏嘉偲,Gaspard Bernard,ntu-ds,Statistics & Statistical Methods,0,5,0,5
+ntu-ds-hongdingyong-97b7056823,洪鼎詠,"Hong, Ding-Yong",ntu-ds,"Systems, Software & Architecture",2,3,1,3
+ntu-ds-hsiehhungyun-d8718bc559,謝宏昀,"Hsieh, Hung-Yun",ntu-ds,AI & Machine Learning,0,0,0,0
+ntu-ds-hsinchouyang-a5478bbe7e,楊欣洲,Hsin-Chou Yang,ntu-ds,Biomedical & Health Informatics,1,2,6,2
+ntu-ds-hsiupicheng-b36d32ffcb,修丕承,"Hsiu, Pi-Cheng",ntu-ds,AI & Machine Learning,0,0,4,0
+ntu-ds-huanghenhsen-b5b46283ba,黃瀚萱,"Huang, Hen-Hsen",ntu-ds,AI & Machine Learning,1,4,2,4
+ntu-ds-huangyennun-474cb98b48,黃彥男,"Huang, Yen-Nun",ntu-ds,Networks & Communications,1,1,3,1
+ntu-ds-hungshihhao-96d729e98f,洪士灝,"Hung, Shih-Hao",ntu-ds,"Systems, Software & Architecture",2,3,1,3
+ntu-ds-jiangjiehongroland-e6ba2046e1,江介宏,"Jiang, Jie-Hong Roland",ntu-ds,"Robotics, Control & Smart Manufacturing",2,3,1,3
+ntu-ds-kulunwei-57dc39df53,古倫維,"Ku, Lun-Wei",ntu-ds,AI & Machine Learning,1,4,2,4
+ntu-ds-leechunyi-1316e79287,李濬屹,"Lee, Chun-Yi",ntu-ds,"Systems, Software & Architecture",2,3,1,3
+ntu-ds-leeyuhjye-a5b58ea312,李育杰,"Lee, Yuh-Jye",ntu-ds,"Data, Databases & Knowledge Discovery",0,2,5,2
+ntu-ds-liaowanjiun-bb42b0521f,廖婉君,"Liao, Wanjiun",ntu-ds,Networks & Communications,1,1,3,1
+ntu-ds-lienyunhsuan-dd216d994b,連云暄,"Lien, Yun-Hsuan",ntu-ds,AI & Machine Learning,0,0,4,0
+ntu-ds-linche-f9f2c9629d,林澤,"Lin, Che",ntu-ds,AI & Machine Learning,0,0,6,0
+ntu-ds-linjenchun-7e473e6695,林仁俊,"Lin, Jen-Chun",ntu-ds,AI & Machine Learning,0,0,4,0
+ntu-ds-linshoude-660534418a,林守德,"Lin, Shou-De",ntu-ds,AI & Machine Learning,1,4,2,4
+ntu-ds-lintsungnan-86da824817,林宗男,"Lin, Tsung-Nan",ntu-ds,AI & Machine Learning,0,0,0,0
+ntu-ds-liutzuyu-02a716bf8c,劉子毓,"Liu, Tzu-Yu",ntu-ds,AI & Machine Learning,0,0,4,0
+ntu-ds-maweiyun-d303532c6d,馬偉雲,"Ma, Wei-Yun",ntu-ds,AI & Machine Learning,0,4,2,4
+ntu-ds-mingyuehhuang-e0d8d52531,黃名鉞,Ming-Yueh Huang,ntu-ds,Statistics & Statistical Methods,0,5,0,5
+ntu-ds-sunshaohua-45e93fffca,孫紹華,"Sun, Shao-Hua",ntu-ds,AI & Machine Learning,0,0,4,0
+ntu-ds-tsaoyu-b589dcdd49,曹昱,"Tsao, Yu",ntu-ds,AI & Machine Learning,1,4,2,4
+ntu-ds-tsojungyen-ab6f30a1f1,顏佐榕,Tso-Jung Yen,ntu-ds,Statistics & Statistical Methods,0,5,0,5
+ntu-ds-wangchienyao-f1c3a0bfd6,王建堯,"Wang, Chien Yao",ntu-ds,"Vision, Multimedia & Human-Centered Computing",0,1,7,1
+ntu-ds-wangchihyu-3933d444d6,王志宇,"Wang, Chih-Yu",ntu-ds,Networks & Communications,1,1,3,1
+ntu-ds-wangchuanju-ba03252081,王釧茹,"Wang, Chuan-Ju",ntu-ds,AI & Machine Learning,0,2,5,2
+ntu-ds-weichungwang-46d1252dcf,王偉仲,Wei-Chung Wang,ntu-ds,Applied Mathematics & Operations Research,1,2,6,2
+ntu-ds-wufangjing-301b084151,巫芳璟,"Wu, Fang-Jing",ntu-ds,Networks & Communications,1,1,3,1
+ntu-ds-wupeiyuan-e3ad438290,吳沛遠,"Wu, Pei-Yuan",ntu-ds,AI & Machine Learning,0,5,0,5
+ntu-ds-wutirong-522ceb7891,吳廸融,"Wu, Ti-Rong",ntu-ds,AI & Machine Learning,0,0,4,0
+ntu-ds-yehmiyen-560d12ebe9,葉彌妍,"Yeh, Mi-Yen",ntu-ds,AI & Machine Learning,0,2,5,2

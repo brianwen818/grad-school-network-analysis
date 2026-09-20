@@ -1,0 +1,26 @@
+{
+  "school_id": "ntu-econ",
+  "analyzed_at": "2026-09-09T16:18:41+08:00",
+  "faculty_count": 49,
+  "role_counts": {
+    "faculty": 24,
+    "full_time": 22
+  },
+  "merge_status_counts": {
+    "en_only": 7,
+    "matched": 38,
+    "zh_only": 4
+  },
+  "bilingual_match_rate": 0.7755,
+  "field_completion_rates": {
+    "name_zh": 0.8571,
+    "name_en": 0.9184,
+    "education_zh": 0.8571,
+    "education_en": 0.8163,
+    "research_interests_zh": 0.8571,
+    "research_interests_en": 0.8367
+  },
+  "pages_visited": 89,
+  "warnings": [],
+  "errors": []
+}

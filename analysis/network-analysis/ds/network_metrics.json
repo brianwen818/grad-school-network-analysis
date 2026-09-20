@@ -1,0 +1,125 @@
+{
+  "unit": "ds",
+  "level": "group",
+  "school_ids": [
+    "ncku-stats-ds",
+    "ntu-comm-engin-ds-network",
+    "ntu-ds"
+  ],
+  "deduplicated": true,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 141,
+    "n_entities": 131,
+    "n_duplicate_records_removed": 10,
+    "n_in_network": 114,
+    "n_excluded_no_keywords": 17,
+    "coverage_pct": 87.0
+  },
+  "bipartite": {
+    "n_professors": 114,
+    "n_keywords": 86,
+    "n_edges": 349,
+    "density": 0.03559771521827825,
+    "n_connected_components": 4,
+    "lcc_n_nodes": 186,
+    "lcc_n_professors": 107,
+    "lcc_n_keywords": 79,
+    "lcc_node_share": 0.93,
+    "lcc_professor_share": 0.9385964912280702,
+    "professor_degree_mean": 3.06140350877193,
+    "professor_degree_max": 9,
+    "keyword_degree_mean": 4.058139534883721,
+    "keyword_degree_max": 26
+  },
+  "keyword_network": {
+    "n_nodes": 79,
+    "n_edges": 382,
+    "density": 0.12398571892242778,
+    "mean_degree": 9.670886075949367,
+    "mean_weight": 1.4528795811518325,
+    "avg_clustering": 0.6483915355002967,
+    "modularity_q_by_resolution": {
+      "0.7": 0.5068853177501826,
+      "1.0": 0.39669182696209726,
+      "1.3": 0.327354273192111
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 5,
+      "1.3": 5
+    },
+    "modularity_q": 0.39669182696209726,
+    "n_communities": 5,
+    "girvan_newman": {},
+    "taxonomy_alignment_nmi": 0.47603300162301354,
+    "taxonomy_alignment_ari": 0.30175178326400354,
+    "pearson_degree_betweenness_r": 0.7210446122067474,
+    "pearson_degree_betweenness_p": 6.690640716930105e-14
+  },
+  "professor_network": {
+    "n_nodes": 107,
+    "n_edges": 1555,
+    "density": 0.2742020807617704,
+    "mean_degree": 29.065420560747665,
+    "avg_clustering": 0.7805067172803555,
+    "modularity_q_by_resolution": {
+      "0.7": 0.5648549029233816,
+      "1.0": 0.4142902388181395,
+      "1.3": 0.3062303885840566
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 4,
+      "1.3": 5
+    },
+    "modularity_q": 0.4142902388181395,
+    "n_communities": 4,
+    "assortativity_dominant_l1": 0.36336975037407754,
+    "assortativity_role_groups": 0.008382803079491682,
+    "assortativity_school": 0.24290246484282954,
+    "community_vs_dominant_l1_nmi": 0.6287080657283446,
+    "community_vs_dominant_l1_ari": 0.48660993157674387
+  },
+  "guardrails": {
+    "l1_too_broad": [],
+    "lambda_over_merging": []
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 7,
+    "professors_without_chinese_name": [
+      {
+        "node_id": "ncku-stats-ds-chichunhsia-826f072271",
+        "name_en": "Chi-Chun Hsia"
+      },
+      {
+        "node_id": "ncku-stats-ds-chihchiehwu-f4240ef7d4",
+        "name_en": "Chih-Chieh Wu"
+      },
+      {
+        "node_id": "ncku-stats-ds-chingtiliu-2cc20e2d15",
+        "name_en": "Ching-Ti Liu"
+      },
+      {
+        "node_id": "ncku-stats-ds-hsiulihsi-c8baf98fee",
+        "name_en": "Hsiu-Li Hsi"
+      },
+      {
+        "node_id": "ncku-stats-ds-piocheng-2e27b06feb",
+        "name_en": "Pi-O Cheng"
+      },
+      {
+        "node_id": "ncku-stats-ds-wengkeewong-5482e739e7",
+        "name_en": "Weng Kee Wong"
+      },
+      {
+        "node_id": "ncku-stats-ds-yihauchen-1c07c2ff45",
+        "name_en": "Yi-Hau Chen"
+      }
+    ]
+  }
+}

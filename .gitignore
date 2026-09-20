@@ -1,0 +1,40 @@
+# --- Python -----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# --- Secrets ----------------------------------------------------------------
+# Salt used to pseudonymise faculty e-mail addresses. Never commit this:
+# publishing it would make the redacted tokens reversible by brute force.
+.email-salt
+.env
+
+# --- Generated output -------------------------------------------------------
+# by-figures/ is a re-arranged *copy* of every <unit>/figures/*.png (462 files,
+# ~116 MB of byte-identical duplicates). It is rebuilt from scratch by
+# scripts/network-analysis/current-version/4_group_and_cross_comparison.ipynb,
+# so it is kept out of version control.
+analysis/network-analysis/by-figures/
+
+# The 15 report PDFs (~47 MB) duplicate analysis/final-summarized-reports/markdown/,
+# which GitHub renders directly in the browser. They are published as release
+# assets instead, so cloning the repository does not drag them along:
+#   https://github.com/brianwen818/grad-school-network-analysis/releases/latest
+analysis/final-summarized-reports/pdf/
+
+# --- Third-party reference material ------------------------------------------
+# The HKUST FM notebooks are not our work and carry no known licence, so they
+# are not redistributed here. See previous-examples/core-ideas.md for the ideas
+# they contributed.
+scripts/network-analysis/previous-examples/*.ipynb
+
+# --- OS / editor --------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

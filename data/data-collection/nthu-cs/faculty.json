@@ -1,0 +1,3571 @@
+[
+  {
+    "faculty_id": "nthu-cs-chengwenwu-0931c8d9b1",
+    "school_id": "nthu-cs",
+    "name_zh": "",
+    "name_en": "Cheng-Wen Wu",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [],
+    "education_en": [
+      "PhD, University of California at Santa Barbara"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [
+      "Design and testing of reliable VLSI cores and systems"
+    ],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/gapp.nthu.edu.tw/cww/"
+    ],
+    "emails": [
+      "b1208663ebaf27dd@redacted.invalid"
+    ],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-chunglaungliu-81c34bb998",
+    "school_id": "nthu-cs",
+    "name_zh": "",
+    "name_en": "Chung Laung Liu",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [],
+    "titles_en": [
+      "Professor",
+      "Chair, Honorary Chair Professor and Honorary Professor"
+    ],
+    "education_zh": [],
+    "education_en": [
+      "PhD,MIT"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [
+      "Algorithms, CAD"
+    ],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=674"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "ea70ab8580d37736@redacted.invalid"
+    ],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-wenlianhsu-baee37b511",
+    "school_id": "nthu-cs",
+    "name_zh": "",
+    "name_en": "Wen-Lian Hsu",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [],
+    "education_en": [
+      "PhD,Cornell University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [
+      "Natural language processing, Operations research, Discrete math"
+    ],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/IASL/hsu/index.html"
+    ],
+    "emails": [
+      "5b03a1d337c47ea0@redacted.invalid"
+    ],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-丁川康-09362c5c83",
+    "school_id": "nthu-cs",
+    "name_zh": "丁川康",
+    "name_en": "Chuan-Kang Ting",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "德國帕德博恩大學博士"
+    ],
+    "education_en": [
+      "Dr. rer. nat., Universität Paderborn, Germany"
+    ],
+    "research_interests_zh": [
+      "演化計算、人工智慧、計算智慧、機器學習、AI音樂與藝術"
+    ],
+    "research_interests_en": [
+      "Evolutionary Computation, Artificial Intelligence, Computational Intelligence, Machine Learning, AI Music and Art"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://mx.nthu.edu.tw/~ckting/"
+    ],
+    "emails": [
+      "9e98539e63c34a58@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-劉炯朗-714cd73f70",
+    "school_id": "nthu-cs",
+    "name_zh": "劉炯朗",
+    "name_en": "",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "蒙民偉榮譽講座 /",
+      "榮譽講座"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國麻省理工學院博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "計算機演算法、設計自動化"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=461"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.nthu.edu.tw/hotNews/content/998"
+    ],
+    "emails": [
+      "44fe718020149161@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-吳中浩-2da90a2f27",
+    "school_id": "nthu-cs",
+    "name_zh": "吳中浩",
+    "name_en": "Wu Chung -Haw",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education_zh": [
+      "美國加州大學爾灣分校博士"
+    ],
+    "education_en": [
+      "PhD, University of California, Irvine"
+    ],
+    "research_interests_zh": [
+      "計算機結構、數字媒體"
+    ],
+    "research_interests_en": [
+      "Computer Architecture, Digital Media"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcs/"
+    ],
+    "emails": [
+      "dfe89117841b54c8@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-吳尚鴻-69aaff2ef5",
+    "school_id": "nthu-cs",
+    "name_zh": "吳尚鴻",
+    "name_en": "Shan-Hung Wu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "機器學習、巨量資料處理、App 智能"
+    ],
+    "research_interests_en": [
+      "Machine Learning and Data Mining, Cloud Database Systems, Social Network and User Behavior Analysis"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~shwu/"
+    ],
+    "emails": [
+      "ec8ebba8fd1a9b68@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-周志遠-5af43e1b90",
+    "school_id": "nthu-cs",
+    "name_zh": "周志遠",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "特聘教授/ 資應所所長",
+      "專任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "加州大學 聖地牙哥分校博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "分散式系統、雲端計算、高效計算、系統資源管理、儲存系統"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://lsalab.cs.nthu.edu.tw/home/"
+    ],
+    "emails": [
+      "b5c1889dfd386079@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-周百祥-cf9a8d7b4b",
+    "school_id": "nthu-cs",
+    "name_zh": "周百祥",
+    "name_en": "Pai H. Chou",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國華盛頓大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Washington, USA"
+    ],
+    "research_interests_zh": [
+      "嵌入式系統硬軟體"
+    ],
+    "research_interests_en": [
+      "Hardware and software for embedded systems"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~phchou/"
+    ],
+    "emails": [
+      "df9ff87c69784a18@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-唐傳義-7f081eb094",
+    "school_id": "nthu-cs",
+    "name_zh": "唐傳義",
+    "name_en": "Chuan-Yi Tang",
+    "role_groups": [
+      "adjunct",
+      "joint",
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "兼任教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "PhD, National Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "Algorithm design, Parallel algorithms, Protocol testing, Computational biology"
+    ],
+    "research_interests_en": [
+      "lgorithm design, Parallel algorithms, Protocol testing, Computational biology"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430",
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cytang/"
+    ],
+    "emails": [
+      "7bb71ea03a694a5c@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-孫宏民-ae6348d2b8",
+    "school_id": "nthu-cs",
+    "name_zh": "孫宏民",
+    "name_en": "Hung-Min Sun",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "PhD, National Chiao-Tung University"
+    ],
+    "research_interests_zh": [
+      "資訊安全、深度學習、區塊鏈、金融商品程式交易"
+    ],
+    "research_interests_en": [
+      "Information Security, Deep Learning, BlockChain, Program Trading"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://is.cs.nthu.edu.tw",
+      "http://is.cs.nthu.edu.tw/wiki/doku.php?id=advisor:main"
+    ],
+    "emails": [
+      "855ee90c31ad2fe8@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-張世杰-c7720e7bf2",
+    "school_id": "nthu-cs",
+    "name_zh": "張世杰",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國加州大學聖塔芭芭拉分校博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "VLSI設計與設計自動化"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~scchang/"
+    ],
+    "emails": [
+      "def06a5506663b04@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-張俊盛-260bd4fef4",
+    "school_id": "nthu-cs",
+    "name_zh": "張俊盛",
+    "name_en": "Jason S. Chang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國紐約大學博士"
+    ],
+    "education_en": [
+      "PhD, New York University"
+    ],
+    "research_interests_zh": [
+      "自然語言處理、資訊檢索、機器翻譯、自動問題回答"
+    ],
+    "research_interests_en": [
+      "Natural language processing, Knowledge management, IR, MT, AI"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/document/Faculty/jschang.html"
+    ],
+    "emails": [
+      "4d6688881329ee4f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-張君天-43ab3fd7b9",
+    "school_id": "nthu-cs",
+    "name_zh": "張君天",
+    "name_en": "Chun-Tien Chang",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任助理教授",
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Adjunct Professors"
+    ],
+    "education_zh": [
+      "國立清華大學博士"
+    ],
+    "education_en": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "生物資訊系統管理"
+    ],
+    "research_interests_en": [
+      "Bioinformatics system management"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcs/"
+    ],
+    "emails": [
+      "150217b1dc7d4bfd@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-張峻銘-b2df996158",
+    "school_id": "nthu-cs",
+    "name_zh": "張峻銘",
+    "name_en": "Tsun Ming Cheung",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "加拿大麥基爾大學博士"
+    ],
+    "education_en": [
+      "PhD, McGill University"
+    ],
+    "research_interests_zh": [
+      "複雜度理論、演算法理論及應用、離散數學"
+    ],
+    "research_interests_en": [
+      "Complexity Theory, Algorithm Theory and Applications, Discrete Mathematics"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/view/ben-tsun-ming-cheung"
+    ],
+    "emails": [
+      "9178dcfefd46e2bf@redacted.invalid",
+      "cbcfcfc8e33b1606@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-張正尚-0173f59db1",
+    "school_id": "nthu-cs",
+    "name_zh": "張正尚",
+    "name_en": "Cheng-Shang Chang",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [
+      "美國哥倫比亞大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Columbia"
+    ],
+    "research_interests_zh": [
+      "通訊網路、排隊理論、隨機程序"
+    ],
+    "research_interests_en": [
+      "Queueing theory, Stochastic scheduling performance evaluation of telecommunication networks and parallel processing systems"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.nthu.edu.tw/cschang/"
+    ],
+    "emails": [
+      "0e1e2d24c85d1c16@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-張真誠-f90f3dfae1",
+    "school_id": "nthu-cs",
+    "name_zh": "張真誠",
+    "name_en": "Chin-Chen Chang",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "PhD, National Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "資料庫設計、密碼與網路安全、多媒體影像處理"
+    ],
+    "research_interests_en": [
+      "Database design, E-Business security, Electronic imaging techniques, Computer cryptography"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://msn.iecs.fcu.edu.tw/~ccc/index.php",
+      "http://www.cs.ccu.edu.tw/~ccc/"
+    ],
+    "emails": [
+      "ef561278e0b2350e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-張隆紋-6579e42cba",
+    "school_id": "nthu-cs",
+    "name_zh": "張隆紋",
+    "name_en": "Long-Wen Chang",
+    "role_groups": [
+      "adjunct",
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "兼任教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國新墨西哥大學博士"
+    ],
+    "education_en": [
+      "PhD, University of New Mexico"
+    ],
+    "research_interests_zh": [
+      "影像處理、影像壓縮、數位浮水印、多媒體資訊安全、計算機視覺、策略賽局"
+    ],
+    "research_interests_en": [
+      "Image data compression, Information security and cryptography, Video communication, Image processing, Game theory"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430",
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~lchang/"
+    ],
+    "emails": [
+      "603ccbb38ccdd42f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-張韻詩-a94b4eca78",
+    "school_id": "nthu-cs",
+    "name_zh": "張韻詩",
+    "name_en": "",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "信興榮譽講座",
+      "榮譽講座"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國麻省理工學院博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "即時系統、分散式系統"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=461"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/pages/janeliu/cindex.html"
+    ],
+    "emails": [
+      "70f20ab0fc01382a@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-徐正炘-8b568ce001",
+    "school_id": "nthu-cs",
+    "name_zh": "徐正炘",
+    "name_en": "Cheng-Hsin Hsu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授/ 副系主任",
+      "主任 / 副系主任",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "西門菲莎大學博士"
+    ],
+    "education_en": [
+      "PhD, Simon Fraser University, Canada."
+    ],
+    "research_interests_zh": [
+      "多媒體通訊, 通訊網路, 分散式系統, 線上遊戲"
+    ],
+    "research_interests_en": [
+      "Multimedia networking, mobile multimedia, networked games, and peer-to-peer networks."
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1107",
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1110",
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://aiins.cs.nthu.edu.tw/cheng-hsin-hsu/"
+    ],
+    "emails": [
+      "9880a4be1052b941@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-徐爵民-eade3af147",
+    "school_id": "nthu-cs",
+    "name_zh": "徐爵民",
+    "name_en": "Jyuo-Min Shyu",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授 Jyuo-Min Shyu",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國加州大學柏克萊分校博士"
+    ],
+    "education_en": [
+      "PhD, University of California at Berkeley"
+    ],
+    "research_interests_zh": [
+      "微電子、設計自動化"
+    ],
+    "research_interests_en": [
+      "Microelectronic system design and applications, Optimization-based design, Multicore design automation"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "827e40db83586f55@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-朱宏國-642998a4aa",
+    "school_id": "nthu-cs",
+    "name_zh": "朱宏國",
+    "name_en": "Hung-Kuo Chu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立成功大學博士"
+    ],
+    "education_en": [
+      "PhD, National Cheng Kung University"
+    ],
+    "research_interests_zh": [
+      "電腦圖學、電腦視覺、三維重建、延展實境、數位雙生、運動科技"
+    ],
+    "research_interests_en": [
+      "Computer Graphics, Computer Vision, 3D Modeling/Reconstruction, Extended Reality, Digital Twin, Sports Technology"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://cgv.cs.nthu.edu.tw/hkchu/",
+      "http://cgv.cs.nthu.edu.tw/hkchu/website/Home.html"
+    ],
+    "emails": [
+      "ceeae9e3a9d7dc57@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-李哲榮-722a84d1c8",
+    "school_id": "nthu-cs",
+    "name_zh": "李哲榮",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授 / 電資班主任",
+      "專任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國馬里蘭大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "數值分析、科學計算、高效計算"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cherung/"
+    ],
+    "emails": [
+      "119ee618960a104c@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-李家同-c1f2d67113",
+    "school_id": "nthu-cs",
+    "name_zh": "李家同",
+    "name_en": "",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "清華榮譽講座",
+      "榮譽講座"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國加州大學柏克萊分校博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "計算方法設計、平行計算方法、自動定理證、通訊理論"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=461"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://erdos.csie.ncnu.edu.tw/~rctlee/article/index.htm"
+    ],
+    "emails": [
+      "e07f890a5a5b77da@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-李政崑-965a47032e",
+    "school_id": "nthu-cs",
+    "name_zh": "李政崑",
+    "name_en": "Jenq-Kuen Lee",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國印地安那大學博士"
+    ],
+    "education_en": [
+      "PhD, Indiana University"
+    ],
+    "research_interests_zh": [
+      "平行語言設計、編譯器、Java系統軟體環境"
+    ],
+    "research_interests_en": [
+      "Optimizing compiler, System software for low-power and embedded systems, Object-oriented parallel languages, Computer architectures, Pervasive computing"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://pllab.cs.nthu.edu.tw/~jklee/"
+    ],
+    "emails": [
+      "2ce122c9ee16570c@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-李端興-72950bb080",
+    "school_id": "nthu-cs",
+    "name_zh": "李端興",
+    "name_en": "Duan-Shin Lee",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國哥倫比亞大學博士"
+    ],
+    "education_en": [
+      "PhD, Columbia University"
+    ],
+    "research_interests_zh": [
+      "強化學習、賽局理論、羽球之電腦視覺、無線網路"
+    ],
+    "research_interests_en": [
+      "Computer communication networks, Performance analysis, Queueing theory, Social networks, Data science, Machine learning, AI"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://bcc.cs.nthu.edu.tw/lds_profile/index.htm"
+    ],
+    "emails": [
+      "e718d980763a39b4@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-林文綺-074edb2d01",
+    "school_id": "nthu-cs",
+    "name_zh": "林文綺",
+    "name_en": "",
+    "role_groups": [
+      "adjunct",
+      "practice"
+    ],
+    "titles_zh": [
+      "兼任助理教授級實務教師",
+      "兼任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "國立交通大學碩士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "UXUI 用戶經驗設計、劇本導引設計思考、資訊設計、Usability 使用性評估"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "ac5da98963ddc889@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-林桂傑-3eab7348de",
+    "school_id": "nthu-cs",
+    "name_zh": "林桂傑",
+    "name_en": "Kwei-Jay Lin",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [
+      "美國馬里蘭大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Maryland, College Park"
+    ],
+    "research_interests_zh": [
+      "電子商務網路系統"
+    ],
+    "research_interests_en": [
+      "Electronic commerce and internet computing"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "33737bc77b90459f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-林永隆-971ac78e0f",
+    "school_id": "nthu-cs",
+    "name_zh": "林永隆",
+    "name_en": "",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "清華講座",
+      "榮譽退休教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國伊利諾大學香檳城分校博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "設計自動化、積體電路與系統設計"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~ylin/"
+    ],
+    "emails": [
+      "c13d64725fb9c676@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-林沿妊-ab6c251917",
+    "school_id": "nthu-cs",
+    "name_zh": "林沿妊",
+    "name_en": "",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任副教授",
+      "兼任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "國立清華大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "生物資訊"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "ade5de86ef6ad1a9@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-林瀚仚-8176500c13",
+    "school_id": "nthu-cs",
+    "name_zh": "林瀚仚",
+    "name_en": "Han-Hsuan Lin",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "麻省理工學院博士"
+    ],
+    "education_en": [
+      "PhD, Massachusetts Institute of Technology"
+    ],
+    "research_interests_zh": [
+      "量子運算"
+    ],
+    "research_interests_en": [
+      "Quantum Computing"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/view/han-hsuan-lins-homepage/home",
+      "http://67149d8254965a0e@redacted.invalid"
+    ],
+    "emails": [
+      "67149d8254965a0e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-林華君-4d8a5842a2",
+    "school_id": "nthu-cs",
+    "name_zh": "林華君",
+    "name_en": "Hwa-Chun Lin",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國南加州大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Southern California"
+    ],
+    "research_interests_zh": [
+      "電腦通訊網路、網路管理、無線網路、系統效率評估"
+    ],
+    "research_interests_en": [
+      "Computer communication networks, Network managenmet, Wireless networks, Performance evaluation"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://alpha5.cs.nthu.edu.tw/labweb/advisor.html"
+    ],
+    "emails": [
+      "3a17722ae0b87843@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-梁雅鈞-9f3d7465e1",
+    "school_id": "nthu-cs",
+    "name_zh": "梁雅鈞",
+    "name_en": "Ya-Chun Liang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "英國利物浦大學博士、國立清華大學博士"
+    ],
+    "education_en": [
+      "Dual Ph.D.s, University of Liverpool, UK and National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "動態演算法、排程與最佳化、演算法理論與應用"
+    ],
+    "research_interests_en": [
+      "Dynamic Algorithms, Online Algorithms, Scheduling and Optimization, Algorithm Theory and Applications"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "32ffb2edb8fd5eed@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-楊熙年-e1cd89ea15",
+    "school_id": "nthu-cs",
+    "name_zh": "楊熙年",
+    "name_en": "Shi-Nine Yang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授 Shi-Nine Yang",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國紐約州立大學博士"
+    ],
+    "education_en": [
+      "PhD, State University N.Y. at Buffalo"
+    ],
+    "research_interests_zh": [
+      "計算機圖學、計算機動畫、多媒體系統"
+    ],
+    "research_interests_en": [
+      "Computer graphics, Multimedia systems"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://cglab.cs.nthu.edu.tw/chinese/about/prof.htm"
+    ],
+    "emails": [
+      "930f8d0ce20c38fb@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-楊舜仁-77d533ddf8",
+    "school_id": "nthu-cs",
+    "name_zh": "楊舜仁",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授 / 系主任",
+      "主任 / 副系主任",
+      "專任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "行動通信網路、行動計算、無線網際網路、網際網路語音、計算機系統效能評估"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1107",
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~sryang/"
+    ],
+    "emails": [
+      "6bda24ca2bb11d3e@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-沈之涯-d5bb9630d8",
+    "school_id": "nthu-cs",
+    "name_zh": "沈之涯",
+    "name_en": "Chih-Ya Shen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "Big Data and Social Network Analytics, Query Processing, Data Mining for Mental Healthcare, Spatial Database Management"
+    ],
+    "research_interests_en": [
+      "Big Data and Social Network Analytics, Query Processing, Data Mining for Mental Healthcare, Spatial Database Management"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~chihya/"
+    ],
+    "emails": [
+      "2677de0c68cac182@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-洪仕軒-a9fa041928",
+    "school_id": "nthu-cs",
+    "name_zh": "洪仕軒",
+    "name_en": "Shih-Hsuan Hung",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國俄勒岡州立大學"
+    ],
+    "education_en": [
+      "PhD, Oregon State University"
+    ],
+    "research_interests_zh": [
+      "電腦圖學、科學及資訊視覺化、幾何建模"
+    ],
+    "research_interests_en": [
+      "Computer Graphics, scientific visualization, information visualization, and geometric modeling"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://vmlab-nthu.notion.site/Shih-Hsuan-Hung-143b8d611ddc808c9ec9c1b9988486fb",
+      "https://drive.google.com/file/d/1tsJaLy1In_F8HWapodAzCXnVohSCc89t/view?usp=sharing"
+    ],
+    "emails": [
+      "e60b95418130b666@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-王俊堯-29ae2991f7",
+    "school_id": "nthu-cs",
+    "name_zh": "王俊堯",
+    "name_en": "Chun-Yao Wang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "特聘教授 / 電通中心主任",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "PhD, National Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "量子邏輯電路合成,、VLSI設計自動化、設計驗證"
+    ],
+    "research_interests_en": [
+      "Electronics design automation, Interconnect verification for SoC"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://nthucad.cs.nthu.edu.tw/~wcyao/"
+    ],
+    "emails": [
+      "90013c3183baa989@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-王家祥-79b45fac37",
+    "school_id": "nthu-cs",
+    "name_zh": "王家祥",
+    "name_en": "Jia-Shung Wang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "國立清華大學博士"
+    ],
+    "education_en": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "多媒體網路、訊號壓縮、演算法設計、超大型積體電路設計"
+    ],
+    "research_interests_en": [
+      "Algorithm design, Neural networks, Image compression, VLSI testing"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://vc.cs.nthu.edu.tw/home/vc_html/member/jswang_c.html"
+    ],
+    "emails": [
+      "984f3fd967565cca@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-王廷基-66e8de998a",
+    "school_id": "nthu-cs",
+    "name_zh": "王廷基",
+    "name_en": "Ting-Chi Wang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國德州大學奧斯汀分校博士"
+    ],
+    "education_en": [
+      "PhD, University of Texas at Austin"
+    ],
+    "research_interests_zh": [
+      "電子設計自動化的方法與軟體製作"
+    ],
+    "research_interests_en": [
+      "Research and Development of Algorithms and Software Tools for Electronic Design Automation"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcwang/"
+    ],
+    "emails": [
+      "610dd786a9aa40d9@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-王炳豐-db84c4528b",
+    "school_id": "nthu-cs",
+    "name_zh": "王炳豐",
+    "name_en": "Biing-Feng Wang",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "清華講座",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "演算法設計與分析、平行計算"
+    ],
+    "research_interests_en": [
+      "Parallel processing, Distributed algorithms, Algorithm design"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://clark.cs.nthu.edu.tw/advisor.php"
+    ],
+    "emails": [
+      "b638c2a6aa794319@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-盧錦隆-6983c0f1dd",
+    "school_id": "nthu-cs",
+    "name_zh": "盧錦隆",
+    "name_en": "Chin-Lung Lu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立清華大學博士"
+    ],
+    "education_en": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "演算法的設計與分析、圖論演算法、計算生物"
+    ],
+    "research_interests_en": [
+      "Design and analysis of algorithms, Graph algorithms and Computational molecular biology"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cllu/"
+    ],
+    "emails": [
+      "f209e17fd92c08c6@redacted.invalid",
+      "37c0c172e2de2944@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-石維寬-b54c54300e",
+    "school_id": "nthu-cs",
+    "name_zh": "石維寬",
+    "name_en": "Wei-Kuan Shih",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國伊利諾大學香檳城分校博士"
+    ],
+    "education_en": [
+      "PhD, University of Illinois, Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "即時系統設計、無線及個人通訊、網際網路技術、多媒體系統"
+    ],
+    "research_interests_en": [
+      "Real-time systems, VLSI/CAD, Algorithm design"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://rtlab.cs.nthu.edu.tw/"
+    ],
+    "emails": [
+      "b873cfb6cafe0609@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-羅婈-fdd893b309",
+    "school_id": "nthu-cs",
+    "name_zh": "羅婈",
+    "name_en": "Ling Lo",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立陽明交通大學博士"
+    ],
+    "education_en": [
+      "PhD, National Yang Ming Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "電腦視覺、視覺生成、多模態理解、可信任AI"
+    ],
+    "research_interests_en": [
+      "Computer Vision, Generative AI, Multimodal Understanding, Trustworthy AI"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://lynn-ling-lo.github.io/"
+    ],
+    "emails": [
+      "0deb9680fee68b39@redacted.invalid",
+      "b96f3c16068ffc4d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-翁正明-fe545e34a2",
+    "school_id": "nthu-cs",
+    "name_zh": "翁正明",
+    "name_en": "Cheng-Ming Weng",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授 Cheng-Ming Weng",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國南佛羅里達大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Southern Florida"
+    ],
+    "research_interests_zh": [
+      "系統效應評估、計算機圖學、計算機輔助設計"
+    ],
+    "research_interests_en": [
+      "Performance evaluation, Computer graphics, B-ISDN"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/document/Faculty/weng.html"
+    ],
+    "emails": [
+      "6ba02e721007024f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-胡敏君-d30f85d433",
+    "school_id": "nthu-cs",
+    "name_zh": "胡敏君",
+    "name_en": "Min-Chun Hu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "多媒體運算、電腦視覺、電腦圖學、擴增實境與虛擬實境"
+    ],
+    "research_interests_en": [
+      "Multimedia Computing, Computer Vision, Computer Graphic, AR/VR"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://mislab.cs.nthu.edu.tw/",
+      "http://mislab.csie.ncku.edu.tw/"
+    ],
+    "emails": [
+      "11eab7a2c2a12f3a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-葉肩宇-1907b9cbf9",
+    "school_id": "nthu-cs",
+    "name_zh": "葉肩宇",
+    "name_en": "",
+    "role_groups": [
+      "adjunct",
+      "practice"
+    ],
+    "titles_zh": [
+      "兼任助理教授級實務教師",
+      "兼任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "中華工學院碩士 (國立清華大學資訊工程學系 博士候選人)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "資訊安全、軟體工程、系統研發"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "941b49e8e5b659d5@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-蔡仁松-13fcaf5bbe",
+    "school_id": "nthu-cs",
+    "name_zh": "蔡仁松",
+    "name_en": "Ren-Song Tsay",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國加州大學柏克萊分校博士"
+    ],
+    "education_en": [
+      "PhD, UC Berkeley, Electrical Engineering and Computer Science"
+    ],
+    "research_interests_zh": [
+      "Blockchain Core Technology and Applications, Distributed Secure IoT Framework, Trusted Computing and Hardware Security Chip, Dafuon Entrepreneurship Education System, Entrepreneurship Learning Map, Edge AI Technology"
+    ],
+    "research_interests_en": [
+      "Distributed IoT framework, AI implementation on edge devices, Blockchain applications, Entrepreneurship learning map"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://logoslab.github.io/",
+      "http://logos.cs.nthu.edu.tw/biohraphy/"
+    ],
+    "emails": [
+      "7bcc23ce93df386c@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-蔡明哲-9d609636c8",
+    "school_id": "nthu-cs",
+    "name_zh": "蔡明哲",
+    "name_en": "Ming-Jer Tsai",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "無線網路(5G)、近似演算法、圖形理論"
+    ],
+    "research_interests_en": [
+      "Wireless networks(5G), Approximation algorithm, Graph theory"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://dclab.cs.nthu.edu.tw/~mjtsai/"
+    ],
+    "emails": [
+      "49091e69226701db@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-蘇豐文-f06969cec0",
+    "school_id": "nthu-cs",
+    "name_zh": "蘇豐文",
+    "name_en": "",
+    "role_groups": [
+      "joint",
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國羅格斯大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "智慧代理人、機器學習理論,基因體知識管理,生物資訊"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108",
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "df9dd7352e31b7cc@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-許健平-128c6ac6ab",
+    "school_id": "nthu-cs",
+    "name_zh": "許健平",
+    "name_en": "Jang-Ping Sheu",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "清華講座",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立清華大學博士"
+    ],
+    "education_en": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "無線網路、行動計算、雲端計算、平行與分散式處理"
+    ],
+    "research_interests_en": [
+      "Wireless sensor networks, Wireless ad hoc networks, Parallel and distributed processing"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://hscc.cs.nthu.edu.tw/~sheujp/",
+      "http://www.cs.nthu.edu.tw/~sheujp"
+    ],
+    "emails": [
+      "472467a2f1a63c71@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-許秋婷-e17039873f",
+    "school_id": "nthu-cs",
+    "name_zh": "許秋婷",
+    "name_en": "Chiou-Ting Hsu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "影像分析與處理、人臉生理訊號偵測、人臉防偽、圖形識別、深度學習"
+    ],
+    "research_interests_en": [
+      "Image/video analysis and processing, Facial physiological signal estimation, Face anti-spoofing, Pattern recognition, Deep Learning"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cthsu/candy.html"
+    ],
+    "emails": [
+      "4a5903770db0f7ea@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-許聞廉-24d823b30b",
+    "school_id": "nthu-cs",
+    "name_zh": "許聞廉",
+    "name_en": "",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國康乃爾大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "演算法、自然語言、生物資訊"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://iasl.iis.sinica.edu.tw/hsu/個人資料/"
+    ],
+    "emails": [
+      "bddc47c29a4bc25a@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-謝源-fe3951f144",
+    "school_id": "nthu-cs",
+    "name_zh": "謝源",
+    "name_en": "Yuan Xie",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [
+      "Ph.D. Princeton University Princeton"
+    ],
+    "education_en": [
+      "Princeton University Princeton, NJ PhD in Electrical Engineering"
+    ],
+    "research_interests_zh": [
+      "VLSI Design, Electronics Design Automation, Computer Architecture, Embedded Systems Design, EDA tools and architectures for 3D IC design, embedded system synthesis, low power and thermal-aware techniques"
+    ],
+    "research_interests_en": [
+      "VLSI Design, Electronics Design Automation, Computer Architecture, Embedded Systems Design, EDA tools and architectures for 3D IC design, embedded system synthesis, low power and thermal-aware techniques"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ece.ucsb.edu/~yuanxie/"
+    ],
+    "emails": [
+      "7f14b10980a81328@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-賴尚宏-15f146b4f1",
+    "school_id": "nthu-cs",
+    "name_zh": "賴尚宏",
+    "name_en": "Shang-Hong Lai",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國佛羅里達大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Florida"
+    ],
+    "research_interests_zh": [
+      "電腦視覺、視訊分析、多媒體技術、人臉影像處理"
+    ],
+    "research_interests_en": [
+      "Computer vision, Image processing, Pattern recognition"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~lai/"
+    ],
+    "emails": [
+      "02b05a6555c26dfd@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-邱德泉-23a7d7b698",
+    "school_id": "nthu-cs",
+    "name_zh": "邱德泉",
+    "name_en": "Te-Chuan Chiu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立臺灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "次世代通訊、邊緣智慧、霧端邊緣運算、智慧物聯網"
+    ],
+    "research_interests_en": [
+      "B5G/6G communications, Edge Intelligence/AI, Fog/Edge Computing, AIoT"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://theochiu.wixsite.com/nthucs"
+    ],
+    "emails": [
+      "1f9e964f4e2f5c3c@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-邱瀞德-99539b19ee",
+    "school_id": "nthu-cs",
+    "name_zh": "邱瀞德",
+    "name_en": "Ching-Te Chiu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國馬里蘭大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Maryland"
+    ],
+    "research_interests_zh": [
+      "多媒體信號處理演算法、電腦視覺演算法、超大型積體電路設計、多媒體信號處理與電腦視覺之多核心與平台加速"
+    ],
+    "research_interests_en": [
+      "Multimedia Signal Processing-Algorithm, Computer Vision-Algorithm/Architecture/VLSI Design; Multimedia and Computer Acceleration in Multi-core/GPU Plat form; High Speed Network design."
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~ctchiu/"
+    ],
+    "emails": [
+      "7464b879daf8b036@redacted.invalid",
+      "7ea28f812a9fc16d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "url",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-郭昱廷-cb1da4e458",
+    "school_id": "nthu-cs",
+    "name_zh": "郭昱廷",
+    "name_en": "Yu-Ting Kuo",
+    "role_groups": [
+      "full_time",
+      "adjunct",
+      "practice"
+    ],
+    "titles_zh": [
+      "兼任教授級實務教師",
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Adjunct Professors"
+    ],
+    "education_zh": [
+      "美國麻省理工學院碩士"
+    ],
+    "education_en": [
+      "Master, Massachusetts Institute of Technology"
+    ],
+    "research_interests_zh": [
+      "Web Search、 Machine Learning、Deep Learning、Computer Vision"
+    ],
+    "research_interests_en": [
+      "Web Search, Machine Learning, Deep Learning, Computer Vision"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcs/"
+    ],
+    "emails": [
+      "16963b8522a9ade0@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-郭柏志-70f6925e3a",
+    "school_id": "nthu-cs",
+    "name_zh": "郭柏志",
+    "name_en": "Po-Chih Kuo",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "PhD, National Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "生醫訊號與影像處理、神經造影、機器學習、智慧醫療"
+    ],
+    "research_interests_en": [
+      "Biomedical signal and image processing, Neuroimaging, Machine Learning, AI for medicine"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/site/bfantasykuo/"
+    ],
+    "emails": [
+      "d68e85774de72f5a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-郭詩芝-9e30a0d384",
+    "school_id": "nthu-cs",
+    "name_zh": "郭詩芝",
+    "name_en": "Shih Chih Kuo",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任助理教授",
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Adjunct Professors"
+    ],
+    "education_zh": [
+      "Indiana University at Bloomington Language Education Ph.D."
+    ],
+    "education_en": [
+      "Indiana University at Bloomington Language Education Ph.D."
+    ],
+    "research_interests_zh": [
+      "Reading & Writing Process, English Listening and Speaking, Early Literacy, Academic Writing, Qualitative Research, Teaching Pedagogy, Critical Literacy, Children Literature, Teacher Education, Cognitive Science, Mind and Body Problem, Philosophy of Mind, and Art."
+    ],
+    "research_interests_en": [
+      "Reading & Writing Process, English Listening and Speaking, Early Literacy, Academic Writing, Qualitative Research, Teaching Pedagogy, Critical Literacy, Children Literature, Teacher Education, Cognitive Science, Mind and Body Problem, Philosophy of Mind, and Art."
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcs/"
+    ],
+    "emails": [
+      "48e2b81cd6ba94dc@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-金仲達-87bd908f7e",
+    "school_id": "nthu-cs",
+    "name_zh": "金仲達",
+    "name_en": "Chung-Ta King",
+    "role_groups": [
+      "adjunct",
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Adjunct Professors",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國密西根州立大學博士"
+    ],
+    "education_en": [
+      "PhD, Michigan State University"
+    ],
+    "research_interests_zh": [
+      "分散式處理、普及計算、叢集系統"
+    ],
+    "research_interests_en": [
+      "Pervasive computing, Cluster computing, Parallel and distributed systems"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662",
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~king/"
+    ],
+    "emails": [
+      "cfa18d28653fcc08@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-金陽和-83ed0dbb2c",
+    "school_id": "nthu-cs",
+    "name_zh": "金陽和",
+    "name_en": "Y.H. Chin",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授 Y.H. Chin",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國德州大學奧斯汀分校博士"
+    ],
+    "education_en": [
+      "PhD, University of Texas, Austin"
+    ],
+    "research_interests_zh": [
+      "資料庫系統設計、操作系統、計算方法分析"
+    ],
+    "research_interests_en": [
+      "Database systems, Algorithm design, System programming, Software engineering"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/document/Faculty/yhchin.html"
+    ],
+    "emails": [
+      "31084f3e8b3fd2e5@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-鍾葉青-fb3791172c",
+    "school_id": "nthu-cs",
+    "name_zh": "鍾葉青",
+    "name_en": "Yeh-Ching Chung",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授 Yeh-Ching Chung",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國雪城大學博士"
+    ],
+    "education_en": [
+      "PhD, Syracuse University"
+    ],
+    "research_interests_zh": [
+      "嵌入式系統、平行處理、雲端計算、格網計算"
+    ],
+    "research_interests_en": [
+      "Parallel and distributed processing, Pervasive computing, Embedded systems, Cluster systems, Grid computing"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~ychung/"
+    ],
+    "emails": [
+      "01803c2c283a1ab8@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-闕志克-667b8d485c",
+    "school_id": "nthu-cs",
+    "name_zh": "闕志克",
+    "name_en": "Tzi-Cker Chiueh",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘教授"
+    ],
+    "titles_en": [
+      "Joint Professors"
+    ],
+    "education_zh": [
+      "美國柏克萊大學博士"
+    ],
+    "education_en": [
+      "PhD, University of California at Santa Barbara"
+    ],
+    "research_interests_zh": [
+      "軟體、資安、網路架構"
+    ],
+    "research_interests_en": [
+      "Software, Information security, Network architecture"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://chiueh.jimdo.com/"
+    ],
+    "emails": [
+      "0802e3632f93f1c4@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-陳宜欣-10568557fc",
+    "school_id": "nthu-cs",
+    "name_zh": "陳宜欣",
+    "name_en": "Yi-Shin Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國南加州大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Southern California"
+    ],
+    "research_interests_zh": [
+      "Web Intelligence、資料探勘、資料擷取、社群網路、巨量資料"
+    ],
+    "research_interests_en": [
+      "Web intelligence, Multimedia retrieval, Data mining, Social networks, Big Data"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~yishin/",
+      "http://www.yishin.net/"
+    ],
+    "emails": [
+      "bba80bf498fba4ad@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-陳文村-da14007351",
+    "school_id": "nthu-cs",
+    "name_zh": "陳文村",
+    "name_en": "",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "清華榮譽講座 /",
+      "榮譽講座"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國加州大學柏克萊分校博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "計算機網路、無線網際網路、多處理機系統"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=461"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://mnet.cs.nthu.edu.tw/teacher/index.html"
+    ],
+    "emails": [
+      "fd510f31efcd96f2@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-陳朝欽-11b8fb7840",
+    "school_id": "nthu-cs",
+    "name_zh": "陳朝欽",
+    "name_en": "Chaur-Chin Chen",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "榮譽退休教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education_zh": [
+      "美國密西根州立大學博士"
+    ],
+    "education_en": [
+      "PhD, Michigan State University"
+    ],
+    "research_interests_zh": [
+      "生物特徵辨識、微晶片影像資料分析"
+    ],
+    "research_interests_en": [
+      "Biometric recognition, Microarray data analysis"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=465"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cchen/"
+    ],
+    "emails": [
+      "5f239d2f292f4282@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-陳煥宗-7c43119c40",
+    "school_id": "nthu-cs",
+    "name_zh": "陳煥宗",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "特聘教授",
+      "專任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "電腦視覺、圖像辨識"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~htchen/"
+    ],
+    "emails": [
+      "b64434766723207c@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-陳耘志-1b3b5d7ab0",
+    "school_id": "nthu-cs",
+    "name_zh": "陳耘志",
+    "name_en": "Yun-Chih Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "儲存系統 記憶體 資料庫"
+    ],
+    "research_interests_en": [
+      "Storage System, Memory, Database"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sys-nthu.tw/",
+      "https://yunchih.github.io/"
+    ],
+    "emails": [
+      "d6078dac863fa628@redacted.invalid",
+      "c7010b5984b510d1@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-陳聿廣-13aceaf00c",
+    "school_id": "nthu-cs",
+    "name_zh": "陳聿廣",
+    "name_en": "",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任副教授",
+      "兼任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "國立清華大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "VLSI設計自動化、低功耗設計與優化、可靠晶片設計與優化、IMC運算架構設計與優化"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://0766508cbb628186@redacted.invalid"
+    ],
+    "emails": [
+      "698085bf67e4e52f@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-陳良弼-2847ebc1d7",
+    "school_id": "nthu-cs",
+    "name_zh": "陳良弼",
+    "name_en": "Arbee L.P Chen",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [
+      "美國南加州大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Southern California"
+    ],
+    "research_interests_zh": [
+      "巨量資料分析、深度學習、健康資訊學"
+    ],
+    "research_interests_en": [
+      "Big Data Analysis, Deep Learning, Health Informatics"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1108"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://make-lab.vercel.app/"
+    ],
+    "emails": [
+      "323e79fae2533d4b@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-韓永楷-05d57868e3",
+    "school_id": "nthu-cs",
+    "name_zh": "韓永楷",
+    "name_en": "Wing-Kai Hon",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "特聘教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "香港大學博士"
+    ],
+    "education_en": [
+      "PhD, The University of Hong Kong"
+    ],
+    "research_interests_zh": [
+      "資料結構、演算法"
+    ],
+    "research_interests_en": [
+      "Data structure, Algorithms"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~wkhon/"
+    ],
+    "emails": [
+      "075f3bbdb243b6fc@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-顏子斌-46d093b11d",
+    "school_id": "nthu-cs",
+    "name_zh": "顏子斌",
+    "name_en": "Tzu-Bin Yan",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國伊利諾大學厄巴納-香檳分校博士"
+    ],
+    "education_en": [
+      "PhD, University of Illinois Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "網際網路測量、網路系統設計、計算機安全"
+    ],
+    "research_interests_en": [
+      "Internet measurement、Network System Design、Computer Security"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://tzubinyan.tw"
+    ],
+    "emails": [
+      "a9c5cfa00bfac192@redacted.invalid",
+      "6e869df373a2feca@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-高宏宇-e0f4516945",
+    "school_id": "nthu-cs",
+    "name_zh": "高宏宇",
+    "name_en": "Hung-Yu Kao",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授 / 計通中心主任",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "自然語言處理, 資料探勘, 機器學習, 深度學習, 資訊檢索"
+    ],
+    "research_interests_en": [
+      "Natural Language Processing, Data Mining, Machine Learning, Deep Learning, Information Retrieval"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://ikmlab.cs.nthu.edu.tw/advisor.html",
+      "https://ikmlab.csie.ncku.edu.tw/advisor.html"
+    ],
+    "emails": [
+      "03d86d3adc743945@redacted.invalid",
+      "993450d9b53d0d46@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-高榮駿-458af60731",
+    "school_id": "nthu-cs",
+    "name_zh": "高榮駿",
+    "name_en": "Jung-Chun Kao",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國卡耐基美隆大學博士"
+    ],
+    "education_en": [
+      "PhD, Carnegie Mellon University"
+    ],
+    "research_interests_zh": [
+      "無線網路、電信網路、數位通訊"
+    ],
+    "research_interests_en": [
+      "Wireless networks, Telecommunication networks, Digital communication"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~jungchuk/"
+    ],
+    "emails": [
+      "60795defb5a1e8e1@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-麥偉基-5269f158c4",
+    "school_id": "nthu-cs",
+    "name_zh": "麥偉基",
+    "name_en": "Wai-Kei Mak",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國德州大學奧斯汀分校博士"
+    ],
+    "education_en": [
+      "PhD, The University of Texas at Austin"
+    ],
+    "research_interests_zh": [
+      "VLSI設計自動化、計算機演算法"
+    ],
+    "research_interests_en": [
+      "Computer-aided design of VLSI circuits, Combinatorial optimization"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~wkmak/"
+    ],
+    "emails": [
+      "a7ab029f14967001@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-黃兆源兼任講師-2e374aa4b3",
+    "school_id": "nthu-cs",
+    "name_zh": "黃兆源 兼任講師",
+    "name_en": "",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "國立清華大學碩士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "資料結構與計算方法"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=430"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~rrlee/"
+    ],
+    "emails": [
+      "95b9fc9b30362a8a@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-黃婷婷-c521072c08",
+    "school_id": "nthu-cs",
+    "name_zh": "黃婷婷",
+    "name_en": "Ting-Ting Hwang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "特聘教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "美國賓州州立大學博士"
+    ],
+    "education_en": [
+      "PhD, Pennsylvania State University"
+    ],
+    "research_interests_zh": [
+      "邏輯設計、VLSI輔助設計"
+    ],
+    "research_interests_en": [
+      "Logic design, VLSI design automation"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tingting/"
+    ],
+    "emails": [
+      "cc74effd2cadc818@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-黃慶育-97536649ca",
+    "school_id": "nthu-cs",
+    "name_zh": "黃慶育",
+    "name_en": "Chin-Yu Huang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授 / 資安所所長",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立台灣大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "軟體工程、軟體可靠度、軟體測試"
+    ],
+    "research_interests_en": [
+      "Software engineering, Software reliability, Software testing, Software rejuvenation, Software fault-tolerance"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cyhuang/"
+    ],
+    "emails": [
+      "1e7103cc4887b497@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-黃稚存-6ad9444e87",
+    "school_id": "nthu-cs",
+    "name_zh": "黃稚存",
+    "name_en": "Chih-Tsun Huang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立清華大學博士"
+    ],
+    "education_en": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "電腦視覺與深度學習系統設計、仿神經型態計算(Neuromorphic Computing)、Brain-Inspired Computing、設計自動化、積體電路與智慧系統設計"
+    ],
+    "research_interests_en": [
+      "Electronic Design Automation, Intelligent Electronic System Design, Computer Vision and Deep Learning System Platform, Neuromorphic Computing, Brain-Inspired Computing"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://nthucad.cs.nthu.edu.tw/~cthuang/"
+    ],
+    "emails": [
+      "12228940d3e2d708@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  },
+  {
+    "faculty_id": "nthu-cs-黃能富-478224d15b",
+    "school_id": "nthu-cs",
+    "name_zh": "黃能富",
+    "name_en": "Nen-Fu Huang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "特聘教授",
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education_zh": [
+      "國立清華大學博士"
+    ],
+    "education_en": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "人工智慧物聯網 (AIoT), 智慧科技農業, 農業區塊鏈服務平台, 長距離低功耗物聯網無線網路, 網路安全"
+    ],
+    "research_interests_en": [
+      "Network security, Switching routers, WDM network design"
+    ],
+    "listing_urls_zh": [
+      "https://dcs.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=429"
+    ],
+    "listing_urls_en": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~nfhuang/"
+    ],
+    "emails": [
+      "9c032788107af6ae@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:28:57+08:00"
+  }
+]

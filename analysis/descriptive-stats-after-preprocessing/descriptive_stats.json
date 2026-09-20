@@ -1,0 +1,290 @@
+{
+  "generated_at": "2026-09-09T16:29:00+08:00",
+  "runtime": "python (Python 3.12.3)",
+  "faculty_count": 741,
+  "program_count": 14,
+  "field_summary": [
+    {
+      "field": "title",
+      "faculty_with_standardized_value": 734,
+      "faculty_total": 741,
+      "faculty_coverage_pct": 99.1,
+      "raw_non_noise_values": 1863,
+      "raw_unique_values": 230,
+      "standardized_values": 1072,
+      "standardized_unique_values": 31,
+      "source_entries_mapped_pct": 94.8,
+      "source_entries_requiring_review": 99
+    },
+    {
+      "field": "education",
+      "faculty_with_standardized_value": 530,
+      "faculty_total": 741,
+      "faculty_coverage_pct": 71.5,
+      "raw_non_noise_values": 1528,
+      "raw_unique_values": 1183,
+      "standardized_values": 900,
+      "standardized_unique_values": 367,
+      "source_entries_mapped_pct": 73.5,
+      "source_entries_requiring_review": 405
+    },
+    {
+      "field": "research_interest",
+      "faculty_with_standardized_value": 662,
+      "faculty_total": 741,
+      "faculty_coverage_pct": 89.3,
+      "raw_non_noise_values": 1315,
+      "raw_unique_values": 1220,
+      "standardized_values": 1953,
+      "standardized_unique_values": 170,
+      "source_entries_mapped_pct": 63.3,
+      "source_entries_requiring_review": 1836
+    }
+  ],
+  "top_research_fields": [
+    {
+      "research_interest_en": "Artificial Intelligence",
+      "faculty_count": 109
+    },
+    {
+      "research_interest_en": "Machine Learning",
+      "faculty_count": 94
+    },
+    {
+      "research_interest_en": "Multimedia Systems",
+      "faculty_count": 57
+    },
+    {
+      "research_interest_en": "Deep Learning",
+      "faculty_count": 54
+    },
+    {
+      "research_interest_en": "Computer Vision",
+      "faculty_count": 54
+    },
+    {
+      "research_interest_en": "Algorithms",
+      "faculty_count": 49
+    },
+    {
+      "research_interest_en": "Image Processing",
+      "faculty_count": 40
+    },
+    {
+      "research_interest_en": "Information Security",
+      "faculty_count": 39
+    },
+    {
+      "research_interest_en": "Data Mining",
+      "faculty_count": 39
+    },
+    {
+      "research_interest_en": "Corporate Finance",
+      "faculty_count": 34
+    },
+    {
+      "research_interest_en": "Optimization",
+      "faculty_count": 33
+    },
+    {
+      "research_interest_en": "Computer Networks",
+      "faculty_count": 33
+    },
+    {
+      "research_interest_en": "Statistics",
+      "faculty_count": 32
+    },
+    {
+      "research_interest_en": "Embedded Systems",
+      "faculty_count": 32
+    },
+    {
+      "research_interest_en": "Bioinformatics",
+      "faculty_count": 31
+    },
+    {
+      "research_interest_en": "Econometrics",
+      "faculty_count": 30
+    },
+    {
+      "research_interest_en": "Internet of Things",
+      "faculty_count": 30
+    },
+    {
+      "research_interest_en": "Big Data Analytics",
+      "faculty_count": 27
+    },
+    {
+      "research_interest_en": "Wireless Networks",
+      "faculty_count": 25
+    },
+    {
+      "research_interest_en": "Signal Processing",
+      "faculty_count": 24
+    }
+  ],
+  "top_titles": [
+    {
+      "title_en": "Professor",
+      "faculty_count": 414
+    },
+    {
+      "title_en": "Associate Professor",
+      "faculty_count": 108
+    },
+    {
+      "title_en": "Assistant Professor",
+      "faculty_count": 90
+    },
+    {
+      "title_en": "Emeritus Professor",
+      "faculty_count": 66
+    },
+    {
+      "title_en": "Adjunct Professor",
+      "faculty_count": 55
+    },
+    {
+      "title_en": "Distinguished Professor",
+      "faculty_count": 34
+    },
+    {
+      "title_en": "Department Chair",
+      "faculty_count": 28
+    },
+    {
+      "title_en": "Chair Professor",
+      "faculty_count": 28
+    },
+    {
+      "title_en": "Jointly Appointed Professor",
+      "faculty_count": 27
+    },
+    {
+      "title_en": "Adjunct Faculty",
+      "faculty_count": 26
+    },
+    {
+      "title_en": "Retired Faculty",
+      "faculty_count": 24
+    },
+    {
+      "title_en": "Research Fellow",
+      "faculty_count": 16
+    },
+    {
+      "title_en": "Visiting Professor",
+      "faculty_count": 16
+    },
+    {
+      "title_en": "Joint Faculty",
+      "faculty_count": 15
+    },
+    {
+      "title_en": "Full-Time Faculty",
+      "faculty_count": 15
+    },
+    {
+      "title_en": "Adjunct Assistant Professor",
+      "faculty_count": 15
+    },
+    {
+      "title_en": "Technical Specialist (Professor Rank)",
+      "faculty_count": 14
+    },
+    {
+      "title_en": "Distinguished Chair Professor",
+      "faculty_count": 13
+    },
+    {
+      "title_en": "Honorary Chair Professor",
+      "faculty_count": 13
+    },
+    {
+      "title_en": "Associate Research Fellow",
+      "faculty_count": 12
+    }
+  ],
+  "top_phd_institutions": [
+    {
+      "institution_en": "National Taiwan University",
+      "faculty_count": 77
+    },
+    {
+      "institution_en": "National Chiao Tung University",
+      "faculty_count": 42
+    },
+    {
+      "institution_en": "National Tsing Hua University",
+      "faculty_count": 29
+    },
+    {
+      "institution_en": "University of Illinois Urbana-Champaign",
+      "faculty_count": 17
+    },
+    {
+      "institution_en": "University of California, Los Angeles",
+      "faculty_count": 15
+    },
+    {
+      "institution_en": "National Cheng Kung University",
+      "faculty_count": 14
+    },
+    {
+      "institution_en": "The Ohio State University",
+      "faculty_count": 14
+    },
+    {
+      "institution_en": "University of Wisconsin-Madison",
+      "faculty_count": 13
+    },
+    {
+      "institution_en": "University of Chicago",
+      "faculty_count": 13
+    },
+    {
+      "institution_en": "Northwestern University",
+      "faculty_count": 11
+    },
+    {
+      "institution_en": "University of California, Berkeley",
+      "faculty_count": 10
+    },
+    {
+      "institution_en": "University of Maryland, College Park",
+      "faculty_count": 9
+    },
+    {
+      "institution_en": "University of Southern California",
+      "faculty_count": 9
+    },
+    {
+      "institution_en": "Columbia University",
+      "faculty_count": 8
+    },
+    {
+      "institution_en": "University of Washington",
+      "faculty_count": 8
+    },
+    {
+      "institution_en": "Pennsylvania State University",
+      "faculty_count": 7
+    },
+    {
+      "institution_en": "Texas A&M University",
+      "faculty_count": 7
+    },
+    {
+      "institution_en": "Purdue University",
+      "faculty_count": 7
+    },
+    {
+      "institution_en": "University of Michigan",
+      "faculty_count": 7
+    },
+    {
+      "institution_en": "Cornell University",
+      "faculty_count": 6
+    }
+  ]
+}

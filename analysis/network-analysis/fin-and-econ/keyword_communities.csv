@@ -1,0 +1,69 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Accounting,Corporate Finance & Governance,Corporate Finance & Valuation,1,0,4,0
+Actuarial Science,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",0,3,2,3
+Algorithms,Theory & Algorithms,Algorithms & Computational Complexity,0,0,0,0
+Artificial Intelligence,AI & Machine Learning,Artificial Intelligence & Generative Models,1,0,0,0
+Asset Management,Asset Pricing & Financial Markets,Asset Pricing & Investments,0,1,1,1
+Asset Pricing,Asset Pricing & Financial Markets,Asset Pricing & Investments,0,1,6,1
+Banking and Financial Institutions,Financial Engineering & Risk,Banking & Financial Technology,0,3,2,3
+Behavioral Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,1,1,1
+Big Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,1,0,0,0
+Bioinformatics,Biomedical & Health Informatics,Bioinformatics & Systems Biology,1,0,0,0
+Business Valuation,Corporate Finance & Governance,Corporate Finance & Valuation,0,1,4,1
+Causal Inference,Statistics & Statistical Methods,Statistical Theory & Inference,0,1,1,1
+Computer Networks,Networks & Communications,Computer & Wireless Networks,1,0,0,0
+Computer Vision,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",1,0,0,0
+Corporate Finance,Corporate Finance & Governance,Corporate Finance & Valuation,0,1,1,1
+Corporate Governance,Corporate Finance & Governance,Governance & Corporate Control,0,1,1,1
+Credit Risk,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",0,3,2,3
+Cryptocurrency,Financial Engineering & Risk,Banking & Financial Technology,0,3,2,3
+Deep Learning,AI & Machine Learning,Machine Learning & Deep Learning,1,0,0,0
+Development Economics,Economics & Policy,Applied & Policy Economics,2,2,5,2
+Econometrics,Economics & Policy,Econometrics,2,2,3,2
+Entrepreneurship,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,1,6,1
+Environmental Economics,Economics & Policy,Applied & Policy Economics,2,0,0,0
+Financial Derivatives,Financial Engineering & Risk,Derivatives & Financial Engineering,0,3,2,3
+Financial Economics,Asset Pricing & Financial Markets,Asset Pricing & Investments,2,2,3,2
+Financial Engineering,Financial Engineering & Risk,Derivatives & Financial Engineering,0,3,2,3
+Financial Management,Corporate Finance & Governance,Corporate Finance & Valuation,0,1,6,1
+Financial Markets,Asset Pricing & Financial Markets,Financial Markets & Microstructure,0,1,6,1
+Financial Technology,Financial Engineering & Risk,Banking & Financial Technology,1,0,0,0
+Game Theory,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,2,2,5,2
+Health Economics,Economics & Policy,Applied & Policy Economics,2,2,3,2
+Industrial Organization,Economics & Policy,Microeconomics & Industrial Organization,2,2,5,2
+Information Security,"Security, Privacy & Cryptography",Information & Systems Security,1,0,0,0
+Initial Public Offerings,Corporate Finance & Governance,Corporate Finance & Valuation,0,1,1,1
+Innovation Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",1,0,4,0
+Institutional Investors,Corporate Finance & Governance,Governance & Corporate Control,0,1,1,1
+Insurance,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",0,3,2,3
+Interest Rate Modeling,Financial Engineering & Risk,Derivatives & Financial Engineering,0,3,2,3
+International Economics,Economics & Policy,Applied & Policy Economics,2,2,3,2
+International Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,1,6,1
+Investments,Asset Pricing & Financial Markets,Asset Pricing & Investments,0,1,1,1
+Labor Economics,Economics & Policy,Applied & Policy Economics,2,2,3,2
+Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,1,0,0,0
+Macroeconomics,Economics & Policy,Macroeconomics & Monetary Economics,2,2,3,2
+Market Microstructure,Asset Pricing & Financial Markets,Financial Markets & Microstructure,0,1,1,1
+Mechanism Design,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,2,2,5,2
+Mergers and Acquisitions,Corporate Finance & Governance,Governance & Corporate Control,0,1,1,1
+Microeconomics,Economics & Policy,Microeconomics & Industrial Organization,2,2,5,2
+Monetary Economics,Economics & Policy,Macroeconomics & Monetary Economics,2,2,3,2
+Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,1,0,0,0
+Network Security,"Security, Privacy & Cryptography",Information & Systems Security,1,0,0,0
+Optimization,Applied Mathematics & Operations Research,Optimization & Operations Research,1,0,0,0
+Personal Finance,Financial Engineering & Risk,Banking & Financial Technology,0,1,4,1
+Political Economy,Economics & Policy,Applied & Policy Economics,2,2,5,2
+Portfolio Management,Asset Pricing & Financial Markets,Asset Pricing & Investments,1,0,4,0
+Probability Theory,Statistics & Statistical Methods,Statistical Theory & Inference,0,3,2,3
+Public Economics,Economics & Policy,Applied & Policy Economics,2,2,3,2
+Real Estate Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,1,0,4,0
+Recommender Systems,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,1,0,0,0
+Reinforcement Learning,AI & Machine Learning,Machine Learning & Deep Learning,1,0,0,0
+Risk Management,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",0,3,2,3
+Robotics,"Robotics, Control & Smart Manufacturing",Robotics & Automation,1,0,0,0
+Social Network Analysis,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,2,2,3,2
+Special Purpose Acquisition Companies,Corporate Finance & Governance,Governance & Corporate Control,0,1,1,1
+Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,2,2,3,2
+Sustainable Finance,Financial Engineering & Risk,Banking & Financial Technology,0,1,1,1
+Theory of Computation,Theory & Algorithms,Algorithms & Computational Complexity,0,3,2,3
+Time Series Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,2,2,3,2

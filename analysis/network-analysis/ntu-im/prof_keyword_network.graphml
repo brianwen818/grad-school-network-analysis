@@ -1,0 +1,1016 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="source" attr.type="string"/>
+<key id="d12" for="node" attr.name="idf" attr.type="double"/>
+<key id="d11" for="node" attr.name="parent_l1" attr.type="string"/>
+<key id="d10" for="node" attr.name="parent_l2" attr.type="string"/>
+<key id="d9" for="node" attr.name="label" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ntu-im-何承遠-cf78426b61">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">何承遠</data>
+  <data key="d3">Cheng-Yuan Ho</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time | project</data>
+  <data key="d6">6</data>
+  <data key="d7">National Chiao Tung University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-何承遠-cf78426b61</data>
+</node>
+<node id="ntu-im-劉若慧-6dfb552dd3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉若慧</data>
+  <data key="d3">Olivia Liu Sheng</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">chair</data>
+  <data key="d6">9</data>
+  <data key="d7">Arizona State University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-劉若慧-6dfb552dd3</data>
+</node>
+<node id="ntu-im-吳玲玲-b1cc11729b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳玲玲</data>
+  <data key="d3">Ling-Ling Wu</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Chicago</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-吳玲玲-b1cc11729b</data>
+</node>
+<node id="ntu-im-孔令傑-e559d7c758">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">孔令傑</data>
+  <data key="d3">Ling-Chieh Kung</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of California, Berkeley</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-孔令傑-e559d7c758</data>
+</node>
+<node id="ntu-im-孫雅麗-3feed1b304">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">孫雅麗</data>
+  <data key="d3">Yeali Sun</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-孫雅麗-3feed1b304</data>
+</node>
+<node id="ntu-im-彭志宏-82251610cf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">彭志宏</data>
+  <data key="d3">Chih-Hung PENG</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-彭志宏-82251610cf</data>
+</node>
+<node id="ntu-im-曹承礎-c4150b76bf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">曹承礎</data>
+  <data key="d3">Seng-Cho Chou</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-曹承礎-c4150b76bf</data>
+</node>
+<node id="ntu-im-李家岩-6ba583b1b6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李家岩</data>
+  <data key="d3">Chia-Yen Lee</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Texas A&amp;M University</data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-im-李家岩-6ba583b1b6</data>
+</node>
+<node id="ntu-im-李根逸-da82e4a379">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李根逸</data>
+  <data key="d3">Ken-Yi Lee</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-李根逸-da82e4a379</data>
+</node>
+<node id="ntu-im-李瑞庭-aa45881e08">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李瑞庭</data>
+  <data key="d3">J. T. Lee</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-李瑞庭-aa45881e08</data>
+</node>
+<node id="ntu-im-林永松-dc984527a6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林永松</data>
+  <data key="d3">Yeong-Sung Lin</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">7</data>
+  <data key="d7">University of Southern California</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-林永松-dc984527a6</data>
+</node>
+<node id="ntu-im-楊立偉-002d946f70">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊立偉</data>
+  <data key="d3">Willie Li-wei Yang</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-楊立偉-002d946f70</data>
+</node>
+<node id="ntu-im-王春笙-478b704144">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王春笙</data>
+  <data key="d3">Chun-Sheng Wang</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-王春笙-478b704144</data>
+</node>
+<node id="ntu-im-畢南怡-4db729714a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">畢南怡</data>
+  <data key="d3">Nanyi Bi</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-畢南怡-4db729714a</data>
+</node>
+<node id="ntu-im-盧信銘-ac737946aa">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">盧信銘</data>
+  <data key="d3">Hsin-Min Lu</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Arizona</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-盧信銘-ac737946aa</data>
+</node>
+<node id="ntu-im-穆信成-cf38907306">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">穆信成</data>
+  <data key="d3">Shin-Cheng Mu</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">joint</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Oxford</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-穆信成-cf38907306</data>
+</node>
+<node id="ntu-im-翁崇雄-a45a797db7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">翁崇雄</data>
+  <data key="d3">Chorng-Shyong Ong</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-翁崇雄-a45a797db7</data>
+</node>
+<node id="ntu-im-莊裕澤-6aba42587c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">莊裕澤</data>
+  <data key="d3">Yuh-Jzer Joung</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Stony Brook University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-莊裕澤-6aba42587c</data>
+</node>
+<node id="ntu-im-蔡益坤-b2ae2b2f7c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡益坤</data>
+  <data key="d3">Yih-Kuen Tsay</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-蔡益坤-b2ae2b2f7c</data>
+</node>
+<node id="ntu-im-蕭邱漢-887e21f502">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蕭邱漢</data>
+  <data key="d3">Chiu-Han Hsiao</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-蕭邱漢-887e21f502</data>
+</node>
+<node id="ntu-im-陳仲儼-e8851126e5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳仲儼</data>
+  <data key="d3">Jung-Yan Chen</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Arizona</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-陳仲儼-e8851126e5</data>
+</node>
+<node id="ntu-im-陳建錦-02f4784706">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳建錦</data>
+  <data key="d3">Chien Chin Chen</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-陳建錦-02f4784706</data>
+</node>
+<node id="ntu-im-陳文賢-0756ac0f09">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳文賢</data>
+  <data key="d3">Wen-Hsien Chen</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, Berkeley</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-陳文賢-0756ac0f09</data>
+</node>
+<node id="ntu-im-陳炘鈞-a14cb18eab">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳炘鈞</data>
+  <data key="d3">Hsin-Chun Chen</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">chair</data>
+  <data key="d6">8</data>
+  <data key="d7">New York University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-陳炘鈞-a14cb18eab</data>
+</node>
+<node id="ntu-im-陳炳宇-4670eb5fcd">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳炳宇</data>
+  <data key="d3">Bing-Yu Chen</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-im-陳炳宇-4670eb5fcd</data>
+</node>
+<node id="ntu-im-陳靜枝-eab2ccfdb6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳靜枝</data>
+  <data key="d3">Ching-Chin Chern</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-陳靜枝-eab2ccfdb6</data>
+</node>
+<node id="ntu-im-魏志平-1e1877736d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">魏志平</data>
+  <data key="d3">Chih-Ping Wei</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">full_time</data>
+  <data key="d6">6</data>
+  <data key="d7">University of Arizona</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-魏志平-1e1877736d</data>
+</node>
+<node id="ntu-im-魏資文-17ab818dbe">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">魏資文</data>
+  <data key="d3">Tzu-Wen Wei</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-魏資文-17ab818dbe</data>
+</node>
+<node id="ntu-im-黃意婷-dd1ec1a025">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃意婷</data>
+  <data key="d3">Yi-Ting Huang</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-黃意婷-dd1ec1a025</data>
+</node>
+<node id="ntu-im-黃明蕙-69aee8c193">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃明蕙</data>
+  <data key="d3">Ming-Hui Huang</data>
+  <data key="d4">ntu-im</data>
+  <data key="d5">chair</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-im-黃明蕙-69aee8c193</data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">1.9563404913341855</data>
+  <data key="d9">Artificial Intelligence</data>
+</node>
+<node id="Big Data Analytics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.2394044050093296</data>
+  <data key="d9">Big Data Analytics</data>
+</node>
+<node id="Computer Networks">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer &amp; Wireless Networks</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.047404284098312</data>
+  <data key="d9">Computer Networks</data>
+</node>
+<node id="Entrepreneurship">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Entrepreneurship</data>
+</node>
+<node id="Innovation Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Innovation Management</data>
+</node>
+<node id="Machine Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">2.084746593909529</data>
+  <data key="d9">Machine Learning</data>
+</node>
+<node id="Algorithms">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Algorithms &amp; Computational Complexity</data>
+  <data key="d11">Theory &amp; Algorithms</data>
+  <data key="d12">2.674852131692614</data>
+  <data key="d9">Algorithms</data>
+</node>
+<node id="Data Mining">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">2.888946240904944</data>
+  <data key="d9">Data Mining</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">2.584696120396371</data>
+  <data key="d9">Deep Learning</data>
+</node>
+<node id="Distributed Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Parallel &amp; Distributed Computing</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Distributed Systems</data>
+</node>
+<node id="Financial Technology">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Financial Technology</data>
+</node>
+<node id="Knowledge Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Knowledge Management</data>
+</node>
+<node id="Social Media Analytics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Social &amp; Web Network Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Social Media Analytics</data>
+</node>
+<node id="Mechanism Design">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Game Theory &amp; Mechanism Design</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Mechanism Design</data>
+</node>
+<node id="Operations Research">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Optimization &amp; Operations Research</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Operations Research</data>
+</node>
+<node id="Information Security">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Information &amp; Systems Security</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">2.888946240904944</data>
+  <data key="d9">Information Security</data>
+</node>
+<node id="Mobile Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.631721040273988</data>
+  <data key="d9">Mobile Computing</data>
+</node>
+<node id="E-Commerce">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Digital Business &amp; E-Commerce</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">5.401174751987744</data>
+  <data key="d9">E-Commerce</data>
+</node>
+<node id="Medical Informatics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Medical Informatics &amp; Imaging</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Medical Informatics</data>
+</node>
+<node id="Service Science">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Digital Business &amp; E-Commerce</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Service Science</data>
+</node>
+<node id="Blockchain">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Cryptography, Blockchain &amp; Privacy</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Blockchain</data>
+</node>
+<node id="Data Science">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Data Science</data>
+</node>
+<node id="Optimization">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Optimization &amp; Operations Research</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">3.047404284098312</data>
+  <data key="d9">Optimization</data>
+</node>
+<node id="Computer Graphics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Graphics &amp; Multimedia Systems</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">3.529297384289471</data>
+  <data key="d9">Computer Graphics</data>
+</node>
+<node id="Computer Vision">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">2.584696120396371</data>
+  <data key="d9">Computer Vision</data>
+</node>
+<node id="Image Processing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">2.865053949911875</data>
+  <data key="d9">Image Processing</data>
+</node>
+<node id="Cloud Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Cloud &amp; Edge Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Cloud Computing</data>
+</node>
+<node id="Internet of Things">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.138388573955514</data>
+  <data key="d9">Internet of Things</data>
+</node>
+<node id="Human-Computer Interaction">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">3.4369154642642346</data>
+  <data key="d9">Human-Computer Interaction</data>
+</node>
+<node id="Econometrics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Econometrics</data>
+  <data key="d11">Economics &amp; Policy</data>
+  <data key="d12">3.138388573955514</data>
+  <data key="d9">Econometrics</data>
+</node>
+<node id="Natural Language Processing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Natural Language &amp; Speech Processing</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">3.4369154642642346</data>
+  <data key="d9">Natural Language Processing</data>
+</node>
+<node id="Programming Languages">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">5.401174751987744</data>
+  <data key="d9">Programming Languages</data>
+</node>
+<node id="Operations Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Operations Management</data>
+</node>
+<node id="Formal Verification">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Formal Verification</data>
+</node>
+<node id="Bioinformatics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Bioinformatics &amp; Systems Biology</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">3.107042794704757</data>
+  <data key="d9">Bioinformatics</data>
+</node>
+<node id="Software Engineering">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Software Engineering</data>
+</node>
+<node id="Business Data Analytics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Business Data Analytics</data>
+</node>
+<node id="Recommender Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Recommender Systems</data>
+</node>
+<node id="Text Mining">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Text Mining</data>
+</node>
+<node id="Databases">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Database &amp; Storage Systems</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.4369154642642346</data>
+  <data key="d9">Databases</data>
+</node>
+<node id="Information Retrieval">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Information Retrieval</data>
+</node>
+<node id="Neural Networks">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Neural Networks</data>
+</node>
+<node id="Web Mining">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">4.559873911072915</data>
+  <data key="d9">Web Mining</data>
+</node>
+<node id="Malware Analysis">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Information &amp; Systems Security</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Malware Analysis</data>
+</node>
+<edge source="ntu-im-何承遠-cf78426b61" target="Artificial Intelligence">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-何承遠-cf78426b61" target="Big Data Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-何承遠-cf78426b61" target="Computer Networks">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-何承遠-cf78426b61" target="Entrepreneurship">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-何承遠-cf78426b61" target="Innovation Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-何承遠-cf78426b61" target="Machine Learning">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Algorithms">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Big Data Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Data Mining">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Deep Learning">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Distributed Systems">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Financial Technology">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Knowledge Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Machine Learning">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-劉若慧-6dfb552dd3" target="Social Media Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-吳玲玲-b1cc11729b" target="Knowledge Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-孔令傑-e559d7c758" target="Mechanism Design">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-孔令傑-e559d7c758" target="Operations Research">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-孫雅麗-3feed1b304" target="Artificial Intelligence">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-孫雅麗-3feed1b304" target="Information Security">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-孫雅麗-3feed1b304" target="Mobile Computing">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-彭志宏-82251610cf" target="E-Commerce">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-彭志宏-82251610cf" target="Medical Informatics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-彭志宏-82251610cf" target="Service Science">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-彭志宏-82251610cf" target="Social Media Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-曹承礎-c4150b76bf" target="Artificial Intelligence">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-曹承礎-c4150b76bf" target="Big Data Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-曹承礎-c4150b76bf" target="Blockchain">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-曹承礎-c4150b76bf" target="Entrepreneurship">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-曹承礎-c4150b76bf" target="Innovation Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李家岩-6ba583b1b6" target="Data Science">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李家岩-6ba583b1b6" target="Operations Research">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李家岩-6ba583b1b6" target="Optimization">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李根逸-da82e4a379" target="Computer Graphics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李根逸-da82e4a379" target="Computer Vision">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李根逸-da82e4a379" target="Image Processing">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李根逸-da82e4a379" target="Machine Learning">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李瑞庭-aa45881e08" target="Artificial Intelligence">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-李瑞庭-aa45881e08" target="Data Mining">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-林永松-dc984527a6" target="Artificial Intelligence">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-林永松-dc984527a6" target="Big Data Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-林永松-dc984527a6" target="Cloud Computing">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-林永松-dc984527a6" target="Financial Technology">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-林永松-dc984527a6" target="Information Security">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-林永松-dc984527a6" target="Internet of Things">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-林永松-dc984527a6" target="Optimization">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-楊立偉-002d946f70" target="Knowledge Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-王春笙-478b704144" target="Data Mining">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-畢南怡-4db729714a" target="Human-Computer Interaction">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-盧信銘-ac737946aa" target="Econometrics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-盧信銘-ac737946aa" target="Machine Learning">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-盧信銘-ac737946aa" target="Natural Language Processing">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-穆信成-cf38907306" target="Programming Languages">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-翁崇雄-a45a797db7" target="Operations Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-莊裕澤-6aba42587c" target="Distributed Systems">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-莊裕澤-6aba42587c" target="Entrepreneurship">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-莊裕澤-6aba42587c" target="Innovation Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-蔡益坤-b2ae2b2f7c" target="Formal Verification">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-蔡益坤-b2ae2b2f7c" target="Information Security">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-蕭邱漢-887e21f502" target="Artificial Intelligence">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-蕭邱漢-887e21f502" target="Bioinformatics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-蕭邱漢-887e21f502" target="Computer Networks">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-蕭邱漢-887e21f502" target="Internet of Things">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-蕭邱漢-887e21f502" target="Optimization">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳仲儼-e8851126e5" target="Software Engineering">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳建錦-02f4784706" target="Business Data Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳建錦-02f4784706" target="Recommender Systems">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳建錦-02f4784706" target="Text Mining">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳文賢-0756ac0f09" target="E-Commerce">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳文賢-0756ac0f09" target="Knowledge Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳文賢-0756ac0f09" target="Operations Research">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炘鈞-a14cb18eab" target="Algorithms">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炘鈞-a14cb18eab" target="Big Data Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炘鈞-a14cb18eab" target="Databases">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炘鈞-a14cb18eab" target="Information Retrieval">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炘鈞-a14cb18eab" target="Information Security">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炘鈞-a14cb18eab" target="Machine Learning">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炘鈞-a14cb18eab" target="Neural Networks">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炘鈞-a14cb18eab" target="Web Mining">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炳宇-4670eb5fcd" target="Computer Graphics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炳宇-4670eb5fcd" target="Entrepreneurship">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炳宇-4670eb5fcd" target="Human-Computer Interaction">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳炳宇-4670eb5fcd" target="Image Processing">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-陳靜枝-eab2ccfdb6" target="Operations Management">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-魏志平-1e1877736d" target="Data Mining">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-魏志平-1e1877736d" target="Information Retrieval">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-魏志平-1e1877736d" target="Machine Learning">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-魏志平-1e1877736d" target="Medical Informatics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-魏志平-1e1877736d" target="Social Media Analytics">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-魏志平-1e1877736d" target="Text Mining">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-魏資文-17ab818dbe" target="Entrepreneurship">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-黃意婷-dd1ec1a025" target="Deep Learning">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-黃意婷-dd1ec1a025" target="Information Security">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-黃意婷-dd1ec1a025" target="Malware Analysis">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-黃意婷-dd1ec1a025" target="Natural Language Processing">
+  <data key="d13">ntu-im</data>
+</edge>
+<edge source="ntu-im-黃明蕙-69aee8c193" target="Artificial Intelligence">
+  <data key="d13">ntu-im</data>
+</edge>
+</graph></graphml>

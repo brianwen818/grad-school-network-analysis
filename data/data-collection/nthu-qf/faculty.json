@@ -1,0 +1,1097 @@
+[
+  {
+    "faculty_id": "nthu-qf-余士迪-fee4dd1609",
+    "school_id": "nthu-qf",
+    "name_zh": "余士迪",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教師 Full-Time Professor",
+      "教授 Professor"
+    ],
+    "titles_en": [
+      "教授",
+      "專任教師 Full-Time Professor",
+      "教授 Professor"
+    ],
+    "education_zh": [
+      "美國羅徹斯特大學經濟學博士",
+      "Ph.D. in Economics, University of Rochester",
+      "美國羅徹斯特大學經濟學博士 Ph.D. in Economics, University of Rochester"
+    ],
+    "education_en": [
+      "美國羅徹斯特大學經濟學博士",
+      "Ph.D. in Economics, University of Rochester",
+      "美國羅徹斯特大學經濟學博士 Ph.D. in Economics, University of Rochester"
+    ],
+    "research_interests_zh": [
+      "會計與財務實證 Empirical Research on Accounting and Finance, 個體財務計量 Financial Micro-Econometrics"
+    ],
+    "research_interests_en": [
+      "會計與財務實證 Empirical Research on Accounting and Finance, 個體財務計量 Financial Micro-Econometrics"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16621,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16621,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "http://mx.nthu.edu.tw/~styu/"
+    ],
+    "emails": [
+      "7b7dc50b6f359c01@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-俞明德-5bc6444834",
+    "school_id": "nthu-qf",
+    "name_zh": "俞明德",
+    "name_en": "",
+    "role_groups": [
+      "full_time",
+      "joint",
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "科管院榮譽講座教授 合聘教授",
+      "專任教師 Full-Time Professor",
+      "科管院榮譽講座教授"
+    ],
+    "titles_en": [
+      "科管院榮譽講座教授 合聘教授",
+      "專任教師 Full-Time Professor",
+      "科管院榮譽講座教授"
+    ],
+    "education_zh": [
+      "Ph.D., Ohio State University",
+      "美國俄亥俄州立大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Ohio State University",
+      "美國俄亥俄州立大學博士"
+    ],
+    "research_interests_zh": [
+      "Research ■風險管理 Risk Management ■金融機構管理 Financial Institutions ■公司理財 Corporate Finance ■衍生性商品估值 Derivatives Valuation",
+      "風險管理 Risk Management、金融機構管理 Financial Institutions、公司理財 Corporate Finance、衍生性商品估值Derivatives Valuation"
+    ],
+    "research_interests_en": [
+      "Research ■風險管理 Risk Management ■金融機構管理 Financial Institutions ■公司理財 Corporate Finance ■衍生性商品估值 Derivatives Valuation",
+      "風險管理 Risk Management、金融機構管理 Financial Institutions、公司理財 Corporate Finance、衍生性商品估值Derivatives Valuation"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-220485,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-220485,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/mtyu/about"
+    ],
+    "emails": [
+      "598cede55536beaa@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-kangliu-cb7ae7428e",
+    "school_id": "nthu-qf",
+    "name_zh": "劉鋼",
+    "name_en": "Kang Liu",
+    "role_groups": [
+      "full_time",
+      "adjunct",
+      "practice"
+    ],
+    "titles_zh": [
+      "兼任教師 Adjunct Professor",
+      "教授 Professor",
+      "教授級實務教師 Professor",
+      "助理教授級實務教師 Assistant Professor",
+      "助理教授 Assistant Professor",
+      "講師 Lecturer"
+    ],
+    "titles_en": [
+      "兼任教師 Adjunct Professor",
+      "教授 Professor",
+      "教授級實務教師 Professor",
+      "助理教授級實務教師 Assistant Professor",
+      "助理教授 Assistant Professor",
+      "講師 Lecturer"
+    ],
+    "education_zh": [
+      "美國俄亥俄州立大學農業、環境與發展經濟學博士",
+      "聖安德魯斯大學經濟與財金學院博士 Ph.D. in Economics and Finance from the University of St Andrews",
+      "美國紐約市立大學企業管理研究所碩士 Baruch College MBA",
+      "北京大學政府管理學院博士 Ph.D. in Government Management, University of Peking 東京大學碩士 麻省理工學院(M.I.T.)學士",
+      "Master of Science in Information Technology for Manufacture, The University of Warwick, UK.",
+      "美國加州柏克萊大學企管碩士 MBA, University of California",
+      "國立交通大學管理科學系博士 Ph.D. in Management Science, National Chiao Tung University",
+      "國立臺灣大學財務金融學系博士 Ph.D. in Finance, National Taiwan University",
+      "國立清華大學計量財務金融學系碩士 Master of Quantitative Finance, Tsing Hua University"
+    ],
+    "education_en": [
+      "美國俄亥俄州立大學農業、環境與發展經濟學博士",
+      "聖安德魯斯大學經濟與財金學院博士 Ph.D. in Economics and Finance from the University of St Andrews",
+      "美國紐約市立大學企業管理研究所碩士 Baruch College MBA",
+      "北京大學政府管理學院博士 Ph.D. in Government Management, University of Peking 東京大學碩士 麻省理工學院(M.I.T.)學士",
+      "Master of Science in Information Technology for Manufacture, The University of Warwick, UK.",
+      "美國加州柏克萊大學企管碩士 MBA, University of California",
+      "國立交通大學管理科學系博士 Ph.D. in Management Science, National Chiao Tung University",
+      "國立臺灣大學財務金融學系博士 Ph.D. in Finance, National Taiwan University",
+      "國立清華大學計量財務金融學系碩士 Master of Quantitative Finance, Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "食品需求分析、應用個體計畫經濟、休閒經濟分析 Food Demand Analysis, Applied Individual Project Economy and Leisure Economy Analysis",
+      "財務工程 Financial Engineering",
+      "經營與策略管理 Operations and Strategic Management",
+      "房地產金融學、金融交易實務、金融行銷學 Real Estate Finance, Derivative Trading Practice, Financial Marketing",
+      "金融與創新科技發展與實務經營 FinTech and Innovation Management",
+      "財富管理經營實務",
+      "大數據分析、預測模型、計量經濟 Big Data Analysis, Prediction Model, Econometrics",
+      "會計相關 Accounting",
+      "金融科技、國際金融、行為財務、共同基金 Fintech, International Finance, Behavioral Finance, Mutual Funds",
+      "量化投資、投資組合管理 Quantitative Investing, Portfolio Management"
+    ],
+    "research_interests_en": [
+      "食品需求分析、應用個體計畫經濟、休閒經濟分析 Food Demand Analysis, Applied Individual Project Economy and Leisure Economy Analysis",
+      "財務工程 Financial Engineering",
+      "經營與策略管理 Operations and Strategic Management",
+      "房地產金融學、金融交易實務、金融行銷學 Real Estate Finance, Derivative Trading Practice, Financial Marketing",
+      "金融與創新科技發展與實務經營 FinTech and Innovation Management",
+      "財富管理經營實務",
+      "大數據分析、預測模型、計量經濟 Big Data Analysis, Prediction Model, Econometrics",
+      "會計相關 Accounting",
+      "金融科技、國際金融、行為財務、共同基金 Fintech, International Finance, Behavioral Finance, Mutual Funds",
+      "量化投資、投資組合管理 Quantitative Investing, Portfolio Management"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5739.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5739.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-173929,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-292821,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-242052,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-65184,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-241904,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-119675,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-195693,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-208665,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-297414,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-297413,c5739.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-173929,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-292821,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-242052,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-65184,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-241904,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-119675,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-195693,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-208665,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-297414,c5739.php?Lang=zh-tw",
+      "https://qf.site.nthu.edu.tw/p/405-1366-297413,c5739.php?Lang=zh-tw"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-fulltime-7231f70cb1",
+    "school_id": "nthu-qf",
+    "name_zh": "專任教師",
+    "name_en": "Full-Time",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "Professor"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-3772.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-3772.php"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "name",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-張焯然-be6ae873ff",
+    "school_id": "nthu-qf",
+    "name_zh": "張焯然",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授兼副校友服務及資源發展長",
+      "專任教師 Full-Time Professor",
+      "教授兼副校友服務及資源發展長 Professor and Deputy Vice President for Alumni Service and Resources Development"
+    ],
+    "titles_en": [
+      "教授兼副校友服務及資源發展長",
+      "專任教師 Full-Time Professor",
+      "教授兼副校友服務及資源發展長 Professor and Deputy Vice President for Alumni Service and Resources Development"
+    ],
+    "education_zh": [
+      "國立臺灣大學財務金融博士",
+      "Ph.D. in Finance, National Taiwan University",
+      "國立臺灣大學財務金融博士 Ph.D. in Finance, National Taiwan University"
+    ],
+    "education_en": [
+      "國立臺灣大學財務金融博士",
+      "Ph.D. in Finance, National Taiwan University",
+      "國立臺灣大學財務金融博士 Ph.D. in Finance, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "資產訂價 Asset Pricing, 風險管理 Risk Management, 信用風險管理 Credit Risk Management"
+    ],
+    "research_interests_en": [
+      "資產訂價 Asset Pricing, 風險管理 Risk Management, 信用風險管理 Credit Risk Management"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16623,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16623,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "35a017a1b8c1d494@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-曾祺峰-0159aadf46",
+    "school_id": "nthu-qf",
+    "name_zh": "曾祺峰",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授兼副系主任",
+      "專任教師 Full-Time Professor",
+      "副教授兼副系主任 Associate Professor and Associate Chairman"
+    ],
+    "titles_en": [
+      "副教授兼副系主任",
+      "專任教師 Full-Time Professor",
+      "副教授兼副系主任 Associate Professor and Associate Chairman"
+    ],
+    "education_zh": [
+      "英國蘭開斯特大學財金所博士",
+      "Ph.D. in Accounting and Finance, Lancaster University",
+      "英國蘭開斯特大學財金所博士 Ph.D. in Accounting and Finance, Lancaster University"
+    ],
+    "education_en": [
+      "英國蘭開斯特大學財金所博士",
+      "Ph.D. in Accounting and Finance, Lancaster University",
+      "英國蘭開斯特大學財金所博士 Ph.D. in Accounting and Finance, Lancaster University"
+    ],
+    "research_interests_zh": [
+      "財務工程 Financial Engineering, 財務計量 Financial Econometrics, 風險管理 Risk Management"
+    ],
+    "research_interests_en": [
+      "財務工程 Financial Engineering, 財務計量 Financial Econometrics, 風險管理 Risk Management"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-42330,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-42330,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "http://sites.google.com/site/josetzeng8"
+    ],
+    "emails": [
+      "8f504bc25bbdfc00@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-林哲群-8dd6d7cb57",
+    "school_id": "nthu-qf",
+    "name_zh": "林哲群",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授兼校友服務及資源發展長",
+      "專任教師 Full-Time Professor",
+      "教授兼校友服務及資源發展長 Professor and Vice President for Alumni Service and Resources Development"
+    ],
+    "titles_en": [
+      "教授兼校友服務及資源發展長",
+      "專任教師 Full-Time Professor",
+      "教授兼校友服務及資源發展長 Professor and Vice President for Alumni Service and Resources Development"
+    ],
+    "education_zh": [
+      "美國德州大學阿靈頓分校財務管理博士",
+      "Ph.D. in Finance, University of Texas at Arlington",
+      "美國德州大學阿靈頓分校財務管理博士 Ph.D. in Finance, University of Texas at Arlington"
+    ],
+    "education_en": [
+      "美國德州大學阿靈頓分校財務管理博士",
+      "Ph.D. in Finance, University of Texas at Arlington",
+      "美國德州大學阿靈頓分校財務管理博士 Ph.D. in Finance, University of Texas at Arlington"
+    ],
+    "research_interests_zh": [
+      "金融資產證券化 Financial Asset Securitization, 公司理財 Corporate Finance, 財務決策分析 Financial Decision Analysis"
+    ],
+    "research_interests_en": [
+      "金融資產證券化 Financial Asset Securitization, 公司理財 Corporate Finance, 財務決策分析 Financial Decision Analysis"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16624,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16624,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "https://rebrand.ly/CaryLin"
+    ],
+    "emails": [
+      "d438b494a4c43965@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-潘虹華-2cd399c3cc",
+    "school_id": "nthu-qf",
+    "name_zh": "潘虹華",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授兼科管院公共事務辦公室主任",
+      "專任教師 Full-Time Professor",
+      "副教授兼科管院公共事務辦公室主任 Associate Professor and Director of the Office of Public Affairs"
+    ],
+    "titles_en": [
+      "副教授兼科管院公共事務辦公室主任",
+      "專任教師 Full-Time Professor",
+      "副教授兼科管院公共事務辦公室主任 Associate Professor and Director of the Office of Public Affairs"
+    ],
+    "education_zh": [
+      "Ph.D. in",
+      "國立臺灣大學會計系博士 Ph.D. in Accounting, National Taiwan University"
+    ],
+    "education_en": [
+      "Ph.D. in",
+      "國立臺灣大學會計系博士 Ph.D. in Accounting, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "財務會計學 Financial Accounting, 高階經理人薪酬 Executive Compensation, 審計 Auditing"
+    ],
+    "research_interests_en": [
+      "財務會計學 Financial Accounting, 高階經理人薪酬 Executive Compensation, 審計 Auditing"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-151734,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-151734,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "http://mx.nthu.edu.tw/~hhpan/"
+    ],
+    "emails": [
+      "f5e2838d1b132adf@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-索樂晴-9b18bc7ea3",
+    "school_id": "nthu-qf",
+    "name_zh": "索樂晴",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "titles_en": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學國際企業學博士",
+      "Ph.D. in International Business, National Taiwan University",
+      "國立臺灣大學國際企業學博士 Ph.D. in International Business, National Taiwan University"
+    ],
+    "education_en": [
+      "國立臺灣大學國際企業學博士",
+      "Ph.D. in International Business, National Taiwan University",
+      "國立臺灣大學國際企業學博士 Ph.D. in International Business, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "資產訂價 Asset Pricing, 財務工程 Financial Engineering, 國際財管 International Finance"
+    ],
+    "research_interests_en": [
+      "資產訂價 Asset Pricing, 財務工程 Financial Engineering, 國際財管 International Finance"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16626,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16626,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "01a64455c6b8d773@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-蔡子晧-d1c931b9aa",
+    "school_id": "nthu-qf",
+    "name_zh": "蔡子晧",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教師 Full-Time Professor",
+      "教授 Professor"
+    ],
+    "titles_en": [
+      "教授",
+      "專任教師 Full-Time Professor",
+      "教授 Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學財務金融研究所博士",
+      "Ph.D. in Finance, National Taiwan University",
+      "國立臺灣大學財務金融研究所博士 Ph.D. in Finance, National Taiwan University"
+    ],
+    "education_en": [
+      "國立臺灣大學財務金融研究所博士",
+      "Ph.D. in Finance, National Taiwan University",
+      "國立臺灣大學財務金融研究所博士 Ph.D. in Finance, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "保險訂價 Insurance Pricing, 長壽風險管理 Longevity Risk Management, 金融機構管理 Financial Institutions Management"
+    ],
+    "research_interests_en": [
+      "保險訂價 Insurance Pricing, 長壽風險管理 Longevity Risk Management, 金融機構管理 Financial Institutions Management"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16628,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16628,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "https://eeclass.nthu.edu.tw/user/18008/info"
+    ],
+    "emails": [
+      "2af3fd6ea51795ad@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-蔡怡純-bc1e0b3659",
+    "school_id": "nthu-qf",
+    "name_zh": "蔡怡純",
+    "name_en": "",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "教授兼系主任",
+      "專任教師 Full-Time Professor",
+      "教授兼系主任 Professor and Chairman 114年度清華-清鏡傑出人才講座 2025 NTHU-Ching Jing Distinguished Talent Chair"
+    ],
+    "titles_en": [
+      "教授兼系主任",
+      "專任教師 Full-Time Professor",
+      "教授兼系主任 Professor and Chairman 114年度清華-清鏡傑出人才講座 2025 NTHU-Ching Jing Distinguished Talent Chair"
+    ],
+    "education_zh": [
+      "國立中山大學財務管理學系博士",
+      "Ph.D. in Finance, National Sun Yat-sen University",
+      "國立中山大學財務管理學系博士 Ph.D. in Finance, National Sun Yat-sen University"
+    ],
+    "education_en": [
+      "國立中山大學財務管理學系博士",
+      "Ph.D. in Finance, National Sun Yat-sen University",
+      "國立中山大學財務管理學系博士 Ph.D. in Finance, National Sun Yat-sen University"
+    ],
+    "research_interests_zh": [
+      "不動產財務 Real Estate Finance, 不動產經濟 Real Estate Economics, 實證計量 Applied Econometrics"
+    ],
+    "research_interests_en": [
+      "不動產財務 Real Estate Finance, 不動產經濟 Real Estate Economics, 實證計量 Applied Econometrics"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-229103,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-229103,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/i-chun-tsai/"
+    ],
+    "emails": [
+      "d80451154da8d7d6@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-許博炫-19a6a7d0a1",
+    "school_id": "nthu-qf",
+    "name_zh": "許博炫",
+    "name_en": "",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "特聘講座教授 兼 科管院跨領域研究辦公室主任",
+      "專任教師 Full-Time Professor",
+      "清華特聘講座教授 兼 科管院跨領域研究辦公室主任 Tsing Hua Distinguished Chair Professor & Director Office of Interdisciplinary Research"
+    ],
+    "titles_en": [
+      "特聘講座教授 兼 科管院跨領域研究辦公室主任",
+      "專任教師 Full-Time Professor",
+      "清華特聘講座教授 兼 科管院跨領域研究辦公室主任 Tsing Hua Distinguished Chair Professor & Director Office of Interdisciplinary Research"
+    ],
+    "education_zh": [
+      "美國哥倫比亞大學財務金融學博士",
+      "Ph.D. and M.Phil. in Finance,Finance and Economics Division,Graduate School of Business, Columbia University,USA",
+      "Ph.D. and M.Phil. in Finance, Finance and Economics Division, Graduate School of Business, Columbia University"
+    ],
+    "education_en": [
+      "美國哥倫比亞大學財務金融學博士",
+      "Ph.D. and M.Phil. in Finance,Finance and Economics Division,Graduate School of Business, Columbia University,USA",
+      "Ph.D. and M.Phil. in Finance, Finance and Economics Division, Graduate School of Business, Columbia University"
+    ],
+    "research_interests_zh": [
+      "Research",
+      "The interaction between technological innovations and financial markets, entrepreneurship, and financial econometrics"
+    ],
+    "research_interests_en": [
+      "Research",
+      "The interaction between technological innovations and financial markets, entrepreneurship, and financial econometrics"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-165135,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-165135,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "https://oir.site.nthu.edu.tw/p/412-1487-18850.php"
+    ],
+    "emails": [
+      "00c3aca3f19f03b7@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-謝佩芳-000b7cb509",
+    "school_id": "nthu-qf",
+    "name_zh": "謝佩芳",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任教師 Full-Time Professor",
+      "教授 Professor"
+    ],
+    "titles_en": [
+      "教授",
+      "專任教師 Full-Time Professor",
+      "教授 Professor"
+    ],
+    "education_zh": [
+      "國立中央大學財務金融學系博士",
+      "Ph.D. in Finance, National Central University",
+      "國立中央大學財務金融學系博士 Ph.D. in Finance, National Central University"
+    ],
+    "education_en": [
+      "國立中央大學財務金融學系博士",
+      "Ph.D. in Finance, National Central University",
+      "國立中央大學財務金融學系博士 Ph.D. in Finance, National Central University"
+    ],
+    "research_interests_zh": [
+      "衍生性金融商品 Derivatives, 公司理財 Corporate Finance, 實證研究 Empirical Studies"
+    ],
+    "research_interests_en": [
+      "衍生性金融商品 Derivatives, 公司理財 Corporate Finance, 實證研究 Empirical Studies"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16629,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16629,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "http://mx.nthu.edu.tw/~pfhsieh"
+    ],
+    "emails": [
+      "72c45c08e98b68b1@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-謝宗翰-b308786865",
+    "school_id": "nthu-qf",
+    "name_zh": "謝宗翰",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "titles_en": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "education_zh": [
+      "美國威斯康辛大學麥迪遜分校電機與電腦工程學系博士",
+      "Ph.D. in Electrical Engineering, University of Wisconsin-Madison",
+      "美國威斯康辛大學麥迪遜分校電機與電腦工程學系博士 Ph.D. in Electrical Engineering, University of Wisconsin-Madison"
+    ],
+    "education_en": [
+      "美國威斯康辛大學麥迪遜分校電機與電腦工程學系博士",
+      "Ph.D. in Electrical Engineering, University of Wisconsin-Madison",
+      "美國威斯康辛大學麥迪遜分校電機與電腦工程學系博士 Ph.D. in Electrical Engineering, University of Wisconsin-Madison"
+    ],
+    "research_interests_zh": [
+      "Research",
+      "隨機系統 Stochastic Systems, 系統與控制理論 Systems and Control Theory, 財務工程 Financial Engineering"
+    ],
+    "research_interests_en": [
+      "Research",
+      "隨機系統 Stochastic Systems, 系統與控制理論 Systems and Control Theory, 財務工程 Financial Engineering"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-195695,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-195695,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/chung-han-hsieh-website/"
+    ],
+    "emails": [
+      "8b4261b2a42a9c33@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-邱婉茜-1ac7d9d097",
+    "school_id": "nthu-qf",
+    "name_zh": "邱婉茜",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "titles_en": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "education_zh": [
+      "馬德里卡洛斯三世大學企業經濟學暨定量分析法博士",
+      "Ph.D. in Business Administration and Quantitative Methods, Universidad Carlos III de Madrid, Spain",
+      "馬德里卡洛斯三世大學企業經濟學暨定量分析法博士 Ph.D. in Business Administration and Quantitative Methods, Universidad Carlos III de Madrid, Spain"
+    ],
+    "education_en": [
+      "馬德里卡洛斯三世大學企業經濟學暨定量分析法博士",
+      "Ph.D. in Business Administration and Quantitative Methods, Universidad Carlos III de Madrid, Spain",
+      "馬德里卡洛斯三世大學企業經濟學暨定量分析法博士 Ph.D. in Business Administration and Quantitative Methods, Universidad Carlos III de Madrid, Spain"
+    ],
+    "research_interests_zh": [
+      "Intangible Assets, Green Finance, Bank Loan Contracting"
+    ],
+    "research_interests_en": [
+      "Intangible Assets, Green Finance, Bank Loan Contracting"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-119580,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-119580,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/wanchienchiu/"
+    ],
+    "emails": [
+      "8af6d8c82357cd5a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-鍾經樊-def35bacad",
+    "school_id": "nthu-qf",
+    "name_zh": "鍾經樊",
+    "name_en": "",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "講座教授",
+      "專任教師 Full-Time Professor",
+      "講座教授 Chair Professor"
+    ],
+    "titles_en": [
+      "講座教授",
+      "專任教師 Full-Time Professor",
+      "講座教授 Chair Professor"
+    ],
+    "education_zh": [
+      "美國威斯康辛大學麥迪遜校區經濟系博士",
+      "Ph.D. in Economics, University of Wisconsin-Madison",
+      "美國威斯康辛大學麥迪遜校區經濟系博士 Ph.D. in Economics, University of Wisconsin-Madison"
+    ],
+    "education_en": [
+      "美國威斯康辛大學麥迪遜校區經濟系博士",
+      "Ph.D. in Economics, University of Wisconsin-Madison",
+      "美國威斯康辛大學麥迪遜校區經濟系博士 Ph.D. in Economics, University of Wisconsin-Madison"
+    ],
+    "research_interests_zh": [
+      "風險管理 Risk Management, 財務工程 Financial Engineering, 財務計量經濟學 Financial Econometrics"
+    ],
+    "research_interests_en": [
+      "風險管理 Risk Management, 財務工程 Financial Engineering, 財務計量經濟學 Financial Econometrics"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16620,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16620,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "74b31b5023d3c6a6@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-韓傳祥-b9870472b6",
+    "school_id": "nthu-qf",
+    "name_zh": "韓傳祥",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "titles_en": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "education_zh": [
+      "美國北卡羅萊納州立大學應用數學博士",
+      "Ph.D. in Applied Mathematics, North Carolina State University",
+      "美國北卡羅萊納州立大學應用數學博士 Ph.D. in Applied Mathematics, North Carolina State University"
+    ],
+    "education_en": [
+      "美國北卡羅萊納州立大學應用數學博士",
+      "Ph.D. in Applied Mathematics, North Carolina State University",
+      "美國北卡羅萊納州立大學應用數學博士 Ph.D. in Applied Mathematics, North Carolina State University"
+    ],
+    "research_interests_zh": [
+      "財務工程 Financial Engineering, 應用機率 Applied Probability"
+    ],
+    "research_interests_en": [
+      "財務工程 Financial Engineering, 應用機率 Applied Probability"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16636,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16636,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "http://mx.nthu.edu.tw/~chhan/"
+    ],
+    "emails": [
+      "b29b605f80f6197e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-黃德源-436d6848bb",
+    "school_id": "nthu-qf",
+    "name_zh": "黃德源",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "titles_en": [
+      "副教授",
+      "專任教師 Full-Time Professor",
+      "副教授 Associate Professor"
+    ],
+    "education_zh": [
+      "波士頓大學經濟系博士",
+      "Ph.D. in Economics, Boston University",
+      "波士頓大學經濟系博士 Ph.D. in Economics, Boston University"
+    ],
+    "education_en": [
+      "波士頓大學經濟系博士",
+      "Ph.D. in Economics, Boston University",
+      "波士頓大學經濟系博士 Ph.D. in Economics, Boston University"
+    ],
+    "research_interests_zh": [
+      "公司金融 Corporate Finance, 合約理論 Contract Theory"
+    ],
+    "research_interests_en": [
+      "公司金融 Corporate Finance, 合約理論 Contract Theory"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-184380,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-184380,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "http://sites.google.com/site/etywong110",
+      "https://sites.google.com/site/etywong110"
+    ],
+    "emails": [
+      "13bbd53038220f4d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  },
+  {
+    "faculty_id": "nthu-qf-黃裕烈-945496ca2a",
+    "school_id": "nthu-qf",
+    "name_zh": "黃裕烈",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授兼MFB 專班主任",
+      "專任教師 Full-Time Professor",
+      "教授兼MFB專班主任 Professor and Director of MFB"
+    ],
+    "titles_en": [
+      "教授兼MFB 專班主任",
+      "專任教師 Full-Time Professor",
+      "教授兼MFB專班主任 Professor and Director of MFB"
+    ],
+    "education_zh": [
+      "國立臺灣大學經濟學博士",
+      "Ph.D. in Economics, National Taiwan University",
+      "國立臺灣大學經濟學博士 Ph.D. in Economics, National Taiwan University"
+    ],
+    "education_en": [
+      "國立臺灣大學經濟學博士",
+      "Ph.D. in Economics, National Taiwan University",
+      "國立臺灣大學經濟學博士 Ph.D. in Economics, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "數理金融 Mathematical Finance, 經濟計量方法 Quantitative Method"
+    ],
+    "research_interests_en": [
+      "數理金融 Mathematical Finance, 經濟計量方法 Quantitative Method"
+    ],
+    "listing_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "listing_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+    ],
+    "profile_urls_zh": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16625,c5738.php?Lang=zh-tw"
+    ],
+    "profile_urls_en": [
+      "https://qf.site.nthu.edu.tw/p/405-1366-16625,c5738.php?Lang=zh-tw"
+    ],
+    "personal_urls": [
+      "https://remi.ctmnthu.com"
+    ],
+    "emails": [
+      "db8882f0fff450ec@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:29:28+08:00"
+  }
+]

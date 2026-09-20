@@ -1,0 +1,100 @@
+{
+  "unit": "ntu-fin",
+  "level": "school",
+  "school_ids": [
+    "ntu-fin"
+  ],
+  "deduplicated": false,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 43,
+    "n_entities": 43,
+    "n_duplicate_records_removed": 0,
+    "n_in_network": 32,
+    "n_excluded_no_keywords": 11,
+    "coverage_pct": 74.4
+  },
+  "bipartite": {
+    "n_professors": 32,
+    "n_keywords": 33,
+    "n_edges": 86,
+    "density": 0.08143939393939394,
+    "n_connected_components": 1,
+    "lcc_n_nodes": 65,
+    "lcc_n_professors": 32,
+    "lcc_n_keywords": 33,
+    "lcc_node_share": 1.0,
+    "lcc_professor_share": 1.0,
+    "professor_degree_mean": 2.6875,
+    "professor_degree_max": 6,
+    "keyword_degree_mean": 2.606060606060606,
+    "keyword_degree_max": 15
+  },
+  "keyword_network": {
+    "n_nodes": 33,
+    "n_edges": 69,
+    "density": 0.13068181818181818,
+    "mean_degree": 4.181818181818182,
+    "mean_weight": 1.3043478260869565,
+    "avg_clustering": 0.6615867099824319,
+    "modularity_q_by_resolution": {
+      "0.7": 0.45893827160493833,
+      "1.0": 0.32493827160493827,
+      "1.3": 0.2504753086419753
+    },
+    "n_communities_by_resolution": {
+      "0.7": 5,
+      "1.0": 7,
+      "1.3": 7
+    },
+    "modularity_q": 0.32493827160493827,
+    "n_communities": 7,
+    "girvan_newman": {
+      "n_communities": 4,
+      "modularity_q": 0.28444444444444444
+    },
+    "taxonomy_alignment_nmi": 0.5664433882817238,
+    "taxonomy_alignment_ari": 0.2500774713356058,
+    "pearson_degree_betweenness_r": 0.898317890193226,
+    "pearson_degree_betweenness_p": 1.3281284845451867e-12
+  },
+  "professor_network": {
+    "n_nodes": 32,
+    "n_edges": 234,
+    "density": 0.4717741935483871,
+    "mean_degree": 14.625,
+    "avg_clustering": 0.7694739510043135,
+    "modularity_q_by_resolution": {
+      "0.7": 0.32091110352365504,
+      "1.0": 0.15245267328882572,
+      "1.3": 0.08304792491347002
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 5,
+      "1.3": 7
+    },
+    "modularity_q": 0.15245267328882572,
+    "n_communities": 5,
+    "assortativity_dominant_l1": 0.11755653222787579,
+    "assortativity_role_groups": -0.035246800731261636,
+    "assortativity_school": NaN,
+    "community_vs_dominant_l1_nmi": 0.5565660969322052,
+    "community_vs_dominant_l1_ari": 0.3852167902176245
+  },
+  "guardrails": {
+    "l1_too_broad": [
+      "Asset Pricing & Financial Markets",
+      "Corporate Finance & Governance"
+    ],
+    "lambda_over_merging": []
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 0,
+    "professors_without_chinese_name": []
+  }
+}

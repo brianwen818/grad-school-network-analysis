@@ -1,0 +1,87 @@
+﻿group,research_interest_en,ncku-stats-ds,ntu-comm-engin-ds-network,ntu-ds,total_faculty_mentions,department_count
+ds,Machine Learning,5,9,15,29,3
+ds,Statistics,18,0,4,22,2
+ds,Artificial Intelligence,1,4,15,20,3
+ds,Multimedia Systems,1,6,7,14,3
+ds,Deep Learning,2,3,8,13,3
+ds,Computer Vision,2,1,7,10,3
+ds,Data Mining,3,1,6,10,3
+ds,Signal Processing,0,7,3,10,2
+ds,Bioinformatics,8,0,1,9,2
+ds,Biostatistics,8,0,1,9,2
+ds,Information Security,1,2,5,8,3
+ds,Optimization,1,3,4,8,3
+ds,Internet of Things,1,2,4,7,3
+ds,Bayesian Statistics,5,0,2,7,2
+ds,Computer Networks,0,6,1,7,2
+ds,Natural Language Processing,1,0,6,7,2
+ds,Wireless Networks,0,5,2,7,2
+ds,Image Processing,2,3,1,6,3
+ds,Big Data Analytics,3,0,3,6,2
+ds,Statistical Computing,5,0,1,6,2
+ds,Robotics,1,2,2,5,3
+ds,Data Science,0,1,4,5,2
+ds,Multivariate Analysis,4,0,1,5,2
+ds,Reinforcement Learning,0,1,4,5,2
+ds,Wireless Communications,0,3,2,5,2
+ds,Partial Differential Equations,0,0,5,5,1
+ds,Reliability Analysis,5,0,0,5,1
+ds,Statistical Consulting,5,0,0,5,1
+ds,Automation and Control,1,0,3,4,2
+ds,Financial Technology,0,1,3,4,2
+ds,Time Series Analysis,3,0,1,4,2
+ds,Industrial Statistics,4,0,0,4,1
+ds,Regression Analysis,4,0,0,4,1
+ds,Survival Analysis,4,0,0,4,1
+ds,Causal Inference,1,0,2,3,2
+ds,Embedded Systems,1,0,2,3,2
+ds,Mobile Computing,0,1,2,3,2
+ds,Pattern Recognition,2,1,0,3,2
+ds,Social Network Analysis,2,0,1,3,2
+ds,Computer Architecture,0,0,3,3,1
+ds,Electronic Design Automation,0,0,3,3,1
+ds,Experimental Design,3,0,0,3,1
+ds,Parallel Computing,0,0,3,3,1
+ds,Smart Healthcare,0,0,3,3,1
+ds,Survey Sampling,3,0,0,3,1
+ds,Blockchain,0,1,1,2,2
+ds,Databases,0,1,1,2,2
+ds,Game Theory,0,1,1,2,2
+ds,Human-Computer Interaction,1,0,1,2,2
+ds,Pervasive Computing,0,1,1,2,2
+ds,Probability Theory,1,0,1,2,2
+ds,Speech Recognition,0,1,1,2,2
+ds,Systems Biology,0,1,1,2,2
+ds,Actuarial Science,2,0,0,2,1
+ds,Information Retrieval,0,0,2,2,1
+ds,Neural Networks,0,2,0,2,1
+ds,Statistical Process Control,2,0,0,2,1
+ds,Web Mining,0,0,2,2,1
+ds,Algebraic Geometry,0,0,1,1,1
+ds,Algorithms,1,0,0,1,1
+ds,Augmented Reality,1,0,0,1,1
+ds,Brain-Computer Interfaces,0,0,1,1,1
+ds,Change Point Analysis,1,0,0,1,1
+ds,Compilers,0,0,1,1,1
+ds,Computational Linguistics,0,0,1,1,1
+ds,Computer Graphics,0,1,0,1,1
+ds,Differential Geometry,0,0,1,1,1
+ds,Digital Transformation,0,0,1,1,1
+ds,Digital Twins,0,0,1,1,1
+ds,Formal Methods,0,0,1,1,1
+ds,Generative AI,0,0,1,1,1
+ds,High-Dimensional Statistics,1,0,0,1,1
+ds,Information Theory,0,1,0,1,1
+ds,Medical Imaging,0,0,1,1,1
+ds,Model Checking,0,0,1,1,1
+ds,Network Security,0,0,1,1,1
+ds,Numerical Analysis,1,0,0,1,1
+ds,Privacy-Preserving Computing,0,0,1,1,1
+ds,Recommender Systems,1,0,0,1,1
+ds,Scientific Computing,0,0,1,1,1
+ds,Scientific Modeling,0,0,1,1,1
+ds,Smart Manufacturing,0,1,0,1,1
+ds,Social Media Analytics,1,0,0,1,1
+ds,Software Verification,0,0,1,1,1
+ds,Spatial Clustering,1,0,0,1,1
+ds,Trustworthy AI,0,1,0,1,1

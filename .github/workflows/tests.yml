@@ -1,0 +1,82 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  collector-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install crawler dependencies
+        run: python -m pip install -r scripts/data-collection/requirements.txt
+
+      - name: Run offline unit tests
+        # test_live.py hits the real departmental sites and is gated behind
+        # FACULTY_LIVE_TESTS=1, so it stays skipped here on purpose.
+        run: python -m unittest discover -s scripts/data-collection/tests -v
+
+  data-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Every JSON file parses
+        run: |
+          python - <<'PY'
+          import json, pathlib, sys
+          bad = []
+          for p in pathlib.Path(".").rglob("*.json"):
+              if ".git" in p.parts:
+                  continue
+              try:
+                  json.loads(p.read_text(encoding="utf-8"))
+              except Exception as exc:
+                  bad.append(f"{p}: {exc}")
+          print(f"checked {sum(1 for _ in pathlib.Path('.').rglob('*.json'))} files")
+          if bad:
+              print("\n".join(bad))
+              sys.exit(1)
+          PY
+
+      - name: No e-mail addresses leaked back into the dataset
+        run: |
+          python - <<'PY'
+          import pathlib, re, sys
+          pat = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+          # redacted.invalid = the pseudonymised tokens; the others are test
+          # fixtures and the author's own contact address in CITATION.cff.
+          allowed = ("redacted.invalid", "example.edu.tw", "example.com",
+                     "noreply@", "users.noreply.github.com")
+          hits = []
+          for p in pathlib.Path(".").rglob("*"):
+              if not p.is_file() or ".git" in p.parts:
+                  continue
+              if p.suffix.lower() not in {".json", ".csv", ".md", ".txt", ".py", ".ipynb", ".graphml", ".yml"}:
+                  continue
+              try:
+                  text = p.read_text(encoding="utf-8")
+              except (UnicodeDecodeError, OSError):
+                  continue
+              for m in pat.findall(text):
+                  if not any(a in m for a in allowed):
+                      hits.append(f"{p}: {m}")
+          if hits:
+              print("Real e-mail addresses found; run the pseudonymiser before committing:")
+              print("\n".join(hits[:40]))
+              sys.exit(1)
+          print("clean")
+          PY

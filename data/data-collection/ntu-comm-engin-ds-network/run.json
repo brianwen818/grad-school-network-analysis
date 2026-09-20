@@ -1,0 +1,22 @@
+{
+  "school_id": "ntu-comm-engin-ds-network",
+  "started_from": {
+    "zh": "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS",
+    "en": "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+  },
+  "note": "",
+  "collected_at": "2026-09-09T09:29:31+08:00",
+  "pages": [
+    "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS",
+    "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+  ],
+  "counts": {
+    "zh_raw": 25,
+    "en_raw": 25,
+    "faculty": 25
+  },
+  "warnings": [],
+  "errors": [],
+  "validation_issues": [],
+  "success": true
+}

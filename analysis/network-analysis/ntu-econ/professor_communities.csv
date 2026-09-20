@@ -1,0 +1,42 @@
+﻿node,professor_name,name_en,school_ids,dominant_l1,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+ntu-econ-joonkyohong-abba80fbe9,Joonkyo Hong,Joonkyo Hong,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-junrokpark-d50100b56e,Junrok Park,Junrok Park,ntu-econ,Applied Mathematics & Operations Research,0,1,1,1
+ntu-econ-sungminpark-469370a4d3,Sungmin Park,Sungmin Park,ntu-econ,Asset Pricing & Financial Markets,0,2,3,2
+ntu-econ-toshiakikomatsu-2c1f940cc4,Toshiaki Komatsu,Toshiaki Komatsu,ntu-econ,Economics & Policy,1,0,3,0
+ntu-econ-何泰寬-3f8b4902cb,何泰寬,Tai-kuang Ho,ntu-econ,Asset Pricing & Financial Markets,0,2,2,2
+ntu-econ-劉育辰-40b649c520,劉育辰,Yu-Chen Liu,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-吳儀玲-9ff31e9638,吳儀玲,YiLin Wu,ntu-econ,Asset Pricing & Financial Markets,1,0,0,0
+ntu-econ-和田健司-cd35fc2b2a,和田健司,Kenji Wada,ntu-econ,Asset Pricing & Financial Markets,1,0,0,0
+ntu-econ-小松利明-e63776cdd7,小松利明,nan,ntu-econ,Economics & Policy,1,0,3,0
+ntu-econ-廖珮如-cff0efe03d,廖珮如,Pei-Ju Liao,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-張勝凱-af91a80773,張勝凱,Sheng-Kai Chang,ntu-econ,Economics & Policy,0,2,2,2
+ntu-econ-朱玉琦-f9c58241bc,朱玉琦,Yu-Chi Chu,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-朴埻錄-9cec86c47b,朴埻錄,nan,ntu-econ,Applied Mathematics & Operations Research,0,1,1,1
+ntu-econ-朴聖民-100e67fe5b,朴聖民,nan,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-李宗穎-b1fed3d112,李宗穎,Chung-Ying Lee,ntu-econ,Economics & Policy,0,1,2,1
+ntu-econ-李怡庭-876e01e588,李怡庭,Yiting Li,ntu-econ,Asset Pricing & Financial Markets,1,0,0,0
+ntu-econ-林明仁-3459b553e9,林明仁,Ming-Jen Lin,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-梁卓誠-81139af4f8,梁卓誠,Cheuk Shing Leung,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-楊睿中-6c2f0e88ae,楊睿中,Jui-Chung Yang,ntu-econ,Economics & Policy,0,2,2,2
+ntu-econ-樊家忠-0d4e667fb7,樊家忠,Elliott Fan,ntu-econ,Economics & Policy,0,2,2,2
+ntu-econ-江淳芳-727bf49f84,江淳芳,Chun-Fang Chiang,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-洪俊教-348bf31cd5,洪俊教,nan,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-王建強-992a85075e,王建強,Chien-Chiang Wang,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-王泓仁-6e89dae82f,王泓仁,Hung-Jen Wang,ntu-econ,Economics & Policy,0,2,2,2
+ntu-econ-羅珮瑜-24610cd413,羅珮瑜,Pei-Yu Lo,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-蔡宜展-c83bdc5cdc,蔡宜展,Yi-Chan Tsai,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-蔡崇聖-b5b6a97658,蔡崇聖,Tsung-Sheng Tsai,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-蘇軒立-87d57366a0,蘇軒立,Hsuan-Li Su,ntu-econ,Asset Pricing & Financial Markets,1,0,0,0
+ntu-econ-許軒銘-45dfd20a6e,許軒銘,Shanon Hsuan-Ming Hsu,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-謝志昇-c7296b64a4,謝志昇,Chih-Sheng Hsieh,ntu-econ,Economics & Policy,0,2,2,2
+ntu-econ-郭漢豪-7977d0a5be,郭漢豪,Kwok Hon Ho,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-陳冠銘-e3634202cf,陳冠銘,Kuan-Ming Chen,ntu-econ,Economics & Policy,0,2,2,2
+ntu-econ-陳南光-8b0f367291,陳南光,Nan-Kuang Chen,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-陳慶池-440d91818f,陳慶池,Hing Chi Jimmy Chan,ntu-econ,Applied Mathematics & Operations Research,0,1,1,1
+ntu-econ-陳旭昇-a9164bcf1e,陳旭昇,Shiu-Sheng Chen,ntu-econ,Asset Pricing & Financial Markets,1,0,0,0
+ntu-econ-陳由常-b2ab5a0144,陳由常,Yu-Chang Chen,ntu-econ,Economics & Policy,0,2,2,2
+ntu-econ-陳虹如-4ec44ed550,陳虹如,Hung-Ju Chen,ntu-econ,Economics & Policy,1,0,0,0
+ntu-econ-馮勃翰-3891fb6c24,馮勃翰,Po Han Fong,ntu-econ,Economics & Policy,0,1,1,1
+ntu-econ-駱明慶-49f94e80de,駱明慶,Ming-Ching Luoh,ntu-econ,Economics & Policy,0,2,2,2
+ntu-econ-高恩琵-a49ecd70d7,高恩琵,Ko Eunbi,ntu-econ,Economics & Policy,1,0,3,0
+ntu-econ-黃景沂-8fe2cfab0f,黃景沂,Ching-I Huang,ntu-econ,Economics & Policy,0,1,1,1

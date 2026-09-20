@@ -1,0 +1,41 @@
+{
+  "school_id": "ntu-ds",
+  "started_from": {
+    "zh": "https://ds.ntu.edu.tw/tw/faculty/core",
+    "en": "https://ds.ntu.edu.tw/en/faculty/core"
+  },
+  "note": "link一樣但右上角有切換語言button",
+  "collected_at": "2026-09-09T09:31:25+08:00",
+  "pages": [
+    "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=tw",
+    "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=pt&lang=tw",
+    "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=at&lang=tw",
+    "https://ds.ntu.edu.tw/tw/faculty/core",
+    "https://ds.ntu.edu.tw/tw/member/",
+    "https://ds.ntu.edu.tw/tw/member/leader",
+    "https://ds.ntu.edu.tw/tw/faculty/pt",
+    "https://ds.ntu.edu.tw/tw/faculty/at",
+    "https://ds.ntu.edu.tw/tw/faculty/{{f['ei_link_'+lang]}}",
+    "https://ds.ntu.edu.tw/tw/faculty/{{f['ei_lablink_'+lang]}}",
+    "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en",
+    "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=pt&lang=en",
+    "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=at&lang=en",
+    "https://ds.ntu.edu.tw/en/faculty/core",
+    "https://ds.ntu.edu.tw/en/member/",
+    "https://ds.ntu.edu.tw/en/faculty/pt",
+    "https://ds.ntu.edu.tw/en/enroll/enrollinfo",
+    "https://ds.ntu.edu.tw/en/member/leader",
+    "https://ds.ntu.edu.tw/en/faculty/at",
+    "https://ds.ntu.edu.tw/en/faculty/{{f['ei_link_'+lang]}}",
+    "https://ds.ntu.edu.tw/en/faculty/{{f['ei_lablink_'+lang]}}"
+  ],
+  "counts": {
+    "zh_raw": 69,
+    "en_raw": 69,
+    "faculty": 69
+  },
+  "warnings": [],
+  "errors": [],
+  "validation_issues": [],
+  "success": true
+}

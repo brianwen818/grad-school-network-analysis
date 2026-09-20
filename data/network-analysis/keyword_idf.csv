@@ -1,0 +1,171 @@
+﻿keyword_en,parent_l2,parent_l1,n_faculty_overall,idf
+Artificial Intelligence,Artificial Intelligence & Generative Models,AI & Machine Learning,109,1.9563404913341857
+Machine Learning,Machine Learning & Deep Learning,AI & Machine Learning,94,2.084746593909529
+Multimedia Systems,Graphics & Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",57,2.5348100898864967
+Computer Vision,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",54,2.584696120396371
+Deep Learning,Machine Learning & Deep Learning,AI & Machine Learning,54,2.584696120396371
+Algorithms,Algorithms & Computational Complexity,Theory & Algorithms,49,2.674852131692614
+Image Processing,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",40,2.865053949911875
+Information Security,Information & Systems Security,"Security, Privacy & Cryptography",39,2.888946240904944
+Data Mining,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",39,2.888946240904944
+Corporate Finance,Corporate Finance & Valuation,Corporate Finance & Governance,34,3.0189891357182583
+Computer Networks,Computer & Wireless Networks,Networks & Communications,33,3.0474042840983118
+Optimization,Optimization & Operations Research,Applied Mathematics & Operations Research,33,3.0474042840983118
+Statistics,Statistical Theory & Inference,Statistics & Statistical Methods,32,3.076736057707078
+Embedded Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",32,3.076736057707078
+Bioinformatics,Bioinformatics & Systems Biology,Biomedical & Health Informatics,31,3.107042794704757
+Econometrics,Econometrics,Economics & Policy,30,3.138388573955514
+Internet of Things,"Mobile, IoT & Pervasive Computing",Networks & Communications,30,3.138388573955514
+Big Data Analytics,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",27,3.2394044050093296
+Wireless Networks,Computer & Wireless Networks,Networks & Communications,25,3.3134584673541485
+Signal Processing,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",24,3.3528237973779396
+Parallel Computing,Parallel & Distributed Computing,"Systems, Software & Architecture",23,3.3939246223330755
+Risk Management,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,23,3.3939246223330755
+Natural Language Processing,Natural Language & Speech Processing,AI & Machine Learning,22,3.4369154642642346
+Databases,Database & Storage Systems,"Data, Databases & Knowledge Discovery",22,3.4369154642642346
+Human-Computer Interaction,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",22,3.4369154642642346
+Automation and Control,Robotics & Automation,"Robotics, Control & Smart Manufacturing",21,3.481972421847367
+Asset Pricing,Asset Pricing & Investments,Asset Pricing & Financial Markets,20,3.529297384289471
+Computer Graphics,Graphics & Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",20,3.529297384289471
+Computer Architecture,Computer Architecture & Hardware Design,"Systems, Software & Architecture",20,3.529297384289471
+Mobile Computing,"Mobile, IoT & Pervasive Computing",Networks & Communications,18,3.631721040273988
+Banking and Financial Institutions,Banking & Financial Technology,Financial Engineering & Risk,16,3.746558565700614
+Macroeconomics,Macroeconomics & Monetary Economics,Economics & Policy,16,3.746558565700614
+Robotics,Robotics & Automation,"Robotics, Control & Smart Manufacturing",16,3.746558565700614
+Electronic Design Automation,Computer Architecture & Hardware Design,"Systems, Software & Architecture",16,3.746558565700614
+Investments,Asset Pricing & Investments,Asset Pricing & Financial Markets,16,3.746558565700614
+Operating Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",15,3.809621071810065
+Smart Healthcare,Medical Informatics & Imaging,Biomedical & Health Informatics,15,3.809621071810065
+Medical Informatics,Medical Informatics & Imaging,Biomedical & Health Informatics,15,3.809621071810065
+Information Retrieval,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",15,3.809621071810065
+Pattern Recognition,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",15,3.809621071810065
+Financial Technology,Banking & Financial Technology,Financial Engineering & Risk,15,3.809621071810065
+Distributed Systems,Parallel & Distributed Computing,"Systems, Software & Architecture",14,3.8771357464277054
+Cloud Computing,Cloud & Edge Computing,Networks & Communications,14,3.8771357464277054
+Financial Derivatives,Derivatives & Financial Engineering,Financial Engineering & Risk,14,3.8771357464277054
+International Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,14,3.8771357464277054
+Financial Markets,Financial Markets & Microstructure,Asset Pricing & Financial Markets,14,3.8771357464277054
+Financial Engineering,Derivatives & Financial Engineering,Financial Engineering & Risk,14,3.8771357464277054
+Behavioral Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,13,3.949763333410993
+Virtual Reality,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",13,3.949763333410993
+Data Science,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",13,3.949763333410993
+Corporate Governance,Governance & Corporate Control,Corporate Finance & Governance,13,3.949763333410993
+Reinforcement Learning,Machine Learning & Deep Learning,AI & Machine Learning,12,4.028323461124307
+Biostatistics,Biostatistics & Survival Analysis,Biomedical & Health Informatics,12,4.028323461124307
+Network Security,Information & Systems Security,"Security, Privacy & Cryptography",12,4.028323461124307
+Compilers,"Software Engineering, Languages & Verification","Systems, Software & Architecture",12,4.028323461124307
+Software Engineering,"Software Engineering, Languages & Verification","Systems, Software & Architecture",12,4.028323461124307
+Blockchain,"Cryptography, Blockchain & Privacy","Security, Privacy & Cryptography",12,4.028323461124307
+Entrepreneurship,"Innovation, Entrepreneurship & Management",Information Systems & Management,12,4.028323461124307
+Graph Theory,Discrete Mathematics & Information Theory,Theory & Algorithms,11,4.113850056846357
+Time Series Analysis,Time Series & Change Point Analysis,Statistics & Statistical Methods,11,4.113850056846357
+Neural Networks,Machine Learning & Deep Learning,AI & Machine Learning,11,4.113850056846357
+Cryptography,"Cryptography, Blockchain & Privacy","Security, Privacy & Cryptography",11,4.113850056846357
+Financial Management,Corporate Finance & Valuation,Corporate Finance & Governance,11,4.113850056846357
+Game Theory,Game Theory & Mechanism Design,Applied Mathematics & Operations Research,11,4.113850056846357
+Labor Economics,Applied & Policy Economics,Economics & Policy,11,4.113850056846357
+Storage Systems,Database & Storage Systems,"Data, Databases & Knowledge Discovery",11,4.113850056846357
+Social Network Analysis,Social & Web Network Analytics,"Data, Databases & Knowledge Discovery",10,4.207673247529104
+Wireless Communications,Computer & Wireless Networks,Networks & Communications,10,4.207673247529104
+Bayesian Statistics,Bayesian & Computational Statistics,Statistics & Statistical Methods,9,4.311544559635462
+Medical Imaging,Medical Informatics & Imaging,Biomedical & Health Informatics,9,4.311544559635462
+Augmented Reality,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",8,4.427836170705175
+Monetary Economics,Macroeconomics & Monetary Economics,Economics & Policy,8,4.427836170705175
+Accounting,Corporate Finance & Valuation,Corporate Finance & Governance,8,4.427836170705175
+Pervasive Computing,"Mobile, IoT & Pervasive Computing",Networks & Communications,8,4.427836170705175
+Political Economy,Applied & Policy Economics,Economics & Policy,7,4.559873911072915
+Web Mining,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",7,4.559873911072915
+Real-Time Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",7,4.559873911072915
+Industrial Organization,Microeconomics & Industrial Organization,Economics & Policy,7,4.559873911072915
+Generative AI,Artificial Intelligence & Generative Models,AI & Machine Learning,7,4.559873911072915
+Financial Economics,Asset Pricing & Investments,Asset Pricing & Financial Markets,7,4.559873911072915
+Theory of Computation,Algorithms & Computational Complexity,Theory & Algorithms,6,4.712528704308591
+Systems Security,Information & Systems Security,"Security, Privacy & Cryptography",6,4.712528704308591
+Multivariate Analysis,Applied & Industrial Statistics,Statistics & Statistical Methods,6,4.712528704308591
+Microeconomics,Microeconomics & Industrial Organization,Economics & Policy,6,4.712528704308591
+Statistical Computing,Bayesian & Computational Statistics,Statistics & Statistical Methods,6,4.712528704308591
+Credit Risk,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,6,4.712528704308591
+Market Microstructure,Financial Markets & Microstructure,Asset Pricing & Financial Markets,6,4.712528704308591
+Knowledge Management,"Innovation, Entrepreneurship & Management",Information Systems & Management,6,4.712528704308591
+Social Media Analytics,Social & Web Network Analytics,"Data, Databases & Knowledge Discovery",6,4.712528704308591
+Digital Twins,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",6,4.712528704308591
+Speech Recognition,Natural Language & Speech Processing,AI & Machine Learning,6,4.712528704308591
+Sustainable Finance,Banking & Financial Technology,Financial Engineering & Risk,5,4.893352133481524
+Privacy-Preserving Computing,"Cryptography, Blockchain & Privacy","Security, Privacy & Cryptography",5,4.893352133481524
+Operations Research,Optimization & Operations Research,Applied Mathematics & Operations Research,5,4.893352133481524
+Reliability Analysis,Applied & Industrial Statistics,Statistics & Statistical Methods,5,4.893352133481524
+Industrial Statistics,Applied & Industrial Statistics,Statistics & Statistical Methods,5,4.893352133481524
+Causal Inference,Statistical Theory & Inference,Statistics & Statistical Methods,5,4.893352133481524
+Statistical Consulting,Applied & Industrial Statistics,Statistics & Statistical Methods,5,4.893352133481524
+Survival Analysis,Biostatistics & Survival Analysis,Biomedical & Health Informatics,5,4.893352133481524
+Systems Biology,Bioinformatics & Systems Biology,Biomedical & Health Informatics,5,4.893352133481524
+Smart Manufacturing,Smart Manufacturing & Industrial Systems,"Robotics, Control & Smart Manufacturing",5,4.893352133481524
+Partial Differential Equations,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,5,4.893352133481524
+Scientific Computing,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,5,4.893352133481524
+Mergers and Acquisitions,Governance & Corporate Control,Corporate Finance & Governance,4,5.1149953094204985
+Trustworthy AI,Artificial Intelligence & Generative Models,AI & Machine Learning,4,5.1149953094204985
+Evolutionary Computation,Machine Learning & Deep Learning,AI & Machine Learning,4,5.1149953094204985
+Recommender Systems,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",4,5.1149953094204985
+Regression Analysis,Applied & Industrial Statistics,Statistics & Statistical Methods,4,5.1149953094204985
+Innovation Management,"Innovation, Entrepreneurship & Management",Information Systems & Management,4,5.1149953094204985
+Operations Management,"Innovation, Entrepreneurship & Management",Information Systems & Management,4,5.1149953094204985
+Insurance,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,4,5.1149953094204985
+Edge Computing,Cloud & Edge Computing,Networks & Communications,4,5.1149953094204985
+Real Estate Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,4,5.1149953094204985
+Actuarial Science,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,4,5.1149953094204985
+Probability Theory,Statistical Theory & Inference,Statistics & Statistical Methods,4,5.1149953094204985
+Mechanism Design,Game Theory & Mechanism Design,Applied Mathematics & Operations Research,4,5.1149953094204985
+Cyber-Physical Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",4,5.1149953094204985
+Digital Transformation,Digital Business & E-Commerce,Information Systems & Management,4,5.1149953094204985
+Information Visualization,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",3,5.401174751987744
+Programming Languages,"Software Engineering, Languages & Verification","Systems, Software & Architecture",3,5.401174751987744
+Public Economics,Applied & Policy Economics,Economics & Policy,3,5.401174751987744
+Quantum Computing,Computer Architecture & Hardware Design,"Systems, Software & Architecture",3,5.401174751987744
+E-Commerce,Digital Business & E-Commerce,Information Systems & Management,3,5.401174751987744
+Experimental Economics,Microeconomics & Industrial Organization,Economics & Policy,3,5.401174751987744
+Numerical Analysis,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,3,5.401174751987744
+Coding Theory,Discrete Mathematics & Information Theory,Theory & Algorithms,3,5.401174751987744
+High-Performance Computing,Parallel & Distributed Computing,"Systems, Software & Architecture",3,5.401174751987744
+Experimental Design,Applied & Industrial Statistics,Statistics & Statistical Methods,3,5.401174751987744
+Brain-Computer Interfaces,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",3,5.401174751987744
+Survey Sampling,Applied & Industrial Statistics,Statistics & Statistical Methods,3,5.401174751987744
+Health Economics,Applied & Policy Economics,Economics & Policy,2,5.805134968916488
+Portfolio Management,Asset Pricing & Investments,Asset Pricing & Financial Markets,2,5.805134968916488
+Discrete Mathematics,Discrete Mathematics & Information Theory,Theory & Algorithms,2,5.805134968916488
+Intelligent Transportation Systems,"Mobile, IoT & Pervasive Computing",Networks & Communications,2,5.805134968916488
+Development Economics,Applied & Policy Economics,Economics & Policy,2,5.805134968916488
+Formal Verification,"Software Engineering, Languages & Verification","Systems, Software & Architecture",2,5.805134968916488
+Machine Translation,Natural Language & Speech Processing,AI & Machine Learning,2,5.805134968916488
+Asset Management,Asset Pricing & Investments,Asset Pricing & Financial Markets,2,5.805134968916488
+Text Mining,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",2,5.805134968916488
+Computational Complexity,Algorithms & Computational Complexity,Theory & Algorithms,2,5.805134968916488
+Statistical Inference,Statistical Theory & Inference,Statistics & Statistical Methods,2,5.805134968916488
+Computational Linguistics,Natural Language & Speech Processing,AI & Machine Learning,2,5.805134968916488
+Queueing Theory,Optimization & Operations Research,Applied Mathematics & Operations Research,2,5.805134968916488
+Scientific Modeling,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",2,5.805134968916488
+Interest Rate Modeling,Derivatives & Financial Engineering,Financial Engineering & Risk,2,5.805134968916488
+High-Dimensional Statistics,Statistical Theory & Inference,Statistics & Statistical Methods,2,5.805134968916488
+Fuzzy Systems,Machine Learning & Deep Learning,AI & Machine Learning,2,5.805134968916488
+Personal Finance,Banking & Financial Technology,Financial Engineering & Risk,2,5.805134968916488
+Information Theory,Discrete Mathematics & Information Theory,Theory & Algorithms,2,5.805134968916488
+Statistical Process Control,Applied & Industrial Statistics,Statistics & Statistical Methods,2,5.805134968916488
+Institutional Investors,Governance & Corporate Control,Corporate Finance & Governance,2,5.805134968916488
+Change Point Analysis,Time Series & Change Point Analysis,Statistics & Statistical Methods,2,5.805134968916488
+Model Checking,"Software Engineering, Languages & Verification","Systems, Software & Architecture",2,5.805134968916488
+Neuromorphic Computing,Machine Learning & Deep Learning,AI & Machine Learning,2,5.805134968916488
+Malware Analysis,Information & Systems Security,"Security, Privacy & Cryptography",1,6.4967749901858625
+Special Purpose Acquisition Companies,Governance & Corporate Control,Corporate Finance & Governance,1,6.4967749901858625
+Business Data Analytics,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",1,6.4967749901858625
+Service Science,Digital Business & E-Commerce,Information Systems & Management,1,6.4967749901858625
+Cryptocurrency,Banking & Financial Technology,Financial Engineering & Risk,1,6.4967749901858625
+Initial Public Offerings,Corporate Finance & Valuation,Corporate Finance & Governance,1,6.4967749901858625
+Algebraic Geometry,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,1,6.4967749901858625
+Data Envelopment Analysis,Optimization & Operations Research,Applied Mathematics & Operations Research,1,6.4967749901858625
+Environmental Economics,Applied & Policy Economics,Economics & Policy,1,6.4967749901858625
+Federated Learning,Machine Learning & Deep Learning,AI & Machine Learning,1,6.4967749901858625
+Spatial Clustering,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",1,6.4967749901858625
+International Economics,Applied & Policy Economics,Economics & Policy,1,6.4967749901858625
+Software Verification,"Software Engineering, Languages & Verification","Systems, Software & Architecture",1,6.4967749901858625
+Formal Methods,"Software Engineering, Languages & Verification","Systems, Software & Architecture",1,6.4967749901858625
+Differential Geometry,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,1,6.4967749901858625
+Business Valuation,Corporate Finance & Valuation,Corporate Finance & Governance,1,6.4967749901858625

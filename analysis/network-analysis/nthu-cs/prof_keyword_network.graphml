@@ -1,0 +1,2069 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="source" attr.type="string"/>
+<key id="d12" for="node" attr.name="idf" attr.type="double"/>
+<key id="d11" for="node" attr.name="parent_l1" attr.type="string"/>
+<key id="d10" for="node" attr.name="parent_l2" attr.type="string"/>
+<key id="d9" for="node" attr.name="label" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="nthu-cs-chunglaungliu-81c34bb998">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Chung Laung Liu</data>
+  <data key="d3">Chung Laung Liu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">chair | emeritus</data>
+  <data key="d6">1</data>
+  <data key="d7">Massachusetts Institute of Technology</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-chunglaungliu-81c34bb998</data>
+</node>
+<node id="nthu-cs-wenlianhsu-baee37b511">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Wen-Lian Hsu</data>
+  <data key="d3">Wen-Lian Hsu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">joint</data>
+  <data key="d6">2</data>
+  <data key="d7">Cornell University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-wenlianhsu-baee37b511</data>
+</node>
+<node id="nthu-cs-丁川康-09362c5c83">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">丁川康</data>
+  <data key="d3">Chuan-Kang Ting</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">Paderborn University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-丁川康-09362c5c83</data>
+</node>
+<node id="nthu-cs-劉炯朗-714cd73f70">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉炯朗</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">chair | emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7">Massachusetts Institute of Technology</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-劉炯朗-714cd73f70</data>
+</node>
+<node id="nthu-cs-吳中浩-2da90a2f27">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳中浩</data>
+  <data key="d3">Wu Chung -Haw</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">University of California, Irvine</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-吳中浩-2da90a2f27</data>
+</node>
+<node id="nthu-cs-吳尚鴻-69aaff2ef5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳尚鴻</data>
+  <data key="d3">Shan-Hung Wu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-吳尚鴻-69aaff2ef5</data>
+</node>
+<node id="nthu-cs-周志遠-5af43e1b90">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">周志遠</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-周志遠-5af43e1b90</data>
+</node>
+<node id="nthu-cs-周百祥-cf9a8d7b4b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">周百祥</data>
+  <data key="d3">Pai H. Chou</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Washington</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-周百祥-cf9a8d7b4b</data>
+</node>
+<node id="nthu-cs-唐傳義-7f081eb094">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">唐傳義</data>
+  <data key="d3">Chuan-Yi Tang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct | emeritus | joint</data>
+  <data key="d6">2</data>
+  <data key="d7">National Chiao Tung University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-唐傳義-7f081eb094</data>
+</node>
+<node id="nthu-cs-孫宏民-ae6348d2b8">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">孫宏民</data>
+  <data key="d3">Hung-Min Sun</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Chiao Tung University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-孫宏民-ae6348d2b8</data>
+</node>
+<node id="nthu-cs-張世杰-c7720e7bf2">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張世杰</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of California, Santa Barbara</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-張世杰-c7720e7bf2</data>
+</node>
+<node id="nthu-cs-張俊盛-260bd4fef4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張俊盛</data>
+  <data key="d3">Jason S. Chang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">5</data>
+  <data key="d7">New York University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-張俊盛-260bd4fef4</data>
+</node>
+<node id="nthu-cs-張君天-43ab3fd7b9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張君天</data>
+  <data key="d3">Chun-Tien Chang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-張君天-43ab3fd7b9</data>
+</node>
+<node id="nthu-cs-張峻銘-b2df996158">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張峻銘</data>
+  <data key="d3">Tsun Ming Cheung</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">McGill University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-張峻銘-b2df996158</data>
+</node>
+<node id="nthu-cs-張正尚-0173f59db1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張正尚</data>
+  <data key="d3">Cheng-Shang Chang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">joint</data>
+  <data key="d6">3</data>
+  <data key="d7">Columbia University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-張正尚-0173f59db1</data>
+</node>
+<node id="nthu-cs-張真誠-f90f3dfae1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張真誠</data>
+  <data key="d3">Chin-Chen Chang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">joint</data>
+  <data key="d6">6</data>
+  <data key="d7">National Chiao Tung University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-張真誠-f90f3dfae1</data>
+</node>
+<node id="nthu-cs-張隆紋-6579e42cba">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張隆紋</data>
+  <data key="d3">Long-Wen Chang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct | emeritus</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-張隆紋-6579e42cba</data>
+</node>
+<node id="nthu-cs-張韻詩-a94b4eca78">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張韻詩</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">chair | emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7">Massachusetts Institute of Technology</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-張韻詩-a94b4eca78</data>
+</node>
+<node id="nthu-cs-徐正炘-8b568ce001">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">徐正炘</data>
+  <data key="d3">Cheng-Hsin Hsu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Simon Fraser University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-徐正炘-8b568ce001</data>
+</node>
+<node id="nthu-cs-徐爵民-eade3af147">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">徐爵民</data>
+  <data key="d3">Jyuo-Min Shyu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, Berkeley</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-徐爵民-eade3af147</data>
+</node>
+<node id="nthu-cs-朱宏國-642998a4aa">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">朱宏國</data>
+  <data key="d3">Hung-Kuo Chu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Cheng Kung University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-朱宏國-642998a4aa</data>
+</node>
+<node id="nthu-cs-李哲榮-722a84d1c8">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李哲榮</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Maryland, College Park</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-李哲榮-722a84d1c8</data>
+</node>
+<node id="nthu-cs-李家同-c1f2d67113">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李家同</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">chair | emeritus</data>
+  <data key="d6">1</data>
+  <data key="d7">University of California, Berkeley</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-李家同-c1f2d67113</data>
+</node>
+<node id="nthu-cs-李政崑-965a47032e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李政崑</data>
+  <data key="d3">Jenq-Kuen Lee</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Indiana University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-李政崑-965a47032e</data>
+</node>
+<node id="nthu-cs-李端興-72950bb080">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李端興</data>
+  <data key="d3">Duan-Shin Lee</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">9</data>
+  <data key="d7">Columbia University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-李端興-72950bb080</data>
+</node>
+<node id="nthu-cs-林桂傑-3eab7348de">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林桂傑</data>
+  <data key="d3">Kwei-Jay Lin</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">joint</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Maryland, College Park</data>
+  <data key="d8">2</data>
+  <data key="d9">nthu-cs-林桂傑-3eab7348de</data>
+</node>
+<node id="nthu-cs-林永隆-971ac78e0f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林永隆</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">chair | emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-林永隆-971ac78e0f</data>
+</node>
+<node id="nthu-cs-林沿妊-ab6c251917">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林沿妊</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-林沿妊-ab6c251917</data>
+</node>
+<node id="nthu-cs-林瀚仚-8176500c13">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林瀚仚</data>
+  <data key="d3">Han-Hsuan Lin</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">Massachusetts Institute of Technology</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-林瀚仚-8176500c13</data>
+</node>
+<node id="nthu-cs-林華君-4d8a5842a2">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林華君</data>
+  <data key="d3">Hwa-Chun Lin</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Southern California</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-林華君-4d8a5842a2</data>
+</node>
+<node id="nthu-cs-梁雅鈞-9f3d7465e1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">梁雅鈞</data>
+  <data key="d3">Ya-Chun Liang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Liverpool</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-梁雅鈞-9f3d7465e1</data>
+</node>
+<node id="nthu-cs-楊熙年-e1cd89ea15">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊熙年</data>
+  <data key="d3">Shi-Nine Yang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-楊熙年-e1cd89ea15</data>
+</node>
+<node id="nthu-cs-楊舜仁-77d533ddf8">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊舜仁</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Chiao Tung University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-楊舜仁-77d533ddf8</data>
+</node>
+<node id="nthu-cs-沈之涯-d5bb9630d8">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">沈之涯</data>
+  <data key="d3">Chih-Ya Shen</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-沈之涯-d5bb9630d8</data>
+</node>
+<node id="nthu-cs-洪仕軒-a9fa041928">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">洪仕軒</data>
+  <data key="d3">Shih-Hsuan Hung</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Oregon State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-洪仕軒-a9fa041928</data>
+</node>
+<node id="nthu-cs-王俊堯-29ae2991f7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王俊堯</data>
+  <data key="d3">Chun-Yao Wang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Chiao Tung University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-王俊堯-29ae2991f7</data>
+</node>
+<node id="nthu-cs-王家祥-79b45fac37">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王家祥</data>
+  <data key="d3">Jia-Shung Wang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">4</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-王家祥-79b45fac37</data>
+</node>
+<node id="nthu-cs-王廷基-66e8de998a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王廷基</data>
+  <data key="d3">Ting-Chi Wang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Texas at Austin</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-王廷基-66e8de998a</data>
+</node>
+<node id="nthu-cs-王炳豐-db84c4528b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王炳豐</data>
+  <data key="d3">Biing-Feng Wang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">chair | full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-王炳豐-db84c4528b</data>
+</node>
+<node id="nthu-cs-盧錦隆-6983c0f1dd">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">盧錦隆</data>
+  <data key="d3">Chin-Lung Lu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-盧錦隆-6983c0f1dd</data>
+</node>
+<node id="nthu-cs-石維寬-b54c54300e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">石維寬</data>
+  <data key="d3">Wei-Kuan Shih</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-石維寬-b54c54300e</data>
+</node>
+<node id="nthu-cs-羅婈-fdd893b309">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">羅婈</data>
+  <data key="d3">Ling Lo</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">National Yang Ming Chiao Tung University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-羅婈-fdd893b309</data>
+</node>
+<node id="nthu-cs-翁正明-fe545e34a2">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">翁正明</data>
+  <data key="d3">Cheng-Ming Weng</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Florida</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-翁正明-fe545e34a2</data>
+</node>
+<node id="nthu-cs-胡敏君-d30f85d433">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">胡敏君</data>
+  <data key="d3">Min-Chun Hu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-胡敏君-d30f85d433</data>
+</node>
+<node id="nthu-cs-葉肩宇-1907b9cbf9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">葉肩宇</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct | practice</data>
+  <data key="d6">2</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-葉肩宇-1907b9cbf9</data>
+</node>
+<node id="nthu-cs-蔡仁松-13fcaf5bbe">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡仁松</data>
+  <data key="d3">Ren-Song Tsay</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">5</data>
+  <data key="d7">University of California, Berkeley</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-蔡仁松-13fcaf5bbe</data>
+</node>
+<node id="nthu-cs-蔡明哲-9d609636c8">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡明哲</data>
+  <data key="d3">Ming-Jer Tsai</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-蔡明哲-9d609636c8</data>
+</node>
+<node id="nthu-cs-蘇豐文-f06969cec0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蘇豐文</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus | joint</data>
+  <data key="d6">3</data>
+  <data key="d7">Rutgers University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-蘇豐文-f06969cec0</data>
+</node>
+<node id="nthu-cs-許健平-128c6ac6ab">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">許健平</data>
+  <data key="d3">Jang-Ping Sheu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">chair | full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-許健平-128c6ac6ab</data>
+</node>
+<node id="nthu-cs-許秋婷-e17039873f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">許秋婷</data>
+  <data key="d3">Chiou-Ting Hsu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-許秋婷-e17039873f</data>
+</node>
+<node id="nthu-cs-許聞廉-24d823b30b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">許聞廉</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">joint</data>
+  <data key="d6">2</data>
+  <data key="d7">Cornell University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-許聞廉-24d823b30b</data>
+</node>
+<node id="nthu-cs-謝源-fe3951f144">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝源</data>
+  <data key="d3">Yuan Xie</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">joint</data>
+  <data key="d6">4</data>
+  <data key="d7">Princeton University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-謝源-fe3951f144</data>
+</node>
+<node id="nthu-cs-賴尚宏-15f146b4f1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">賴尚宏</data>
+  <data key="d3">Shang-Hong Lai</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Florida</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-賴尚宏-15f146b4f1</data>
+</node>
+<node id="nthu-cs-邱德泉-23a7d7b698">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">邱德泉</data>
+  <data key="d3">Te-Chuan Chiu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-邱德泉-23a7d7b698</data>
+</node>
+<node id="nthu-cs-邱瀞德-99539b19ee">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">邱瀞德</data>
+  <data key="d3">Ching-Te Chiu</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Maryland, College Park</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-邱瀞德-99539b19ee</data>
+</node>
+<node id="nthu-cs-郭昱廷-cb1da4e458">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">郭昱廷</data>
+  <data key="d3">Yu-Ting Kuo</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct | full_time | practice</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-郭昱廷-cb1da4e458</data>
+</node>
+<node id="nthu-cs-郭柏志-70f6925e3a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">郭柏志</data>
+  <data key="d3">Po-Chih Kuo</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">National Chiao Tung University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-郭柏志-70f6925e3a</data>
+</node>
+<node id="nthu-cs-金仲達-87bd908f7e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">金仲達</data>
+  <data key="d3">Chung-Ta King</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct | emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7">Michigan State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-金仲達-87bd908f7e</data>
+</node>
+<node id="nthu-cs-金陽和-83ed0dbb2c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">金陽和</data>
+  <data key="d3">Y.H. Chin</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Texas at Austin</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-金陽和-83ed0dbb2c</data>
+</node>
+<node id="nthu-cs-鍾葉青-fb3791172c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鍾葉青</data>
+  <data key="d3">Yeh-Ching Chung</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-鍾葉青-fb3791172c</data>
+</node>
+<node id="nthu-cs-闕志克-667b8d485c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">闕志克</data>
+  <data key="d3">Tzi-Cker Chiueh</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">joint</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-闕志克-667b8d485c</data>
+</node>
+<node id="nthu-cs-陳宜欣-10568557fc">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳宜欣</data>
+  <data key="d3">Yi-Shin Chen</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Southern California</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-陳宜欣-10568557fc</data>
+</node>
+<node id="nthu-cs-陳文村-da14007351">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳文村</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">chair | emeritus</data>
+  <data key="d6">1</data>
+  <data key="d7">University of California, Berkeley</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-陳文村-da14007351</data>
+</node>
+<node id="nthu-cs-陳煥宗-7c43119c40">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳煥宗</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-陳煥宗-7c43119c40</data>
+</node>
+<node id="nthu-cs-陳耘志-1b3b5d7ab0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳耘志</data>
+  <data key="d3">Yun-Chih Chen</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-陳耘志-1b3b5d7ab0</data>
+</node>
+<node id="nthu-cs-陳聿廣-13aceaf00c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳聿廣</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-陳聿廣-13aceaf00c</data>
+</node>
+<node id="nthu-cs-陳良弼-2847ebc1d7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳良弼</data>
+  <data key="d3">Arbee L.P Chen</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">joint</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Southern California</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-陳良弼-2847ebc1d7</data>
+</node>
+<node id="nthu-cs-韓永楷-05d57868e3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">韓永楷</data>
+  <data key="d3">Wing-Kai Hon</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Hong Kong</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-韓永楷-05d57868e3</data>
+</node>
+<node id="nthu-cs-顏子斌-46d093b11d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">顏子斌</data>
+  <data key="d3">Tzu-Bin Yan</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-顏子斌-46d093b11d</data>
+</node>
+<node id="nthu-cs-高宏宇-e0f4516945">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">高宏宇</data>
+  <data key="d3">Hung-Yu Kao</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-高宏宇-e0f4516945</data>
+</node>
+<node id="nthu-cs-高榮駿-458af60731">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">高榮駿</data>
+  <data key="d3">Jung-Chun Kao</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">Carnegie Mellon University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-高榮駿-458af60731</data>
+</node>
+<node id="nthu-cs-麥偉基-5269f158c4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">麥偉基</data>
+  <data key="d3">Wai-Kei Mak</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Texas at Austin</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-麥偉基-5269f158c4</data>
+</node>
+<node id="nthu-cs-黃婷婷-c521072c08">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃婷婷</data>
+  <data key="d3">Ting-Ting Hwang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Pennsylvania State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-黃婷婷-c521072c08</data>
+</node>
+<node id="nthu-cs-黃慶育-97536649ca">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃慶育</data>
+  <data key="d3">Chin-Yu Huang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-黃慶育-97536649ca</data>
+</node>
+<node id="nthu-cs-黃稚存-6ad9444e87">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃稚存</data>
+  <data key="d3">Chih-Tsun Huang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-黃稚存-6ad9444e87</data>
+</node>
+<node id="nthu-cs-黃能富-478224d15b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃能富</data>
+  <data key="d3">Nen-Fu Huang</data>
+  <data key="d4">nthu-cs</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">nthu-cs-黃能富-478224d15b</data>
+</node>
+<node id="Algorithms">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Algorithms &amp; Computational Complexity</data>
+  <data key="d11">Theory &amp; Algorithms</data>
+  <data key="d12">2.674852131692614</data>
+  <data key="d9">Algorithms</data>
+</node>
+<node id="Natural Language Processing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Natural Language &amp; Speech Processing</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">3.4369154642642346</data>
+  <data key="d9">Natural Language Processing</data>
+</node>
+<node id="Operations Research">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Optimization &amp; Operations Research</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Operations Research</data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">1.9563404913341855</data>
+  <data key="d9">Artificial Intelligence</data>
+</node>
+<node id="Evolutionary Computation">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Evolutionary Computation</data>
+</node>
+<node id="Machine Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">2.084746593909529</data>
+  <data key="d9">Machine Learning</data>
+</node>
+<node id="Software Engineering">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Software Engineering</data>
+</node>
+<node id="Automation and Control">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Robotics &amp; Automation</data>
+  <data key="d11">Robotics, Control &amp; Smart Manufacturing</data>
+  <data key="d12">3.481972421847367</data>
+  <data key="d9">Automation and Control</data>
+</node>
+<node id="Electronic Design Automation">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Architecture &amp; Hardware Design</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Electronic Design Automation</data>
+</node>
+<node id="Computer Architecture">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Architecture &amp; Hardware Design</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.529297384289471</data>
+  <data key="d9">Computer Architecture</data>
+</node>
+<node id="Data Mining">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">2.888946240904944</data>
+  <data key="d9">Data Mining</data>
+</node>
+<node id="Databases">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Database &amp; Storage Systems</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.4369154642642346</data>
+  <data key="d9">Databases</data>
+</node>
+<node id="Cloud Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Cloud &amp; Edge Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Cloud Computing</data>
+</node>
+<node id="Distributed Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Parallel &amp; Distributed Computing</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Distributed Systems</data>
+</node>
+<node id="High-Performance Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Parallel &amp; Distributed Computing</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">5.401174751987744</data>
+  <data key="d9">High-Performance Computing</data>
+</node>
+<node id="Storage Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Database &amp; Storage Systems</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Storage Systems</data>
+</node>
+<node id="Embedded Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Operating, Real-Time &amp; Embedded Systems</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.076736057707078</data>
+  <data key="d9">Embedded Systems</data>
+</node>
+<node id="Bioinformatics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Bioinformatics &amp; Systems Biology</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">3.107042794704757</data>
+  <data key="d9">Bioinformatics</data>
+</node>
+<node id="Blockchain">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Cryptography, Blockchain &amp; Privacy</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Blockchain</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">2.584696120396371</data>
+  <data key="d9">Deep Learning</data>
+</node>
+<node id="Information Security">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Information &amp; Systems Security</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">2.888946240904944</data>
+  <data key="d9">Information Security</data>
+</node>
+<node id="Information Retrieval">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Information Retrieval</data>
+</node>
+<node id="Knowledge Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Knowledge Management</data>
+</node>
+<node id="Machine Translation">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Natural Language &amp; Speech Processing</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Machine Translation</data>
+</node>
+<node id="Discrete Mathematics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Discrete Mathematics &amp; Information Theory</data>
+  <data key="d11">Theory &amp; Algorithms</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Discrete Mathematics</data>
+</node>
+<node id="Computer Networks">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer &amp; Wireless Networks</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.047404284098312</data>
+  <data key="d9">Computer Networks</data>
+</node>
+<node id="Parallel Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Parallel &amp; Distributed Computing</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.3939246223330755</data>
+  <data key="d9">Parallel Computing</data>
+</node>
+<node id="Queueing Theory">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Optimization &amp; Operations Research</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Queueing Theory</data>
+</node>
+<node id="Cryptography">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Cryptography, Blockchain &amp; Privacy</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Cryptography</data>
+</node>
+<node id="Image Processing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">2.865053949911875</data>
+  <data key="d9">Image Processing</data>
+</node>
+<node id="Multimedia Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Graphics &amp; Multimedia Systems</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">2.5348100898864967</data>
+  <data key="d9">Multimedia Systems</data>
+</node>
+<node id="Network Security">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Information &amp; Systems Security</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Network Security</data>
+</node>
+<node id="Computer Vision">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">2.584696120396371</data>
+  <data key="d9">Computer Vision</data>
+</node>
+<node id="Game Theory">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Game Theory &amp; Mechanism Design</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Game Theory</data>
+</node>
+<node id="Real-Time Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Operating, Real-Time &amp; Embedded Systems</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">4.559873911072915</data>
+  <data key="d9">Real-Time Systems</data>
+</node>
+<node id="Optimization">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Optimization &amp; Operations Research</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">3.047404284098312</data>
+  <data key="d9">Optimization</data>
+</node>
+<node id="Computer Graphics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Graphics &amp; Multimedia Systems</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">3.529297384289471</data>
+  <data key="d9">Computer Graphics</data>
+</node>
+<node id="Digital Twins">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Operating, Real-Time &amp; Embedded Systems</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Digital Twins</data>
+</node>
+<node id="Numerical Analysis">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mathematical Analysis &amp; Scientific Computing</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">5.401174751987744</data>
+  <data key="d9">Numerical Analysis</data>
+</node>
+<node id="Scientific Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mathematical Analysis &amp; Scientific Computing</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Scientific Computing</data>
+</node>
+<node id="Compilers">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Compilers</data>
+</node>
+<node id="Pervasive Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">4.427836170705175</data>
+  <data key="d9">Pervasive Computing</data>
+</node>
+<node id="Data Science">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Data Science</data>
+</node>
+<node id="Reinforcement Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Reinforcement Learning</data>
+</node>
+<node id="Social Network Analysis">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Social &amp; Web Network Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">4.207673247529104</data>
+  <data key="d9">Social Network Analysis</data>
+</node>
+<node id="Wireless Networks">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer &amp; Wireless Networks</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.3134584673541485</data>
+  <data key="d9">Wireless Networks</data>
+</node>
+<node id="E-Commerce">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Digital Business &amp; E-Commerce</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">5.401174751987744</data>
+  <data key="d9">E-Commerce</data>
+</node>
+<node id="Quantum Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Architecture &amp; Hardware Design</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">5.401174751987744</data>
+  <data key="d9">Quantum Computing</data>
+</node>
+<node id="Mobile Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.631721040273988</data>
+  <data key="d9">Mobile Computing</data>
+</node>
+<node id="Big Data Analytics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.2394044050093296</data>
+  <data key="d9">Big Data Analytics</data>
+</node>
+<node id="Information Visualization">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">5.401174751987744</data>
+  <data key="d9">Information Visualization</data>
+</node>
+<node id="Neural Networks">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Neural Networks</data>
+</node>
+<node id="Graph Theory">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Discrete Mathematics &amp; Information Theory</data>
+  <data key="d11">Theory &amp; Algorithms</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Graph Theory</data>
+</node>
+<node id="Generative AI">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">4.559873911072915</data>
+  <data key="d9">Generative AI</data>
+</node>
+<node id="Trustworthy AI">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Trustworthy AI</data>
+</node>
+<node id="Augmented Reality">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">4.427836170705175</data>
+  <data key="d9">Augmented Reality</data>
+</node>
+<node id="Virtual Reality">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Virtual Reality</data>
+</node>
+<node id="Entrepreneurship">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Entrepreneurship</data>
+</node>
+<node id="Internet of Things">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.138388573955514</data>
+  <data key="d9">Internet of Things</data>
+</node>
+<node id="Pattern Recognition">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Pattern Recognition</data>
+</node>
+<node id="Edge Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Cloud &amp; Edge Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Edge Computing</data>
+</node>
+<node id="Signal Processing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">3.35282379737794</data>
+  <data key="d9">Signal Processing</data>
+</node>
+<node id="Smart Healthcare">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Medical Informatics &amp; Imaging</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Smart Healthcare</data>
+</node>
+<node id="Medical Informatics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Medical Informatics &amp; Imaging</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Medical Informatics</data>
+</node>
+<node id="Neuromorphic Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Neuromorphic Computing</data>
+</node>
+<edge source="nthu-cs-chunglaungliu-81c34bb998" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-wenlianhsu-baee37b511" target="Natural Language Processing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-wenlianhsu-baee37b511" target="Operations Research">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-丁川康-09362c5c83" target="Artificial Intelligence">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-丁川康-09362c5c83" target="Evolutionary Computation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-丁川康-09362c5c83" target="Machine Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-丁川康-09362c5c83" target="Software Engineering">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-劉炯朗-714cd73f70" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-劉炯朗-714cd73f70" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-劉炯朗-714cd73f70" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-吳中浩-2da90a2f27" target="Computer Architecture">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-吳尚鴻-69aaff2ef5" target="Data Mining">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-吳尚鴻-69aaff2ef5" target="Databases">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-吳尚鴻-69aaff2ef5" target="Machine Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-周志遠-5af43e1b90" target="Cloud Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-周志遠-5af43e1b90" target="Distributed Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-周志遠-5af43e1b90" target="High-Performance Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-周志遠-5af43e1b90" target="Storage Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-周百祥-cf9a8d7b4b" target="Embedded Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-唐傳義-7f081eb094" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-唐傳義-7f081eb094" target="Bioinformatics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-孫宏民-ae6348d2b8" target="Blockchain">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-孫宏民-ae6348d2b8" target="Deep Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-孫宏民-ae6348d2b8" target="Information Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張世杰-c7720e7bf2" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張世杰-c7720e7bf2" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張俊盛-260bd4fef4" target="Artificial Intelligence">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張俊盛-260bd4fef4" target="Information Retrieval">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張俊盛-260bd4fef4" target="Knowledge Management">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張俊盛-260bd4fef4" target="Machine Translation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張俊盛-260bd4fef4" target="Natural Language Processing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張君天-43ab3fd7b9" target="Bioinformatics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張峻銘-b2df996158" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張峻銘-b2df996158" target="Discrete Mathematics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張正尚-0173f59db1" target="Computer Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張正尚-0173f59db1" target="Parallel Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張正尚-0173f59db1" target="Queueing Theory">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張真誠-f90f3dfae1" target="Cryptography">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張真誠-f90f3dfae1" target="Databases">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張真誠-f90f3dfae1" target="Image Processing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張真誠-f90f3dfae1" target="Information Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張真誠-f90f3dfae1" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張真誠-f90f3dfae1" target="Network Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張隆紋-6579e42cba" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張隆紋-6579e42cba" target="Cryptography">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張隆紋-6579e42cba" target="Game Theory">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張隆紋-6579e42cba" target="Image Processing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張隆紋-6579e42cba" target="Information Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張隆紋-6579e42cba" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張韻詩-a94b4eca78" target="Distributed Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-張韻詩-a94b4eca78" target="Real-Time Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-徐正炘-8b568ce001" target="Computer Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-徐正炘-8b568ce001" target="Distributed Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-徐正炘-8b568ce001" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-徐爵民-eade3af147" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-徐爵民-eade3af147" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-徐爵民-eade3af147" target="Optimization">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-朱宏國-642998a4aa" target="Computer Graphics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-朱宏國-642998a4aa" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-朱宏國-642998a4aa" target="Digital Twins">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李哲榮-722a84d1c8" target="High-Performance Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李哲榮-722a84d1c8" target="Numerical Analysis">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李哲榮-722a84d1c8" target="Scientific Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李家同-c1f2d67113" target="Parallel Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李政崑-965a47032e" target="Compilers">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李政崑-965a47032e" target="Embedded Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李政崑-965a47032e" target="Pervasive Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Artificial Intelligence">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Data Science">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Game Theory">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Machine Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Queueing Theory">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Reinforcement Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Social Network Analysis">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-李端興-72950bb080" target="Wireless Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-林桂傑-3eab7348de" target="E-Commerce">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-林永隆-971ac78e0f" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-林永隆-971ac78e0f" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-林沿妊-ab6c251917" target="Bioinformatics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-林瀚仚-8176500c13" target="Quantum Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-林華君-4d8a5842a2" target="Computer Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-林華君-4d8a5842a2" target="Wireless Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-梁雅鈞-9f3d7465e1" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-梁雅鈞-9f3d7465e1" target="Optimization">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-楊熙年-e1cd89ea15" target="Computer Graphics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-楊熙年-e1cd89ea15" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-楊舜仁-77d533ddf8" target="Mobile Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-沈之涯-d5bb9630d8" target="Big Data Analytics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-沈之涯-d5bb9630d8" target="Data Mining">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-沈之涯-d5bb9630d8" target="Databases">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-洪仕軒-a9fa041928" target="Computer Graphics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-洪仕軒-a9fa041928" target="Information Visualization">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王俊堯-29ae2991f7" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王俊堯-29ae2991f7" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王家祥-79b45fac37" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王家祥-79b45fac37" target="Computer Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王家祥-79b45fac37" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王家祥-79b45fac37" target="Neural Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王廷基-66e8de998a" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王廷基-66e8de998a" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王廷基-66e8de998a" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王炳豐-db84c4528b" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-王炳豐-db84c4528b" target="Parallel Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-盧錦隆-6983c0f1dd" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-盧錦隆-6983c0f1dd" target="Graph Theory">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-石維寬-b54c54300e" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-石維寬-b54c54300e" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-石維寬-b54c54300e" target="Real-Time Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-羅婈-fdd893b309" target="Artificial Intelligence">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-羅婈-fdd893b309" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-羅婈-fdd893b309" target="Generative AI">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-羅婈-fdd893b309" target="Trustworthy AI">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-翁正明-fe545e34a2" target="Computer Graphics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-胡敏君-d30f85d433" target="Augmented Reality">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-胡敏君-d30f85d433" target="Computer Graphics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-胡敏君-d30f85d433" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-胡敏君-d30f85d433" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-胡敏君-d30f85d433" target="Virtual Reality">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-葉肩宇-1907b9cbf9" target="Information Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-葉肩宇-1907b9cbf9" target="Software Engineering">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蔡仁松-13fcaf5bbe" target="Artificial Intelligence">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蔡仁松-13fcaf5bbe" target="Blockchain">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蔡仁松-13fcaf5bbe" target="Entrepreneurship">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蔡仁松-13fcaf5bbe" target="Information Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蔡仁松-13fcaf5bbe" target="Internet of Things">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蔡明哲-9d609636c8" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蔡明哲-9d609636c8" target="Graph Theory">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蔡明哲-9d609636c8" target="Wireless Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蘇豐文-f06969cec0" target="Bioinformatics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蘇豐文-f06969cec0" target="Knowledge Management">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-蘇豐文-f06969cec0" target="Machine Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-許健平-128c6ac6ab" target="Cloud Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-許健平-128c6ac6ab" target="Mobile Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-許健平-128c6ac6ab" target="Wireless Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-許秋婷-e17039873f" target="Deep Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-許秋婷-e17039873f" target="Pattern Recognition">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-許聞廉-24d823b30b" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-許聞廉-24d823b30b" target="Bioinformatics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-謝源-fe3951f144" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-謝源-fe3951f144" target="Computer Architecture">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-謝源-fe3951f144" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-謝源-fe3951f144" target="Embedded Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-賴尚宏-15f146b4f1" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-賴尚宏-15f146b4f1" target="Image Processing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-賴尚宏-15f146b4f1" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-賴尚宏-15f146b4f1" target="Pattern Recognition">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-邱德泉-23a7d7b698" target="Artificial Intelligence">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-邱德泉-23a7d7b698" target="Edge Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-邱德泉-23a7d7b698" target="Internet of Things">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-邱瀞德-99539b19ee" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-邱瀞德-99539b19ee" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-邱瀞德-99539b19ee" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-邱瀞德-99539b19ee" target="Signal Processing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-郭昱廷-cb1da4e458" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-郭昱廷-cb1da4e458" target="Deep Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-郭昱廷-cb1da4e458" target="Machine Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-郭柏志-70f6925e3a" target="Artificial Intelligence">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-郭柏志-70f6925e3a" target="Image Processing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-郭柏志-70f6925e3a" target="Machine Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-郭柏志-70f6925e3a" target="Smart Healthcare">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-金仲達-87bd908f7e" target="Distributed Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-金仲達-87bd908f7e" target="Pervasive Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-金陽和-83ed0dbb2c" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-金陽和-83ed0dbb2c" target="Databases">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-金陽和-83ed0dbb2c" target="Software Engineering">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-鍾葉青-fb3791172c" target="Cloud Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-鍾葉青-fb3791172c" target="Embedded Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-鍾葉青-fb3791172c" target="Parallel Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-鍾葉青-fb3791172c" target="Pervasive Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-闕志克-667b8d485c" target="Information Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳宜欣-10568557fc" target="Big Data Analytics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳宜欣-10568557fc" target="Data Mining">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳宜欣-10568557fc" target="Multimedia Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳宜欣-10568557fc" target="Social Network Analysis">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳文村-da14007351" target="Computer Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳煥宗-7c43119c40" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳耘志-1b3b5d7ab0" target="Databases">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳耘志-1b3b5d7ab0" target="Storage Systems">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳聿廣-13aceaf00c" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳良弼-2847ebc1d7" target="Big Data Analytics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳良弼-2847ebc1d7" target="Deep Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-陳良弼-2847ebc1d7" target="Medical Informatics">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-韓永楷-05d57868e3" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-顏子斌-46d093b11d" target="Information Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-高宏宇-e0f4516945" target="Data Mining">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-高宏宇-e0f4516945" target="Deep Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-高宏宇-e0f4516945" target="Information Retrieval">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-高宏宇-e0f4516945" target="Machine Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-高宏宇-e0f4516945" target="Natural Language Processing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-高榮駿-458af60731" target="Wireless Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-麥偉基-5269f158c4" target="Algorithms">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-麥偉基-5269f158c4" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-麥偉基-5269f158c4" target="Optimization">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃婷婷-c521072c08" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃婷婷-c521072c08" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃慶育-97536649ca" target="Software Engineering">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃稚存-6ad9444e87" target="Automation and Control">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃稚存-6ad9444e87" target="Computer Vision">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃稚存-6ad9444e87" target="Deep Learning">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃稚存-6ad9444e87" target="Electronic Design Automation">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃稚存-6ad9444e87" target="Neuromorphic Computing">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃能富-478224d15b" target="Artificial Intelligence">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃能富-478224d15b" target="Blockchain">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃能富-478224d15b" target="Internet of Things">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃能富-478224d15b" target="Network Security">
+  <data key="d13">nthu-cs</data>
+</edge>
+<edge source="nthu-cs-黃能富-478224d15b" target="Wireless Networks">
+  <data key="d13">nthu-cs</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,30 @@
+{
+  "school_id": "ncku-stats-ds",
+  "analyzed_at": "2026-09-09T09:28:48+08:00",
+  "faculty_count": 47,
+  "role_counts": {
+    "adjunct": 16,
+    "chair": 3,
+    "emeritus": 18,
+    "full_time": 15,
+    "joint": 4,
+    "visiting": 7
+  },
+  "merge_status_counts": {
+    "en_only": 7,
+    "matched": 29,
+    "zh_only": 11
+  },
+  "bilingual_match_rate": 0.617,
+  "field_completion_rates": {
+    "name_zh": 0.8511,
+    "name_en": 0.766,
+    "education_zh": 0.4468,
+    "education_en": 0.4255,
+    "research_interests_zh": 0.6809,
+    "research_interests_en": 0.6809
+  },
+  "pages_visited": 107,
+  "warnings": [],
+  "errors": []
+}

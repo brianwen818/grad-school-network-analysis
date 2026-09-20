@@ -1,0 +1,869 @@
+[
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "林智勇",
+    "name_en": "",
+    "titles": [
+      "教授兼系主任"
+    ],
+    "education": [
+      "國立臺灣大學財務金融博士"
+    ],
+    "research_interests": [
+      "公司理財、行為財務、金融科技、投資與資本市場、金融機構、國際金融"
+    ],
+    "research_fields": [
+      "公司理財、行為財務、金融科技、投資與資本市場、金融機構、國際金融"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "1ab696bc7bc67e4a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20414",
+      "bilingual-role-order:1"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "鍾惠民",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "美國密西根州立大學經濟博士"
+    ],
+    "research_interests": [
+      "國際財務管理、經濟學、高等財務計量經濟學、衍生性商品、投資學"
+    ],
+    "research_fields": [
+      "國際財務管理、經濟學、高等財務計量經濟學、衍生性商品、投資學"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "5523f69ef9330596@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20406",
+      "bilingual-role-order:2"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "戴天時",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "國立臺灣大學資訊工程博士"
+    ],
+    "research_interests": [
+      "資訊科學、財務工程、金融計算、金融科技"
+    ],
+    "research_fields": [
+      "資訊科學、財務工程、金融計算、金融科技"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "34c0f298006277ab@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20407&serno=e4c79e99-f5e7-48cc-b320-d50b463c5c14"
+    ],
+    "personal_urls": [
+      "https://finance.lab.nycu.edu.tw/"
+    ],
+    "stable_ids": [
+      "id=20407",
+      "bilingual-role-order:3"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "李漢星",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "美國羅格斯大學財務博士"
+    ],
+    "research_interests": [
+      "信用風險、資產定價實證研究、投資分析"
+    ],
+    "research_fields": [
+      "信用風險、資產定價實證研究、投資分析"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "4393a915df2f678a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20415&serno=c291ad0d-0b88-4018-8902-3805c162ed8e"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20415",
+      "bilingual-role-order:4"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "謝文良",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "美國田納西州立曼菲斯大學財務博士"
+    ],
+    "research_interests": [
+      "期貨與選擇權、市場微結構、財務計量、投資學、指數建構與證券化"
+    ],
+    "research_fields": [
+      "期貨與選擇權、市場微結構、財務計量、投資學、指數建構與證券化"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "f0cf1f13d5cada68@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20408&serno=fc88a9fc-643b-483d-9742-a5541d76ea63"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20408",
+      "bilingual-role-order:5"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "葉銀華",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "國立臺灣大學商研所財務博士"
+    ],
+    "research_interests": [
+      "公司治理、家族企業與傳承、合併與收購、永續發展"
+    ],
+    "research_fields": [
+      "公司治理、家族企業與傳承、合併與收購、永續發展"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "ec236de5d9166b29@redacted.invalid",
+      "f92b55de95b1878b@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20409&serno=3fb20169-e86b-4a8b-8bd8-782acd929b37"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20409",
+      "bilingual-role-order:6"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "梁婉麗",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "國立臺灣大學國際企業博士"
+    ],
+    "research_interests": [
+      "公司理財、股票購回、公司研發&創新、創業投資"
+    ],
+    "research_fields": [
+      "公司理財、股票購回、公司研發&創新、創業投資"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "aca44aea4bc3edf7@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20410&serno=d38862e2-4adf-42ab-a6e2-5ae387739a3b"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20410",
+      "bilingual-role-order:7"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "黃宜侯",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "美國紐約市立大學經濟學博士"
+    ],
+    "research_interests": [
+      "財務經濟、投資學、應用計量經濟、財務風險管理"
+    ],
+    "research_fields": [
+      "財務經濟、投資學、應用計量經濟、財務風險管理"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "25b2c03d954d572e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20423&serno=46198d15-5749-4e7c-b749-f62557307bbe"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20423",
+      "bilingual-role-order:8"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "林瑞嘉",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "國立臺灣大學會計學博士"
+    ],
+    "research_interests": [
+      "財務會計、退休金、公司理財、金融科技"
+    ],
+    "research_fields": [
+      "財務會計、退休金、公司理財、金融科技"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "d64a4d24ef1567e4@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20411&serno=80d29c48-e37a-4423-956b-fda046a8ebf4"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20411",
+      "bilingual-role-order:9"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "黃思皓",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "國立清華大學資訊工程博士"
+    ],
+    "research_interests": [
+      "人工智慧精準行銷與推薦系統、機器學習與財務大數據分析、強化學習交易決策、深度學習對抗例資安攻防、電腦視覺與多媒體技術、金融科技"
+    ],
+    "research_fields": [
+      "人工智慧精準行銷與推薦系統、機器學習與財務大數據分析、強化學習交易決策、深度學習對抗例資安攻防、電腦視覺與多媒體技術、金融科技"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "3fb6457cd344cf24@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20412&serno=e7efbdc2-04d5-46d8-ad80-795e364add0b"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20412",
+      "bilingual-role-order:10"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "鄧惠文",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "美國賓州州立大學統計學博士"
+    ],
+    "research_interests": [
+      "衍生性金融商品、信用評等、財務工程、金融科技、統計方法與人工智慧"
+    ],
+    "research_fields": [
+      "衍生性金融商品、信用評等、財務工程、金融科技、統計方法與人工智慧"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "ab885d29e90a4115@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20413&serno=85f84fc0-6c92-411e-b456-e83a7332fe80"
+    ],
+    "personal_urls": [
+      "https://venteng.github.io/",
+      "https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en"
+    ],
+    "stable_ids": [
+      "id=20413",
+      "bilingual-role-order:11"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "黃星華",
+    "name_en": "",
+    "titles": [
+      "副教授"
+    ],
+    "education": [
+      "國立政治大學金融博士"
+    ],
+    "research_interests": [
+      "衍生性商品訂價理論、數理財務在公司理財之應用、信用風險模型"
+    ],
+    "research_fields": [
+      "衍生性商品訂價理論、數理財務在公司理財之應用、信用風險模型"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "e6259d64dbf60915@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20416&serno=9c327ddf-c713-4eb3-a7ba-155059e1d5c6"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20416"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "郭家豪",
+    "name_en": "",
+    "titles": [
+      "副教授"
+    ],
+    "education": [
+      "國立臺灣大學國企所財務博士"
+    ],
+    "research_interests": [
+      "金融計算、財務工程、風險管理、資產定價、財務理論、金融市場"
+    ],
+    "research_fields": [
+      "金融計算、財務工程、風險管理、資產定價、財務理論、金融市場"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "0fb5b6e1478edd62@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20417&serno=f60d1e54-51cb-465f-bd48-a77342309439"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20417"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "陳耀宗",
+    "name_en": "",
+    "titles": [
+      "副教授"
+    ],
+    "education": [
+      "國立中山大學資訊管理博士、國立中興大學財務金融博士"
+    ],
+    "research_interests": [
+      "投資組合最佳化、資產評價、機器學習"
+    ],
+    "research_fields": [
+      "投資組合最佳化、資產評價、機器學習"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "7db936b3e5489c9d@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20418&serno=884d3a7a-a254-4230-bd3b-0275d64a76ad"
+    ],
+    "personal_urls": [
+      "https://www.researchgate.net/profile/Yao-Tsung-Chen-2"
+    ],
+    "stable_ids": [
+      "id=20418"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "蔡詩妤",
+    "name_en": "",
+    "titles": [
+      "助理教授"
+    ],
+    "education": [
+      "美國紐約州石溪大學資訊工程博士"
+    ],
+    "research_interests": [
+      "人工智慧、公平性和海量資料集的演算法設計、機器人和網路中的調度問題、解決方案/軌跡隱私、平行編程"
+    ],
+    "research_fields": [
+      "人工智慧、公平性和海量資料集的演算法設計、機器人和網路中的調度問題、解決方案/軌跡隱私、平行編程"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "2ed8bff808452289@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "profile_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20419&serno=bc92c6c7-c4a7-40b4-aa31-6025a945ee8a"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "id=20419"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "游家牧",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "國立臺灣大學電機工程博士"
+    ],
+    "research_interests": [
+      "人工智慧與機器學習, 資訊安全, 資料隱私與資料去識別化"
+    ],
+    "research_fields": [
+      "人工智慧與機器學習, 資訊安全, 資料隱私與資料去識別化"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "9fe6b83743158a15@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5985&serno=7badbc81-3663-4de2-92e4-6797b9577e77"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://chiamuyu.weebly.com/"
+    ],
+    "stable_ids": [
+      "bilingual-role-order:16"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "李正福",
+    "name_en": "",
+    "titles": [
+      "客座教授"
+    ],
+    "education": [
+      "美國紐約州州立大學水牛城分校 財經博士"
+    ],
+    "research_interests": [
+      "財務金融管理、期貨選擇權、基金管理、金融政策"
+    ],
+    "research_fields": [
+      "財務金融管理、期貨選擇權、基金管理、金融政策"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "ddb7ba7eac6a197f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:17"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "俞明德",
+    "name_en": "",
+    "titles": [
+      "講座教授"
+    ],
+    "education": [
+      "PhD, Ohio State University"
+    ],
+    "research_interests": [
+      "金融機構管理 風險管理與保險 期貨與選擇權"
+    ],
+    "research_fields": [
+      "金融機構管理 風險管理與保險 期貨與選擇權"
+    ],
+    "research_field_summaries": [],
+    "emails": [
+      "dae6a327bf077669@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.google.com/view/mtyu/"
+    ],
+    "stable_ids": [
+      "bilingual-role-order:18"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "徐熊健",
+    "name_en": "",
+    "titles": [
+      "兼任教授"
+    ],
+    "education": [
+      "國立清華大學資訊工程學系博士"
+    ],
+    "research_interests": [
+      "演算式分析與設計、計算生物學、智慧型計算、多媒體應用"
+    ],
+    "research_fields": [
+      "演算式分析與設計、計算生物學、智慧型計算、多媒體應用"
+    ],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.google.com/view/sjshyu"
+    ],
+    "stable_ids": [
+      "bilingual-role-order:19"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "陳玠甫",
+    "name_en": "",
+    "titles": [
+      "兼任教授級專業技術人員"
+    ],
+    "education": [
+      "國立臺灣大學資訊管理學系博士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:20"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "魏寶生",
+    "name_en": "",
+    "titles": [
+      "兼任教授級專業技術人員"
+    ],
+    "education": [
+      "美國華府喬治華盛頓大學企業管理碩士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:21"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "吳偉臺",
+    "name_en": "",
+    "titles": [
+      "兼任教授級專業技術人員"
+    ],
+    "education": [
+      "澳洲 Bond University 法學博士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:22"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "劉宗聖",
+    "name_en": "",
+    "titles": [
+      "兼任副教授級專業技術人員"
+    ],
+    "education": [
+      "上海財經大學金融學博士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:23"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "鄭仲傑",
+    "name_en": "",
+    "titles": [
+      "兼任助理教授"
+    ],
+    "education": [
+      "國立陽明交通大學資訊管理與財務金融學系博士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:24"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "王燈山",
+    "name_en": "",
+    "titles": [
+      "兼任助理教授級專業技術人員"
+    ],
+    "education": [
+      "國立交通大學科技管理研究所碩士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:25"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "王國強",
+    "name_en": "",
+    "titles": [
+      "兼任助理教授級專業技術人員"
+    ],
+    "education": [
+      "國立交通大學高階主管管理學程碩士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:26"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "陳建榮",
+    "name_en": "",
+    "titles": [
+      "兼任助理教授級專業技術人員"
+    ],
+    "education": [
+      "國立陽明交通大學高階主管管理學程碩士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:27"
+    ],
+    "section": ""
+  },
+  {
+    "school_id": "nycu-info-mag-fin",
+    "language": "zh",
+    "name_zh": "林雲逸",
+    "name_en": "",
+    "titles": [
+      "兼任助理教授級專業技術人員"
+    ],
+    "education": [
+      "國立成功大學機械工程研究所碩士"
+    ],
+    "research_interests": [],
+    "research_fields": [],
+    "research_field_summaries": [],
+    "emails": [],
+    "listing_urls": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "bilingual-role-order:28"
+    ],
+    "section": ""
+  }
+]

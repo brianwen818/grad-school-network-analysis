@@ -1,0 +1,45 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Actuarial Science,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",0,0,2,0
+Algorithms,Theory & Algorithms,Algorithms & Computational Complexity,0,0,3,0
+Artificial Intelligence,AI & Machine Learning,Artificial Intelligence & Generative Models,1,2,1,2
+Augmented Reality,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,1,1,0,1
+Automation and Control,"Robotics, Control & Smart Manufacturing",Robotics & Automation,1,1,0,1
+Bayesian Statistics,Statistics & Statistical Methods,Bayesian & Computational Statistics,0,0,3,0
+Big Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,4,0
+Bioinformatics,Biomedical & Health Informatics,Bioinformatics & Systems Biology,0,0,4,0
+Biostatistics,Biomedical & Health Informatics,Biostatistics & Survival Analysis,0,0,4,0
+Causal Inference,Statistics & Statistical Methods,Statistical Theory & Inference,0,0,4,0
+Change Point Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,1,1,0,1
+Computer Vision,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",1,1,0,1
+Data Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,1,2,1,2
+Deep Learning,AI & Machine Learning,Machine Learning & Deep Learning,1,2,1,2
+Embedded Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,1,0,1
+Experimental Design,Statistics & Statistical Methods,Applied & Industrial Statistics,0,0,2,0
+High-Dimensional Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,0,0,3,0
+Human-Computer Interaction,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,1,1,0,1
+Image Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",1,1,0,1
+Industrial Statistics,Statistics & Statistical Methods,Applied & Industrial Statistics,0,0,3,0
+Information Security,"Security, Privacy & Cryptography",Information & Systems Security,1,1,0,1
+Internet of Things,Networks & Communications,"Mobile, IoT & Pervasive Computing",1,2,1,2
+Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,1,1,0,1
+Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,1,1,0,1
+Multivariate Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,0,0,2,0
+Natural Language Processing,AI & Machine Learning,Natural Language & Speech Processing,1,2,1,2
+Numerical Analysis,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,0,0,2,0
+Optimization,Applied Mathematics & Operations Research,Optimization & Operations Research,0,0,2,0
+Pattern Recognition,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",1,1,0,1
+Probability Theory,Statistics & Statistical Methods,Statistical Theory & Inference,0,0,3,0
+Recommender Systems,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,1,2,1,2
+Regression Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,0,0,4,0
+Reliability Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,0,0,3,0
+Robotics,"Robotics, Control & Smart Manufacturing",Robotics & Automation,1,1,0,1
+Social Media Analytics,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,1,2,1,2
+Social Network Analysis,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,1,2,1,2
+Spatial Clustering,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,1,2,1,2
+Statistical Computing,Statistics & Statistical Methods,Bayesian & Computational Statistics,0,0,2,0
+Statistical Consulting,Statistics & Statistical Methods,Applied & Industrial Statistics,0,0,4,0
+Statistical Process Control,Statistics & Statistical Methods,Applied & Industrial Statistics,0,0,3,0
+Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,0,0,3,0
+Survey Sampling,Statistics & Statistical Methods,Applied & Industrial Statistics,0,0,2,0
+Survival Analysis,Biomedical & Health Informatics,Biostatistics & Survival Analysis,0,0,4,0
+Time Series Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,0,0,2,0

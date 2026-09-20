@@ -1,0 +1,27 @@
+{
+  "school_id": "nycu-info-mag-fin",
+  "analyzed_at": "2026-09-09T16:19:37+08:00",
+  "faculty_count": 28,
+  "role_counts": {
+    "adjunct": 10,
+    "chair": 1,
+    "faculty": 12,
+    "full_time": 10,
+    "visiting": 1
+  },
+  "merge_status_counts": {
+    "matched": 28
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 1.0,
+    "education_zh": 1.0,
+    "education_en": 0.9643,
+    "research_interests_zh": 0.6786,
+    "research_interests_en": 0.6429
+  },
+  "pages_visited": 39,
+  "warnings": [],
+  "errors": []
+}

@@ -1,0 +1,350 @@
+[
+  {
+    "unit": "nccu-fin",
+    "level": "school",
+    "school_ids": [
+      "nccu-fin"
+    ],
+    "dedup": false,
+    "n_records": 23,
+    "n_entities": 23,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 23,
+    "n_excluded_no_keywords": 0,
+    "coverage_pct": 100.0,
+    "n_keywords": 24,
+    "n_prof_keyword_edges": 62,
+    "out_dir": "data/network-analysis/by-school/nccu-fin"
+  },
+  {
+    "unit": "nccu-mb",
+    "level": "school",
+    "school_ids": [
+      "nccu-mb"
+    ],
+    "dedup": false,
+    "n_records": 22,
+    "n_entities": 22,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 18,
+    "n_excluded_no_keywords": 4,
+    "coverage_pct": 81.8,
+    "n_keywords": 23,
+    "n_prof_keyword_edges": 44,
+    "out_dir": "data/network-analysis/by-school/nccu-mb"
+  },
+  {
+    "unit": "ncku-cs-ie",
+    "level": "school",
+    "school_ids": [
+      "ncku-cs-ie"
+    ],
+    "dedup": false,
+    "n_records": 62,
+    "n_entities": 62,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 51,
+    "n_excluded_no_keywords": 11,
+    "coverage_pct": 82.3,
+    "n_keywords": 66,
+    "n_prof_keyword_edges": 189,
+    "out_dir": "data/network-analysis/by-school/ncku-cs-ie"
+  },
+  {
+    "unit": "ncku-stats-ds",
+    "level": "school",
+    "school_ids": [
+      "ncku-stats-ds"
+    ],
+    "dedup": false,
+    "n_records": 47,
+    "n_entities": 47,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 39,
+    "n_excluded_no_keywords": 8,
+    "coverage_pct": 83.0,
+    "n_keywords": 44,
+    "n_prof_keyword_edges": 124,
+    "out_dir": "data/network-analysis/by-school/ncku-stats-ds"
+  },
+  {
+    "unit": "nthu-cs",
+    "level": "school",
+    "school_ids": [
+      "nthu-cs"
+    ],
+    "dedup": false,
+    "n_records": 81,
+    "n_entities": 81,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 76,
+    "n_excluded_no_keywords": 5,
+    "coverage_pct": 93.8,
+    "n_keywords": 65,
+    "n_prof_keyword_edges": 207,
+    "out_dir": "data/network-analysis/by-school/nthu-cs"
+  },
+  {
+    "unit": "nthu-qf",
+    "level": "school",
+    "school_ids": [
+      "nthu-qf"
+    ],
+    "dedup": false,
+    "n_records": 19,
+    "n_entities": 19,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 17,
+    "n_excluded_no_keywords": 2,
+    "coverage_pct": 89.5,
+    "n_keywords": 20,
+    "n_prof_keyword_edges": 45,
+    "out_dir": "data/network-analysis/by-school/nthu-qf"
+  },
+  {
+    "unit": "ntu-comm-engin-ds-network",
+    "level": "school",
+    "school_ids": [
+      "ntu-comm-engin-ds-network"
+    ],
+    "dedup": false,
+    "n_records": 25,
+    "n_entities": 25,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 25,
+    "n_excluded_no_keywords": 0,
+    "coverage_pct": 100.0,
+    "n_keywords": 31,
+    "n_prof_keyword_edges": 74,
+    "out_dir": "data/network-analysis/by-school/ntu-comm-engin-ds-network"
+  },
+  {
+    "unit": "ntu-cs-ie",
+    "level": "school",
+    "school_ids": [
+      "ntu-cs-ie"
+    ],
+    "dedup": false,
+    "n_records": 90,
+    "n_entities": 90,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 88,
+    "n_excluded_no_keywords": 2,
+    "coverage_pct": 97.8,
+    "n_keywords": 74,
+    "n_prof_keyword_edges": 256,
+    "out_dir": "data/network-analysis/by-school/ntu-cs-ie"
+  },
+  {
+    "unit": "ntu-ds",
+    "level": "school",
+    "school_ids": [
+      "ntu-ds"
+    ],
+    "dedup": false,
+    "n_records": 69,
+    "n_entities": 69,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 59,
+    "n_excluded_no_keywords": 10,
+    "coverage_pct": 85.5,
+    "n_keywords": 63,
+    "n_prof_keyword_edges": 168,
+    "out_dir": "data/network-analysis/by-school/ntu-ds"
+  },
+  {
+    "unit": "ntu-econ",
+    "level": "school",
+    "school_ids": [
+      "ntu-econ"
+    ],
+    "dedup": false,
+    "n_records": 49,
+    "n_entities": 49,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 44,
+    "n_excluded_no_keywords": 5,
+    "coverage_pct": 89.8,
+    "n_keywords": 28,
+    "n_prof_keyword_edges": 100,
+    "out_dir": "data/network-analysis/by-school/ntu-econ"
+  },
+  {
+    "unit": "ntu-fin",
+    "level": "school",
+    "school_ids": [
+      "ntu-fin"
+    ],
+    "dedup": false,
+    "n_records": 43,
+    "n_entities": 43,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 32,
+    "n_excluded_no_keywords": 11,
+    "coverage_pct": 74.4,
+    "n_keywords": 33,
+    "n_prof_keyword_edges": 86,
+    "out_dir": "data/network-analysis/by-school/ntu-fin"
+  },
+  {
+    "unit": "ntu-im",
+    "level": "school",
+    "school_ids": [
+      "ntu-im"
+    ],
+    "dedup": false,
+    "n_records": 31,
+    "n_entities": 31,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 30,
+    "n_excluded_no_keywords": 1,
+    "coverage_pct": 96.8,
+    "n_keywords": 44,
+    "n_prof_keyword_edges": 96,
+    "out_dir": "data/network-analysis/by-school/ntu-im"
+  },
+  {
+    "unit": "nycu-cs",
+    "level": "school",
+    "school_ids": [
+      "nycu-cs"
+    ],
+    "dedup": false,
+    "n_records": 152,
+    "n_entities": 152,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 141,
+    "n_excluded_no_keywords": 11,
+    "coverage_pct": 92.8,
+    "n_keywords": 88,
+    "n_prof_keyword_edges": 423,
+    "out_dir": "data/network-analysis/by-school/nycu-cs"
+  },
+  {
+    "unit": "nycu-info-mag-fin",
+    "level": "school",
+    "school_ids": [
+      "nycu-info-mag-fin"
+    ],
+    "dedup": false,
+    "n_records": 28,
+    "n_entities": 28,
+    "n_duplicate_persons_removed": 0,
+    "n_duplicate_persons": 0,
+    "n_in_network": 19,
+    "n_excluded_no_keywords": 9,
+    "coverage_pct": 67.9,
+    "n_keywords": 39,
+    "n_prof_keyword_edges": 79,
+    "out_dir": "data/network-analysis/by-school/nycu-info-mag-fin"
+  },
+  {
+    "unit": "fin-and-econ",
+    "level": "group",
+    "school_ids": [
+      "nccu-fin",
+      "nccu-mb",
+      "nthu-qf",
+      "ntu-econ",
+      "ntu-fin",
+      "nycu-info-mag-fin"
+    ],
+    "dedup": true,
+    "n_records": 184,
+    "n_entities": 182,
+    "n_duplicate_persons_removed": 2,
+    "n_duplicate_persons": 2,
+    "n_in_network": 151,
+    "n_excluded_no_keywords": 31,
+    "coverage_pct": 83.0,
+    "n_keywords": 69,
+    "n_prof_keyword_edges": 410,
+    "out_dir": "data/network-analysis/by-group/fin-and-econ"
+  },
+  {
+    "unit": "ds",
+    "level": "group",
+    "school_ids": [
+      "ncku-stats-ds",
+      "ntu-comm-engin-ds-network",
+      "ntu-ds"
+    ],
+    "dedup": true,
+    "n_records": 141,
+    "n_entities": 131,
+    "n_duplicate_persons_removed": 10,
+    "n_duplicate_persons": 10,
+    "n_in_network": 114,
+    "n_excluded_no_keywords": 17,
+    "coverage_pct": 87.0,
+    "n_keywords": 86,
+    "n_prof_keyword_edges": 349,
+    "out_dir": "data/network-analysis/by-group/ds"
+  },
+  {
+    "unit": "cs",
+    "level": "group",
+    "school_ids": [
+      "ncku-cs-ie",
+      "nthu-cs",
+      "ntu-cs-ie",
+      "ntu-im",
+      "nycu-cs"
+    ],
+    "dedup": true,
+    "n_records": 416,
+    "n_entities": 411,
+    "n_duplicate_persons_removed": 5,
+    "n_duplicate_persons": 5,
+    "n_in_network": 381,
+    "n_excluded_no_keywords": 30,
+    "coverage_pct": 92.7,
+    "n_keywords": 115,
+    "n_prof_keyword_edges": 1159,
+    "out_dir": "data/network-analysis/by-group/cs"
+  },
+  {
+    "unit": "overall",
+    "level": "overall",
+    "school_ids": [
+      "nccu-fin",
+      "nccu-mb",
+      "ncku-cs-ie",
+      "ncku-stats-ds",
+      "nthu-cs",
+      "nthu-qf",
+      "ntu-comm-engin-ds-network",
+      "ntu-cs-ie",
+      "ntu-ds",
+      "ntu-econ",
+      "ntu-fin",
+      "ntu-im",
+      "nycu-cs",
+      "nycu-info-mag-fin"
+    ],
+    "dedup": true,
+    "n_records": 741,
+    "n_entities": 701,
+    "n_duplicate_persons_removed": 40,
+    "n_duplicate_persons": 37,
+    "n_in_network": 623,
+    "n_excluded_no_keywords": 78,
+    "coverage_pct": 88.9,
+    "n_keywords": 170,
+    "n_prof_keyword_edges": 1834,
+    "out_dir": "data/network-analysis/overall"
+  }
+]

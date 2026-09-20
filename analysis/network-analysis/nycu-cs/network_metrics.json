@@ -1,0 +1,98 @@
+{
+  "unit": "nycu-cs",
+  "level": "school",
+  "school_ids": [
+    "nycu-cs"
+  ],
+  "deduplicated": false,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 152,
+    "n_entities": 152,
+    "n_duplicate_records_removed": 0,
+    "n_in_network": 141,
+    "n_excluded_no_keywords": 11,
+    "coverage_pct": 92.8
+  },
+  "bipartite": {
+    "n_professors": 141,
+    "n_keywords": 88,
+    "n_edges": 423,
+    "density": 0.03409090909090909,
+    "n_connected_components": 2,
+    "lcc_n_nodes": 227,
+    "lcc_n_professors": 140,
+    "lcc_n_keywords": 87,
+    "lcc_node_share": 0.9912663755458515,
+    "lcc_professor_share": 0.9929078014184397,
+    "professor_degree_mean": 3.0,
+    "professor_degree_max": 7,
+    "keyword_degree_mean": 4.806818181818182,
+    "keyword_degree_max": 35
+  },
+  "keyword_network": {
+    "n_nodes": 87,
+    "n_edges": 366,
+    "density": 0.09783480352846832,
+    "mean_degree": 8.413793103448276,
+    "mean_weight": 1.494535519125683,
+    "avg_clustering": 0.5724485802767797,
+    "modularity_q_by_resolution": {
+      "0.7": 0.44390426090124296,
+      "1.0": 0.38587074586660164,
+      "1.3": 0.33096113419048223
+    },
+    "n_communities_by_resolution": {
+      "0.7": 4,
+      "1.0": 7,
+      "1.3": 8
+    },
+    "modularity_q": 0.38587074586660164,
+    "n_communities": 7,
+    "girvan_newman": {},
+    "taxonomy_alignment_nmi": 0.48417924014499236,
+    "taxonomy_alignment_ari": 0.20589388775778317,
+    "pearson_degree_betweenness_r": 0.77114348111584,
+    "pearson_degree_betweenness_p": 2.3861731919296535e-18
+  },
+  "professor_network": {
+    "n_nodes": 140,
+    "n_edges": 2524,
+    "density": 0.2594039054470709,
+    "mean_degree": 36.05714285714286,
+    "avg_clustering": 0.7190733346258582,
+    "modularity_q_by_resolution": {
+      "0.7": 0.4356103707850177,
+      "1.0": 0.349735891386639,
+      "1.3": 0.2791502856422481
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 5,
+      "1.3": 7
+    },
+    "modularity_q": 0.349735891386639,
+    "n_communities": 5,
+    "assortativity_dominant_l1": 0.2688653553664652,
+    "assortativity_role_groups": 0.009166729798414533,
+    "assortativity_school": NaN,
+    "community_vs_dominant_l1_nmi": 0.557298817033542,
+    "community_vs_dominant_l1_ari": 0.38911602851102983
+  },
+  "guardrails": {
+    "l1_too_broad": [],
+    "lambda_over_merging": [
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 0,
+    "professors_without_chinese_name": []
+  }
+}

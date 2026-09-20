@@ -1,0 +1,164 @@
+{
+  "unit": "overall",
+  "level": "overall",
+  "school_ids": [
+    "nccu-fin",
+    "nccu-mb",
+    "ncku-cs-ie",
+    "ncku-stats-ds",
+    "nthu-cs",
+    "nthu-qf",
+    "ntu-comm-engin-ds-network",
+    "ntu-cs-ie",
+    "ntu-ds",
+    "ntu-econ",
+    "ntu-fin",
+    "ntu-im",
+    "nycu-cs",
+    "nycu-info-mag-fin"
+  ],
+  "deduplicated": true,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 741,
+    "n_entities": 701,
+    "n_duplicate_records_removed": 40,
+    "n_in_network": 623,
+    "n_excluded_no_keywords": 78,
+    "coverage_pct": 88.9
+  },
+  "bipartite": {
+    "n_professors": 623,
+    "n_keywords": 170,
+    "n_edges": 1834,
+    "density": 0.017316589557171184,
+    "n_connected_components": 5,
+    "lcc_n_nodes": 780,
+    "lcc_n_professors": 616,
+    "lcc_n_keywords": 164,
+    "lcc_node_share": 0.9836065573770492,
+    "lcc_professor_share": 0.9887640449438202,
+    "professor_degree_mean": 2.943820224719101,
+    "professor_degree_max": 11,
+    "keyword_degree_mean": 10.788235294117648,
+    "keyword_degree_max": 100
+  },
+  "keyword_network": {
+    "n_nodes": 164,
+    "n_edges": 1276,
+    "density": 0.09546610803531348,
+    "mean_degree": 15.560975609756097,
+    "mean_weight": 2.0282131661442007,
+    "avg_clustering": 0.5725161778562854,
+    "modularity_q_by_resolution": {
+      "0.7": 0.4922455381991309,
+      "1.0": 0.38266534224061116,
+      "1.3": 0.33210468330829007
+    },
+    "n_communities_by_resolution": {
+      "0.7": 4,
+      "1.0": 6,
+      "1.3": 8
+    },
+    "modularity_q": 0.38266534224061116,
+    "n_communities": 6,
+    "girvan_newman": {},
+    "taxonomy_alignment_nmi": 0.534431906594657,
+    "taxonomy_alignment_ari": 0.2758190643403698,
+    "pearson_degree_betweenness_r": 0.6790379011186547,
+    "pearson_degree_betweenness_p": 1.637684327398347e-23
+  },
+  "professor_network": {
+    "n_nodes": 616,
+    "n_edges": 31823,
+    "density": 0.16800232288037167,
+    "mean_degree": 103.32142857142857,
+    "avg_clustering": 0.727680407314776,
+    "modularity_q_by_resolution": {
+      "0.7": 0.49282376187395943,
+      "1.0": 0.3956712318155954,
+      "1.3": 0.34403117232461705
+    },
+    "n_communities_by_resolution": {
+      "0.7": 4,
+      "1.0": 6,
+      "1.3": 8
+    },
+    "modularity_q": 0.3956712318155954,
+    "n_communities": 6,
+    "assortativity_dominant_l1": 0.2894018124120471,
+    "assortativity_role_groups": 0.00797682931501964,
+    "assortativity_school": 0.06895154395026218,
+    "community_vs_dominant_l1_nmi": 0.5505425179899502,
+    "community_vs_dominant_l1_ari": 0.2978959865749458
+  },
+  "guardrails": {
+    "l1_too_broad": [],
+    "lambda_over_merging": [
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 13,
+    "professors_without_chinese_name": [
+      {
+        "node_id": "ncku-stats-ds-chichunhsia-826f072271",
+        "name_en": "Chi-Chun Hsia"
+      },
+      {
+        "node_id": "ncku-stats-ds-chihchiehwu-f4240ef7d4",
+        "name_en": "Chih-Chieh Wu"
+      },
+      {
+        "node_id": "ncku-stats-ds-chingtiliu-2cc20e2d15",
+        "name_en": "Ching-Ti Liu"
+      },
+      {
+        "node_id": "ncku-stats-ds-hsiulihsi-c8baf98fee",
+        "name_en": "Hsiu-Li Hsi"
+      },
+      {
+        "node_id": "ncku-stats-ds-piocheng-2e27b06feb",
+        "name_en": "Pi-O Cheng"
+      },
+      {
+        "node_id": "ncku-stats-ds-wengkeewong-5482e739e7",
+        "name_en": "Weng Kee Wong"
+      },
+      {
+        "node_id": "ncku-stats-ds-yihauchen-1c07c2ff45",
+        "name_en": "Yi-Hau Chen"
+      },
+      {
+        "node_id": "nthu-cs-chunglaungliu-81c34bb998",
+        "name_en": "Chung Laung Liu"
+      },
+      {
+        "node_id": "nthu-cs-wenlianhsu-baee37b511",
+        "name_en": "Wen-Lian Hsu"
+      },
+      {
+        "node_id": "ntu-econ-joonkyohong-abba80fbe9",
+        "name_en": "Joonkyo Hong"
+      },
+      {
+        "node_id": "ntu-econ-junrokpark-d50100b56e",
+        "name_en": "Junrok Park"
+      },
+      {
+        "node_id": "ntu-econ-sungminpark-469370a4d3",
+        "name_en": "Sungmin Park"
+      },
+      {
+        "node_id": "ntu-econ-toshiakikomatsu-2c1f940cc4",
+        "name_en": "Toshiaki Komatsu"
+      }
+    ]
+  }
+}

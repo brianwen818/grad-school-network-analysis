@@ -1,0 +1,953 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="s_exp" attr.type="long"/>
+<key id="d17" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d16" for="edge" attr.name="n_shared_keywords" attr.type="long"/>
+<key id="d15" for="edge" attr.name="s_inf" attr.type="double"/>
+<key id="d14" for="edge" attr.name="s_exp" attr.type="double"/>
+<key id="d13" for="edge" attr.name="w_cos" attr.type="double"/>
+<key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="primary_role" attr.type="string"/>
+<key id="d9" for="node" attr.name="dominant_l1" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="nycu-info-mag-fin-俞明德-560565dfd3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">俞明德</data>
+  <data key="d3">Min-Teh Yu</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">chair</data>
+  <data key="d6">4</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">2</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">chair</data>
+  <data key="d11">1</data>
+</node>
+<node id="nycu-info-mag-fin-徐熊健-9290fbce28">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">徐熊健</data>
+  <data key="d3">Shyong Jian Shyu</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">2</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">3</data>
+</node>
+<node id="nycu-info-mag-fin-戴天時-ba41515d9f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">戴天時</data>
+  <data key="d3">Tian-Shyr Dai</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">5</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="nycu-info-mag-fin-李正福-85865a27fe">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李正福</data>
+  <data key="d3">Cheng-Few Lee</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">visiting</data>
+  <data key="d6">5</data>
+  <data key="d7">University at Buffalo</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">visiting</data>
+  <data key="d11">2</data>
+</node>
+<node id="nycu-info-mag-fin-李漢星-9c9e73434e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李漢星</data>
+  <data key="d3">Han-Hsing Lee</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">3</data>
+  <data key="d7">Rutgers University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="nycu-info-mag-fin-林智勇-9f2fd3a531">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林智勇</data>
+  <data key="d3">Chih-Yung Lin</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">7</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="nycu-info-mag-fin-林瑞嘉-9b5e92d792">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林瑞嘉</data>
+  <data key="d3">Jui-Chia Lin</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="nycu-info-mag-fin-梁婉麗-9640195164">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">梁婉麗</data>
+  <data key="d3">Woan-lih Liang</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="nycu-info-mag-fin-游家牧-160b56ff8f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">游家牧</data>
+  <data key="d3">Chia-Mu Yu</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">3</data>
+</node>
+<node id="nycu-info-mag-fin-蔡詩妤-e1db4b4746">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡詩妤</data>
+  <data key="d3">Shih-Yu Tsai</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">Stony Brook University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">3</data>
+</node>
+<node id="nycu-info-mag-fin-謝文良-ec8ba7b6cf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝文良</data>
+  <data key="d3">Wen-Liang Hsieh</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">郭家豪</data>
+  <data key="d3">Jia-hau Guo</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄧惠文</data>
+  <data key="d3">Huei-Wen Teng</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">5</data>
+  <data key="d7">Pennsylvania State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鍾惠民</data>
+  <data key="d3">Huimin Chung</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">5</data>
+  <data key="d7">Michigan State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="nycu-info-mag-fin-陳耀宗-5cb5b0b06f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳耀宗</data>
+  <data key="d3">Yao-Tsung Chen</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Sun Yat-sen University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃宜侯</data>
+  <data key="d3">Alex YiHou Huang</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃思皓</data>
+  <data key="d3">Szu-Hao Huang</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">9</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">3</data>
+</node>
+<node id="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃星華</data>
+  <data key="d3">Hsing-Hua Huang</data>
+  <data key="d4">nycu-info-mag-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Chengchi University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-戴天時-ba41515d9f">
+  <data key="d12">10.746099554063191</data>
+  <data key="d13">0.14863807446763394</data>
+  <data key="d14">7.27106036876078</data>
+  <data key="d15">8.687597963256025</data>
+  <data key="d16">2</data>
+  <data key="d17">0.09305701989536208</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.055413560555871</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">5.388319042188405</data>
+  <data key="d13">0.08669500280760517</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">3.7779582394017477</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18558663512134227</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.05636874958927988</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">1.5111832957606992</data>
+  <data key="d13">0.01894137352006155</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7779582394017477</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6617330953864337</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-林智勇-9f2fd3a531">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.04647301943675056</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-李正福-85865a27fe">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.055353803003405644</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">5.8409916359694165</data>
+  <data key="d13">0.10500570594182582</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">4.909639723854277</data>
+  <data key="d16">1</data>
+  <data key="d17">0.17120380618967146</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d12">4.944778920904158</data>
+  <data key="d13">0.07184612558135733</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2022335105362302</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-謝文良-ec8ba7b6cf">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.05746306850339052</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-林瑞嘉-9b5e92d792">
+  <data key="d12">1.5111832957606992</data>
+  <data key="d13">0.028130668991959575</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7779582394017477</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6617330953864337</data>
+</edge>
+<edge source="nycu-info-mag-fin-俞明德-560565dfd3" target="nycu-info-mag-fin-李漢星-9c9e73434e">
+  <data key="d12">1.963855889541711</data>
+  <data key="d13">0.034444066346164266</data>
+  <data key="d18">0</data>
+  <data key="d15">4.909639723854277</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5092023326789837</data>
+</edge>
+<edge source="nycu-info-mag-fin-徐熊健-9290fbce28" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.06473493677438356</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-謝文良-ec8ba7b6cf">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.05305476504453607</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-林瑞嘉-9b5e92d792">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.06547571935634817</data>
+  <data key="d14">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d12">7.27106036876078</data>
+  <data key="d13">0.09754158456517688</data>
+  <data key="d14">7.27106036876078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13753152212796602</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">11.563892564665476</data>
+  <data key="d13">0.17178308307085605</data>
+  <data key="d14">11.563892564665476</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.0864760714792172</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.05204439726599486</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-李漢星-9c9e73434e">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.0763122735060374</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.051162485960864416</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.044087115638017496</data>
+  <data key="d14">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-林智勇-9f2fd3a531">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.043630051627277996</data>
+  <data key="d14">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-李正福-85865a27fe">
+  <data key="d12">1.5111832957606992</data>
+  <data key="d13">0.02061425597403882</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7779582394017477</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6617330953864337</data>
+</edge>
+<edge source="nycu-info-mag-fin-戴天時-ba41515d9f" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">8.589664450736297</data>
+  <data key="d13">0.1425732650908875</data>
+  <data key="d14">8.589664450736297</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11641898303888705</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-林智勇-9f2fd3a531">
+  <data key="d12">8.563458530073879</data>
+  <data key="d13">0.10475840382939361</data>
+  <data key="d14">6.765547701418873</data>
+  <data key="d15">4.494777071637514</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11677524874886885</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.05352530787118407</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d12">1.4096620092826844</data>
+  <data key="d13">0.020199600424089924</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5241550232067107</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7093899058178184</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-林瑞嘉-9b5e92d792">
+  <data key="d12">4.530172431478958</data>
+  <data key="d13">0.08316660211742823</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.7779582394017477</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22074214947123585</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-梁婉麗-9640195164">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07239139188048149</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.05053495541680281</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">4.587919353467777</data>
+  <data key="d13">0.07279940790008042</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">3.7779582394017477</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21796372668236863</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">6.329354876477925</data>
+  <data key="d13">0.09075240647559152</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">7.977415756306026</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15799398509259552</data>
+</edge>
+<edge source="nycu-info-mag-fin-李正福-85865a27fe" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">1.5111832957606992</data>
+  <data key="d13">0.018680254017565012</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7779582394017477</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6617330953864337</data>
+</edge>
+<edge source="nycu-info-mag-fin-李漢星-9c9e73434e" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">6.950907691425082</data>
+  <data key="d13">0.13286682513232975</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">8.010872814311167</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14386610272981185</data>
+</edge>
+<edge source="nycu-info-mag-fin-李漢星-9c9e73434e" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06377068659784334</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nycu-info-mag-fin-李漢星-9c9e73434e" target="nycu-info-mag-fin-林智勇-9f2fd3a531">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.05440791246276468</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nycu-info-mag-fin-李漢星-9c9e73434e" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.09918397190250107</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="nycu-info-mag-fin-李漢星-9c9e73434e" target="nycu-info-mag-fin-陳耀宗-5cb5b0b06f">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.0990134847717842</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="nycu-info-mag-fin-李漢星-9c9e73434e" target="nycu-info-mag-fin-謝文良-ec8ba7b6cf">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06500870356679016</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nycu-info-mag-fin-李漢星-9c9e73434e" target="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d12">5.128995716001013</data>
+  <data key="d13">0.08724689560425447</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">3.999245829278854</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19496994253285949</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.050649029159589416</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">9.033356321411004</data>
+  <data key="d13">0.10874299027936812</data>
+  <data key="d14">7.62369431212832</data>
+  <data key="d15">3.5241550232067107</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11070082529898485</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.039536738469894285</data>
+  <data key="d14">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-陳耀宗-5cb5b0b06f">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.028859581947421234</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.04493788209822824</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d12">6.741320046829477</data>
+  <data key="d13">0.08110098995516613</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">7.160460751004429</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14833889995629446</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-梁婉麗-9640195164">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.06077715313811514</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-謝文良-ec8ba7b6cf">
+  <data key="d12">5.456347488137134</data>
+  <data key="d13">0.06695832220981249</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">4.2744723060913</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18327278498558613</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.05075131254048364</data>
+  <data key="d14">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="nycu-info-mag-fin-林智勇-9f2fd3a531" target="nycu-info-mag-fin-林瑞嘉-9b5e92d792">
+  <data key="d12">6.828610207528323</data>
+  <data key="d13">0.10524948385621596</data>
+  <data key="d14">6.828610207528323</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1464426830070828</data>
+</edge>
+<edge source="nycu-info-mag-fin-林瑞嘉-9b5e92d792" target="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d12">1.7071826654491002</data>
+  <data key="d13">0.030821640706867024</data>
+  <data key="d18">0</data>
+  <data key="d15">4.26795666362275</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5857603994221291</data>
+</edge>
+<edge source="nycu-info-mag-fin-林瑞嘉-9b5e92d792" target="nycu-info-mag-fin-梁婉麗-9640195164">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.09120841424035904</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nycu-info-mag-fin-林瑞嘉-9b5e92d792" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.07616261207423043</data>
+  <data key="d14">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="nycu-info-mag-fin-林瑞嘉-9b5e92d792" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">1.7071826654491002</data>
+  <data key="d13">0.03084087378151183</data>
+  <data key="d18">0</data>
+  <data key="d15">4.26795666362275</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5857603994221291</data>
+</edge>
+<edge source="nycu-info-mag-fin-林瑞嘉-9b5e92d792" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.059332874836702014</data>
+  <data key="d14">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="nycu-info-mag-fin-林瑞嘉-9b5e92d792" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.06743838356800547</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nycu-info-mag-fin-梁婉麗-9640195164" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">1.4096620092826844</data>
+  <data key="d13">0.0332623423103002</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5241550232067107</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7093899058178184</data>
+</edge>
+<edge source="nycu-info-mag-fin-梁婉麗-9640195164" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.08808425866901946</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nycu-info-mag-fin-梁婉麗-9640195164" target="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d12">1.4096620092826844</data>
+  <data key="d13">0.033241599152468576</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5241550232067107</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7093899058178184</data>
+</edge>
+<edge source="nycu-info-mag-fin-游家牧-160b56ff8f" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.07231627401083857</data>
+  <data key="d14">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="nycu-info-mag-fin-游家牧-160b56ff8f" target="nycu-info-mag-fin-蔡詩妤-e1db4b4746">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.058368433991180996</data>
+  <data key="d14">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="nycu-info-mag-fin-游家牧-160b56ff8f" target="nycu-info-mag-fin-陳耀宗-5cb5b0b06f">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07132498676269242</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="nycu-info-mag-fin-游家牧-160b56ff8f" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.04493954950577693</data>
+  <data key="d14">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="nycu-info-mag-fin-蔡詩妤-e1db4b4746" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.04390678797293684</data>
+  <data key="d14">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="nycu-info-mag-fin-蔡詩妤-e1db4b4746" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.03420465612104859</data>
+  <data key="d14">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="nycu-info-mag-fin-謝文良-ec8ba7b6cf" target="nycu-info-mag-fin-陳耀宗-5cb5b0b06f">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.03448255819712554</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="nycu-info-mag-fin-謝文良-ec8ba7b6cf" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.06895591080843302</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-謝文良-ec8ba7b6cf" target="nycu-info-mag-fin-郭家豪-0efd529562">
+  <data key="d12">4.71516551212669</data>
+  <data key="d13">0.06777781960997535</data>
+  <data key="d18">0</data>
+  <data key="d15">11.787913780316725</data>
+  <data key="d16">0</data>
+  <data key="d17">0.21208163264431582</data>
+</edge>
+<edge source="nycu-info-mag-fin-謝文良-ec8ba7b6cf" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.0617143198806974</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-謝文良-ec8ba7b6cf" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06051744265753341</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nycu-info-mag-fin-謝文良-ec8ba7b6cf" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">7.62369431212832</data>
+  <data key="d13">0.10965464825787427</data>
+  <data key="d14">7.62369431212832</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1311700022401381</data>
+</edge>
+<edge source="nycu-info-mag-fin-郭家豪-0efd529562" target="nycu-info-mag-fin-陳耀宗-5cb5b0b06f">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.08202495824292035</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="nycu-info-mag-fin-郭家豪-0efd529562" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">4.998575416346</data>
+  <data key="d13">0.07915401660978452</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">4.011626985032312</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20005699958629578</data>
+</edge>
+<edge source="nycu-info-mag-fin-郭家豪-0efd529562" target="nycu-info-mag-fin-鄧惠文-9b670d9d4e">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.06050128717849631</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-郭家豪-0efd529562" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">7.119226646536527</data>
+  <data key="d13">0.1003859789691075</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">7.513441474225424</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14046469506438536</data>
+</edge>
+<edge source="nycu-info-mag-fin-郭家豪-0efd529562" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">4.5602146395653085</data>
+  <data key="d13">0.07951049260551707</data>
+  <data key="d18">0</data>
+  <data key="d15">11.40053659891327</data>
+  <data key="d16">0</data>
+  <data key="d17">0.21928792371389838</data>
+</edge>
+<edge source="nycu-info-mag-fin-鄧惠文-9b670d9d4e" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.07485735112599672</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-鄧惠文-9b670d9d4e" target="nycu-info-mag-fin-鍾惠民-ae10d194fa">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.06053904070964273</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nycu-info-mag-fin-鄧惠文-9b670d9d4e" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">5.76596156314425</data>
+  <data key="d13">0.07761813454530118</data>
+  <data key="d14">5.76596156314425</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.17343161050395342</data>
+</edge>
+<edge source="nycu-info-mag-fin-鍾惠民-ae10d194fa" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">6.884947139656129</data>
+  <data key="d13">0.10909334028753065</data>
+  <data key="d14">6.884947139656129</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14524439762800348</data>
+</edge>
+<edge source="nycu-info-mag-fin-鍾惠民-ae10d194fa" target="nycu-info-mag-fin-陳耀宗-5cb5b0b06f">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.033825877016937456</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="nycu-info-mag-fin-鍾惠民-ae10d194fa" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">5.28679775571039</data>
+  <data key="d13">0.09223649197306885</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">3.5241550232067107</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1891504169834901</data>
+</edge>
+<edge source="nycu-info-mag-fin-陳耀宗-5cb5b0b06f" target="nycu-info-mag-fin-黃宜侯-dbc03aa22c">
+  <data key="d12">1.604650794012925</data>
+  <data key="d13">0.04190787973793202</data>
+  <data key="d18">0</data>
+  <data key="d15">4.011626985032312</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6231885490170674</data>
+</edge>
+<edge source="nycu-info-mag-fin-陳耀宗-5cb5b0b06f" target="nycu-info-mag-fin-黃思皓-2ee9d5c50c">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.041797363373237806</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="nycu-info-mag-fin-黃宜侯-dbc03aa22c" target="nycu-info-mag-fin-黃星華-06752d69a5">
+  <data key="d12">1.5996983317115419</data>
+  <data key="d13">0.03134257266804774</data>
+  <data key="d18">0</data>
+  <data key="d15">3.999245829278854</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6251178613970827</data>
+</edge>
+</graph></graphml>

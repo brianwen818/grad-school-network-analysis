@@ -1,0 +1,16 @@
+﻿parent_l1,n_faculty,coverage_pct,flag
+Financial Engineering & Risk,13,72.2,too_broad
+Asset Pricing & Financial Markets,8,44.4,ok
+Corporate Finance & Governance,7,38.9,ok
+AI & Machine Learning,5,27.8,ok
+Economics & Policy,3,16.7,ok
+Statistics & Statistical Methods,3,16.7,ok
+"Vision, Multimedia & Human-Centered Computing",2,11.1,ok
+Applied Mathematics & Operations Research,1,5.6,ok
+Biomedical & Health Informatics,1,5.6,ok
+"Data, Databases & Knowledge Discovery",1,5.6,ok
+Information Systems & Management,1,5.6,ok
+Networks & Communications,1,5.6,ok
+"Robotics, Control & Smart Manufacturing",1,5.6,ok
+"Security, Privacy & Cryptography",1,5.6,ok
+Theory & Algorithms,1,5.6,ok

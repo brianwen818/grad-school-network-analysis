@@ -1,0 +1,27 @@
+﻿node,professor_name,name_en,school_ids,dominant_l1,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+ntu-im-何承遠-cf78426b61,何承遠,Cheng-Yuan Ho,ntu-im,AI & Machine Learning,0,1,0,1
+ntu-im-劉若慧-6dfb552dd3,劉若慧,Olivia Liu Sheng,ntu-im,"Data, Databases & Knowledge Discovery",1,0,2,0
+ntu-im-吳玲玲-b1cc11729b,吳玲玲,Ling-Ling Wu,ntu-im,Information Systems & Management,0,3,3,3
+ntu-im-孔令傑-e559d7c758,孔令傑,Ling-Chieh Kung,ntu-im,Applied Mathematics & Operations Research,2,3,3,3
+ntu-im-孫雅麗-3feed1b304,孫雅麗,Yeali Sun,ntu-im,AI & Machine Learning,2,2,1,2
+ntu-im-彭志宏-82251610cf,彭志宏,Chih-Hung PENG,ntu-im,Information Systems & Management,1,0,2,0
+ntu-im-曹承礎-c4150b76bf,曹承礎,Seng-Cho Chou,ntu-im,Information Systems & Management,0,1,0,1
+ntu-im-李家岩-6ba583b1b6,李家岩,Chia-Yen Lee,ntu-im,Applied Mathematics & Operations Research,2,3,3,3
+ntu-im-李根逸-da82e4a379,李根逸,Ken-Yi Lee,ntu-im,"Vision, Multimedia & Human-Centered Computing",1,1,4,1
+ntu-im-李瑞庭-aa45881e08,李瑞庭,J. T. Lee,ntu-im,AI & Machine Learning,2,2,1,2
+ntu-im-林永松-dc984527a6,林永松,Yeong-Sung Lin,ntu-im,Networks & Communications,2,2,1,2
+ntu-im-楊立偉-002d946f70,楊立偉,Willie Li-wei Yang,ntu-im,Information Systems & Management,0,3,3,3
+ntu-im-王春笙-478b704144,王春笙,Chun-Sheng Wang,ntu-im,"Data, Databases & Knowledge Discovery",1,0,2,0
+ntu-im-畢南怡-4db729714a,畢南怡,Nanyi Bi,ntu-im,"Vision, Multimedia & Human-Centered Computing",0,1,0,1
+ntu-im-盧信銘-ac737946aa,盧信銘,Hsin-Min Lu,ntu-im,AI & Machine Learning,1,0,4,0
+ntu-im-莊裕澤-6aba42587c,莊裕澤,Yuh-Jzer Joung,ntu-im,Information Systems & Management,0,1,0,1
+ntu-im-蔡益坤-b2ae2b2f7c,蔡益坤,Yih-Kuen Tsay,ntu-im,"Security, Privacy & Cryptography",2,2,1,2
+ntu-im-蕭邱漢-887e21f502,蕭邱漢,Chiu-Han Hsiao,ntu-im,Networks & Communications,2,2,1,2
+ntu-im-陳建錦-02f4784706,陳建錦,Chien Chin Chen,ntu-im,"Data, Databases & Knowledge Discovery",1,0,2,0
+ntu-im-陳文賢-0756ac0f09,陳文賢,Wen-Hsien Chen,ntu-im,Information Systems & Management,0,3,3,3
+ntu-im-陳炘鈞-a14cb18eab,陳炘鈞,Hsin-Chun Chen,ntu-im,"Data, Databases & Knowledge Discovery",1,0,2,0
+ntu-im-陳炳宇-4670eb5fcd,陳炳宇,Bing-Yu Chen,ntu-im,"Vision, Multimedia & Human-Centered Computing",0,1,0,1
+ntu-im-魏志平-1e1877736d,魏志平,Chih-Ping Wei,ntu-im,"Data, Databases & Knowledge Discovery",1,0,2,0
+ntu-im-魏資文-17ab818dbe,魏資文,Tzu-Wen Wei,ntu-im,Information Systems & Management,0,1,0,1
+ntu-im-黃意婷-dd1ec1a025,黃意婷,Yi-Ting Huang,ntu-im,AI & Machine Learning,1,0,4,0
+ntu-im-黃明蕙-69aee8c193,黃明蕙,Ming-Hui Huang,ntu-im,AI & Machine Learning,2,2,1,2

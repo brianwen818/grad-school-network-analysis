@@ -1,0 +1,27 @@
+{
+  "school_id": "ncku-cs-ie",
+  "analyzed_at": "2026-09-09T09:27:22+08:00",
+  "faculty_count": 62,
+  "role_counts": {
+    "adjunct": 4,
+    "chair": 4,
+    "faculty": 46,
+    "full_time": 7,
+    "joint": 2
+  },
+  "merge_status_counts": {
+    "matched": 62
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 1.0,
+    "education_zh": 0.8065,
+    "education_en": 1.0,
+    "research_interests_zh": 0.9355,
+    "research_interests_en": 0.8871
+  },
+  "pages_visited": 142,
+  "warnings": [],
+  "errors": []
+}

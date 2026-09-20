@@ -1,0 +1,6972 @@
+[
+  {
+    "faculty_id": "nycu-cs-lopangyunting-3b16a3f0bf",
+    "school_id": "nycu-cs",
+    "name_zh": "丁羅邦芸",
+    "name_en": "Lo Pang-Yun Ting",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "副教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立成功大學資訊工程學系博士"
+    ],
+    "education_en": [
+      "Ph.D. in Computer Science and Information Engineering, National Cheng Kung University"
+    ],
+    "research_interests_zh": [
+      "資料探勘、強化學習、知識圖譜嵌入/推理、人工智慧醫療、時間序列分析"
+    ],
+    "research_interests_en": [
+      "Data Mining, Reinforcement Learning, Knowledge Graph Embedding / Reasoning, Artificial Intelligence in Healthcare, Time Series Analysis"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/lpyting"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/lpyting"
+    ],
+    "personal_urls": [
+      "https://lpyting.github.io"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-syho-4d3a7858ca",
+    "school_id": "nycu-cs",
+    "name_zh": "何信瑩",
+    "name_en": "S.-Y. Ho",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "交通大學資訊工程博士"
+    ],
+    "education_en": [
+      "交通大學資訊工程博士"
+    ],
+    "research_interests_zh": [
+      "人工智慧, 生醫資訊, 智慧醫療"
+    ],
+    "research_interests_en": [
+      "人工智慧, 生醫資訊, 智慧醫療"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_241"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_241"
+    ],
+    "personal_urls": [
+      "https://bioinfoic.lab.nycu.edu.tw/?page_id=9"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shiawshianyu-9f00080370",
+    "school_id": "nycu-cs",
+    "name_zh": "余孝先",
+    "name_en": "Shiaw-Shian Yu",
+    "role_groups": [
+      "visiting"
+    ],
+    "titles_zh": [
+      "客座教授"
+    ],
+    "titles_en": [
+      "Visiting Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Information Engineering, National Chiao Tung University, Taiwan"
+    ],
+    "research_interests_zh": [
+      "人工智慧策略與產業應用、巨量資料與數位轉型、科技產業創新與營運管理"
+    ],
+    "research_interests_en": [
+      "Artificial Intelligence Strategy and Industrial Applications、Big Data and Digital Transformation、Innovation and Operations Management in the Technology Industry"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_361"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_361"
+    ],
+    "personal_urls": [
+      "https://emba.site.nthu.edu.tw/p/404-1371-293172.php"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-philipsyu-32aa417b88",
+    "school_id": "nycu-cs",
+    "name_zh": "俞士綸",
+    "name_en": "Philip S. Yu",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "終身榮譽講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Honorary Chair Professor"
+    ],
+    "education_zh": [
+      "Ph.D.,Electrical Engineering,Stanford University"
+    ],
+    "education_en": [
+      "Ph.D.,Electrical Engineering,Stanford University"
+    ],
+    "research_interests_zh": [
+      "data mining (especially on graph/network mining), social network, privacy preserving data publishing, data stream, database systems"
+    ],
+    "research_interests_en": [
+      "data mining (especially on graph/network mining), social network, privacy preserving data publishing, data stream, database systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_296"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_296"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-hsinchiafu-9c15fb612b",
+    "school_id": "nycu-cs",
+    "name_zh": "傅心家",
+    "name_en": "Hsin-Chia Fu",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國新墨西哥州立大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, University of New Mexico,Albuquerque, U.S.A. (NUM)"
+    ],
+    "research_interests_zh": [
+      "手寫辨識、人工智慧、神經網路、網路多媒體資訊系統"
+    ],
+    "research_interests_en": [
+      "Handwritten Character Recognition, Artificial Intelligence, Neural Network, Network Multimedia Information System"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/hcfu"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/hcfu"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yulunliu-3663ddf7cc",
+    "school_id": "nycu-cs",
+    "name_zh": "劉育綸",
+    "name_en": "Yu-Lun Liu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "台灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D. degrees (Computer Science and Information Engineering ) National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "電腦視覺、影像處理、機器學習、深度學習、計算攝影"
+    ],
+    "research_interests_en": [
+      "Computer Vision, Image Processing, Machine Learning, Deep Learning, Computational Photography"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/yulunliu"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/yulunliu"
+    ],
+    "personal_urls": [
+      "https://yulunalexliu.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-sachiosemmoto-ef8589eda2",
+    "school_id": "nycu-cs",
+    "name_zh": "千本倖生",
+    "name_en": "Sachio Semmoto",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "榮譽講座教授",
+      "講座教授"
+    ],
+    "titles_en": [
+      "Honorary Chair Professor",
+      "Chair Professor"
+    ],
+    "education_zh": [
+      "Ph.D., University of Florida"
+    ],
+    "education_en": [
+      "Ph.D., University of Florida"
+    ],
+    "research_interests_zh": [
+      "telecommunications, entrepreneurship"
+    ],
+    "research_interests_en": [
+      "telecommunications, entrepreneurship"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_292"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_292"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-lunweiku-1d74e592a7",
+    "school_id": "nycu-cs",
+    "name_zh": "古倫維",
+    "name_en": "Lun-Wei Ku",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D. degrees (Computer Science and Information Engineering ) National Taiwan University, 2003"
+    ],
+    "research_interests_zh": [
+      "自然語言處理、資訊檢索、計算語言學、情感分析"
+    ],
+    "research_interests_en": [
+      "Natural Language Processing, Computational Linguistics, Sentiment Analysis, Information Extraction and Retrieval"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_141"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_141"
+    ],
+    "personal_urls": [
+      "https://www.iis.sinica.edu.tw/pages/lwku/contact_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chunfengwu-749fae2324",
+    "school_id": "nycu-cs",
+    "name_zh": "吳俊峯",
+    "name_en": "Chun-Feng Wu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "助理教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "台灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D. degrees (Computer Science and Information Engineering ) National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "作業系統、計算機架構、記憶體與儲存系統、記憶體/儲存內運算、AI加速器"
+    ],
+    "research_interests_en": [
+      "Operating Systems、Computer Architecture、Memory and Storage Systems、Computation in Memory/Storage、AI Accelerators"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cfwu417"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cfwu417"
+    ],
+    "personal_urls": [
+      "https://cfwu417.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-kaichiangwu-34f06ed7b9",
+    "school_id": "nycu-cs",
+    "name_zh": "吳凱強",
+    "name_en": "Kai-Chiang Wu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "資訊科學與工程研究所所長/教授",
+      "所長"
+    ],
+    "titles_en": [
+      "CS Director/Professor",
+      "Chairman/Professor"
+    ],
+    "education_zh": [
+      "美國卡內基美隆大學電機與電腦工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical and Computer Engineering, Carnegie Mellon University"
+    ],
+    "research_interests_zh": [
+      "深度學習模型之效能優化技術、邊緣人工智慧、晶片設計自動化、人工智慧於設計自動化之應用、 可信、可靠、可測試系統設計"
+    ],
+    "research_interests_en": [
+      "Efficient Deep Learning, Edge Artificial Intelligence (AI), Electronic Design Automation (EDA), AI for EDA, Design for Security, Reliability and Testing"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/kcw",
+      "https://www.cs.nycu.edu.tw/members/detail/kcw?locale=zh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/kcw",
+      "https://www.cs.nycu.edu.tw/members/detail/kcw?locale=zh"
+    ],
+    "personal_urls": [
+      "http://eda.cs.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-ichenwu-a745312e56",
+    "school_id": "nycu-cs",
+    "name_zh": "吳毅成",
+    "name_en": "I-Chen Wu",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "資訊學院副院長/特聘教授/教授",
+      "特聘教授"
+    ],
+    "titles_en": [
+      "Associate Dean/Distinguished Professor/Professor",
+      "Distinguished Professor"
+    ],
+    "education_zh": [
+      "美國卡內基美隆大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, Carnegie Mellon University, Pittsburgh, U.S.A. (CMU)"
+    ],
+    "research_interests_zh": [
+      "人工智慧、機器學習、電腦遊戲"
+    ],
+    "research_interests_en": [
+      "Artificial Intelligence, Machine Learning, Computer Games."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/icwu"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/icwu"
+    ],
+    "personal_urls": [
+      "https://icwu307.github.io"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yusungwu-377df1bd69",
+    "school_id": "nycu-cs",
+    "name_zh": "吳育松",
+    "name_en": "Yu-Sung Wu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "資訊安全研究所所長/教授",
+      "數據科學與工程研究所所長/教授"
+    ],
+    "titles_en": [
+      "CCS Director/Professor",
+      "DS Director/Professor"
+    ],
+    "education_zh": [
+      "美國普渡大學電機與電腦工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical and Computer Engineering, Purdue University, USA, 2009"
+    ],
+    "research_interests_zh": [
+      "系統安全、容錯計算、作業系統"
+    ],
+    "research_interests_en": [
+      "Security, Dependability, Systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ysw"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ysw"
+    ],
+    "personal_urls": [
+      "https://sense.cs.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chintienwu-069642d994",
+    "school_id": "nycu-cs",
+    "name_zh": "吳金典",
+    "name_en": "Chin-Tien Wu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "助理教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "Ph.D. Applied Mathematics and Scientific Computation,University of Maryland, College Park, USA."
+    ],
+    "education_en": [
+      "Ph.D. Applied Mathematics and Scientific Computation,University of Maryland, College Park, USA."
+    ],
+    "research_interests_zh": [
+      "Scientific Computation, Fluid Mechanics"
+    ],
+    "research_interests_en": [
+      "Scientific Computation, Fluid Mechanics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ctw"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ctw"
+    ],
+    "personal_urls": [
+      "http://jupiter.math.nycu.edu.tw/~ctw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jeanjyhjiunshann-a5cae0db34",
+    "school_id": "nycu-cs",
+    "name_zh": "單智君",
+    "name_en": "Jean Jyh-Jiun Shann",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊工程博士"
+    ],
+    "education_en": [
+      "PH.D., Computer Science, National Chiao-Tung University"
+    ],
+    "research_interests_zh": [
+      "計算機架構、平行處理、搜尋引擎"
+    ],
+    "research_interests_en": [
+      "Computer Architecture, Parallel Processing, Processor Design, Embedded System, Just-in-time Compiler, Information Retrieval System"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jjshann"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jjshann"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-lihsingyen-ede27140ba",
+    "school_id": "nycu-cs",
+    "name_zh": "嚴力行",
+    "name_en": "Li-Hsing Yen",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "資訊學院副院長/教授",
+      "資訊學院副院長/特聘教授/教授"
+    ],
+    "titles_en": [
+      "Associate Dean/Professor",
+      "Associate Dean/Distinguished Professor/Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Information Engineering, National Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "無線網路、分散式計算、賽局理論"
+    ],
+    "research_interests_en": [
+      "Wireless networking, Distributed computing, Game theory"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/lhyen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/lhyen"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~lhyen/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chuentsaisun-1084a4d050",
+    "school_id": "nycu-cs",
+    "name_zh": "孫春在",
+    "name_en": "Chuen-Tsai Sun",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國加州大學柏克萊分校資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, University of California-Berkeley,San Francisco, U.S."
+    ],
+    "research_interests_zh": [
+      "模糊類神經網路、演化式計算、數位學習、數位遊戲、電腦模擬"
+    ],
+    "research_interests_en": [
+      "Fuzzy Neural Networks, Evolutionary Computaion, e-Learning, digital games, computer simulation"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ctsun"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ctsun"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-markliao-3ab99628be",
+    "school_id": "nycu-cs",
+    "name_zh": "廖弘源",
+    "name_en": "Mark Liao",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "講座教授",
+      "榮譽講座"
+    ],
+    "titles_en": [
+      "Chair Professor",
+      "Honorary Chair Professors"
+    ],
+    "education_zh": [
+      "美國西北大學電機研究所博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, Northwestern University, United States"
+    ],
+    "research_interests_zh": [
+      "機器學習、人工智慧、多媒體資料處理"
+    ],
+    "research_interests_en": [
+      "Machine Learning, Artificial Intelligence, and Multimedia Information Processing"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_346"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_346"
+    ],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/liao/contact_zh.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-tingjungchang-8694406b3f",
+    "school_id": "nycu-cs",
+    "name_zh": "張庭榕",
+    "name_en": "Ting-Jung Chang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "普林斯頓大學電機與電腦工程博士"
+    ],
+    "education_en": [
+      "Ph.D. in Electrical and Computer Engineering, Princeton University"
+    ],
+    "research_interests_zh": [
+      "計算機結構, 數位系統設計"
+    ],
+    "research_interests_en": [
+      "Computer Architecture, Digital VLSI Design"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_280"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_280"
+    ],
+    "personal_urls": [
+      "https://tingjung.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-mingfengchang-1f41c91886",
+    "school_id": "nycu-cs",
+    "name_zh": "張明峰",
+    "name_en": "Ming-Feng Chang",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "教授",
+      "終身講座教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "美國伊利諾大學電腦科學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, University of Illinois at Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "網路通信、行動計算、VLSI設計"
+    ],
+    "research_interests_en": [
+      "Internet Communication Service, Personal Communication System, VLSI System Design."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/mfchang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/mfchang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shumingchang-8beef72454",
+    "school_id": "nycu-cs",
+    "name_zh": "張書銘",
+    "name_en": "Shu-Ming Chang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "Ph. D. in Mathematics, National Tsing Hua University"
+    ],
+    "education_en": [
+      "Ph. D. in Mathematics, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "Scientific Computations, Dynamical Systems"
+    ],
+    "research_interests_en": [
+      "Scientific Computations, Dynamical Systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/shuming"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/shuming"
+    ],
+    "personal_urls": [
+      "https://jupiter.math.nycu.edu.tw/~smchang/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yungjuchang-a04a034080",
+    "school_id": "nycu-cs",
+    "name_zh": "張永儒",
+    "name_en": "Yung-Ju Chang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "Ph.D. in Information Science, University of Michigan"
+    ],
+    "education_en": [
+      "Ph.D., Information Science, University of Michigan"
+    ],
+    "research_interests_zh": [
+      "人機互動, 情境感知運算, 資訊行為"
+    ],
+    "research_interests_en": [
+      "Human Computer Interaction, Context-Aware Computing, Information Behavior"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/armuro"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/armuro"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~armuro/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-rueichuanchang-4b1a14c4a7",
+    "school_id": "nycu-cs",
+    "name_zh": "張瑞川",
+    "name_en": "Ruei-Chuan Chang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, National Chiao Tung University (NCTU"
+    ],
+    "research_interests_zh": [
+      "作業系統、計算機圖學"
+    ],
+    "research_interests_en": [
+      "Operating System, Computer Graphics, Wireless Communication"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/rcchang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/rcchang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-lipinchang-68fafb736a",
+    "school_id": "nycu-cs",
+    "name_zh": "張立平",
+    "name_en": "Li-Pin Chang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "系主任/教授"
+    ],
+    "titles_en": [
+      "Chairman/Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D. degrees (Computer Science and Information Engineering ) National Taiwan University, 2003"
+    ],
+    "research_interests_zh": [
+      "嵌入式系統、AIoT、Android、儲存與記憶體系統、作業系統"
+    ],
+    "research_interests_en": [
+      "Embedded systems, AIoT, Android, Storage and Memory Systems, Operating Systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/lpchang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/lpchang"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/lpchang",
+      "https://sites.google.com/site/esslabnctu/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wenhsiaopeng-09b23b8ea5",
+    "school_id": "nycu-cs",
+    "name_zh": "彭文孝",
+    "name_en": "Wen-Hsiao Peng",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "交通大學電子博士; IEEE Fellow; FHEA"
+    ],
+    "education_en": [
+      "Ph.D. in EE, NYCU; IEEE Fellow; FHEA"
+    ],
+    "research_interests_zh": [
+      "視覺基礎模型、生成式人工智慧、視覺資料編碼與處理、電腦視覺"
+    ],
+    "research_interests_en": [
+      "Vision Foundation Models, Generative AI, Visual Data Coding and Processing, Computer Vision"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wpeng"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wpeng"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/g2.nctu.edu.tw/wpeng",
+      "https://maplintro.pse.is/8acjwe"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wenchihpeng-e0f2cd052a",
+    "school_id": "nycu-cs",
+    "name_zh": "彭文志",
+    "name_en": "Wen-Chih Peng",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, National Taiwan University, Taiwan, R.O.C."
+    ],
+    "research_interests_zh": [
+      "資料探勘、深度學習、人工智慧、運動科學、金融科技"
+    ],
+    "research_interests_en": [
+      "Data Mining, Deep Learning, Artificial Intelligent, Sport Data Analysis, FinTech"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wcpeng"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wcpeng"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/wcpeng/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-zenchungshih-17e118bf3c",
+    "school_id": "nycu-cs",
+    "name_zh": "施仁忠",
+    "name_en": "Zen-Chung Shih",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立清華大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, National Tsing Hua University, Taiwan (NTHU)"
+    ],
+    "research_interests_zh": [
+      "計算機圖學、虛擬實境、科學視覺化"
+    ],
+    "research_interests_en": [
+      "Computer Graphics, Virtual reality, Scientific Visualization"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/zcshih"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/zcshih"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chihweiyi-09071093fb",
+    "school_id": "nycu-cs",
+    "name_zh": "易志偉",
+    "name_en": "Chih-Wei Yi",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "伊利諾理工學院資訊科學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, Illinois Institute of Technology"
+    ],
+    "research_interests_zh": [
+      "穿戴式技術、運動科學、智慧交通系統、深度學習、機器學習"
+    ],
+    "research_interests_en": [
+      "Wearable Technology, Sports Science, Intelligent Transportation systems, Deep Learning, Machine Learning"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/yi"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/yi"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~yi/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shiaolitsao-d45150ec07",
+    "school_id": "nycu-cs",
+    "name_zh": "曹孝櫟",
+    "name_en": "Shiao-Li Tsao",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立成功大學工程科學博士"
+    ],
+    "education_en": [
+      "Ph.D., Engineering Science, National Cheng Kung University (NCKU)"
+    ],
+    "research_interests_zh": [
+      "嵌入式軟體與系統、工業物聯網、虛實融合系統、節能計算、協作機器人系統"
+    ],
+    "research_interests_en": [
+      "Embedded Software and System, Industrial Internet of Things, IIoT, Cyber-Physical System, CPS, Energy Aware Computing, Co-robot system"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/sltsao"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/sltsao"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~sltsao/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chienchaotseng-d8137d52bf",
+    "school_id": "nycu-cs",
+    "name_zh": "曾建超",
+    "name_en": "Chien-Chao Tseng",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "特聘教授/教授",
+      "資訊學院副院長/特聘教授/教授"
+    ],
+    "titles_en": [
+      "Distinguished Professor/Professor",
+      "Associate Dean/Distinguished Professor/Professor"
+    ],
+    "education_zh": [
+      "美國南美以美大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, Department of Computer Science and Engineering, Southern Methodist University (SMU)"
+    ],
+    "research_interests_zh": [
+      "軟體定義網路/網路功能虛擬化、行動網路功能虛擬化之管理與協作、開放無線接取網路服務管理與協作、持續整合持續佈署與DevOps雲原生技術"
+    ],
+    "research_interests_en": [
+      "Software Defined Networking / Network Function Virtualization, NFV-MANO for 5G/6G Networks, O-RAN Service Management and Orchestration, CICD, DevOps and Cloud-Native Technologies"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cctseng"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cctseng"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/cctseng"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yijutseng-7702f61163",
+    "school_id": "nycu-cs",
+    "name_zh": "曾意儒",
+    "name_en": "Yi-Ju Tseng",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學生醫電子與資訊學博士"
+    ],
+    "education_en": [
+      "Ph.D., Biomedical Electronics and Bioinformatics, National Taiwan University."
+    ],
+    "research_interests_zh": [
+      "資料科學、機器學習、生醫資訊、臨床決策支援系統"
+    ],
+    "research_interests_en": [
+      "Data Science, Machine Learning, Biomedical Informatics, Clinical Decision Support System"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/yijutseng"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/yijutseng"
+    ],
+    "personal_urls": [
+      "https://yjtseng.info/",
+      "https://dhlab-tseng.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shianshyongtseng-d3bd119f88",
+    "school_id": "nycu-cs",
+    "name_zh": "曾憲雄",
+    "name_en": "Shian-Shyong Tseng",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Engineering, National Chiao Tung University, Taiwan (NC"
+    ],
+    "research_interests_zh": [
+      "平行處理、專家系統"
+    ],
+    "research_interests_en": [
+      "Parallel Processing , Expert System"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/sstseng"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/sstseng"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wengueytzeng-322bddcb23",
+    "school_id": "nycu-cs",
+    "name_zh": "曾文貴",
+    "name_en": "Wen-Guey Tzeng",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國紐約州立大學石溪分校資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, Stone Brook State University of New"
+    ],
+    "research_interests_zh": [
+      "密碼學、資訊安全、網路安全、計算理論"
+    ],
+    "research_interests_en": [
+      "Cryptography, Information Security, Network Security, Computational Complexity"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wgtzeng"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wgtzeng"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-vincentstseng-9a223c9f3f",
+    "school_id": "nycu-cs",
+    "name_zh": "曾新穆",
+    "name_en": "Vincent S. Tseng",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "終身講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊科學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, National Chiao Tung University, Taiwan"
+    ],
+    "research_interests_zh": [
+      "巨量資料探勘、人工智慧、生醫資訊、行動與社群網路"
+    ],
+    "research_interests_en": [
+      "Big Data Mining, Artificial Intelligence, Biomedical Informatics, Mobile and Social Networks"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/vtseng"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/vtseng"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~vtseng/",
+      "http://di-lab.cs.nycu.edu.tw"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yucheetseng-714071fcd3",
+    "school_id": "nycu-cs",
+    "name_zh": "曾煜棋",
+    "name_en": "Yu-Chee Tseng",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "終身講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "美國俄亥俄州立大學資訊科學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer and Information Science, Ohio State University"
+    ],
+    "research_interests_zh": [
+      "物聯網、5G行動科技、人工智慧服務"
+    ],
+    "research_interests_en": [
+      " Internet of Things: indoor localization, mobile ad hoc networks, vehicular networks, sensor networks, wearable computing  5G Mobile Technology: protocol design, radio resource allocation, edge/fog computing, WiFi & Bluetooth Technology, 3GPP, LTE  AI and Smart Services: machine learning, sensor data analytics, sensor data fusion, video analytics, self-driving applications"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/yctseng"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/yctseng"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/yctseng"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jhihweichu-d3d361607f",
+    "school_id": "nycu-cs",
+    "name_zh": "朱智瑋",
+    "name_en": "Jhih-Wei Chu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國麻省理工學院化工博士"
+    ],
+    "education_en": [
+      "美國麻省理工學院化工博士"
+    ],
+    "research_interests_zh": [
+      "生物系統模擬, 新藥發現, 蛋白質構型動態"
+    ],
+    "research_interests_en": [
+      "生物系統模擬, 新藥發現, 蛋白質構型動態"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_240"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_240"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/nctu.edu.tw/jwchulab"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chiahoanglee-c1b52dd580",
+    "school_id": "nycu-cs",
+    "name_zh": "李嘉晃",
+    "name_en": "Chia-Hoang Lee",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國馬里蘭大學計算機科學博士"
+    ],
+    "education_en": [
+      "Ph.D., University of Maryland, U.S.A."
+    ],
+    "research_interests_zh": [
+      "人工智慧、人機介面"
+    ],
+    "research_interests_en": [
+      "Artificial Intelligent, Human Computer Interface"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/chl"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/chl"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chiyuli-f64e0331c5",
+    "school_id": "nycu-cs",
+    "name_zh": "李奇育",
+    "name_en": "CHI-YU LI",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "網路工程研究所所長/教授",
+      "資訊科學與工程研究所所長/教授"
+    ],
+    "titles_en": [
+      "NE Director/Professor",
+      "CS Director/Professor"
+    ],
+    "education_zh": [
+      "美國加州大學洛杉磯分校資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D. in Computer Science, University of California, Los Angeles"
+    ],
+    "research_interests_zh": [
+      "無線網路、行動網路、網路和系統安全"
+    ],
+    "research_interests_en": [
+      "Wireless networks, Mobile networks and systems, Network and System Security"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/chiyuli"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/chiyuli"
+    ],
+    "personal_urls": [
+      "https://nems.cs.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-tzongyilee-a682aad84a",
+    "school_id": "nycu-cs",
+    "name_zh": "李宗夷",
+    "name_en": "Tzong-Yi Lee",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立交通大學生物資訊學博士"
+    ],
+    "education_en": [
+      "國立交通大學生物資訊學博士"
+    ],
+    "research_interests_zh": [
+      "生物大數據與資料探勘、深度學習與生物語言模型、腫瘤抗藥性與藥物開發、人工智慧演算法與程式設計"
+    ],
+    "research_interests_en": [
+      "Bioinformatics Big Data and Data Mining、Deep Learning and Biological Language Models、Tumor Drug Resistance and Drug Development、Artificial Intelligence Algorithms and Programming"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_261"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_261"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yihlangli-b43ed401d1",
+    "school_id": "nycu-cs",
+    "name_zh": "李毅郎",
+    "name_en": "Yih-Lang Li",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "教授/博梭智能講座",
+      "教授"
+    ],
+    "titles_en": [
+      "Professor/Pulsaris AI Chair",
+      "Professor"
+    ],
+    "education_zh": [
+      "國立清華大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Information Engineering, National Tsing-Hua University (NTHU)"
+    ],
+    "research_interests_zh": [
+      "奈米晶片設計自動化、自動駕駛與自動導航、平行處理器架構、平行計算"
+    ],
+    "research_interests_en": [
+      "Electrical Design Automation for Nanometer Designs, Navigation System for Autonomous Vehicles, Parallel Architecture and Parallel Computing"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ylli"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ylli"
+    ],
+    "personal_urls": [
+      "https://people.cs.nycu.edu.tw/~ylli/",
+      "http://eda.cs.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-suhyinlee-86023df5c6",
+    "school_id": "nycu-cs",
+    "name_zh": "李素瑛",
+    "name_en": "Suh-Yin Lee",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., (Computer Science), Institute of Electronics, National Chiao Tung Universit, Taiwan (NCTU)"
+    ],
+    "research_interests_zh": [
+      "資料庫、計算機網路、多媒體資訊系統"
+    ],
+    "research_interests_en": [
+      "Image/Spial Database, Computer Network, Multimedia Information System"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/sylee"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/sylee"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-hsijianlee-6f6d369533",
+    "school_id": "nycu-cs",
+    "name_zh": "李錫堅",
+    "name_en": "Hsi-Jian Lee",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "Ph.D., National Chiao Tung University, Taiwan, R.O"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/hjlee"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/hjlee"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-davidhungchangdu-fbf57e0d1d",
+    "school_id": "nycu-cs",
+    "name_zh": "杜宏章",
+    "name_en": "David Hung-Chang Du",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "終身榮譽講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Honorary Chair Professor"
+    ],
+    "education_zh": [
+      "Ph.D., Mathematics, University of Washington(Seattle)"
+    ],
+    "education_en": [
+      "Ph.D., Mathematics, University of Washington(Seattle)"
+    ],
+    "research_interests_zh": [
+      "Intelligent storage systems, multimedia computing, sensor networks and cyber physical systems."
+    ],
+    "research_interests_en": [
+      "Intelligent storage systems, multimedia computing, sensor networks and cyber physical systems."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/du"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/du"
+    ],
+    "personal_urls": [
+      "http://www-users.cs.umn.edu/~du/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jasonyibinglin-a81c69af89",
+    "school_id": "nycu-cs",
+    "name_zh": "林一平",
+    "name_en": "Jason Yi-Bing Lin",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "終身講座教授",
+      "退休教授"
+    ],
+    "titles_en": [
+      "Lifetime Chair Professor",
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國華盛頓大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, University of Washington"
+    ],
+    "research_interests_zh": [
+      "個人通信網路、行動計算、系統模擬"
+    ],
+    "research_interests_en": [
+      "Personal Communication Services Network, Mobile Computing, System Simulations"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/liny"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/liny"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yeongshinlin-cad7553a48",
+    "school_id": "nycu-cs",
+    "name_zh": "林勇欣",
+    "name_en": "Yeong-Shin Lin",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "交通大學生物科技所博士"
+    ],
+    "education_en": [
+      "交通大學生物科技所博士"
+    ],
+    "research_interests_zh": [
+      "分子演化,計算基因體學,計算結構生物學,譜系學"
+    ],
+    "research_interests_en": [
+      "分子演化,計算基因體學,計算結構生物學,譜系學"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_229"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_229"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-ichenlin-6ba082f1de",
+    "school_id": "nycu-cs",
+    "name_zh": "林奕成",
+    "name_en": "I-Chen Lin",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "教授",
+      "教授/博梭智能講座"
+    ],
+    "titles_en": [
+      "Professor",
+      "Professor/Pulsaris AI Chair"
+    ],
+    "education_zh": [
+      "臺灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, National Taiwan University, Taiwan (NTU"
+    ],
+    "research_interests_zh": [
+      "計算機圖學、電腦視覺、人機互動技術、虛擬/擴增實境"
+    ],
+    "research_interests_en": [
+      "Computer Graphics, Computer Vision, Human-computer Interaction Techniques, Virtual/Augmented Reality"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ichenlin"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ichenlin"
+    ],
+    "personal_urls": [
+      "https://people.cs.nycu.edu.tw/~ichenlin/",
+      "http://caig.cs.nycu.edu.tw"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-fandellin-355296aa1b",
+    "school_id": "nycu-cs",
+    "name_zh": "林寰鐸",
+    "name_en": "Fandel Lin",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國南加州大學電腦科學研究所博士"
+    ],
+    "education_en": [
+      "Ph.D. in Computer Science, University of Southern California, Los Angeles, CA, USA"
+    ],
+    "research_interests_zh": [
+      "空間人工智慧、影像推理、地理資訊科學、組合最佳化、敘事推理、機器學習、資料探勘"
+    ],
+    "research_interests_en": [
+      "Spatial AI、Image Reasoning、Geographic Information Science、Combinatorial Optimization、Narrative Reasoning、Machine Learning、Data Mining"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_373"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_373"
+    ],
+    "personal_urls": [
+      "https://fandel-lin.github.io/",
+      "https://saki-group.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-baoshuhpaullin-f45b49177f",
+    "school_id": "nycu-cs",
+    "name_zh": "林寶樹",
+    "name_en": "Bao-Shuh Paul Lin",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "終身講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "美國伊利諾大學芝加哥校區電腦科學博士"
+    ],
+    "education_en": [
+      "Ph.D. (Computer Science) University of Illinois at Chicago, Illinois, USA"
+    ],
+    "research_interests_zh": [
+      "SDN技術,5G與SDN+IoT+Big Data analytics,無線寬頻通訊,All-IP網路與服務,網路管理與維護,資料庫管理"
+    ],
+    "research_interests_en": [
+      "4G/LTE LTE-A, 5G, MAR, SDN/NFV, IoT, Big Data, Cloud, Traffic Engineering, WAN"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/bplin"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/bplin"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chunyulin-eb97e98272",
+    "school_id": "nycu-cs",
+    "name_zh": "林峻宇",
+    "name_en": "Chun-Yu Lin",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立交通大學生物資訊及系統生物研究所博士"
+    ],
+    "education_en": [
+      "國立交通大學生物資訊及系統生物研究所博士"
+    ],
+    "research_interests_zh": [
+      "網路生物學、計算腫瘤學、系統生物學及Omics資料分析、生物資訊學"
+    ],
+    "research_interests_en": [
+      "網路生物學、計算腫瘤學、系統生物學及Omics資料分析、生物資訊學"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_264"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_264"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yenyulin-5a92a30687",
+    "school_id": "nycu-cs",
+    "name_zh": "林彥宇",
+    "name_en": "Yen-Yu Lin",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "特聘教授/教授"
+    ],
+    "titles_en": [
+      "Distinguished Professor/Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學資訊工程研究所博士"
+    ],
+    "education_en": [
+      "Ph.D., Department of Computer Science and Information Engineering, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "電腦視覺、機器學習、深度學習、人工智慧"
+    ],
+    "research_interests_en": [
+      "Computer Vision, Machine Learning, Deep Learning, Artificial Intelligence"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/lin"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/lin"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/yylinweb/",
+      "http://vllab.cs.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-teshenglin-f7015f5fff",
+    "school_id": "nycu-cs",
+    "name_zh": "林得勝",
+    "name_en": "Te-Sheng Lin",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國新澤西理工學院博士"
+    ],
+    "education_en": [
+      "PhD in Applied Mathematics, New Jersey Institute of Technology, USA"
+    ],
+    "research_interests_zh": [
+      "數學建模、科學計算、流體力學"
+    ],
+    "research_interests_en": [
+      "Modeling - Thin liquid films, Scientific computation, Machine learning"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_247"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_247"
+    ],
+    "personal_urls": [
+      "https://teshenglin.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chengkuanlin-542e57dc09",
+    "school_id": "nycu-cs",
+    "name_zh": "林政寬",
+    "name_en": "Cheng-Kuan Lin",
+    "role_groups": [
+      "full_time",
+      "project"
+    ],
+    "titles_zh": [
+      "副教授級教學研究教師",
+      "助理教授"
+    ],
+    "titles_en": [
+      "Contract Associate Professor",
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊科學與工程研究所博士班"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Information Engineering, National Chiao Tung University (NCTU)"
+    ],
+    "research_interests_zh": [
+      "Wireless Networks, Parallel and Distributed Computing, Graph Theory, Artificial Intelligence"
+    ],
+    "research_interests_en": [
+      "Wireless Networks, Parallel and Distributed Computing, Graph Theory, Artificial Intelligence"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_205"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_205"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wenchiehlin-8b8d7a58a8",
+    "school_id": "nycu-cs",
+    "name_zh": "林文杰",
+    "name_en": "Wen-Chieh Lin",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國卡內基美隆大學機器人學博士"
+    ],
+    "education_en": [
+      "Ph.D., Robotics, Carnegie Mellon University"
+    ],
+    "research_interests_zh": [
+      "Computer Graphics, Human Computer Interaction, Computer Vision, Robotics"
+    ],
+    "research_interests_en": [
+      "Computer Graphics, Human Computer Interaction, Computer Vision, Robotics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wclin"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wclin"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/nycu.edu.tw/gpl"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chengchunglin-d77196b666",
+    "school_id": "nycu-cs",
+    "name_zh": "林正中",
+    "name_en": "Cheng-Chung Lin",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Professor"
+    ],
+    "education_zh": [
+      "美國西北大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical and Computer Engineering, Northwestern University"
+    ],
+    "research_interests_zh": [
+      "影像處理、虛擬實境"
+    ],
+    "research_interests_en": [
+      "Image Processing, Virtual Reality"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cclin"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cclin"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-fuchunjosephlin-7280532ef5",
+    "school_id": "nycu-cs",
+    "name_zh": "林甫俊",
+    "name_en": "Fuchun Joseph Lin",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國俄亥俄州立大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer and Information Science, Ohio State University"
+    ],
+    "research_interests_zh": [
+      "機器對機器通訊、4G與下一代核心網路、自我组織網路、服務疊合網路"
+    ],
+    "research_interests_en": [
+      "Machine-to-Machine Communications, 4G and Next Generation Core Networks, Self-Organizing Networks, Service Overlay Networks"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/fuchun_lin"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/fuchun_lin"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~fuchun_lin/lab/connected_world_lab.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yingdarlin-507b4b80a7",
+    "school_id": "nycu-cs",
+    "name_zh": "林盈達",
+    "name_en": "Ying-Dar Lin",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "終身講座教授",
+      "資訊學院院長/終身講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Chair Professor",
+      "Dean/Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "美國加州大學洛杉機分校資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, University of California, Los Angeles (UCLA)"
+    ],
+    "research_interests_zh": [
+      "資安AI、AI資安、5G/6G之AI化"
+    ],
+    "research_interests_en": [
+      "AI for Cybersecurity, Cybersecurity for AI, AI for 5G/6G"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ydlin"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ydlin"
+    ],
+    "personal_urls": [
+      "http://speed.cs.nycu.edu.tw/~ydlin/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shenghsuanlin-e373817af9",
+    "school_id": "nycu-cs",
+    "name_zh": "林聖軒",
+    "name_en": "Sheng-Hsuan Lin",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "哥倫比亞大學公共衛生學院生物統計研究所 博士後研究員"
+    ],
+    "education_en": [
+      "Institute of Biostatistics, Columbia University School of Public Health"
+    ],
+    "research_interests_zh": [
+      "因果推論 中介效應分析 流行病學 生物統計 遺傳基因數據分析 精神醫學"
+    ],
+    "research_interests_en": [
+      "Causal Inference Mediation Analysis Epidemiology Biostatistics Statistics Genomics Psychiatry"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_198"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_198"
+    ],
+    "personal_urls": [
+      "https://shenglin.web.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-borsungliang-41c59be975",
+    "school_id": "nycu-cs",
+    "name_zh": "梁伯嵩",
+    "name_en": "Bor-Sung Liang",
+    "role_groups": [
+      "visiting"
+    ],
+    "titles_zh": [
+      "客座教授"
+    ],
+    "titles_en": [
+      "Visiting Professor"
+    ],
+    "education_zh": [
+      "國立交通大學電子研究所博士"
+    ],
+    "education_en": [
+      "Ph.D.,Institute of Electronics, National Chiao Tung University, Taiwan"
+    ],
+    "research_interests_zh": [
+      "AI運算架構、數位 IC 設計、處理機架構、量子計算、科技管理與策略分析"
+    ],
+    "research_interests_en": [
+      "AI Compute Architecture, Digital IC Design,Processor Architecture, Quantum Computing, Technology Management and Strategic Analysis"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_364"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_364"
+    ],
+    "personal_urls": [
+      "https://tw.linkedin.com/in/bliang1"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-tyneliang-16f83307e0",
+    "school_id": "nycu-cs",
+    "name_zh": "梁婷",
+    "name_en": "Tyne Liang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "Ph.D., National Chiao Tung University, Taiwan, R.O.C."
+    ],
+    "research_interests_zh": [
+      "資料庫系統、自然語言處理"
+    ],
+    "research_interests_en": [
+      "Information Retrieval, Natural Language Processing, Web Mining, Inter-connection Network"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/tliang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/tliang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-pokaiyang-cf78685bcf",
+    "school_id": "nycu-cs",
+    "name_zh": "楊博凱",
+    "name_en": "Po-Kai Yang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "比利時天主教荷語魯汶大學工程技術學系博士"
+    ],
+    "education_en": [
+      "Ph.D. in Engineering Technology, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, Department of Electrical Engineering (ESAT), KU Leuven, Belgium"
+    ],
+    "research_interests_zh": [
+      "人工智慧醫療、深度學習、時間序列分析、延伸實境 (XR)、人機互動、穿戴式與多模態感測、步態分析、數位生物標記"
+    ],
+    "research_interests_en": [
+      "Artificial Intelligence in Healthcare, Deep Learning, Time Series Analysis, Extended Reality (XR), Human-Computer Interaction, Wearable and Multimodal Sensing, Gait Analysis, Digital Biomarker"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_375"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_375"
+    ],
+    "personal_urls": [
+      "https://hub-lab-1np.pages.dev/about",
+      "https://hub-lab-1np.pages.dev/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-mariacyuang-0b248f4f96",
+    "school_id": "nycu-cs",
+    "name_zh": "楊啟瑞",
+    "name_en": "Maria C. Yuang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國紐約科技大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Electrical Engineering, Polytechnic Institute of New York University (NYU), USA"
+    ],
+    "research_interests_zh": [
+      "光網數據網路中心技術、無線5G網路、邊緣計算、網路效能評估與分析"
+    ],
+    "research_interests_en": [
+      "Optical Data Center Networking, Wireless and 5G Networks, Edge Computing, Performance Modeling and Analysis"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/mcyuang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/mcyuang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wuuyang-0962a60276",
+    "school_id": "nycu-cs",
+    "name_zh": "楊武",
+    "name_en": "Wuu Yang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國威斯康新大學博士"
+    ],
+    "education_en": [
+      "PH.D., University of Wisconsin-Madison"
+    ],
+    "research_interests_zh": [
+      "嵌入式系統、編譯器設計、程式語言、系統安全"
+    ],
+    "research_interests_en": [
+      "Embedded Systems, Compiler Design, Programming Language, Systems Security"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wuuyang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wuuyang"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~wuuyang/homepage/Welcome.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jinnmoonyang-a565e89514",
+    "school_id": "nycu-cs",
+    "name_zh": "楊進木",
+    "name_en": "Jinn-Moon Yang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "台灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "台灣大學資訊工程博士"
+    ],
+    "research_interests_zh": [
+      "生物資訊,電腦輔助藥物設計,系統生物學"
+    ],
+    "research_interests_en": [
+      "生物資訊,電腦輔助藥物設計,系統生物學"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_223"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_223"
+    ],
+    "personal_urls": [
+      "http://bioxgem.life.nctu.edu.tw/bioxgem/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-hueinianhong-bfb4677fda",
+    "school_id": "nycu-cs",
+    "name_zh": "洪慧念",
+    "name_en": "HUEI-NIAN HONG",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "Ph. D, Statistics, University of Chicago, Chicago, IL."
+    ],
+    "education_en": [
+      "Ph. D, Statistics, University of Chicago, Chicago, IL."
+    ],
+    "research_interests_zh": [
+      "統計推論、科學計算"
+    ],
+    "research_interests_en": [
+      "Statistical inference,Scientific computing"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/hhung"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/hhung"
+    ],
+    "personal_urls": [
+      "https://stat.nycu.edu.tw/zh_tw/members/teacher/-%E6%B4%AA%E6%85%A7%E5%BF%B5-93363896"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-juihunghung-00f0b25000",
+    "school_id": "nycu-cs",
+    "name_zh": "洪瑞鴻",
+    "name_en": "Jui-Hung Hung",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "Ph.D. Boston University"
+    ],
+    "education_en": [
+      "Ph.D., Boston University"
+    ],
+    "research_interests_zh": [
+      "超編程與泛型程式設計、平行運算與硬體加速演算法、生物資訊次世代定序演算法、複雜系統資料分析與視覺化、影像處理與深度學習"
+    ],
+    "research_interests_en": [
+      "Metaprogramming, Parallel Computing and Hardware-Assisted Acceleration Algorithm, Bioinformatics and Next Generation Sequencing Algorithm, Data Analysis and Visualization in Complex Systems, Image Processing and Deep Learning"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jhh",
+      "https://www.cs.nycu.edu.tw/members/detail/jhh?locale=zh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jhh",
+      "https://www.cs.nycu.edu.tw/members/detail/jhh?locale=zh"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chiamuyu-baf01c6c43",
+    "school_id": "nycu-cs",
+    "name_zh": "游家牧",
+    "name_en": "Chia-Mu Yu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學電機工程研究所(計算機科學組)博士"
+    ],
+    "education_en": [
+      "Ph.D., Graduate Institute of Electrical Engineering, National Taiwan Univrsity"
+    ],
+    "research_interests_zh": [
+      "人工智慧安全、深度學習安全與隱私、資料隱私與去識別化、應用密碼學"
+    ],
+    "research_interests_en": [
+      "AI Safety、Security and Privacy in Deep Learning、Data Privacy and De-identification、Applied Cryptography"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_315"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_315"
+    ],
+    "personal_urls": [
+      "https://chiamuyu.weebly.com/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yipingyou-26eb6eb15e",
+    "school_id": "nycu-cs",
+    "name_zh": "游逸平",
+    "name_en": "Yi-Ping You",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "清華大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, National Tsing Hua University, Taiwan(NTHU)"
+    ],
+    "research_interests_zh": [
+      "編譯器設計與最佳化、系統軟體、嵌入式系統"
+    ],
+    "research_interests_en": [
+      "Optimizing Compilers Compilers / OS Supports for Low-Power Compilers for DSP Processord Supporting Toolkit and System Software on SoC / Multicore Environments Computer Architectures Operating Systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ypyou"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ypyou"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~ypyou/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-harrywaihowong-b233b535e5",
+    "school_id": "nycu-cs",
+    "name_zh": "王偉豪",
+    "name_en": "Harry Wai Ho Wong",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "香港中文大學信息工程學系博士"
+    ],
+    "education_en": [
+      "Ph.D. Information Engineering, The Chinese University of Hong Kong"
+    ],
+    "research_interests_zh": [
+      "應用密碼學(去中心化、隱私保護認證、加密/認證數據處理)、理論計算機科學(網絡編碼)"
+    ],
+    "research_interests_en": [
+      "Applied Cryptography (Decentralization,Privacy-Preserving Authentication, Processing Encrypted/Authenticated Data) and Theoretical Computer Science (Network Coding)"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/harrywong"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/harrywong"
+    ],
+    "personal_urls": [
+      "https://harrywhwong.github.io/",
+      "https://harrywhwong.github.io/lab/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shieyuanwang-c0a10157f3",
+    "school_id": "nycu-cs",
+    "name_zh": "王協源",
+    "name_en": "Shie-Yuan Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國哈佛大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Harvard University, U.S.A"
+    ],
+    "research_interests_zh": [
+      "物聯網、數位孿生、機器學習、網路安全、雲和邊緣計算、軟體定義網路和P4可編程網路、低軌道衛星網路"
+    ],
+    "research_interests_en": [
+      "Internet of Things, Digital Twin, Machine Learning, Network Security, Cloud and Edge Computing, SDN and P4 Programmable Networks, LEO Satellite Networks"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/shieyuan"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/shieyuan"
+    ],
+    "personal_urls": [
+      "https://people.cs.nycu.edu.tw/~shieyuan/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-kuochenwang-4c84cd426d",
+    "school_id": "nycu-cs",
+    "name_zh": "王國禎",
+    "name_en": "Kuo-Chen Wang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國亞利桑那大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D.,EE & CS,University of Arizona"
+    ],
+    "research_interests_zh": [
+      "雲端計算與軟體定義網路、物聯網與大數據分析、能源感知行動計算與網路、可信賴計算與網路"
+    ],
+    "research_interests_en": [
+      "Cloud Computing and Software Defined Networking, Internet of Things and Big Data Analytics, Energy-aware Mobile Computing and Networking, Dependable Computing and Networks."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/kwang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/kwang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-tsaipeiwang-5b213dba86",
+    "school_id": "nycu-cs",
+    "name_zh": "王才沛",
+    "name_en": "Tsaipei Wang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國俄勒岡大學及密蘇里大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Engineering and Computer Science, University of Missouri-Columbia"
+    ],
+    "research_interests_zh": [
+      "影像處理、圖形辨識、電腦視覺、模糊系統、類神經網路"
+    ],
+    "research_interests_en": [
+      "Image Processing, Pattern Recognition, Computer Vision, Fuzzy System, Neural Network"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wangts"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wangts"
+    ],
+    "personal_urls": [
+      "https://tsaipei.github.io/wangts_lab_website/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yushuenwang-9e79dea00b",
+    "school_id": "nycu-cs",
+    "name_zh": "王昱舜",
+    "name_en": "Yu-Shuen Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "數據科學與工程研究所所長/教授",
+      "多媒體工程所所長/教授"
+    ],
+    "titles_en": [
+      "DS Director/Professor",
+      "ME Director/Professor"
+    ],
+    "education_zh": [
+      "國立成功大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D, Computer Science and Information Engineering, National Cheng Kung University"
+    ],
+    "research_interests_zh": [
+      "計算機圖學, 互動式形變, 視覺化設計"
+    ],
+    "research_interests_en": [
+      "Computer Graphics, Visual Media Retargeting, Image Manipulation, Focus+Context Visualization and Skeletonization"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/yushuen",
+      "https://www.cs.nycu.edu.tw/members/detail/yushuen?locale=zh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/yushuen",
+      "https://www.cs.nycu.edu.tw/members/detail/yushuen?locale=zh"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-hsiuyingwang-b0710cdb64",
+    "school_id": "nycu-cs",
+    "name_zh": "王秀瑛",
+    "name_en": "Hsiu-Ying Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "Ph. D, Statistics, National Tsing Hua University"
+    ],
+    "education_en": [
+      "Ph. D, Statistics, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "工業統計、生物資訊"
+    ],
+    "research_interests_en": [
+      "Industrial statistics,Bioinformatics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/hsiuyingwang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/hsiuyingwang"
+    ],
+    "personal_urls": [
+      "https://hwang.stat.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-weichingwang-636e5be695",
+    "school_id": "nycu-cs",
+    "name_zh": "王維菁",
+    "name_en": "Wei-Ching Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "康乃爾大學統計學博士"
+    ],
+    "education_en": [
+      "Ph.D. in Statistics, Cornell University"
+    ],
+    "research_interests_zh": [
+      "倖存分析、生物統計"
+    ],
+    "research_interests_en": [
+      "Survival Analysis,Biology and Statistics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wjwangstat"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wjwangstat"
+    ],
+    "personal_urls": [
+      "https://wjwang.stat.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-fengjianwang-d39029c5b2",
+    "school_id": "nycu-cs",
+    "name_zh": "王豐堅",
+    "name_en": "Feng-Jian Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國西北大學資訊工程博士"
+    ],
+    "education_en": [
+      "PH.D., Computer Science&Information; Engineeing, National ChiaoTung University"
+    ],
+    "research_interests_zh": [
+      "軟體工程、流程程式與雲端計算、服務導向工程、網路應用軟體、物件導向程式設計"
+    ],
+    "research_interests_en": [
+      "software engineering, service-oriented architecture & workflow programming, cloud computation methodology, rich internet application, object-oriented methodology"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/fjwang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/fjwang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-denniswang-ad355464b4",
+    "school_id": "nycu-cs",
+    "name_zh": "王邦任",
+    "name_en": "Dennis Wang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國加州大學爾灣分校信息研究所博士"
+    ],
+    "education_en": [
+      "Ph.D. in Informatics,University of California, Irvine, CA, USA"
+    ],
+    "research_interests_zh": [
+      "人機互動、社群運算、社群媒體、個人資訊學、電腦中介傳播、健康資訊學"
+    ],
+    "research_interests_en": [
+      "Human-Computer Interaction (HCI), Social Computing, Social Media, Personal Informatics, Computer-Mediated Communication, Health Informatics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/denniswang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/denniswang"
+    ],
+    "personal_urls": [
+      "https://denniswang.net",
+      "https://denniswang.net/lab.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-白培霖paipeilin-60cb86298c",
+    "school_id": "nycu-cs",
+    "name_zh": "白培霖 Pai, Pei-Lin",
+    "name_en": "白培霖 Pai, Pei-Lin",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "榮譽講座教授"
+    ],
+    "titles_en": [
+      "Honorary Chair Professor"
+    ],
+    "education_zh": [
+      "美國加州柏克萊電機資訊博士"
+    ],
+    "education_en": [
+      "Ph.D., University of California, Berkeley, Department of Electrical Engineering and Computer Science"
+    ],
+    "research_interests_zh": [
+      "記憶體技術,新興記憶體, In Memory Computing/Processing, 機器人,矽光子,人工智慧在半導體界應用"
+    ],
+    "research_interests_en": [
+      "Memory Technologies, Emerging Memories, CIM/PIM, Robotics, Si Photronics, Applications in Semiconductor Industry"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_295"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_295",
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-henryhorngshinglu-4a431c90e1",
+    "school_id": "nycu-cs",
+    "name_zh": "盧鴻興",
+    "name_en": "Henry Horng-Shing Lu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "Ph. D, Statistics, Cornell University"
+    ],
+    "education_en": [
+      "Ph. D, Statistics, Cornell University"
+    ],
+    "research_interests_zh": [
+      "科學計算、影像科學、生物資訊"
+    ],
+    "research_interests_en": [
+      "Scientific computing,Image science,Bioinformatics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/henryhslu"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/henryhslu"
+    ],
+    "personal_urls": [
+      "https://misg.stat.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jentzungchien-0e6e82e914",
+    "school_id": "nycu-cs",
+    "name_zh": "簡仁宗",
+    "name_en": "Jen-Tzung Chien",
+    "role_groups": [
+      "joint"
+    ],
+    "titles_zh": [
+      "教授",
+      "合聘師資"
+    ],
+    "titles_en": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education_zh": [
+      "國立清華大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, National Tsing Hua University."
+    ],
+    "research_interests_zh": [
+      "機器學習、深度學習"
+    ],
+    "research_interests_en": [
+      "Machine Learning, Deep Learning."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jtchien"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jtchien"
+    ],
+    "personal_urls": [
+      "https://scholar.nycu.edu.tw/en/persons/jen-tzung-chien"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-weichenglo-648b7cb736",
+    "school_id": "nycu-cs",
+    "name_zh": "羅惟正",
+    "name_en": "Wei-Cheng Lo",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立清華大學生物資訊與結構生物研究所博士"
+    ],
+    "education_en": [
+      "國立清華大學生物資訊與結構生物研究所博士"
+    ],
+    "research_interests_zh": [
+      "蛋白質結構預測、計算結構生物學、 智慧型蛋白質工程、生態保育"
+    ],
+    "research_interests_en": [
+      "蛋白質結構預測、計算結構生物學、 智慧型蛋白質工程、生態保育"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_237"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_237"
+    ],
+    "personal_urls": [
+      "http://10.life.nctu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yuhjyhhu-4321b6e2c8",
+    "school_id": "nycu-cs",
+    "name_zh": "胡毓志",
+    "name_en": "Yuh-Jyh Hu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國加州大學資訊科學博士"
+    ],
+    "education_en": [
+      "Ph.D., University of California, Irvine, U.S.A."
+    ],
+    "research_interests_zh": [
+      "生物資訊、機器學習、資料探勘、人工智慧"
+    ],
+    "research_interests_en": [
+      "Bioinformatics, Machine Learning, Data Mining, Artificial Intelligence"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/yhu"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/yhu"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chunifan-25975207ac",
+    "school_id": "nycu-cs",
+    "name_zh": "范俊逸",
+    "name_en": "Chun-I FAN",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學電機工程學研究所博士"
+    ],
+    "education_en": [
+      "Ph.D., Department of Electrical Engineering, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "應用密碼、資通訊安全、人工智慧安全"
+    ],
+    "research_interests_en": [
+      "Applied Cryptology, Information and Communication Security, and AI Security"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_320"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_320"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-landavan-4c6441da0d",
+    "school_id": "nycu-cs",
+    "name_zh": "范倫達",
+    "name_en": "Lan-Da Van",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, National Taiwan University (NTU)"
+    ],
+    "research_interests_zh": [
+      "適應性/機器學習運算系統、數位訊號處理系統、智慧電梯系統、無人機暨感測器資料整合系統"
+    ],
+    "research_interests_en": [
+      "Intelligent/VLSI algorithms, architectures, chips, systems, and applications for digital signal processing and adaptive/machine leaning computation. Specifically, the designs of low-power/high-performance/ cost-effective adaptive filter, computer arithmetic, independent component analysis (ICA), multi-dimensional filter, transform, 3-D graphics system, intelligent elevator system, and UAV and wearable data fusion system."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ldvan",
+      "https://www.cs.nycu.edu.tw/members/detail/ldvan?locale=zh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ldvan",
+      "https://www.cs.nycu.edu.tw/members/detail/ldvan?locale=zh"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yutaiching-49dcd94e56",
+    "school_id": "nycu-cs",
+    "name_zh": "荊宇泰",
+    "name_en": "Yu-Tai Ching",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "Ph.D. Northwestern University, Evanston, IL, U.S.A."
+    ],
+    "education_en": [
+      "Ph.D., Northwestern University, Evanston, IL, U.S.A."
+    ],
+    "research_interests_zh": [
+      "Applying machine learning techniques to solve health related problems Medical/Biomedical Image Analysis Synchrotron X-ray Microscopy Computational Biology"
+    ],
+    "research_interests_en": [
+      "Applying machine learning techniques to solve health related problems Medical/Biomedical Image Analysis Synchrotron X-ray Microscopy Computational Biology"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ytc"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ytc"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jenhuichuang-3cb2bcd4b1",
+    "school_id": "nycu-cs",
+    "name_zh": "莊仁輝",
+    "name_en": "Jen-Hui Chuang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國伊利諾大學香檳校區電子工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "訊號與影像處理、電腦視覺、圖形識別、工業檢測"
+    ],
+    "research_interests_en": [
+      "Signal and Image Processing, Computer Vision, Pattern Recognition, Industrial Inspection"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jchuang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jchuang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-junghongchuang-dc2cbcbefa",
+    "school_id": "nycu-cs",
+    "name_zh": "莊榮宏",
+    "name_en": "Jung-Hong Chuang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國普渡大學電腦科學系博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, Purdue University West Lafayette, Indiana, U.S.A."
+    ],
+    "research_interests_zh": [
+      "計算機圖學、 虛擬/擴增實境、 資料視覺化與分析、 幾何與實體模型"
+    ],
+    "research_interests_en": [
+      "Computer Graphics, Virtual and Augmented Reality, Information Visualization and Visual Analytics, Geometric modeling"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jhchuang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jhchuang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-kuohuiyeh-60e6731211",
+    "school_id": "nycu-cs",
+    "name_zh": "葉國暉",
+    "name_en": "Kuo-Hui Yeh",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣科技大學資訊管理博士"
+    ],
+    "education_en": [
+      "National Taiwan University of Science and Technology, Information Management, PhD"
+    ],
+    "research_interests_zh": [
+      "人工智慧安全、物聯網安全、區塊鏈、身分鑑別、資料隱私、密碼學"
+    ],
+    "research_interests_en": [
+      "AI Security, IoT Security, Blockchain, Authentication, Data Privacy, Cryptology"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_298"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_298"
+    ],
+    "personal_urls": [
+      "https://khyeh.web.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-tsungtaiyeh-aed61de71c",
+    "school_id": "nycu-cs",
+    "name_zh": "葉宗泰",
+    "name_en": "Tsung-Tai Yeh",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國普渡大學電機資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical & Computer Engineering, Purdue University"
+    ],
+    "research_interests_zh": [
+      "計算機結構,圖形處理器(GPU),AI晶片系統"
+    ],
+    "research_interests_en": [
+      "Computer Architecture, GPU, AI Chip System Design"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ttyeh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ttyeh"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-ihengmeng-d93e9ca59d",
+    "school_id": "nycu-cs",
+    "name_zh": "蒙以亨",
+    "name_en": "I Heng Meng",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊科學研究所博士"
+    ],
+    "education_en": [
+      "Ph.D., Institute of Computer Science and Engineering, National Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "人工智慧、資料探勘、資料庫系統、軟體工程"
+    ],
+    "research_interests_en": [
+      "Artificial Intelligence, Data Mining, Database Systems, Software Engineering"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_317"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_317"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jongchuangtsay-8476cdaaab",
+    "school_id": "nycu-cs",
+    "name_zh": "蔡中川",
+    "name_en": "Jong-Chuang Tsay",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "Ph.D., National Chiao Tung University, Taiwan, R.O.C"
+    ],
+    "research_interests_zh": [
+      "平行計算、演算法"
+    ],
+    "research_interests_en": [
+      "Parallel Computing, Algorithms"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jctsay"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jctsay"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~jctsay/jctsay.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-menghsuntsai-28ab46dd17",
+    "school_id": "nycu-cs",
+    "name_zh": "蔡孟勳",
+    "name_en": "Meng-Hsun Tsai",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, National Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "物聯網、軟體定義網路、行動網路設計與分析、網路效能評估、網際網路電話"
+    ],
+    "research_interests_en": [
+      "Internet of Things (IoT), Software Defined Networking (SDN), Design and Analysis of Mobile Network (GSM/UMTS/LTE/LTE-A/5G), Performance Evaluation, Voice Over IP (VoIP) Network"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_253"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_253"
+    ],
+    "personal_urls": [
+      "http://imslab.org/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wenhsiangtsai-6d30bccf0e",
+    "school_id": "nycu-cs",
+    "name_zh": "蔡文祥",
+    "name_en": "Wen-Hsiang Tsai",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "終身講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "美國普渡大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, Purdue University"
+    ],
+    "research_interests_zh": [
+      "資訊安全、視覺監控、影像處理、電腦視覺、圖形辨別"
+    ],
+    "research_interests_en": [
+      "Image Processing, Computer Vision, Pattern Recognition, Neural Network, Chinese Information Processing"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/whtsai"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/whtsai"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~whtsai/Welcome.html"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wennungtsai-e203bf6296",
+    "school_id": "nycu-cs",
+    "name_zh": "蔡文能",
+    "name_en": "Wen-Nung Tsai",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國西北大學博士研究"
+    ],
+    "education_en": [
+      "Ph.D."
+    ],
+    "research_interests_zh": [
+      "網路安全、作業系統設計、計算機網路、行動計算"
+    ],
+    "research_interests_en": [
+      "Network Security, Operating System, Computer Networks, Mobile Computing"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/tsaiwn"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/tsaiwn"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wjtsai-821adecac2",
+    "school_id": "nycu-cs",
+    "name_zh": "蔡文錦",
+    "name_en": "W. J. Tsai",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Information Engineering, National Chiao Tung University (NCTU)"
+    ],
+    "research_interests_zh": [
+      "視訊編碼,影像與視訊處理,機器學習,多媒體系統,嵌入式系統。"
+    ],
+    "research_interests_en": [
+      "DTV System, Embedded System, RTOS, Video Codec, Video Streaming"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wjtsai"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wjtsai"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chunjentsai-31585fceca",
+    "school_id": "nycu-cs",
+    "name_zh": "蔡淳仁",
+    "name_en": "Chun-Jen Tsai",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國西北大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electronics and Computer Engineering, Northwestern University, Evanston, IL, U.S.A."
+    ],
+    "research_interests_zh": [
+      "分散式多媒體系統、嵌入式系統多媒體元件、行動網路多媒體傳輸系統"
+    ],
+    "research_interests_en": [
+      "Scalable Distributed Multimedia Systems, Multimedia Codecs Design for Embedded Eevices and SoC platforms, Software/hardware Co-Design for Embedded Multimedia Systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cjtsai",
+      "https://www.cs.nycu.edu.tw/members/detail/cjtsai?locale=zh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cjtsai",
+      "https://www.cs.nycu.edu.tw/members/detail/cjtsai?locale=zh"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shichuntsai-2c8ef8afc5",
+    "school_id": "nycu-cs",
+    "name_zh": "蔡錫鈞",
+    "name_en": "Shi-Chun Tsai",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國芝加哥大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science of the University of Chicago"
+    ],
+    "research_interests_zh": [
+      "計算理論、演算法、軟體式網路應用、機器學習演算法、密碼學、組合數學"
+    ],
+    "research_interests_en": [
+      "Computational Complexity, Algorithms, Software Defined Networking, Machine learning algorithms, Cryptography, Combinatorics and Coding theory"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/sctsai"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/sctsai"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chaokaichiang-014eb10d77",
+    "school_id": "nycu-cs",
+    "name_zh": "蔣兆凱",
+    "name_en": "Chao-Kai Chiang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學資訊工程學系博士"
+    ],
+    "education_en": [
+      "Ph.D. in Computer Science, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "弱監督學習、標籤噪聲學習、多臂吃角子老虎問題、線上凸優化"
+    ],
+    "research_interests_en": [
+      "Weakly Supervised Learning、Learning with Label Noise、Multi-Armed Bandits、Online Convex Optimization"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_370"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_370"
+    ],
+    "personal_urls": [
+      "https://chaokai.github.io/",
+      "https://chaokai.github.io/#recruiting"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-tzuchienhsiao-e2f1ea5656",
+    "school_id": "nycu-cs",
+    "name_zh": "蕭子健",
+    "name_en": "Tzu-Chien Hsiao",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立陽明大學醫學技術博士"
+    ],
+    "education_en": [
+      "Ph.D., National Yang-Ming University"
+    ],
+    "research_interests_zh": [
+      "生醫訊號多變數分析、虛擬醫用儀表"
+    ],
+    "research_interests_en": [
+      "Biomedical Signals Multivariate Statistics, Virtual Biomedical Instrumentation"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/labview"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/labview"
+    ],
+    "personal_urls": [
+      "https://scholar.nycu.edu.tw/zh/persons/tzu-chien-ryan-hsiao"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-hsufenghsiao-a993ebeba6",
+    "school_id": "nycu-cs",
+    "name_zh": "蕭旭峰",
+    "name_en": "Hsu-Feng Hsiao",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "副教授",
+      "副教授/Saviah科技講座"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Associate Professor/Saviah Chair"
+    ],
+    "education_zh": [
+      "美國華盛頓大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, University of Washington, Seattle, Washington, U.S.A."
+    ],
+    "research_interests_zh": [
+      "多媒體通訊、行動通訊、數位電視、影音編碼"
+    ],
+    "research_interests_en": [
+      "Multimedia Communication, Wireless Communication, Digital Television, Audio/Video Codec"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/hillhsiao"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/hillhsiao"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yuangchehhsueh-31a965b1a3",
+    "school_id": "nycu-cs",
+    "name_zh": "薛元澤",
+    "name_en": "Yuang-Cheh Hsueh",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國加州大學洛杉機分校博士"
+    ],
+    "education_en": [
+      "Ph.D., University of California, Los Angeles"
+    ],
+    "research_interests_zh": [
+      "離散數學、影像代數 Fuzzy數學"
+    ],
+    "research_interests_en": [
+      "Discrete Mathematics, Image Algebra, Fuzzy Mathematic"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ychsueh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ychsueh"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shyanmingyuan-33e899b080",
+    "school_id": "nycu-cs",
+    "name_zh": "袁賢銘",
+    "name_en": "Shyan-Ming Yuan",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國馬里蘭大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, University of Maryland, U.S.A"
+    ],
+    "research_interests_zh": [
+      "分散式系統、容錯計算 CSCW、電腦輔助教學"
+    ],
+    "research_interests_en": [
+      "Distributed System, Middleware Kernel, Application, Platform Solution, Web & Wireless Technologies and Application, Applied Education System"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/smyuan"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/smyuan"
+    ],
+    "personal_urls": [
+      "https://dcslab.web.nycu.edu.tw/about/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-fuhauhsu-7d03be9742",
+    "school_id": "nycu-cs",
+    "name_zh": "許富皓",
+    "name_en": "Fu-Hau Hsu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "紐約州立大學石溪分校電腦科學系博士"
+    ],
+    "education_en": [
+      "Ph.D., Department of Computer Science , State University of New Yourk at Stony Brook"
+    ],
+    "research_interests_zh": [
+      "系統安全、電腦及網路安全、行動裝置與無線裝置安全、車輛安全、物聯網安全,作業系統"
+    ],
+    "research_interests_en": [
+      "system security, computer and network security, mobile device and wireless device security, vehicle security, IoT security, Operating System"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_312"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_312"
+    ],
+    "personal_urls": [
+      "http://staff.csie.ncu.edu.tw/hsufh/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-terngyinhsu-68366ba264",
+    "school_id": "nycu-cs",
+    "name_zh": "許騰尹",
+    "name_en": "Terng-Yin Hsu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立交通大學電子工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electronic Engineering, National Chiao Tung University (NCTU)"
+    ],
+    "research_interests_zh": [
+      "ASIC Design and Soft PHY for wireless Applications: VLSI Architecture, SDR Platform and Radio Function Virtualization"
+    ],
+    "research_interests_en": [
+      "ASIC Design and Soft PHY for wireless Applications: VLSI Architecture, SDR Platform and Radio Function Virtualization"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/tyhsu"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/tyhsu"
+    ],
+    "personal_urls": [
+      "https://www.facebook.com/isiplab/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-liweichan-cb049f6bb6",
+    "school_id": "nycu-cs",
+    "name_zh": "詹力韋",
+    "name_en": "Liwei Chan",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學網路多媒體研究所博士"
+    ],
+    "education_en": [
+      "Ph.D., Graduate Institute of Networking and Multimedia, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "人機互動,擴增/虛擬實境互動,觸感式互動設計,機器人互動設計"
+    ],
+    "research_interests_en": [
+      "Human-Computer Interaction, Interaction Design for AR/VR, Haptic User Interface"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/liweichan"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/liweichan"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~liweichan/",
+      "https://people.cs.nycu.edu.tw/~liweichan/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-robertchsieh-bbf69924e6",
+    "school_id": "nycu-cs",
+    "name_zh": "謝志鴻",
+    "name_en": "Robert C. Hsieh",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "榮譽講座教授"
+    ],
+    "titles_en": [
+      "Honorary Chair Professor"
+    ],
+    "education_zh": [
+      "美國辛辛那堤大學電機與醫學工程博士"
+    ],
+    "education_en": [
+      "Ph. D.,University of Cincinnati"
+    ],
+    "research_interests_zh": [
+      "創新、創業、生醫科技"
+    ],
+    "research_interests_en": [
+      "Creativity,Entrepreneurship, Biotech"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_301"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_301",
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-minzhengshieh-6add7d4ed1",
+    "school_id": "nycu-cs",
+    "name_zh": "謝旻錚",
+    "name_en": "Min-Zheng Shieh",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊科學與工程博士"
+    ],
+    "education_en": [
+      "PhD, Dept. Computer Science and Engineering, National Chiao Tung University"
+    ],
+    "research_interests_zh": [
+      "計算理論、編碼理論、組合數學"
+    ],
+    "research_interests_en": [
+      "Theory of Computation, Coding Theory, Combinatorics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_101"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_101"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-pingchunhsieh-65450d0a77",
+    "school_id": "nycu-cs",
+    "name_zh": "謝秉均",
+    "name_en": "Ping-Chun Hsieh",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "副教授/博梭智能講座",
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor/Pulsaris AI Chair",
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "德克薩斯州A&M大學電機博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical and Computer Engineering, Texas A&M University, College Station, TX, USA"
+    ],
+    "research_interests_zh": [
+      "多臂機學習,強化學習,無線網路,貝氏最佳化"
+    ],
+    "research_interests_en": [
+      "Bandit Learning, Reinforcement Learning, Wireless Networks and Bayesian Optimization"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/pinghsieh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/pinghsieh"
+    ],
+    "personal_urls": [
+      "https://pinghsieh.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shiuhpyngshieh-cfcd6bedd1",
+    "school_id": "nycu-cs",
+    "name_zh": "謝續平",
+    "name_en": "Shiuhpyng Shieh",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "資訊學院院長/終身講座教授",
+      "終身講座教授"
+    ],
+    "titles_en": [
+      "Dean/Lifetime Chair Professor",
+      "Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "美國馬里蘭大學電機資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical and Computer Engineering, University of Maryland, USA"
+    ],
+    "research_interests_zh": [
+      "AI for Security, Security for AI, 企業資安、入侵偵測智能可視化、網路攻防與威脅分析"
+    ],
+    "research_interests_en": [
+      "AI for Security, Security for AI, enterprise cybersecurity assessment, big data analysis for threats, risks, user and entity behaviors"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_41"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_41"
+    ],
+    "personal_urls": [
+      "https://dsns.cs.nycu.edu.tw/ssp.php"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jimmyjmtan-32fa81395b",
+    "school_id": "nycu-cs",
+    "name_zh": "譚建民",
+    "name_en": "Jimmy J.M. Tan",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "加拿大卡爾頓大學計算機科學博士"
+    ],
+    "education_en": [
+      "Ph.D., Mathematical Sciences, Carleton University"
+    ],
+    "research_interests_zh": [
+      "計算機演算法、組合最佳化、連接網路、圖形理論"
+    ],
+    "research_interests_en": [
+      "Algorithms, Combinatorial Optimization, Interconnection Networks, Graph Theory"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jmtan"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jmtan"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-hsiluchao-8cc2ec929a",
+    "school_id": "nycu-cs",
+    "name_zh": "趙禧綠",
+    "name_en": "Hsi-Lu Chao",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "無線通訊網路、網際網路協定"
+    ],
+    "research_interests_en": [
+      "Wireless Networks, Network Protocol Design, Wireless Sensor Networks"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/hlchao"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/hlchao"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-weichenchiu-3caf4c9228",
+    "school_id": "nycu-cs",
+    "name_zh": "邱維辰",
+    "name_en": "Wei-Chen Chiu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "德國馬克斯·普朗克電腦科學研究所工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Engineering Science, Max Planck Institute for Informatics, Germany."
+    ],
+    "research_interests_zh": [
+      "電腦視覺、影像處理、機器學習、深度學習、多模態視覺數據分析、機率生成模型"
+    ],
+    "research_interests_en": [
+      "Computer Vision, Machine Learning, Deep Learning, Video Understanding, Generative Models, Nonparametric Bayesian"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/walon"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/walon"
+    ],
+    "personal_urls": [
+      "https://walonchiu.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chyangoeichung-3589223c97",
+    "school_id": "nycu-cs",
+    "name_zh": "鍾乾癸",
+    "name_en": "Chyan-Goei Chung",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "Ph.D., National Chiao Tung University, Taiwan, R.O."
+    ],
+    "research_interests_zh": [
+      "作業系統、軟體工程、通訊協定"
+    ],
+    "research_interests_en": [
+      "Operating System, Software Engineering, Protocols"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cgchung"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cgchung"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chungpingchung-e03e9cf670",
+    "school_id": "nycu-cs",
+    "name_zh": "鍾崇斌",
+    "name_en": "Chung-Ping Chung",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國德州農工大學電子工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, Texas A&M University"
+    ],
+    "research_interests_zh": [
+      "計算機架構、系統設計、平行處理"
+    ],
+    "research_interests_en": [
+      "Computer architecture, parallel processing, VLSI and SoC systems, embedded systems, compiler optimizations"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cpchung"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cpchung"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chentingwen-e320a00ead",
+    "school_id": "nycu-cs",
+    "name_zh": "陳亭妏",
+    "name_en": "Chen Ting-Wen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立陽明大學 生物醫學資訊研究所"
+    ],
+    "education_en": [
+      "國立陽明大學 生物醫學資訊研究所"
+    ],
+    "research_interests_zh": [
+      "高通量資料分析、次世代定序資料分析及微生物基因體學"
+    ],
+    "research_interests_en": [
+      "高通量資料分析、次世代定序資料分析及微生物基因體學"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_234"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_234"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/fullofbeans/",
+      "https://sites.google.com/view/fullofbeans/%E9%A6%96%E9%A0%81?authuser=0"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chienchen-e28bfad248",
+    "school_id": "nycu-cs",
+    "name_zh": "陳健",
+    "name_en": "Chien Chen",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "副教授/Saviah科技講座",
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor/Saviah Chair",
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國史蒂文斯科技學院電腦工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Engineering, Stevens Institute of Technology, Hoboken"
+    ],
+    "research_interests_zh": [
+      "高速度電腦網路、DWDM光電網路、網路服務質量與通訊協定"
+    ],
+    "research_interests_en": [
+      "High Speed Computer Networks, DWDM Optical Networks, Internet QS and Protocols"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/chienchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/chienchen"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-kuanwenchen-78bcb4ae61",
+    "school_id": "nycu-cs",
+    "name_zh": "陳冠文",
+    "name_en": "Kuan-Wen Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Department of Computer Science and Information Engineering, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "電腦視覺、圖形識別、視訊安全監控、視訊多媒體、車聯網"
+    ],
+    "research_interests_en": [
+      "Computer Vision, Pattern Recognition, Visual Surveillance, Vision-Based Multimedia, Internet of Vehicles"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/kuanwen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/kuanwen"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yitingchen-c0ac044810",
+    "school_id": "nycu-cs",
+    "name_zh": "陳奕廷",
+    "name_en": "Yi-Ting Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國普渡大學電機資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical and Computer Engineering, Purdue University"
+    ],
+    "research_interests_zh": [
+      "人本實體人工智慧、智慧駕駛系統、輔助機器人、電腦視覺、機器學習"
+    ],
+    "research_interests_en": [
+      "Human-Centered Physical AI, Intelligent Driving Systems, Assistive Robotics, Computer Vision, Machine Learning"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ychen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ychen"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/yitingchen0524/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jyhchengchen-3ea270c995",
+    "school_id": "nycu-cs",
+    "name_zh": "陳志成",
+    "name_en": "Jyh-Cheng Chen",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "終身講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "美國紐約州立大學水牛城分校資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., State University of New York at Buffalo"
+    ],
+    "research_interests_zh": [
+      "5G核心網路、6G新興技術、無線網路、行動計算"
+    ],
+    "research_interests_en": [
+      "5G Core Networks, Emerging 6G Technologies, Wireless Networks, Mobile Computing"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jcc"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jcc"
+    ],
+    "personal_urls": [
+      "https://people.cs.nycu.edu.tw/~jcc/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jhihrongchen-063b4650df",
+    "school_id": "nycu-cs",
+    "name_zh": "陳志榮",
+    "name_en": "JHIH-RONG CHEN",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "副教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "Ph. D, Statistics, University of Chicago"
+    ],
+    "education_en": [
+      "Ph. D, Statistics, University of Chicago"
+    ],
+    "research_interests_zh": [
+      "Estimation function,Statistical inference,Probability theory"
+    ],
+    "research_interests_en": [
+      "Estimation function,Statistical inference,Probability theory"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/crchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/crchen"
+    ],
+    "personal_urls": [
+      "https://stat.nycu.edu.tw/zh_tw/course/community/info6",
+      "https://stat.nycu.edu.tw/zh_tw/members/teacher/-%E9%99%B3%E5%BF%97%E6%A6%AE-12030552"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-changjiuchen-623e005323",
+    "school_id": "nycu-cs",
+    "name_zh": "陳昌居",
+    "name_en": "Chang-Jiu Chen",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國奧克拉荷馬大學博士"
+    ],
+    "education_en": [
+      "PH.D., Computer Science, University of Oklahoma"
+    ],
+    "research_interests_zh": [
+      "非同步電路設計、計算機架構、數位系統、微處理機"
+    ],
+    "research_interests_en": [
+      "Asynchronous Circuit Desing, Computer Architecture, Digitial system, Microporcessor"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cjchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cjchen"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yuchihchen-7ab9bc53da",
+    "school_id": "nycu-cs",
+    "name_zh": "陳昱芝",
+    "name_en": "Yu-Chih Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "德州大學奧斯汀分校 電機與電腦工程系 博士"
+    ],
+    "education_en": [
+      "Ph.D. in Electrical and Computer Engineering,The University of Texas at Austin"
+    ],
+    "research_interests_zh": [
+      "多模態感知與學習, 人工智慧生成媒體, 影像與視訊處理/電腦視覺, 深度學習, 互動式與沉浸式媒體"
+    ],
+    "research_interests_en": [
+      "Multimodal Perception and Learning, AI-Generated Media, Image and Video Processing / Computer Vision, Deep Learning, Interactive and Immersive Media"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/berriechen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/berriechen"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/berriechen",
+      "https://sites.google.com/view/m3-lab-research"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-rongjayechen-92010fa6b3",
+    "school_id": "nycu-cs",
+    "name_zh": "陳榮傑",
+    "name_en": "Rong-Jaye Chen",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國威州大學電資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, University of Wisconsin-Madison."
+    ],
+    "research_interests_zh": [
+      "密碼學、編碼理論、數學規劃、演算法、計算理論"
+    ],
+    "research_interests_en": [
+      "Cryptography, Coding Theory, Mathematics Programming, Algorithms, Theory of Computation"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/rjchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/rjchen"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chencheng-ff117c41c9",
+    "school_id": "nycu-cs",
+    "name_zh": "陳正",
+    "name_en": "Chen Cheng",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學碩士"
+    ],
+    "education_en": [
+      "MS. Computer Engineering, National Chiao Tung University (NCTU"
+    ],
+    "research_interests_zh": [
+      "數位系統、計算機架構、平行處理、VOD/Web伺服器設計"
+    ],
+    "research_interests_en": [
+      "Computer architectures, parallel processing systems, digital system design, VLSI/CAD design."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cchen"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yongshengchen-0447e10db7",
+    "school_id": "nycu-cs",
+    "name_zh": "陳永昇",
+    "name_en": "Yong-Sheng Chen",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Information Engineering, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "生醫訊號處理、醫學影像處理、電腦視覺"
+    ],
+    "research_interests_en": [
+      "Biomedical Signal Processing, Medical Image Processing, Computer Vision"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/yschen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/yschen"
+    ],
+    "personal_urls": [
+      "https://bsplab.web.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-tienfuchen-4c448823c1",
+    "school_id": "nycu-cs",
+    "name_zh": "陳添福",
+    "name_en": "Tien-Fu Chen",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國華盛頓大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Department of Computer Science and Engineering, University of Washington, Seattle"
+    ],
+    "research_interests_zh": [
+      "計算機結構、多核心系統、SoC設計、嵌入式系統"
+    ],
+    "research_interests_en": [
+      "Computer Architecture, Multicore System Design, SoC Design, Embedded Systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/tfchen",
+      "https://www.cs.nycu.edu.tw/members/detail/tfchen?locale=zh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/tfchen",
+      "https://www.cs.nycu.edu.tw/members/detail/tfchen?locale=zh"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-linghweichen-36cc189e4d",
+    "school_id": "nycu-cs",
+    "name_zh": "陳玲慧",
+    "name_en": "Ling-Hwei Chen",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學電腦工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Engineering, National Chiao Tung University, Taiwan"
+    ],
+    "research_interests_zh": [
+      "影像處理、圖形識別"
+    ],
+    "research_interests_en": [
+      "Image Processing, Pattern Recognition"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/lhchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/lhchen"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shuohanchen-e41f1e1a0b",
+    "school_id": "nycu-cs",
+    "name_zh": "陳碩漢",
+    "name_en": "Shuo-Han Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "助理教授"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "國立清華大學資訊工程學系博士"
+    ],
+    "education_en": [
+      "國立清華大學資訊工程學系博士"
+    ],
+    "research_interests_zh": [
+      "作業系統、記憶體/儲存系統、新興非揮發記憶體/儲存技術、嵌入式系統"
+    ],
+    "research_interests_en": [
+      "emerging non-volatile memory and storage technologies, memory and storage systems, and next-generation memory/storage architecture designs"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/shch"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/shch"
+    ],
+    "personal_urls": [
+      "https://shuohanchen.com/",
+      "https://shuohanchen.com/css-lab/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-ciouyuanchen-19348dd8be",
+    "school_id": "nycu-cs",
+    "name_zh": "陳秋媛",
+    "name_en": "CIOU-YUAN CHEN",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "Ph. D. in Computer Engineering, National Chiao Tung Univ."
+    ],
+    "education_en": [
+      "Ph. D. in Computer Engineering, National Chiao Tung Univ."
+    ],
+    "research_interests_zh": [
+      "Computer Algorithms, Graph Theory, The Application of Graph Theory to Interconnection Networks and Wireless Networks"
+    ],
+    "research_interests_en": [
+      "Computer Algorithms, Graph Theory, The Application of Graph Theory to Interconnection Networks and Wireless Networks"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cychen_am"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cychen_am"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-zenchen-ab4e753f4d",
+    "school_id": "nycu-cs",
+    "name_zh": "陳稔",
+    "name_en": "Zen Chen",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國普渡大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering, Purdue University"
+    ],
+    "research_interests_zh": [
+      "影像處理、圖形識別、虛擬實境、計算機視覺"
+    ],
+    "research_interests_en": [
+      "Image Processing, Pattern Recognition, Virtual Reality, Computer Vision"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/zchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/zchen"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yingpingchen-a268139c0e",
+    "school_id": "nycu-cs",
+    "name_zh": "陳穎平",
+    "name_en": "Ying-Ping Chen",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "教授",
+      "特聘教授/教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Distinguished Professor/Professor"
+    ],
+    "education_zh": [
+      "美國伊利諾大學香檳分校資訊科學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, University of Illinois at Urbana-Champaign , Illinois, U.S.A."
+    ],
+    "research_interests_zh": [
+      "演化計算、基因演算法、最佳化技術與應用、演算法交易"
+    ],
+    "research_interests_en": [
+      "Evolutionary Computation, Genetic Algorithms, Optimization Techniques and Applications, Algorithmic Trading."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ypchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ypchen"
+    ],
+    "personal_urls": [
+      "https://scholar.nycu.edu.tw/zh/persons/ying-ping-chen"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yawchungchen-fcbdbf6aa9",
+    "school_id": "nycu-cs",
+    "name_zh": "陳耀宗",
+    "name_en": "Yaw-Chung Chen",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國西北大學電腦工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, Northwestern University"
+    ],
+    "research_interests_zh": [
+      "Internet of Things,multimedia communications,Green Computing,peer-to-peer systems"
+    ],
+    "research_interests_en": [
+      "Internet of Things,multimedia communications,Green Computing,peer-to-peer systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/ycchen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/ycchen"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-albertchen-b778265b06",
+    "school_id": "nycu-cs",
+    "name_zh": "陳逸萍",
+    "name_en": "Albert Chen",
+    "role_groups": [
+      "visiting",
+      "chair"
+    ],
+    "titles_zh": [
+      "客座教授",
+      "副教授/博梭智能講座"
+    ],
+    "titles_en": [
+      "Visiting Professor",
+      "Visiting Scholar"
+    ],
+    "education_zh": [
+      "Ph.D., University of Wisconsin-Madison"
+    ],
+    "education_en": [
+      "Ph.D., University of Wisconsin-Madison"
+    ],
+    "research_interests_zh": [
+      "4G/LTE-A, 5G, IoT/IIoT, Cloud Computing, Intelligent Vehicle, Wireless IC and Technology Entrepreneurship"
+    ],
+    "research_interests_en": [
+      "4G/LTE-A, 5G, IoT/IIoT, Cloud Computing, Intelligent Vehicle, Wireless IC and Technology Entrepreneurship"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_147"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_147"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chihhaolu-b525adb032",
+    "school_id": "nycu-cs",
+    "name_zh": "陸志豪",
+    "name_en": "Chih-Hao Lu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立交通大學生物資訊研究所博士"
+    ],
+    "education_en": [
+      "國立交通大學生物資訊研究所博士"
+    ],
+    "research_interests_zh": [
+      "計算生物"
+    ],
+    "research_interests_en": [
+      "計算生物"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_258"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_258"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-anziyen-c5e4ec36a0",
+    "school_id": "nycu-cs",
+    "name_zh": "顏安孜",
+    "name_en": "An-Zi Yen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "副教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "台灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Information Engineering, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "自然語言處理、資訊檢索與擷取、深度學習、人工智慧"
+    ],
+    "research_interests_en": [
+      "Natural Language Processing, Information Retrieval and Extraction, Deep Learning, Artificial Intelligence"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/azyen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/azyen"
+    ],
+    "personal_urls": [
+      "https://azyen0522.github.io"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yuchunyen-801e3b9f54",
+    "school_id": "nycu-cs",
+    "name_zh": "顏羽君",
+    "name_en": "Yu-Chun Yen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "副教授"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "伊利諾大學厄巴納 計算機科學博士"
+    ],
+    "education_en": [
+      "Ph.D. in Computer Science, University of Illinois Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "人機互動, 群眾智慧, 人智協作"
+    ],
+    "research_interests_en": [
+      "Collective Intelligence, Creativity Support, Computer-supported Communication, Human-AI Collaboration"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/yyen"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/yyen"
+    ],
+    "personal_urls": [
+      "https://gracetfg2.github.io/",
+      "https://nycu-haix.github.io/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-mongjenkao-a4b0d44ba8",
+    "school_id": "nycu-cs",
+    "name_zh": "高孟駿",
+    "name_en": "Mong-Jen Kao",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Department of CSIE, National Taiwan University."
+    ],
+    "research_interests_zh": [
+      "近似演算法、組合最佳化、演算法設計與分析、幾何計算"
+    ],
+    "research_interests_en": [
+      "Approximation Algorithms, Combinatorial Optimizations, Algorithm Design and Analysis, Geometric Computing"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/mjkao"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/mjkao"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chulankao-a2f5f3a7bf",
+    "school_id": "nycu-cs",
+    "name_zh": "高竹嵐",
+    "name_en": "Chu-Lan Kao",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立中央大學統計所 博士"
+    ],
+    "education_en": [
+      "Ph.D., Statistics, National Central University, Taiwan"
+    ],
+    "research_interests_zh": [
+      "再生理論 變點估計 財務統計"
+    ],
+    "research_interests_en": [
+      "Renewal Theory Change-Point Detection Financial Statistics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_202"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_202"
+    ],
+    "personal_urls": [
+      "http://chulankao.blogspot.com/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-yulinwei-c6e4aed5d0",
+    "school_id": "nycu-cs",
+    "name_zh": "魏佑霖",
+    "name_en": "Yu-Lin Wei",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "伊利諾大學厄巴納-香檳分校電機與計算機工程系博士"
+    ],
+    "education_en": [
+      "Ph.D., Department of Electrical and Computer Engineering, University of Illinois, Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "音訊訊號處理、物聯網、生成式AI、無線可見光通訊、室內定位"
+    ],
+    "research_interests_en": [
+      "acoustic signal processing、IoT、Generative AI, wireless/ visible light communication、indoor positioning"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_367"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_367"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chunshuwei-bd7c6c6cbb",
+    "school_id": "nycu-cs",
+    "name_zh": "魏群樹",
+    "name_en": "Chun-Shu Wei",
+    "role_groups": [
+      "full_time",
+      "chair"
+    ],
+    "titles_zh": [
+      "副教授",
+      "副教授/博梭智能講座"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Associate Professor/Pulsaris AI Chair"
+    ],
+    "education_zh": [
+      "美國加州大學聖地牙哥分校生物工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Bioengineering, University of California San Diego(UCSD), U.S.A."
+    ],
+    "research_interests_zh": [
+      "腦機介面、神經資訊、生醫訊號處理、機器學習"
+    ],
+    "research_interests_en": [
+      "Brain-Computer Interfaces, Neuroinformatics, Biomedical Signal Processing, Machine Learning"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cswei"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cswei"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/wei-cecnl/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-saikeungwong-f96a50c8c1",
+    "school_id": "nycu-cs",
+    "name_zh": "黃世強",
+    "name_en": "Sai-Keung Wong",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "香港科技大學資訊科學博士"
+    ],
+    "education_en": [
+      "Ph.D., Department of Computer Science , Hong Kong University of Science and Technology"
+    ],
+    "research_interests_zh": [
+      "虛擬實境、人機互動、電腦圖學"
+    ],
+    "research_interests_en": [
+      "Virtual Reality, Human-Computer Interaction, Computer Graphics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/cswingo"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/cswingo"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-shihkunhuang-b8c345a5b6",
+    "school_id": "nycu-cs",
+    "name_zh": "黃世昆",
+    "name_en": "Shih-Kun Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立交通大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science and Information Engineering, National Chiao Tung University (NCTU)"
+    ],
+    "research_interests_zh": [
+      "網路安全、軟體工程技術"
+    ],
+    "research_interests_en": [
+      "Open Source Software Engineering, Object-Oriented Technology, Software Quality"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/skhuang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/skhuang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chunyinghuang-8274c3d2d8",
+    "school_id": "nycu-cs",
+    "name_zh": "黃俊穎",
+    "name_en": "Chun-Ying Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph. D, Electrical Engineering, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "系統安全, 多媒體網路, 應用系統研究"
+    ],
+    "research_interests_en": [
+      "System Security, Multimedia Networking, Applied System Research"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/chuang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/chuang"
+    ],
+    "personal_urls": [
+      "https://people.cs.nycu.edu.tw/~chuang/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jiunlonghuang-a091703505",
+    "school_id": "nycu-cs",
+    "name_zh": "黃俊龍",
+    "name_en": "Jiun-Long Huang",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "資訊學院副院長/教授",
+      "資訊學院院長/終身講座教授"
+    ],
+    "titles_en": [
+      "Associate Dean/Professor",
+      "Dean/Lifetime Chair Professor"
+    ],
+    "education_zh": [
+      "國立台灣大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D., Electrical Engineering Department, National Taiwan University, Taiwan, R.O.C"
+    ],
+    "research_interests_zh": [
+      "資料分析、資料探勘、區塊鏈"
+    ],
+    "research_interests_en": [
+      "Data analytics, data mining, blockchain"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/jlhuang",
+      "https://www.cs.nycu.edu.tw/members/detail/jlhuang?locale=zh"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/jlhuang",
+      "https://www.cs.nycu.edu.tw/members/detail/jlhuang?locale=zh"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-erichwang-1a33c22d77",
+    "school_id": "nycu-cs",
+    "name_zh": "黃兆祺",
+    "name_en": "Eric Hwang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "康乃爾大學分生與遺傳學博士"
+    ],
+    "education_en": [
+      "康乃爾大學分生與遺傳學博士"
+    ],
+    "research_interests_zh": [
+      "神經生物, 細胞生物, 細胞骨架, 功能性蛋白質體,神經再生"
+    ],
+    "research_interests_en": [
+      "神經生物, 細胞生物, 細胞骨架, 功能性蛋白質體,神經再生"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_232"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_232"
+    ],
+    "personal_urls": [
+      "https://hwangeric5.wixsite.com/erichwanglab"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-guanhuahuang-c739eb01e5",
+    "school_id": "nycu-cs",
+    "name_zh": "黃冠華",
+    "name_en": "GUAN-HUA HUANG",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "Ph. D, in Biostatistics, The Johns Hopkins University"
+    ],
+    "education_en": [
+      "Ph. D, in Biostatistics, The Johns Hopkins University"
+    ],
+    "research_interests_zh": [
+      "Longitudinal data analysis,Latent variable analysis,Biostatistics,Bioinformatics"
+    ],
+    "research_interests_en": [
+      "Longitudinal data analysis,Latent variable analysis,Biostatistics,Bioinformatics"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/guanhuahuang4"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/guanhuahuang4"
+    ],
+    "personal_urls": [
+      "https://ghuang.stat.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-wenpinghwang-3ec6c9d6ca",
+    "school_id": "nycu-cs",
+    "name_zh": "黃問泙",
+    "name_en": "Wen-Ping Hwang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國印第安那大學碩士"
+    ],
+    "education_en": [
+      "MS , Indiana University"
+    ],
+    "research_interests_zh": [
+      "演算法、數理邏輯"
+    ],
+    "research_interests_en": [
+      "Algorithms, Mathematical Logic"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/wphwang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/wphwang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-kuoanhwang-41f3d7be96",
+    "school_id": "nycu-cs",
+    "name_zh": "黃國安",
+    "name_en": "Kuo-An Hwang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "國立交通大學博士"
+    ],
+    "education_en": [
+      "Ph.D., National Chiao Tung University, Taiwan, R.O"
+    ],
+    "research_interests_zh": [
+      "系統軟體、VOD系統、電腦輔助排版"
+    ],
+    "research_interests_en": [
+      "System Software, VOD System, Computer-Assisted Typesetting"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/kahwang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/kahwang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-kouyuanhuang-85a556603b",
+    "school_id": "nycu-cs",
+    "name_zh": "黃國源",
+    "name_en": "Kou-Yuan Huang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國普渡大學電機工程博士"
+    ],
+    "education_en": [
+      "Ph.D.,Electrical Engineering,Purdue University"
+    ],
+    "research_interests_zh": [
+      "Deep learning, neural networks, machine learning, pattern recognition, image processing."
+    ],
+    "research_interests_en": [
+      "Deep learning, neural networks, machine learning, pattern recognition, image processing."
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/kyhuang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/kyhuang"
+    ],
+    "personal_urls": [
+      "http://people.cs.nycu.edu.tw/~kyhuang/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-tingluhuang-7bb71e262e",
+    "school_id": "nycu-cs",
+    "name_zh": "黃廷祿",
+    "name_en": "Ting-Lu Huang",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "退休教授"
+    ],
+    "titles_en": [
+      "Retired Professors"
+    ],
+    "education_zh": [
+      "美國西北大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Computer Science, Northwestern University"
+    ],
+    "research_interests_zh": [
+      "多處理機系統、分散式演算法、行動計算、程式証明"
+    ],
+    "research_interests_en": [
+      "Multiprocessor and Multi-computer Systems, Distributed algorithms, Mobile computing, Program verification"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/tlhuang"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/tlhuang"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chingchunhuang-4300ad3a0d",
+    "school_id": "nycu-cs",
+    "name_zh": "黃敬群",
+    "name_en": "Ching-Chun Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立交通大學電子工程研究所博士"
+    ],
+    "education_en": [
+      "Ph.D., EE, National Chiao Tung University, Taiwan"
+    ],
+    "research_interests_zh": [
+      "機器學習/深度學習,自駕車,醫學圖像處理,智能建築,擴增實境/虛擬實境"
+    ],
+    "research_interests_en": [
+      "Machine Learning/Deep Learning, Autonomous Vehicle, Medical Image Processing, Intelligent Building, Augmented Reality/ Virtual Reality"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/chingchun"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/chingchun"
+    ],
+    "personal_urls": [
+      "http://acm.cs.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-chunronghuang-e31844e5ff",
+    "school_id": "nycu-cs",
+    "name_zh": "黃春融",
+    "name_en": "Chun-Rong Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "多媒體工程所所長/教授",
+      "網路工程研究所所長/教授"
+    ],
+    "titles_en": [
+      "ME Director/Professor",
+      "NE Director/Professor"
+    ],
+    "education_zh": [
+      "成功大學電機工程學系"
+    ],
+    "education_en": [
+      "Ph.D., Department of Electrical Engineering, National Cheng Kung University"
+    ],
+    "research_interests_zh": [
+      "醫學影像處理、多媒體訊號處理、電腦視覺、深度學習、人工智慧"
+    ],
+    "research_interests_en": [
+      "Medical Image Processing, Multimedia Signal Processing, Computer Vision, Deep Learning, Artificial Intelligence"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_283"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_283"
+    ],
+    "personal_urls": [
+      "http://cvml.cs.nycu.edu.tw/"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-jenqnenghwang-d231fe3af3",
+    "school_id": "nycu-cs",
+    "name_zh": "黃正能",
+    "name_en": "Jenq-Neng Hwang",
+    "role_groups": [
+      "emeritus",
+      "chair"
+    ],
+    "titles_zh": [
+      "終身榮譽講座教授"
+    ],
+    "titles_en": [
+      "Lifetime Honorary Chair Professor"
+    ],
+    "education_zh": [
+      "美國南加州大學博士"
+    ],
+    "education_en": [
+      "PhD, University of Southern California."
+    ],
+    "research_interests_zh": [
+      "Multimedia Signal Processing Multimedia Networking Pattern Recognition Image/Vision Analysis"
+    ],
+    "research_interests_en": [
+      "Multimedia Signal Processing Multimedia Networking Pattern Recognition Image/Vision Analysis"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_155"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_155"
+    ],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  },
+  {
+    "faculty_id": "nycu-cs-taiyihuang-b598f32bda",
+    "school_id": "nycu-cs",
+    "name_zh": "黃泰一",
+    "name_en": "Tai-Yi Huang",
+    "role_groups": [
+      "visiting"
+    ],
+    "titles_zh": [
+      "客座教授"
+    ],
+    "titles_en": [
+      "Visiting Professor"
+    ],
+    "education_zh": [
+      "伊利諾大學厄巴納-香檳分校資訊工程學系博士"
+    ],
+    "education_en": [
+      "Ph.D. in Computer Science, University of Illinois at Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "智慧醫療系統、人工智慧、雲端平台、嵌入式系統"
+    ],
+    "research_interests_en": [
+      "Intelligent Healthcare Systems、Artificial Intelligence、Cloud Platforms、Embedded Systems"
+    ],
+    "listing_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/prof"
+    ],
+    "listing_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+    ],
+    "profile_urls_zh": [
+      "https://www.cs.nycu.edu.tw/members/detail/_366"
+    ],
+    "profile_urls_en": [
+      "https://www.cs.nycu.edu.tw/members/detail/_366"
+    ],
+    "personal_urls": [
+      "https://tw.linkedin.com/in/tai-yi-huang-8580035"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:36:07+08:00"
+  }
+]

@@ -1,0 +1,7 @@
+﻿decision,label,faculty_ids,school_ids
+same_person,李家岩 Chia-Yen Lee,ncku-cs-ie-李家岩-10568c76d0 | ntu-im-李家岩-6ba583b1b6,ncku-cs-ie | ntu-im
+same_person,連震杰 Jenn-Jier James Lien,ncku-cs-ie-連震杰-f316933353 | ncku-stats-ds-連震杰-07850768ed,ncku-cs-ie | ncku-stats-ds
+same_person,林桂傑 Kwei-Jay Lin,nthu-cs-林桂傑-3eab7348de | ntu-cs-ie-林桂傑-b717b8860b,nthu-cs | ntu-cs-ie
+same_person,俞明德 Min-Teh Yu,nthu-qf-俞明德-5bc6444834 | nycu-info-mag-fin-俞明德-560565dfd3,nthu-qf | nycu-info-mag-fin
+same_person,李琳山 Lin-Shan Lee,ntu-comm-engin-ds-network-李琳山-193d6b842c | ntu-cs-ie-lslee-906cf8b461,ntu-comm-engin-ds-network | ntu-cs-ie
+different_person,陳耀宗 Yaw-Chung Chen / Yao-Tsung Chen,nycu-cs-yawchungchen-fcbdbf6aa9 | nycu-info-mag-fin-陳耀宗-5cb5b0b06f,nycu-cs | nycu-info-mag-fin

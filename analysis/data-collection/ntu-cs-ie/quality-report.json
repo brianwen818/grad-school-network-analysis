@@ -1,0 +1,30 @@
+{
+  "school_id": "ntu-cs-ie",
+  "analyzed_at": "2026-09-09T09:31:16+08:00",
+  "faculty_count": 90,
+  "role_counts": {
+    "adjunct": 13,
+    "chair": 18,
+    "emeritus": 11,
+    "full_time": 55,
+    "joint": 9,
+    "project": 1,
+    "visiting": 7
+  },
+  "merge_status_counts": {
+    "matched": 88,
+    "zh_only": 2
+  },
+  "bilingual_match_rate": 0.9778,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 1.0,
+    "education_zh": 0.0,
+    "education_en": 0.0,
+    "research_interests_zh": 1.0,
+    "research_interests_en": 0.9778
+  },
+  "pages_visited": 176,
+  "warnings": [],
+  "errors": []
+}

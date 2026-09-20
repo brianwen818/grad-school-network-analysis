@@ -1,0 +1,3723 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="s_exp" attr.type="long"/>
+<key id="d17" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d16" for="edge" attr.name="n_shared_keywords" attr.type="long"/>
+<key id="d15" for="edge" attr.name="s_inf" attr.type="double"/>
+<key id="d14" for="edge" attr.name="s_exp" attr.type="double"/>
+<key id="d13" for="edge" attr.name="w_cos" attr.type="double"/>
+<key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="primary_role" attr.type="string"/>
+<key id="d9" for="node" attr.name="dominant_l1" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ntu-econ-joonkyohong-abba80fbe9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Joonkyo Hong</data>
+  <data key="d3">Joonkyo Hong</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Pennsylvania State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-junrokpark-d50100b56e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Junrok Park</data>
+  <data key="d3">Junrok Park</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">Applied Mathematics &amp; Operations Research</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-sungminpark-469370a4d3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Sungmin Park</data>
+  <data key="d3">Sungmin Park</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-toshiakikomatsu-2c1f940cc4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Toshiaki Komatsu</data>
+  <data key="d3">Toshiaki Komatsu</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Chicago</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-何泰寬-3f8b4902cb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">何泰寬</data>
+  <data key="d3">Tai-kuang Ho</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-劉育辰-40b649c520">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉育辰</data>
+  <data key="d3">Yu-Chen Liu</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Washington</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-吳儀玲-9ff31e9638">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳儀玲</data>
+  <data key="d3">YiLin Wu</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">5</data>
+  <data key="d7">University of Chicago</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-和田健司-cd35fc2b2a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">和田健司</data>
+  <data key="d3">Kenji Wada</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">New York University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-小松利明-e63776cdd7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">小松利明</data>
+  <data key="d3">nan</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Chicago</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-廖珮如-cff0efe03d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">廖珮如</data>
+  <data key="d3">Pei-Ju Liao</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-張勝凱-af91a80773">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張勝凱</data>
+  <data key="d3">Sheng-Kai Chang</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-朱玉琦-f9c58241bc">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">朱玉琦</data>
+  <data key="d3">Yu-Chi Chu</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-朴埻錄-9cec86c47b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">朴埻錄</data>
+  <data key="d3">nan</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">Applied Mathematics &amp; Operations Research</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-朴聖民-100e67fe5b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">朴聖民</data>
+  <data key="d3">nan</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">3</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李宗穎</data>
+  <data key="d3">Chung-Ying Lee</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Duke University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-李怡庭-876e01e588">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李怡庭</data>
+  <data key="d3">Yiting Li</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-林明仁-3459b553e9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林明仁</data>
+  <data key="d3">Ming-Jen Lin</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Chicago</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">梁卓誠</data>
+  <data key="d3">Cheuk Shing Leung</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">McGill University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊睿中</data>
+  <data key="d3">Jui-Chung Yang</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Texas A&amp;M University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">樊家忠</data>
+  <data key="d3">Elliott Fan</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-江淳芳-727bf49f84">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">江淳芳</data>
+  <data key="d3">Chun-Fang Chiang</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">Brown University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-洪俊教-348bf31cd5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">洪俊教</data>
+  <data key="d3">nan</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">Pennsylvania State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-王建強-992a85075e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王建強</data>
+  <data key="d3">Chien-Chiang Wang</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">Saint Louis University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-王泓仁-6e89dae82f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王泓仁</data>
+  <data key="d3">Hung-Jen Wang</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Michigan</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">羅珮瑜</data>
+  <data key="d3">Pei-Yu Lo</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡宜展</data>
+  <data key="d3">Yi-Chan Tsai</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡崇聖</data>
+  <data key="d3">Tsung-Sheng Tsai</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蘇軒立</data>
+  <data key="d3">Hsuan-Li Su</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">許軒銘</data>
+  <data key="d3">Shanon Hsuan-Ming Hsu</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Chicago</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝志昇</data>
+  <data key="d3">Chih-Sheng Hsieh</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">郭漢豪</data>
+  <data key="d3">Kwok Hon Ho</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳冠銘</data>
+  <data key="d3">Kuan-Ming Chen</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Chicago</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-陳南光-8b0f367291">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳南光</data>
+  <data key="d3">Nan-Kuang Chen</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Minnesota</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-陳慶池-440d91818f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳慶池</data>
+  <data key="d3">Hing Chi Jimmy Chan</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, Berkeley</data>
+  <data key="d8">1</data>
+  <data key="d9">Applied Mathematics &amp; Operations Research</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳旭昇</data>
+  <data key="d3">Shiu-Sheng Chen</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳由常</data>
+  <data key="d3">Yu-Chang Chen</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, San Diego</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳虹如</data>
+  <data key="d3">Hung-Ju Chen</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">馮勃翰</data>
+  <data key="d3">Po Han Fong</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Rochester</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-econ-駱明慶-49f94e80de">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">駱明慶</data>
+  <data key="d3">Ming-Ching Luoh</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Michigan</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">高恩琵</data>
+  <data key="d3">Ko Eunbi</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Pennsylvania State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃景沂</data>
+  <data key="d3">Ching-I Huang</data>
+  <data key="d4">ntu-econ</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7">Northwestern University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">faculty</data>
+  <data key="d11">1</data>
+</node>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.1524979020495777</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08266662173592793</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.10959273027158482</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.09090894500223641</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08669040421328594</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-林明仁-3459b553e9">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.1524979020495777</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.09090894500223641</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-洪俊教-348bf31cd5">
+  <data key="d12">9.272402615381505</data>
+  <data key="d13">0.21563538018727788</data>
+  <data key="d14">9.272402615381505</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10784691319822029</data>
+</edge>
+<edge source="ntu-econ-joonkyohong-abba80fbe9" target="ntu-econ-朴聖民-100e67fe5b">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.0928361187984333</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ntu-econ-junrokpark-d50100b56e" target="ntu-econ-朴埻錄-9cec86c47b">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.19550360059143332</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ntu-econ-junrokpark-d50100b56e" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.8348765078632785</data>
+  <data key="d13">0.046897696913323975</data>
+  <data key="d18">0</data>
+  <data key="d15">4.587191269658196</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5449958052841956</data>
+</edge>
+<edge source="ntu-econ-junrokpark-d50100b56e" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.12511795053650024</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ntu-econ-junrokpark-d50100b56e" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">1.8348765078632785</data>
+  <data key="d13">0.046897696913323975</data>
+  <data key="d18">0</data>
+  <data key="d15">4.587191269658196</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5449958052841956</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-劉育辰-40b649c520">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.038662489689560674</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.04311811865144537</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.03687962667334885</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.09414753702635645</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-和田健司-cd35fc2b2a">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08627834814856372</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-小松利明-e63776cdd7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.12038730600713655</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-toshiakikomatsu-2c1f940cc4">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.12038730600713655</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08972916072676482</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.12038730600713655</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.08955712812331337</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-朴聖民-100e67fe5b">
+  <data key="d12">8.673723967919273</data>
+  <data key="d13">0.18244865194324464</data>
+  <data key="d14">8.673723967919273</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11529073368009066</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.12945949688089967</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.03649873275429984</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.07576069428743479</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.043019015788239315</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.04483479203310699</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-吳儀玲-9ff31e9638">
+  <data key="d12">1.653303827373299</data>
+  <data key="d13">0.030882002516422875</data>
+  <data key="d18">0</data>
+  <data key="d15">4.133259568433247</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6048495040314271</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.12581063442496845</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.12945949688089967</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.03687962667334885</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.03968082291320072</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.03529524680131004</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-sungminpark-469370a4d3" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.046706275001817926</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.14288749584744864</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.09423259286915808</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.09884631163522903</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.043796658845735435</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.03895619519822915</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">5.632066372547434</data>
+  <data key="d13">0.15398377827330578</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">1</data>
+  <data key="d17">0.17755472571742636</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-李怡庭-876e01e588">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.041967880225283936</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-劉育辰-40b649c520">
+  <data key="d12">5.814475707665219</data>
+  <data key="d13">0.11998516541056449</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1719845520519934</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.04759048311014402</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04070491257965847</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.10391285405872602</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-和田健司-cd35fc2b2a">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.0782423388309391</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.06612668572773703</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-廖珮如-cff0efe03d">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11608740247758612</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.08137174096692765</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">7.860408622546972</data>
+  <data key="d13">0.25388536750805407</data>
+  <data key="d14">7.860408622546972</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12721984924951327</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-朴聖民-100e67fe5b">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.09550889716985726</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.14288749584744864</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.04028451099006708</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04748110094586872</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17971994374868894</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.049485215954033136</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.08361886266524501</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04070491257965847</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11608740247758612</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.049749925021491</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-小松利明-e63776cdd7">
+  <data key="d12">7.860408622546972</data>
+  <data key="d13">0.25388536750805407</data>
+  <data key="d14">7.860408622546972</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12721984924951327</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11409256781624723</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-toshiakikomatsu-2c1f940cc4" target="ntu-econ-朱玉琦-f9c58241bc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17971994374868894</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.05877573600343618</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.05235763967149812</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-李怡庭-876e01e588">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.07186216223231984</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.08815646319763569</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-和田健司-cd35fc2b2a">
+  <data key="d12">7.252238630801871</data>
+  <data key="d13">0.11277273958447745</data>
+  <data key="d14">7.252238630801871</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1378884577450027</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06058935855794384</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-王泓仁-6e89dae82f">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.13381938228688672</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.05614892826354677</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.08116620257621049</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-張勝凱-af91a80773">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.13381938228688672</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.055920596762892426</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.04749908664874113</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-何泰寬-3f8b4902cb" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.08116620257621049</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-廖珮如-cff0efe03d">
+  <data key="d12">8.17439473640579</data>
+  <data key="d13">0.16182015757913346</data>
+  <data key="d14">8.17439473640579</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12233321637213856</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">5.814475707665219</data>
+  <data key="d13">0.11998516541056449</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1719845520519934</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-朴聖民-100e67fe5b">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.030672766710736255</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.04588844553628969</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">2.3694798432174875</data>
+  <data key="d13">0.03234351574222727</data>
+  <data key="d18">0</data>
+  <data key="d15">5.9236996080437185</data>
+  <data key="d16">0</data>
+  <data key="d17">0.42203355426822803</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">2.177134806441145</data>
+  <data key="d13">0.03812149379893542</data>
+  <data key="d18">0</data>
+  <data key="d15">5.442837016102863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.45931928378594555</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">2.5987099960743456</data>
+  <data key="d13">0.03973055206283695</data>
+  <data key="d18">0</data>
+  <data key="d15">6.496774990185863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.38480630832629137</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">2.4564903640994817</data>
+  <data key="d13">0.031900339787128286</data>
+  <data key="d18">0</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4070848453609088</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.07289232465741897</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">2.177134806441145</data>
+  <data key="d13">0.03268104659706029</data>
+  <data key="d18">0</data>
+  <data key="d15">5.442837016102863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.45931928378594555</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">2.177134806441145</data>
+  <data key="d13">0.031277041266850075</data>
+  <data key="d18">0</data>
+  <data key="d15">5.442837016102863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.45931928378594555</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">6.116038408918102</data>
+  <data key="d13">0.10683212270423738</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">5.9236996080437185</data>
+  <data key="d16">1</data>
+  <data key="d17">0.163504532368837</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">8.17439473640579</data>
+  <data key="d13">0.16182015757913346</data>
+  <data key="d14">8.17439473640579</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12233321637213856</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.08638461346712958</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">2.177134806441145</data>
+  <data key="d13">0.03268104659706029</data>
+  <data key="d18">0</data>
+  <data key="d15">5.442837016102863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.45931928378594555</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-小松利明-e63776cdd7">
+  <data key="d12">5.814475707665219</data>
+  <data key="d13">0.11998516541056449</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1719845520519934</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-朱玉琦-f9c58241bc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11482084011152384</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.04588844553628969</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">8.17439473640579</data>
+  <data key="d13">0.1134282244647435</data>
+  <data key="d14">8.17439473640579</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12233321637213856</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06020403330558494</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">2.3694798432174875</data>
+  <data key="d13">0.036373867047832374</data>
+  <data key="d18">0</data>
+  <data key="d15">5.9236996080437185</data>
+  <data key="d16">0</data>
+  <data key="d17">0.42203355426822803</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">2.4564903640994817</data>
+  <data key="d13">0.03516333920953581</data>
+  <data key="d18">0</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4070848453609088</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-李怡庭-876e01e588">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.07287205176148207</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">2.4564903640994817</data>
+  <data key="d13">0.03820931424568303</data>
+  <data key="d18">0</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4070848453609088</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d12">2.4564903640994817</data>
+  <data key="d13">0.03964243529589892</data>
+  <data key="d18">0</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4070848453609088</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-和田健司-cd35fc2b2a">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.0499880585842019</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11482084011152384</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-劉育辰-40b649c520" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.11482084011152381</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-吳儀玲-9ff31e9638" target="ntu-econ-朴聖民-100e67fe5b">
+  <data key="d12">1.653303827373299</data>
+  <data key="d13">0.02450014125713104</data>
+  <data key="d18">0</data>
+  <data key="d15">4.133259568433247</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6048495040314271</data>
+</edge>
+<edge source="ntu-econ-吳儀玲-9ff31e9638" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">1.653303827373299</data>
+  <data key="d13">0.032136460732118864</data>
+  <data key="d18">0</data>
+  <data key="d15">4.133259568433247</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6048495040314271</data>
+</edge>
+<edge source="ntu-econ-吳儀玲-9ff31e9638" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">1.653303827373299</data>
+  <data key="d13">0.02291998338138404</data>
+  <data key="d18">0</data>
+  <data key="d15">4.133259568433247</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6048495040314271</data>
+</edge>
+<edge source="ntu-econ-吳儀玲-9ff31e9638" target="ntu-econ-李怡庭-876e01e588">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.06374946724081453</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="ntu-econ-吳儀玲-9ff31e9638" target="ntu-econ-和田健司-cd35fc2b2a">
+  <data key="d12">1.653303827373299</data>
+  <data key="d13">0.022038524485479664</data>
+  <data key="d18">0</data>
+  <data key="d15">4.133259568433247</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6048495040314271</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.07048054131644256</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11620184513814034</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-張勝凱-af91a80773">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.11620184513814034</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.04124575541028329</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.07505883923518555</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.048558560157924</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">8.30643247677353</data>
+  <data key="d13">0.16355209744641594</data>
+  <data key="d14">8.30643247677353</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1203886268619173</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-朱玉琦-f9c58241bc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11620184513814034</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.07048054131644256</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">6.884947139656129</data>
+  <data key="d13">0.11196595165853783</data>
+  <data key="d14">6.884947139656129</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14524439762800348</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.04546467210454437</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06623026357447642</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.03216689791014673</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.0427556493406093</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-小松利明-e63776cdd7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.0782423388309391</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-廖珮如-cff0efe03d">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.07505883923518555</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">8.30643247677353</data>
+  <data key="d13">0.1166466770161718</data>
+  <data key="d14">8.30643247677353</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1203886268619173</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.0782423388309391</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-王泓仁-6e89dae82f">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.11620184513814034</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.04875683144886684</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-李怡庭-876e01e588">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.027135247301956954</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-和田健司-cd35fc2b2a" target="ntu-econ-朴聖民-100e67fe5b">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.06844866086477447</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.09884631163522903</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-李怡庭-876e01e588">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.041967880225283936</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-朴聖民-100e67fe5b">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.09550889716985726</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.14288749584744864</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.04028451099006708</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17971994374868894</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.08361886266524501</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04748110094586872</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11608740247758612</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.049485215954033136</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11409256781624723</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-朱玉琦-f9c58241bc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17971994374868894</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.14288749584744864</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04070491257965847</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.09423259286915808</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.043796658845735435</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.03895619519822915</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">5.632066372547434</data>
+  <data key="d13">0.15398377827330578</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">1</data>
+  <data key="d17">0.17755472571742636</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.04759048311014402</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.049749925021491</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04070491257965847</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.10391285405872602</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.06612668572773703</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-廖珮如-cff0efe03d">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11608740247758612</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.08137174096692765</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-小松利明-e63776cdd7" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">7.860408622546972</data>
+  <data key="d13">0.25388536750805407</data>
+  <data key="d14">7.860408622546972</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12721984924951327</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.10945040541480984</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">8.17439473640579</data>
+  <data key="d13">0.24297869404720532</data>
+  <data key="d14">8.17439473640579</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12233321637213856</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.12970955460694944</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-朱玉琦-f9c58241bc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17240755538170718</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.09039848686225598</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.0982652024293351</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-李怡庭-876e01e588">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.10941996494402426</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.17240755538170716</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">8.17439473640579</data>
+  <data key="d13">0.1703164936980049</data>
+  <data key="d14">8.17439473640579</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12233321637213856</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11608740247758612</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-廖珮如-cff0efe03d" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17240755538170718</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-張勝凱-af91a80773" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1932633453546142</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-張勝凱-af91a80773" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.11309919764208577</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-張勝凱-af91a80773" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1331514997818884</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-張勝凱-af91a80773" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1932633453546142</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-張勝凱-af91a80773" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.13994981907694984</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-張勝凱-af91a80773" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.12466780847957246</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-張勝凱-af91a80773" target="ntu-econ-王泓仁-6e89dae82f">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.3186348587611748</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-張勝凱-af91a80773" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.13369517569952005</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.16944492067706263</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.15212862271135255</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17240755538170718</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.07388625096538418</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.12084948614446096</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.13994981907694987</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-李怡庭-876e01e588">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.06232872370101073</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.26691161567709215</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.09820824644616193</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-朱玉琦-f9c58241bc" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17971994374868894</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-朴埻錄-9cec86c47b" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">1.8348765078632785</data>
+  <data key="d13">0.046897696913323975</data>
+  <data key="d18">0</data>
+  <data key="d15">4.587191269658196</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5449958052841956</data>
+</edge>
+<edge source="ntu-econ-朴埻錄-9cec86c47b" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.8348765078632785</data>
+  <data key="d13">0.046897696913323975</data>
+  <data key="d18">0</data>
+  <data key="d15">4.587191269658196</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5449958052841956</data>
+</edge>
+<edge source="ntu-econ-朴埻錄-9cec86c47b" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.12511795053650024</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.09981147800962092</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.10270629176240834</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">3.5866788980415487</data>
+  <data key="d13">0.060573338530452596</data>
+  <data key="d18">0</data>
+  <data key="d15">8.966697245103871</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2788094581162631</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.028001374971637134</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.037054278929302256</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">3.5866788980415487</data>
+  <data key="d13">0.060573338530452596</data>
+  <data key="d18">0</data>
+  <data key="d15">8.966697245103871</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2788094581162631</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.07118635235912789</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.09550889716985726</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.07104987082483777</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-李宗穎-b1fed3d112">
+  <data key="d12">3.8089754017904918</data>
+  <data key="d13">0.06134251689353013</data>
+  <data key="d18">0</data>
+  <data key="d15">9.522438504476229</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2625377941611091</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-洪俊教-348bf31cd5">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.0928361187984333</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-林明仁-3459b553e9">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.129181135610937</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.034207626177750625</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.10270629176240834</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.07469165754163953</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">1.8542291851422896</data>
+  <data key="d13">0.05253027528633194</data>
+  <data key="d18">0</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5393076584129282</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">3.7397369919891092</data>
+  <data key="d13">0.05743196101414377</data>
+  <data key="d18">0</data>
+  <data key="d15">9.349342479972773</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2673984834072824</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">6.4449784172078495</data>
+  <data key="d13">0.1269651220259318</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15515955760690178</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.03556954369979927</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-朴聖民-100e67fe5b" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.06010451267832724</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.032100848800067326</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.04247912134707248</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">6.6178606358121925</data>
+  <data key="d13">0.10786035797592707</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15110623433025386</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">5.093134790603717</data>
+  <data key="d13">0.122712551979116</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1963427321509126</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.05475621000561387</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-王泓仁-6e89dae82f">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.12466780847957246</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">5.378193866421549</data>
+  <data key="d13">0.08964096322254812</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1859360270077737</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-洪俊教-348bf31cd5">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08669040421328594</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-林明仁-3459b553e9">
+  <data key="d12">1.8542291851422896</data>
+  <data key="d13">0.04905279170378406</data>
+  <data key="d18">0</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5393076584129282</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">2.3220539875665955</data>
+  <data key="d13">0.039215711258945955</data>
+  <data key="d18">0</data>
+  <data key="d15">5.805134968916488</data>
+  <data key="d16">0</data>
+  <data key="d17">0.430653208475981</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d12">2.3220539875665955</data>
+  <data key="d13">0.040686579355217356</data>
+  <data key="d18">0</data>
+  <data key="d15">5.805134968916488</data>
+  <data key="d16">0</data>
+  <data key="d17">0.430653208475981</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.043796658845735435</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.12466780847957246</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">5.093134790603717</data>
+  <data key="d13">0.122712551979116</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1963427321509126</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">6.79967920353895</data>
+  <data key="d13">0.10077579579940614</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14706576149644554</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">3.912215909881567</data>
+  <data key="d13">0.07437740279916658</data>
+  <data key="d18">0</data>
+  <data key="d15">9.780539774703918</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2556096143554287</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">5.594878938054996</data>
+  <data key="d13">0.09287334365100404</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1787348772103441</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">8.943523542872002</data>
+  <data key="d13">0.12610215360324148</data>
+  <data key="d14">8.943523542872002</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1118127542468428</data>
+</edge>
+<edge source="ntu-econ-李宗穎-b1fed3d112" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">6.6178606358121925</data>
+  <data key="d13">0.10786035797592707</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15110623433025386</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.03956847519216731</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-梁卓誠-81139af4f8">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.03552480422381631</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.10783615837686955</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.1433338392368097</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">8.17439473640579</data>
+  <data key="d13">0.14159540092682696</data>
+  <data key="d14">8.17439473640579</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12233321637213856</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.03268083175445817</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.041967880225283936</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.06232872370101073</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-李怡庭-876e01e588" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.10941996494402426</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-林明仁-3459b553e9" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">1.8542291851422896</data>
+  <data key="d13">0.08628922534606852</data>
+  <data key="d18">0</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5393076584129282</data>
+</edge>
+<edge source="ntu-econ-林明仁-3459b553e9" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">1.8542291851422896</data>
+  <data key="d13">0.04677597957544783</data>
+  <data key="d18">0</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5393076584129282</data>
+</edge>
+<edge source="ntu-econ-林明仁-3459b553e9" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.1524979020495777</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ntu-econ-林明仁-3459b553e9" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.8542291851422896</data>
+  <data key="d13">0.05143980563562809</data>
+  <data key="d18">0</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5393076584129282</data>
+</edge>
+<edge source="ntu-econ-林明仁-3459b553e9" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">1.8542291851422896</data>
+  <data key="d13">0.05143980563562809</data>
+  <data key="d18">0</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5393076584129282</data>
+</edge>
+<edge source="ntu-econ-林明仁-3459b553e9" target="ntu-econ-洪俊教-348bf31cd5">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.1524979020495777</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.05543560111708484</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.07976563017263476</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">5.401174751987744</data>
+  <data key="d13">0.10985375300819944</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18514490752812235</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">1.9850914675443907</data>
+  <data key="d13">0.037784273656001774</data>
+  <data key="d18">0</data>
+  <data key="d15">4.962728668860977</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5037551248139844</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.046158815769994706</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">1.9850914675443907</data>
+  <data key="d13">0.039480384268209</data>
+  <data key="d18">0</data>
+  <data key="d15">4.962728668860977</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5037551248139844</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.04789009966867107</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.05597465375514549</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-王建強-992a85075e">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06887922743974235</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">5.632066372547434</data>
+  <data key="d13">0.15398377827330578</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">1</data>
+  <data key="d17">0.17755472571742636</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.05543560111708484</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">5.401174751987744</data>
+  <data key="d13">0.09768157411174082</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18514490752812235</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">1.9850914675443907</data>
+  <data key="d13">0.0460527241558873</data>
+  <data key="d18">0</data>
+  <data key="d15">4.962728668860977</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5037551248139844</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.15212862271135255</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-楊睿中-6c2f0e88ae">
+  <data key="d12">2.3694798432174875</data>
+  <data key="d13">0.04799654925280093</data>
+  <data key="d18">0</data>
+  <data key="d15">5.9236996080437185</data>
+  <data key="d16">0</data>
+  <data key="d17">0.42203355426822803</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.03853725030934442</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.09657662272450993</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.9850914675443907</data>
+  <data key="d13">0.039480384268209</data>
+  <data key="d18">0</data>
+  <data key="d15">4.962728668860977</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5037551248139844</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.0982652024293351</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-梁卓誠-81139af4f8" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.04211211853090564</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">5.206305715920118</data>
+  <data key="d13">0.1339754491980448</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19207477519849572</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">2.3694798432174875</data>
+  <data key="d13">0.03750702072127109</data>
+  <data key="d18">0</data>
+  <data key="d15">5.9236996080437185</data>
+  <data key="d16">0</data>
+  <data key="d17">0.42203355426822803</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">2.177134806441145</data>
+  <data key="d13">0.044207428445254604</data>
+  <data key="d18">0</data>
+  <data key="d15">5.442837016102863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.45931928378594555</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">5.594878938054996</data>
+  <data key="d13">0.08425511587449926</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1787348772103441</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">5.206305715920118</data>
+  <data key="d13">0.1339754491980448</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19207477519849572</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">2.177134806441145</data>
+  <data key="d13">0.037898436944145145</data>
+  <data key="d18">0</data>
+  <data key="d15">5.442837016102863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.45931928378594555</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">2.177134806441145</data>
+  <data key="d13">0.036270288123446064</data>
+  <data key="d18">0</data>
+  <data key="d15">5.442837016102863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.45931928378594555</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">2.177134806441145</data>
+  <data key="d13">0.037898436944145145</data>
+  <data key="d18">0</data>
+  <data key="d15">5.442837016102863</data>
+  <data key="d16">0</data>
+  <data key="d17">0.45931928378594555</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-樊家忠-0d4e667fb7">
+  <data key="d12">2.4564903640994817</data>
+  <data key="d13">0.04597118179529541</data>
+  <data key="d18">0</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4070848453609088</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.05848239071126514</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">2.0679171419646045</data>
+  <data key="d13">0.049485215954033136</data>
+  <data key="d18">0</data>
+  <data key="d15">5.169792854911511</data>
+  <data key="d16">0</data>
+  <data key="d17">0.48357836961008976</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-王泓仁-6e89dae82f">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1331514997818884</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">5.507868417173002</data>
+  <data key="d13">0.09804949367448917</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">5.9236996080437185</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18155844044532662</data>
+</edge>
+<edge source="ntu-econ-楊睿中-6c2f0e88ae" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">2.4564903640994817</data>
+  <data key="d13">0.044309269053497864</data>
+  <data key="d18">0</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4070848453609088</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.037423835433580924</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-江淳芳-727bf49f84">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.044109382597236194</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">6.435904044412952</data>
+  <data key="d13">0.10230423808316644</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">5.805134968916488</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15537832651002714</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.11174355712473173</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.03781438355041828</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.03618984573441773</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.03781438355041828</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.10391285405872602</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">6.353655349312392</data>
+  <data key="d13">0.11938889437274333</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15738971427026213</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">7.537584681815748</data>
+  <data key="d13">0.14351265650248476</data>
+  <data key="d14">5.805134968916488</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1326684929208792</data>
+</edge>
+<edge source="ntu-econ-樊家忠-0d4e667fb7" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.11174355712473173</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.05105919921024719</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">6.4141030962152055</data>
+  <data key="d13">0.11628221410738648</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15590644319235747</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.035494900405320086</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">6.4141030962152055</data>
+  <data key="d13">0.1278761994265982</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15590644319235747</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08700342003785513</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">6.4141030962152055</data>
+  <data key="d13">0.1278761994265982</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15590644319235747</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.05105919921024719</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">1.9850914675443907</data>
+  <data key="d13">0.040472508971208986</data>
+  <data key="d18">0</data>
+  <data key="d15">4.962728668860977</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5037551248139844</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-洪俊教-348bf31cd5">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.10959273027158482</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.09419983912598537</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04748110094586872</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-江淳芳-727bf49f84" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">1.8542291851422896</data>
+  <data key="d13">0.06201181571416822</data>
+  <data key="d18">0</data>
+  <data key="d15">4.635572962855724</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5393076584129282</data>
+</edge>
+<edge source="ntu-econ-洪俊教-348bf31cd5" target="ntu-econ-羅珮瑜-24610cd413">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.09090894500223641</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-洪俊教-348bf31cd5" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.1524979020495777</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-洪俊教-348bf31cd5" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08266662173592793</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-洪俊教-348bf31cd5" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.09090894500223641</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-王建強-992a85075e" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.12084948614446098</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-王建強-992a85075e" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.08137174096692765</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-王建強-992a85075e" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.12084948614446096</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-王建強-992a85075e" target="ntu-econ-蔡宜展-c83bdc5cdc">
+  <data key="d12">8.17439473640579</data>
+  <data key="d13">0.1703164936980049</data>
+  <data key="d14">8.17439473640579</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12233321637213856</data>
+</edge>
+<edge source="ntu-econ-王建強-992a85075e" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">8.30643247677353</data>
+  <data key="d13">0.17009357218683913</data>
+  <data key="d14">8.30643247677353</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1203886268619173</data>
+</edge>
+<edge source="ntu-econ-王建強-992a85075e" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06336503444616189</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-王建強-992a85075e" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.0909202209124295</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-王泓仁-6e89dae82f" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.13369517569952005</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-王泓仁-6e89dae82f" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1932633453546142</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-王泓仁-6e89dae82f" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.11309919764208577</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-王泓仁-6e89dae82f" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1932633453546142</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-王泓仁-6e89dae82f" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.13994981907694984</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.13073441112046247</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-蔡崇聖-b5b6a97658">
+  <data key="d12">9.11974782214583</data>
+  <data key="d13">0.14173797759461684</data>
+  <data key="d14">9.11974782214583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10965215480757724</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.03042930322254775</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04377236834946041</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">13.233597878992189</data>
+  <data key="d13">0.22618185620024434</data>
+  <data key="d14">13.233597878992189</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.07556524001590378</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">8.673723967919273</data>
+  <data key="d13">0.14187802490160756</data>
+  <data key="d14">8.673723967919273</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11529073368009066</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04070491257965847</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">1.9850914675443907</data>
+  <data key="d13">0.034696540449444785</data>
+  <data key="d18">0</data>
+  <data key="d15">4.962728668860977</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5037551248139844</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08075626176007515</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-羅珮瑜-24610cd413" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04377236834946041</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-蔡宜展-c83bdc5cdc" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.09039848686225598</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-蔡宜展-c83bdc5cdc" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17240755538170718</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-蔡宜展-c83bdc5cdc" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.17240755538170716</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-蔡宜展-c83bdc5cdc" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11608740247758612</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-蔡宜展-c83bdc5cdc" target="ntu-econ-蘇軒立-87d57366a0">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.10945040541480984</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-蔡宜展-c83bdc5cdc" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.12970955460694944</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.0433202859822945</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.030115028442571665</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">9.11974782214583</data>
+  <data key="d13">0.14173797759461684</data>
+  <data key="d14">9.11974782214583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10965215480757724</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.11888128403314648</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.0433202859822945</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.0678243972563821</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-許軒銘-45dfd20a6e">
+  <data key="d12">6.79967920353895</data>
+  <data key="d13">0.10950535804102675</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14706576149644554</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.8855078068468196</data>
+  <data key="d13">0.04028451099006708</data>
+  <data key="d18">0</data>
+  <data key="d15">4.713769517117049</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5303611029181174</data>
+</edge>
+<edge source="ntu-econ-蔡崇聖-b5b6a97658" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">7.133624464887003</data>
+  <data key="d13">0.11338078684998623</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1401811946959336</data>
+</edge>
+<edge source="ntu-econ-蘇軒立-87d57366a0" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.04690560169963247</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-蘇軒立-87d57366a0" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.0888450880345043</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-蘇軒立-87d57366a0" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.16944492067706263</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-蘇軒立-87d57366a0" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.062346063458831834</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-蘇軒立-87d57366a0" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11409256781624723</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-許軒銘-45dfd20a6e" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.05117682423587891</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-許軒銘-45dfd20a6e" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.04056574544923355</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ntu-econ-許軒銘-45dfd20a6e" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.0772869046321674</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-許軒銘-45dfd20a6e" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.04759048311014402</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-許軒銘-45dfd20a6e" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.05117682423587891</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ntu-econ-許軒銘-45dfd20a6e" target="ntu-econ-謝志昇-c7296b64a4">
+  <data key="d12">2.3220539875665955</data>
+  <data key="d13">0.03557666997152068</data>
+  <data key="d18">0</data>
+  <data key="d15">5.805134968916488</data>
+  <data key="d16">0</data>
+  <data key="d17">0.430653208475981</data>
+</edge>
+<edge source="ntu-econ-許軒銘-45dfd20a6e" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.08075626176007515</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-謝志昇-c7296b64a4" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">7.252238630801871</data>
+  <data key="d13">0.15851891920971434</data>
+  <data key="d14">7.252238630801871</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1378884577450027</data>
+</edge>
+<edge source="ntu-econ-謝志昇-c7296b64a4" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.08361886266524501</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-謝志昇-c7296b64a4" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.03042930322254775</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-謝志昇-c7296b64a4" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">2.0579867247392776</data>
+  <data key="d13">0.029122034687185647</data>
+  <data key="d18">0</data>
+  <data key="d15">5.144966811848194</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4859117835790161</data>
+</edge>
+<edge source="ntu-econ-謝志昇-c7296b64a4" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">7.252238630801871</data>
+  <data key="d13">0.15851891920971434</data>
+  <data key="d14">7.252238630801871</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1378884577450027</data>
+</edge>
+<edge source="ntu-econ-謝志昇-c7296b64a4" target="ntu-econ-郭漢豪-7977d0a5be">
+  <data key="d12">7.346061821484618</data>
+  <data key="d13">0.11627502569561099</data>
+  <data key="d14">7.346061821484618</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13612735970657852</data>
+</edge>
+<edge source="ntu-econ-謝志昇-c7296b64a4" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">9.492043923267907</data>
+  <data key="d13">0.14352746007111591</data>
+  <data key="d14">7.252238630801871</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10535138776051106</data>
+</edge>
+<edge source="ntu-econ-郭漢豪-7977d0a5be" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.09423259286915808</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-郭漢豪-7977d0a5be" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.058721182369544045</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-郭漢豪-7977d0a5be" target="ntu-econ-陳冠銘-e3634202cf">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.08488452996555818</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-郭漢豪-7977d0a5be" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.13994981907694987</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-郭漢豪-7977d0a5be" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.08488452996555818</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-econ-郭漢豪-7977d0a5be" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.03874079226057113</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-郭漢豪-7977d0a5be" target="ntu-econ-陳南光-8b0f367291">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.051493548855635174</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-陳冠銘-e3634202cf" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">7.252238630801871</data>
+  <data key="d13">0.27087633924174875</data>
+  <data key="d14">7.252238630801871</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1378884577450027</data>
+</edge>
+<edge source="ntu-econ-陳冠銘-e3634202cf" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04377236834946041</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-陳冠銘-e3634202cf" target="ntu-econ-陳慶池-440d91818f">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04189187048057958</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-陳冠銘-e3634202cf" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.14288749584744864</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-陳冠銘-e3634202cf" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">7.252238630801871</data>
+  <data key="d13">0.18738607520902956</data>
+  <data key="d14">7.252238630801871</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1378884577450027</data>
+</edge>
+<edge source="ntu-econ-陳南光-8b0f367291" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.09820824644616193</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-陳南光-8b0f367291" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.06612668572773703</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-陳南光-8b0f367291" target="ntu-econ-陳旭昇-a9164bcf1e">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.16991203074339892</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-econ-陳慶池-440d91818f" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.03895619519822915</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-陳慶池-440d91818f" target="ntu-econ-陳由常-b2ab5a0144">
+  <data key="d12">1.9850914675443907</data>
+  <data key="d13">0.033205947803147576</data>
+  <data key="d18">0</data>
+  <data key="d15">4.962728668860977</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5037551248139844</data>
+</edge>
+<edge source="ntu-econ-陳慶池-440d91818f" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">8.673723967919273</data>
+  <data key="d13">0.14187802490160756</data>
+  <data key="d14">8.673723967919273</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11529073368009066</data>
+</edge>
+<edge source="ntu-econ-陳慶池-440d91818f" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04189187048057958</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-陳旭昇-a9164bcf1e" target="ntu-econ-陳虹如-4ec44ed550">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.07388625096538418</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-陳旭昇-a9164bcf1e" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.6291910892402761</data>
+  <data key="d13">0.049749925021491</data>
+  <data key="d18">0</data>
+  <data key="d15">4.07297772310069</data>
+  <data key="d16">0</data>
+  <data key="d17">0.613801540288512</data>
+</edge>
+<edge source="ntu-econ-陳由常-b2ab5a0144" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">7.252238630801871</data>
+  <data key="d13">0.18738607520902956</data>
+  <data key="d14">7.252238630801871</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1378884577450027</data>
+</edge>
+<edge source="ntu-econ-陳由常-b2ab5a0144" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.09884631163522903</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-econ-陳由常-b2ab5a0144" target="ntu-econ-馮勃翰-3891fb6c24">
+  <data key="d12">1.9850914675443907</data>
+  <data key="d13">0.034696540449444785</data>
+  <data key="d18">0</data>
+  <data key="d15">4.962728668860977</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5037551248139844</data>
+</edge>
+<edge source="ntu-econ-陳虹如-4ec44ed550" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.17971994374868894</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-econ-馮勃翰-3891fb6c24" target="ntu-econ-駱明慶-49f94e80de">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04377236834946041</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-馮勃翰-3891fb6c24" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">1.732449712899259</data>
+  <data key="d13">0.04070491257965847</data>
+  <data key="d18">0</data>
+  <data key="d15">4.3311242822481475</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5772173313628235</data>
+</edge>
+<edge source="ntu-econ-馮勃翰-3891fb6c24" target="ntu-econ-黃景沂-8fe2cfab0f">
+  <data key="d12">4.559873911072915</data>
+  <data key="d13">0.13073441112046247</data>
+  <data key="d14">4.559873911072915</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21930430961515449</data>
+</edge>
+<edge source="ntu-econ-駱明慶-49f94e80de" target="ntu-econ-高恩琵-a49ecd70d7">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.14288749584744864</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+</graph></graphml>

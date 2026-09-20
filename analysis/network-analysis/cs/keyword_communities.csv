@@ -1,0 +1,114 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Algorithms,Theory & Algorithms,Algorithms & Computational Complexity,1,4,4,4
+Artificial Intelligence,AI & Machine Learning,Artificial Intelligence & Generative Models,0,3,3,3
+Augmented Reality,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,2,2,2
+Automation and Control,"Robotics, Control & Smart Manufacturing",Robotics & Automation,1,1,1,1
+Bayesian Statistics,Statistics & Statistical Methods,Bayesian & Computational Statistics,0,2,2,2
+Big Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,3,3
+Bioinformatics,Biomedical & Health Informatics,Bioinformatics & Systems Biology,1,4,4,4
+Biostatistics,Biomedical & Health Informatics,Biostatistics & Survival Analysis,2,5,5,5
+Blockchain,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",1,3,3,3
+Brain-Computer Interfaces,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,2,2,2
+Business Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Causal Inference,Statistics & Statistical Methods,Statistical Theory & Inference,2,5,5,5
+Change Point Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,2,5,5,5
+Cloud Computing,Networks & Communications,Cloud & Edge Computing,1,4,0,4
+Coding Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,1,3,6,3
+Compilers,"Systems, Software & Architecture","Software Engineering, Languages & Verification",1,1,1,1
+Computational Complexity,Theory & Algorithms,Algorithms & Computational Complexity,1,3,6,3
+Computational Linguistics,AI & Machine Learning,Natural Language & Speech Processing,0,0,0,0
+Computer Architecture,"Systems, Software & Architecture",Computer Architecture & Hardware Design,1,1,1,1
+Computer Graphics,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,0,2,2,2
+Computer Networks,Networks & Communications,Computer & Wireless Networks,1,3,4,3
+Computer Vision,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,2,2,2
+Cryptography,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",1,3,6,3
+Cyber-Physical Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,1,1,1
+Data Envelopment Analysis,Applied Mathematics & Operations Research,Optimization & Operations Research,0,0,0,0
+Data Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Data Science,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Databases,"Data, Databases & Knowledge Discovery",Database & Storage Systems,0,0,0,0
+Deep Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,2,2,2
+Digital Transformation,Information Systems & Management,Digital Business & E-Commerce,0,1,3,1
+Digital Twins,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,1,1,1
+Discrete Mathematics,Theory & Algorithms,Discrete Mathematics & Information Theory,1,4,4,4
+Distributed Systems,"Systems, Software & Architecture",Parallel & Distributed Computing,1,4,4,4
+E-Commerce,Information Systems & Management,Digital Business & E-Commerce,0,0,0,0
+Econometrics,Economics & Policy,Econometrics,0,0,0,0
+Edge Computing,Networks & Communications,Cloud & Edge Computing,1,3,1,3
+Electronic Design Automation,"Systems, Software & Architecture",Computer Architecture & Hardware Design,1,1,1,1
+Embedded Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,1,1,1
+Entrepreneurship,Information Systems & Management,"Innovation, Entrepreneurship & Management",1,3,3,3
+Evolutionary Computation,AI & Machine Learning,Machine Learning & Deep Learning,0,2,2,2
+Financial Technology,Financial Engineering & Risk,Banking & Financial Technology,0,3,3,3
+Formal Verification,"Systems, Software & Architecture","Software Engineering, Languages & Verification",1,1,6,1
+Fuzzy Systems,AI & Machine Learning,Machine Learning & Deep Learning,0,2,2,2
+Game Theory,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,0,1,0,1
+Generative AI,AI & Machine Learning,Artificial Intelligence & Generative Models,0,3,3,3
+Graph Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,1,4,4,4
+High-Dimensional Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,2,5,5,5
+High-Performance Computing,"Systems, Software & Architecture",Parallel & Distributed Computing,1,1,1,1
+Human-Computer Interaction,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,2,2,2
+Image Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,2,2,2
+Industrial Statistics,Statistics & Statistical Methods,Applied & Industrial Statistics,2,5,5,5
+Information Retrieval,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Information Security,"Security, Privacy & Cryptography",Information & Systems Security,1,3,6,3
+Information Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,0,0,0,0
+Information Visualization,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,2,2,2
+Innovation Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",1,3,3,3
+Intelligent Transportation Systems,Networks & Communications,"Mobile, IoT & Pervasive Computing",1,1,1,1
+Internet of Things,Networks & Communications,"Mobile, IoT & Pervasive Computing",1,3,3,3
+Knowledge Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,0,0,0
+Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,2,2,2
+Machine Translation,AI & Machine Learning,Natural Language & Speech Processing,0,0,0,0
+Malware Analysis,"Security, Privacy & Cryptography",Information & Systems Security,1,0,0,0
+Mechanism Design,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,0,0,0,0
+Medical Imaging,Biomedical & Health Informatics,Medical Informatics & Imaging,0,2,2,2
+Medical Informatics,Biomedical & Health Informatics,Medical Informatics & Imaging,0,0,0,0
+Mobile Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",1,4,4,4
+Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,0,2,2,2
+Multivariate Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,2,5,5,5
+Natural Language Processing,AI & Machine Learning,Natural Language & Speech Processing,0,0,0,0
+Network Security,"Security, Privacy & Cryptography",Information & Systems Security,1,3,6,3
+Neural Networks,AI & Machine Learning,Machine Learning & Deep Learning,0,2,2,2
+Neuromorphic Computing,AI & Machine Learning,Machine Learning & Deep Learning,1,1,1,1
+Numerical Analysis,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,3,6,7,6
+Operating Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,1,1,1
+Operations Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,3,3,3
+Operations Research,Applied Mathematics & Operations Research,Optimization & Operations Research,0,0,0,0
+Optimization,Applied Mathematics & Operations Research,Optimization & Operations Research,1,1,1,1
+Parallel Computing,"Systems, Software & Architecture",Parallel & Distributed Computing,1,1,1,1
+Pattern Recognition,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,2,2,2
+Pervasive Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",1,4,4,4
+Privacy-Preserving Computing,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",1,4,4,4
+Probability Theory,Statistics & Statistical Methods,Statistical Theory & Inference,3,6,7,6
+Programming Languages,"Systems, Software & Architecture","Software Engineering, Languages & Verification",1,1,1,1
+Quantum Computing,"Systems, Software & Architecture",Computer Architecture & Hardware Design,1,3,3,3
+Queueing Theory,Applied Mathematics & Operations Research,Optimization & Operations Research,0,1,0,1
+Real-Time Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,1,1,1
+Recommender Systems,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Reinforcement Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,1,1,1
+Robotics,"Robotics, Control & Smart Manufacturing",Robotics & Automation,0,2,2,2
+Scientific Computing,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,3,6,7,6
+Scientific Modeling,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,3,6,7,6
+Service Science,Information Systems & Management,Digital Business & E-Commerce,0,0,0,0
+Signal Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,2,2,2
+Smart Healthcare,Biomedical & Health Informatics,Medical Informatics & Imaging,0,4,1,4
+Smart Manufacturing,"Robotics, Control & Smart Manufacturing",Smart Manufacturing & Industrial Systems,1,1,1,1
+Social Media Analytics,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,0,0,0,0
+Social Network Analysis,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,0,0,0,0
+Software Engineering,"Systems, Software & Architecture","Software Engineering, Languages & Verification",1,4,0,4
+Speech Recognition,AI & Machine Learning,Natural Language & Speech Processing,0,0,0,0
+Statistical Inference,Statistics & Statistical Methods,Statistical Theory & Inference,3,6,7,6
+Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,2,5,5,5
+Storage Systems,"Data, Databases & Knowledge Discovery",Database & Storage Systems,1,1,1,1
+Survival Analysis,Biomedical & Health Informatics,Biostatistics & Survival Analysis,2,5,5,5
+Systems Biology,Biomedical & Health Informatics,Bioinformatics & Systems Biology,1,4,4,4
+Systems Security,"Security, Privacy & Cryptography",Information & Systems Security,1,1,1,1
+Text Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Theory of Computation,Theory & Algorithms,Algorithms & Computational Complexity,1,3,6,3
+Time Series Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,0,4,1,4
+Trustworthy AI,AI & Machine Learning,Artificial Intelligence & Generative Models,0,0,3,0
+Virtual Reality,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,2,2,2
+Web Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Wireless Communications,Networks & Communications,Computer & Wireless Networks,1,4,4,4
+Wireless Networks,Networks & Communications,Computer & Wireless Networks,1,4,4,4

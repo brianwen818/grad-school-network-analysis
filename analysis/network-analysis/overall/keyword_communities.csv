@@ -1,0 +1,165 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Accounting,Corporate Finance & Governance,Corporate Finance & Valuation,1,0,0,0
+Actuarial Science,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",1,0,0,0
+Algorithms,Theory & Algorithms,Algorithms & Computational Complexity,0,1,1,1
+Artificial Intelligence,AI & Machine Learning,Artificial Intelligence & Generative Models,0,1,4,1
+Asset Management,Asset Pricing & Financial Markets,Asset Pricing & Investments,1,0,0,0
+Asset Pricing,Asset Pricing & Financial Markets,Asset Pricing & Investments,1,0,0,0
+Augmented Reality,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,5,5,5
+Automation and Control,"Robotics, Control & Smart Manufacturing",Robotics & Automation,3,2,1,2
+Banking and Financial Institutions,Financial Engineering & Risk,Banking & Financial Technology,1,0,0,0
+Bayesian Statistics,Statistics & Statistical Methods,Bayesian & Computational Statistics,2,4,3,4
+Behavioral Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,1,0,0,0
+Big Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,1,4,1
+Bioinformatics,Biomedical & Health Informatics,Bioinformatics & Systems Biology,2,4,3,4
+Biostatistics,Biomedical & Health Informatics,Biostatistics & Survival Analysis,2,4,3,4
+Blockchain,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",0,1,4,1
+Brain-Computer Interfaces,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,5,5,5
+Business Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,2,3
+Business Valuation,Corporate Finance & Governance,Corporate Finance & Valuation,1,0,0,0
+Causal Inference,Statistics & Statistical Methods,Statistical Theory & Inference,2,4,3,4
+Change Point Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,2,4,3,4
+Cloud Computing,Networks & Communications,Cloud & Edge Computing,0,1,1,1
+Coding Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,0,1,6,1
+Compilers,"Systems, Software & Architecture","Software Engineering, Languages & Verification",3,2,1,2
+Computational Complexity,Theory & Algorithms,Algorithms & Computational Complexity,0,1,6,1
+Computational Linguistics,AI & Machine Learning,Natural Language & Speech Processing,0,3,2,3
+Computer Architecture,"Systems, Software & Architecture",Computer Architecture & Hardware Design,3,2,1,2
+Computer Graphics,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,0,5,5,5
+Computer Networks,Networks & Communications,Computer & Wireless Networks,0,1,4,1
+Computer Vision,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,5,5,5
+Corporate Finance,Corporate Finance & Governance,Corporate Finance & Valuation,1,0,0,0
+Corporate Governance,Corporate Finance & Governance,Governance & Corporate Control,1,0,0,0
+Credit Risk,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",1,0,0,0
+Cryptocurrency,Financial Engineering & Risk,Banking & Financial Technology,1,0,0,0
+Cryptography,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",0,1,6,1
+Cyber-Physical Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",3,2,1,2
+Data Envelopment Analysis,Applied Mathematics & Operations Research,Optimization & Operations Research,0,3,2,3
+Data Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,2,3
+Data Science,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,2,3
+Databases,"Data, Databases & Knowledge Discovery",Database & Storage Systems,0,1,2,1
+Deep Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,5,5,5
+Development Economics,Economics & Policy,Applied & Policy Economics,1,0,7,0
+Differential Geometry,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,2,2,1,2
+Digital Transformation,Information Systems & Management,Digital Business & E-Commerce,0,2,1,2
+Digital Twins,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",0,2,1,2
+Discrete Mathematics,Theory & Algorithms,Discrete Mathematics & Information Theory,0,1,1,1
+Distributed Systems,"Systems, Software & Architecture",Parallel & Distributed Computing,0,1,1,1
+E-Commerce,Information Systems & Management,Digital Business & E-Commerce,0,3,2,3
+Econometrics,Economics & Policy,Econometrics,1,0,0,0
+Edge Computing,Networks & Communications,Cloud & Edge Computing,3,2,1,2
+Electronic Design Automation,"Systems, Software & Architecture",Computer Architecture & Hardware Design,3,2,1,2
+Embedded Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",3,2,1,2
+Entrepreneurship,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,1,4,1
+Environmental Economics,Economics & Policy,Applied & Policy Economics,1,0,0,0
+Evolutionary Computation,AI & Machine Learning,Machine Learning & Deep Learning,0,1,1,1
+Experimental Design,Statistics & Statistical Methods,Applied & Industrial Statistics,2,4,3,4
+Financial Derivatives,Financial Engineering & Risk,Derivatives & Financial Engineering,1,0,0,0
+Financial Economics,Asset Pricing & Financial Markets,Asset Pricing & Investments,1,0,0,0
+Financial Engineering,Financial Engineering & Risk,Derivatives & Financial Engineering,1,0,0,0
+Financial Management,Corporate Finance & Governance,Corporate Finance & Valuation,1,0,0,0
+Financial Markets,Asset Pricing & Financial Markets,Financial Markets & Microstructure,1,0,0,0
+Financial Technology,Financial Engineering & Risk,Banking & Financial Technology,0,0,0,0
+Formal Verification,"Systems, Software & Architecture","Software Engineering, Languages & Verification",3,1,6,1
+Fuzzy Systems,AI & Machine Learning,Machine Learning & Deep Learning,0,5,5,5
+Game Theory,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,1,0,7,0
+Generative AI,AI & Machine Learning,Artificial Intelligence & Generative Models,0,1,4,1
+Graph Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,0,1,1,1
+Health Economics,Economics & Policy,Applied & Policy Economics,1,0,0,0
+High-Dimensional Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,2,4,3,4
+High-Performance Computing,"Systems, Software & Architecture",Parallel & Distributed Computing,3,2,1,2
+Human-Computer Interaction,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,5,5,5
+Image Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,5,5,5
+Industrial Organization,Economics & Policy,Microeconomics & Industrial Organization,1,0,7,0
+Industrial Statistics,Statistics & Statistical Methods,Applied & Industrial Statistics,2,4,3,4
+Information Retrieval,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,2,3
+Information Security,"Security, Privacy & Cryptography",Information & Systems Security,0,1,6,1
+Information Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,0,3,4,3
+Information Visualization,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,5,5,5
+Initial Public Offerings,Corporate Finance & Governance,Corporate Finance & Valuation,1,0,0,0
+Innovation Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,1,4,1
+Institutional Investors,Corporate Finance & Governance,Governance & Corporate Control,1,0,0,0
+Insurance,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",1,0,0,0
+Intelligent Transportation Systems,Networks & Communications,"Mobile, IoT & Pervasive Computing",3,2,1,2
+Interest Rate Modeling,Financial Engineering & Risk,Derivatives & Financial Engineering,1,0,0,0
+International Economics,Economics & Policy,Applied & Policy Economics,1,0,0,0
+International Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,1,0,0,0
+Internet of Things,Networks & Communications,"Mobile, IoT & Pervasive Computing",0,1,4,1
+Investments,Asset Pricing & Financial Markets,Asset Pricing & Investments,1,0,0,0
+Knowledge Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,3,2,3
+Labor Economics,Economics & Policy,Applied & Policy Economics,1,0,0,0
+Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,5,5,5
+Machine Translation,AI & Machine Learning,Natural Language & Speech Processing,0,3,2,3
+Macroeconomics,Economics & Policy,Macroeconomics & Monetary Economics,1,0,0,0
+Malware Analysis,"Security, Privacy & Cryptography",Information & Systems Security,0,3,6,3
+Market Microstructure,Asset Pricing & Financial Markets,Financial Markets & Microstructure,1,0,0,0
+Mechanism Design,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,1,0,7,0
+Medical Imaging,Biomedical & Health Informatics,Medical Informatics & Imaging,0,5,5,5
+Medical Informatics,Biomedical & Health Informatics,Medical Informatics & Imaging,0,3,2,3
+Mergers and Acquisitions,Corporate Finance & Governance,Governance & Corporate Control,1,0,0,0
+Microeconomics,Economics & Policy,Microeconomics & Industrial Organization,1,0,7,0
+Mobile Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",0,1,4,1
+Monetary Economics,Economics & Policy,Macroeconomics & Monetary Economics,1,0,0,0
+Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,0,5,5,5
+Multivariate Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,2,4,3,4
+Natural Language Processing,AI & Machine Learning,Natural Language & Speech Processing,0,3,2,3
+Network Security,"Security, Privacy & Cryptography",Information & Systems Security,0,1,6,1
+Neural Networks,AI & Machine Learning,Machine Learning & Deep Learning,0,5,5,5
+Neuromorphic Computing,AI & Machine Learning,Machine Learning & Deep Learning,3,2,1,2
+Numerical Analysis,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,3,2,1,2
+Operating Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",3,2,1,2
+Operations Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,1,4,1
+Operations Research,Applied Mathematics & Operations Research,Optimization & Operations Research,0,3,2,3
+Optimization,Applied Mathematics & Operations Research,Optimization & Operations Research,0,1,1,1
+Parallel Computing,"Systems, Software & Architecture",Parallel & Distributed Computing,3,2,1,2
+Partial Differential Equations,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,2,2,1,2
+Pattern Recognition,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,5,5,5
+Personal Finance,Financial Engineering & Risk,Banking & Financial Technology,1,0,0,0
+Pervasive Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",0,1,4,1
+Political Economy,Economics & Policy,Applied & Policy Economics,1,0,7,0
+Portfolio Management,Asset Pricing & Financial Markets,Asset Pricing & Investments,1,0,0,0
+Privacy-Preserving Computing,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",0,1,4,1
+Probability Theory,Statistics & Statistical Methods,Statistical Theory & Inference,2,4,3,4
+Programming Languages,"Systems, Software & Architecture","Software Engineering, Languages & Verification",3,2,1,2
+Public Economics,Economics & Policy,Applied & Policy Economics,1,0,0,0
+Quantum Computing,"Systems, Software & Architecture",Computer Architecture & Hardware Design,0,1,4,1
+Queueing Theory,Applied Mathematics & Operations Research,Optimization & Operations Research,0,3,4,3
+Real Estate Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,1,0,0,0
+Real-Time Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",3,2,1,2
+Recommender Systems,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,2,3
+Regression Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,2,4,3,4
+Reinforcement Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,2,1,2
+Reliability Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,2,4,3,4
+Risk Management,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",1,0,0,0
+Robotics,"Robotics, Control & Smart Manufacturing",Robotics & Automation,0,5,5,5
+Scientific Computing,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,2,2,1,2
+Scientific Modeling,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,2,2,1,2
+Service Science,Information Systems & Management,Digital Business & E-Commerce,0,3,2,3
+Signal Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,5,5,5
+Smart Healthcare,Biomedical & Health Informatics,Medical Informatics & Imaging,0,1,1,1
+Smart Manufacturing,"Robotics, Control & Smart Manufacturing",Smart Manufacturing & Industrial Systems,0,2,1,2
+Social Media Analytics,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,0,3,2,3
+Social Network Analysis,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,0,3,2,3
+Software Engineering,"Systems, Software & Architecture","Software Engineering, Languages & Verification",0,1,1,1
+Spatial Clustering,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,2,3
+Special Purpose Acquisition Companies,Corporate Finance & Governance,Governance & Corporate Control,1,0,0,0
+Speech Recognition,AI & Machine Learning,Natural Language & Speech Processing,0,3,2,3
+Statistical Computing,Statistics & Statistical Methods,Bayesian & Computational Statistics,2,4,3,4
+Statistical Consulting,Statistics & Statistical Methods,Applied & Industrial Statistics,2,4,3,4
+Statistical Inference,Statistics & Statistical Methods,Statistical Theory & Inference,2,2,1,2
+Statistical Process Control,Statistics & Statistical Methods,Applied & Industrial Statistics,2,4,3,4
+Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,2,4,3,4
+Storage Systems,"Data, Databases & Knowledge Discovery",Database & Storage Systems,3,2,1,2
+Survey Sampling,Statistics & Statistical Methods,Applied & Industrial Statistics,2,4,3,4
+Survival Analysis,Biomedical & Health Informatics,Biostatistics & Survival Analysis,2,4,3,4
+Sustainable Finance,Financial Engineering & Risk,Banking & Financial Technology,1,0,0,0
+Systems Biology,Biomedical & Health Informatics,Bioinformatics & Systems Biology,0,4,3,4
+Systems Security,"Security, Privacy & Cryptography",Information & Systems Security,3,2,1,2
+Text Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,2,3
+Theory of Computation,Theory & Algorithms,Algorithms & Computational Complexity,0,1,6,1
+Time Series Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,1,0,0,0
+Trustworthy AI,AI & Machine Learning,Artificial Intelligence & Generative Models,0,1,2,1
+Virtual Reality,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,5,5,5
+Web Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,3,2,3
+Wireless Communications,Networks & Communications,Computer & Wireless Networks,0,1,4,1
+Wireless Networks,Networks & Communications,Computer & Wireless Networks,0,1,4,1

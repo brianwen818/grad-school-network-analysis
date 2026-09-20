@@ -1,0 +1,1786 @@
+[
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Cheng-Hsin Hsu",
+    "titles": [
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, Simon Fraser University, Canada."
+    ],
+    "research_interests": [
+      "Multimedia networking, mobile multimedia, networked games, and peer-to-peer networks."
+    ],
+    "emails": [
+      "9880a4be1052b941@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1110",
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://aiins.cs.nthu.edu.tw/cheng-hsin-hsu/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chung Laung Liu",
+    "titles": [
+      "Professor",
+      "Chair, Honorary Chair Professor and Honorary Professor"
+    ],
+    "education": [
+      "PhD,MIT"
+    ],
+    "research_interests": [
+      "Algorithms, CAD"
+    ],
+    "emails": [
+      "ea70ab8580d37736@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=674"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [],
+    "section": "Chair, Honorary Chair Professor and Honorary Professor"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Nen-Fu Huang",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests": [
+      "Network security, Switching routers, WDM network design"
+    ],
+    "emails": [
+      "9c032788107af6ae@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~nfhuang/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ting-Ting Hwang",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, Pennsylvania State University"
+    ],
+    "research_interests": [
+      "Logic design, VLSI design automation"
+    ],
+    "emails": [
+      "cc74effd2cadc818@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tingting/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Biing-Feng Wang",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Parallel processing, Distributed algorithms, Algorithm design"
+    ],
+    "emails": [
+      "b638c2a6aa794319@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://clark.cs.nthu.edu.tw/advisor.php"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jenq-Kuen Lee",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, Indiana University"
+    ],
+    "research_interests": [
+      "Optimizing compiler, System software for low-power and embedded systems, Object-oriented parallel languages, Computer architectures, Pervasive computing"
+    ],
+    "emails": [
+      "2ce122c9ee16570c@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://pllab.cs.nthu.edu.tw/~jklee/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wei-Kuan Shih",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, University of Illinois, Urbana-Champaign"
+    ],
+    "research_interests": [
+      "Real-time systems, VLSI/CAD, Algorithm design"
+    ],
+    "emails": [
+      "b873cfb6cafe0609@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://rtlab.cs.nthu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Duan-Shin Lee",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, Columbia University"
+    ],
+    "research_interests": [
+      "Computer communication networks, Performance analysis, Queueing theory, Social networks, Data science, Machine learning, AI"
+    ],
+    "emails": [
+      "e718d980763a39b4@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://bcc.cs.nthu.edu.tw/lds_profile/index.htm"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jang-Ping Sheu",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests": [
+      "Wireless sensor networks, Wireless ad hoc networks, Parallel and distributed processing"
+    ],
+    "emails": [
+      "472467a2f1a63c71@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~sheujp"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shang-Hong Lai",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, University of Florida"
+    ],
+    "research_interests": [
+      "Computer vision, Image processing, Pattern recognition"
+    ],
+    "emails": [
+      "02b05a6555c26dfd@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~lai/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hung-Min Sun",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Chiao-Tung University"
+    ],
+    "research_interests": [
+      "Information Security, Deep Learning, BlockChain, Program Trading"
+    ],
+    "emails": [
+      "855ee90c31ad2fe8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://is.cs.nthu.edu.tw/wiki/doku.php?id=advisor:main"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ting-Chi Wang",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, University of Texas at Austin"
+    ],
+    "research_interests": [
+      "Research and Development of Algorithms and Software Tools for Electronic Design Automation"
+    ],
+    "emails": [
+      "610dd786a9aa40d9@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcwang/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chin-Lung Lu",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests": [
+      "Design and analysis of algorithms, Graph algorithms and Computational molecular biology"
+    ],
+    "emails": [
+      "37c0c172e2de2944@redacted.invalid",
+      "f209e17fd92c08c6@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cllu/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ming-Jer Tsai",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Wireless networks(5G), Approximation algorithm, Graph theory"
+    ],
+    "emails": [
+      "49091e69226701db@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://dclab.cs.nthu.edu.tw/~mjtsai/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chiou-Ting Hsu",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Image/video analysis and processing, Facial physiological signal estimation, Face anti-spoofing, Pattern recognition, Deep Learning"
+    ],
+    "emails": [
+      "4a5903770db0f7ea@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cthsu/candy.html"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wai-Kei Mak",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, The University of Texas at Austin"
+    ],
+    "research_interests": [
+      "Computer-aided design of VLSI circuits, Combinatorial optimization"
+    ],
+    "emails": [
+      "a7ab029f14967001@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~wkmak/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ching-Te Chiu",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, University of Maryland"
+    ],
+    "research_interests": [
+      "Multimedia Signal Processing-Algorithm, Computer Vision-Algorithm/Architecture/VLSI Design; Multimedia and Computer Acceleration in Multi-core/GPU Plat form; High Speed Network design."
+    ],
+    "emails": [
+      "7ea28f812a9fc16d@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~ctchiu/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chin-Yu Huang",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Software engineering, Software reliability, Software testing, Software rejuvenation, Software fault-tolerance"
+    ],
+    "emails": [
+      "1e7103cc4887b497@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cyhuang/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chun-Yao Wang",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Chiao Tung University"
+    ],
+    "research_interests": [
+      "Electronics design automation, Interconnect verification for SoC"
+    ],
+    "emails": [
+      "90013c3183baa989@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://nthucad.cs.nthu.edu.tw/~wcyao/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Pai H. Chou",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, University of Washington, USA"
+    ],
+    "research_interests": [
+      "Hardware and software for embedded systems"
+    ],
+    "emails": [
+      "df9ff87c69784a18@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~phchou/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wing-Kai Hon",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, The University of Hong Kong"
+    ],
+    "research_interests": [
+      "Data structure, Algorithms"
+    ],
+    "emails": [
+      "075f3bbdb243b6fc@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~wkhon/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shan-Hung Wu",
+    "titles": [
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Machine Learning and Data Mining, Cloud Database Systems, Social Network and User Behavior Analysis"
+    ],
+    "emails": [
+      "ec8ebba8fd1a9b68@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~shwu/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yi-Shin Chen",
+    "titles": [
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, University of Southern California"
+    ],
+    "research_interests": [
+      "Web intelligence, Multimedia retrieval, Data mining, Social networks, Big Data"
+    ],
+    "emails": [
+      "bba80bf498fba4ad@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.yishin.net/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chuan-Kang Ting",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "Dr. rer. nat., Universität Paderborn, Germany"
+    ],
+    "research_interests": [
+      "Evolutionary Computation, Artificial Intelligence, Computational Intelligence, Machine Learning, AI Music and Art"
+    ],
+    "emails": [
+      "9e98539e63c34a58@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://mx.nthu.edu.tw/~ckting/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hung-Kuo Chu",
+    "titles": [
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Cheng Kung University"
+    ],
+    "research_interests": [
+      "Computer Graphics, Computer Vision, 3D Modeling/Reconstruction, Extended Reality, Digital Twin, Sports Technology"
+    ],
+    "emails": [
+      "ceeae9e3a9d7dc57@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://cgv.cs.nthu.edu.tw/hkchu/website/Home.html"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Min-Chun Hu",
+    "titles": [
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Multimedia Computing, Computer Vision, Computer Graphic, AR/VR"
+    ],
+    "emails": [
+      "11eab7a2c2a12f3a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://mislab.csie.ncku.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chih-Ya Shen",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Big Data and Social Network Analytics, Query Processing, Data Mining for Mental Healthcare, Spatial Database Management"
+    ],
+    "emails": [
+      "2677de0c68cac182@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~chihya/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hung-Yu Kao",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Natural Language Processing, Data Mining, Machine Learning, Deep Learning, Information Retrieval"
+    ],
+    "emails": [
+      "03d86d3adc743945@redacted.invalid",
+      "993450d9b53d0d46@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://ikmlab.csie.ncku.edu.tw/advisor.html"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chih-Tsun Huang",
+    "titles": [
+      "Associate Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests": [
+      "Electronic Design Automation, Intelligent Electronic System Design, Computer Vision and Deep Learning System Platform, Neuromorphic Computing, Brain-Inspired Computing"
+    ],
+    "emails": [
+      "12228940d3e2d708@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://nthucad.cs.nthu.edu.tw/~cthuang/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jung-Chun Kao",
+    "titles": [
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, Carnegie Mellon University"
+    ],
+    "research_interests": [
+      "Wireless networks, Telecommunication networks, Digital communication"
+    ],
+    "emails": [
+      "60795defb5a1e8e1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~jungchuk/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Po-Chih Kuo",
+    "titles": [
+      "Associate Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Chiao Tung University"
+    ],
+    "research_interests": [
+      "Biomedical signal and image processing, Neuroimaging, Machine Learning, AI for medicine"
+    ],
+    "emails": [
+      "d68e85774de72f5a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.google.com/site/bfantasykuo/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Han-Hsuan Lin",
+    "titles": [
+      "Associate Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, Massachusetts Institute of Technology"
+    ],
+    "research_interests": [
+      "Quantum Computing"
+    ],
+    "emails": [
+      "67149d8254965a0e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.google.com/view/han-hsuan-lins-homepage/home",
+      "http://67149d8254965a0e@redacted.invalid"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Te-Chuan Chiu",
+    "titles": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "B5G/6G communications, Edge Intelligence/AI, Fog/Edge Computing, AIoT"
+    ],
+    "emails": [
+      "1f9e964f4e2f5c3c@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://theochiu.wixsite.com/nthucs"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shih-Hsuan Hung",
+    "titles": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, Oregon State University"
+    ],
+    "research_interests": [
+      "Computer Graphics, scientific visualization, information visualization, and geometric modeling"
+    ],
+    "emails": [
+      "e60b95418130b666@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://drive.google.com/file/d/1tsJaLy1In_F8HWapodAzCXnVohSCc89t/view?usp=sharing"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yun-Chih Chen",
+    "titles": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests": [
+      "Storage System, Memory, Database"
+    ],
+    "emails": [
+      "c7010b5984b510d1@redacted.invalid",
+      "d6078dac863fa628@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://yunchih.github.io/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tzu-Bin Yan",
+    "titles": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, University of Illinois Urbana-Champaign"
+    ],
+    "research_interests": [
+      "Internet measurement、Network System Design、Computer Security"
+    ],
+    "emails": [
+      "6e869df373a2feca@redacted.invalid",
+      "a9c5cfa00bfac192@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://tzubinyan.tw"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ya-Chun Liang",
+    "titles": [
+      "Assistant Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "Dual Ph.D.s, University of Liverpool, UK and National Tsing Hua University"
+    ],
+    "research_interests": [
+      "Dynamic Algorithms, Online Algorithms, Scheduling and Optimization, Algorithm Theory and Applications"
+    ],
+    "emails": [
+      "32ffb2edb8fd5eed@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ling Lo",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, National Yang Ming Chiao Tung University"
+    ],
+    "research_interests": [
+      "Computer Vision, Generative AI, Multimodal Understanding, Trustworthy AI"
+    ],
+    "emails": [
+      "0deb9680fee68b39@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://lynn-ling-lo.github.io/"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tsun Ming Cheung",
+    "titles": [
+      "Professor",
+      "Full Time Professors"
+    ],
+    "education": [
+      "PhD, McGill University"
+    ],
+    "research_interests": [
+      "Complexity Theory, Algorithm Theory and Applications, Discrete Mathematics"
+    ],
+    "emails": [
+      "9178dcfefd46e2bf@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=661"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.google.com/view/ben-tsun-ming-cheung"
+    ],
+    "stable_ids": [],
+    "section": "Full Time Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Cheng-Wen Wu",
+    "titles": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education": [
+      "PhD, University of California at Santa Barbara"
+    ],
+    "research_interests": [
+      "Design and testing of reliable VLSI cores and systems"
+    ],
+    "emails": [
+      "b1208663ebaf27dd@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.google.com/gapp.nthu.edu.tw/cww/"
+    ],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chin-Chen Chang",
+    "titles": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education": [
+      "PhD, National Chiao Tung University"
+    ],
+    "research_interests": [
+      "Database design, E-Business security, Electronic imaging techniques, Computer cryptography"
+    ],
+    "emails": [
+      "ef561278e0b2350e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.ccu.edu.tw/~ccc/"
+    ],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Cheng-Shang Chang",
+    "titles": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education": [
+      "PhD, University of Columbia"
+    ],
+    "research_interests": [
+      "Queueing theory, Stochastic scheduling performance evaluation of telecommunication networks and parallel processing systems"
+    ],
+    "emails": [
+      "0e1e2d24c85d1c16@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.nthu.edu.tw/cschang/"
+    ],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wen-Lian Hsu",
+    "titles": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education": [
+      "PhD,Cornell University"
+    ],
+    "research_interests": [
+      "Natural language processing, Operations research, Discrete math"
+    ],
+    "emails": [
+      "5b03a1d337c47ea0@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/IASL/hsu/index.html"
+    ],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Arbee L.P Chen",
+    "titles": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education": [
+      "PhD, University of Southern California"
+    ],
+    "research_interests": [
+      "Big Data Analysis, Deep Learning, Health Informatics"
+    ],
+    "emails": [
+      "323e79fae2533d4b@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://make-lab.vercel.app/"
+    ],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Kwei-Jay Lin",
+    "titles": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education": [
+      "PhD, University of Maryland, College Park"
+    ],
+    "research_interests": [
+      "Electronic commerce and internet computing"
+    ],
+    "emails": [
+      "33737bc77b90459f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chuan-Yi Tang",
+    "titles": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education": [
+      "PhD, National Chiao Tung University"
+    ],
+    "research_interests": [
+      "lgorithm design, Parallel algorithms, Protocol testing, Computational biology"
+    ],
+    "emails": [
+      "7bb71ea03a694a5c@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cytang/"
+    ],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yuan Xie",
+    "titles": [
+      "Professor",
+      "Joint Professors"
+    ],
+    "education": [
+      "Princeton University Princeton, NJ PhD in Electrical Engineering"
+    ],
+    "research_interests": [
+      "VLSI Design, Electronics Design Automation, Computer Architecture, Embedded Systems Design, EDA tools and architectures for 3D IC design, embedded system synthesis, low power and thermal-aware techniques"
+    ],
+    "emails": [
+      "7f14b10980a81328@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ece.ucsb.edu/~yuanxie/"
+    ],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tzi-Cker Chiueh",
+    "titles": [
+      "Joint Professors"
+    ],
+    "education": [
+      "PhD, University of California at Santa Barbara"
+    ],
+    "research_interests": [
+      "Software, Information security, Network architecture"
+    ],
+    "emails": [
+      "0802e3632f93f1c4@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=1112"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://chiueh.jimdo.com/"
+    ],
+    "stable_ids": [],
+    "section": "Joint Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chung-Ta King",
+    "titles": [
+      "Professor",
+      "Adjunct Professors",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, Michigan State University"
+    ],
+    "research_interests": [
+      "Pervasive computing, Cluster computing, Parallel and distributed systems"
+    ],
+    "emails": [
+      "cfa18d28653fcc08@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662",
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~king/"
+    ],
+    "stable_ids": [],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shih Chih Kuo",
+    "titles": [
+      "Assistant Professor",
+      "Adjunct Professors"
+    ],
+    "education": [
+      "Indiana University at Bloomington Language Education Ph.D."
+    ],
+    "research_interests": [
+      "Reading & Writing Process, English Listening and Speaking, Early Literacy, Academic Writing, Qualitative Research, Teaching Pedagogy, Critical Literacy, Children Literature, Teacher Education, Cognitive Science, Mind and Body Problem, Philosophy of Mind, and Art."
+    ],
+    "emails": [
+      "48e2b81cd6ba94dc@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcs/"
+    ],
+    "stable_ids": [],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wu Chung -Haw",
+    "titles": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education": [
+      "PhD, University of California, Irvine"
+    ],
+    "research_interests": [
+      "Computer Architecture, Digital Media"
+    ],
+    "emails": [
+      "dfe89117841b54c8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcs/"
+    ],
+    "stable_ids": [],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yu-Ting Kuo",
+    "titles": [
+      "Assistant Professor",
+      "Adjunct Professors"
+    ],
+    "education": [
+      "Master, Massachusetts Institute of Technology"
+    ],
+    "research_interests": [
+      "Web Search, Machine Learning, Deep Learning, Computer Vision"
+    ],
+    "emails": [
+      "16963b8522a9ade0@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcs/"
+    ],
+    "stable_ids": [],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chun-Tien Chang",
+    "titles": [
+      "Adjunct Professors"
+    ],
+    "education": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests": [
+      "Bioinformatics system management"
+    ],
+    "emails": [
+      "150217b1dc7d4bfd@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=662"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~tcs/"
+    ],
+    "stable_ids": [],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Cheng-Ming Weng",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, University of Southern Florida"
+    ],
+    "research_interests": [
+      "Performance evaluation, Computer graphics, B-ISDN"
+    ],
+    "emails": [
+      "6ba02e721007024f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/document/Faculty/weng.html"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shi-Nine Yang",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, State University N.Y. at Buffalo"
+    ],
+    "research_interests": [
+      "Computer graphics, Multimedia systems"
+    ],
+    "emails": [
+      "930f8d0ce20c38fb@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://cglab.cs.nthu.edu.tw/chinese/about/prof.htm"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Y.H. Chin",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, University of Texas, Austin"
+    ],
+    "research_interests": [
+      "Database systems, Algorithm design, System programming, Software engineering"
+    ],
+    "emails": [
+      "31084f3e8b3fd2e5@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/document/Faculty/yhchin.html"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yeh-Ching Chung",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, Syracuse University"
+    ],
+    "research_interests": [
+      "Parallel and distributed processing, Pervasive computing, Embedded systems, Cluster systems, Grid computing"
+    ],
+    "emails": [
+      "01803c2c283a1ab8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~ychung/"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jyuo-Min Shyu",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, University of California at Berkeley"
+    ],
+    "research_interests": [
+      "Microelectronic system design and applications, Optimization-based design, Multicore design automation"
+    ],
+    "emails": [
+      "827e40db83586f55@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chaur-Chin Chen",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, Michigan State University"
+    ],
+    "research_interests": [
+      "Biometric recognition, Microarray data analysis"
+    ],
+    "emails": [
+      "5f239d2f292f4282@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~cchen/"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jia-Shung Wang",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, National Tsing Hua University"
+    ],
+    "research_interests": [
+      "Algorithm design, Neural networks, Image compression, VLSI testing"
+    ],
+    "emails": [
+      "984f3fd967565cca@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://vc.cs.nthu.edu.tw/home/vc_html/member/jswang_c.html"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Long-Wen Chang",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, University of New Mexico"
+    ],
+    "research_interests": [
+      "Image data compression, Information security and cryptography, Video communication, Image processing, Game theory"
+    ],
+    "emails": [
+      "603ccbb38ccdd42f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/~lchang/"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jason S. Chang",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, New York University"
+    ],
+    "research_interests": [
+      "Natural language processing, Knowledge management, IR, MT, AI"
+    ],
+    "emails": [
+      "4d6688881329ee4f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.cs.nthu.edu.tw/document/Faculty/jschang.html"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hwa-Chun Lin",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, University of Southern California"
+    ],
+    "research_interests": [
+      "Computer communication networks, Network managenmet, Wireless networks, Performance evaluation"
+    ],
+    "emails": [
+      "3a17722ae0b87843@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://alpha5.cs.nthu.edu.tw/labweb/advisor.html"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  },
+  {
+    "school_id": "nthu-cs",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ren-Song Tsay",
+    "titles": [
+      "Professor",
+      "Emeritus Professors"
+    ],
+    "education": [
+      "PhD, UC Berkeley, Electrical Engineering and Computer Science"
+    ],
+    "research_interests": [
+      "Distributed IoT framework, AI implementation on edge devices, Blockchain applications, Entrepreneurship learning map"
+    ],
+    "emails": [
+      "7bcc23ce93df386c@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://dcs-en.site.nthu.edu.tw/app/index.php?Action=mobileloadmod&Type=mobile_rcg_mstr&Nbr=675"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://logos.cs.nthu.edu.tw/biohraphy/"
+    ],
+    "stable_ids": [],
+    "section": "Emeritus Professors"
+  }
+]

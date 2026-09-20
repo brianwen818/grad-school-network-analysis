@@ -1,0 +1,90 @@
+# 資料與分析成果授權 / Licence for data and analysis outputs
+
+適用範圍 / Scope: `data/`, `analysis/`, `docs/`
+（程式碼 `scripts/` 適用 MIT，見 [LICENSE](LICENSE)。）
+
+---
+
+## 1. 授權條款 / Licence
+
+本專案**自行產出**的部分 —— 標準化後的資料集、研究領域分類表（taxonomy）、
+節點表與邊表、網路指標、圖表、以及所有分析報告 —— 以
+**Creative Commons Attribution 4.0 International (CC BY 4.0)** 授權釋出。
+
+The parts of this repository that are **our own work** — the standardised
+dataset, the research-field taxonomy, the node and edge tables, the network
+metrics, the figures, and all analysis reports — are released under
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+完整條款 / Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+摘要 / Summary: https://creativecommons.org/licenses/by/4.0/deed.zh_TW
+
+你可以自由地分享與改作，包括商業用途，只要**標示出處**：
+
+> 温亮達 (2026). *研究所師資社會網路分析 (grad-school-social-network)*.
+> https://github.com/brianwen818/grad-school-network-analysis — CC BY 4.0
+
+---
+
+## 2. 不在授權範圍內的部分 / What we cannot license to you
+
+`data/data-collection/<school>/raw/` 底下是**各校官網師資頁面的原始擷取快照**。
+這些內容的著作權屬於各該大學與系所，我們無權轉授權。它們之所以附在此處，
+只是為了讓分析結果可被查核與重現（資料蒐集日：**2026-09-09**）。
+
+如果你要**再散布**這些原始快照、或把它們用於本專案以外的目的，
+請自行向各校確認，或直接重跑 `scripts/data-collection/` 從官網取得最新資料。
+
+The raw snapshots under `data/data-collection/<school>/raw/` are verbatim
+captures of university faculty pages. Copyright in that material belongs to
+the respective universities; we cannot sub-license it. It is included solely
+so that the published analysis can be verified and reproduced. Re-use beyond
+that should be cleared with the source institutions, or the crawler in
+`scripts/data-collection/` can simply be re-run.
+
+註：資料庫中的**個別事實**（姓名、職稱、學歷、研究領域）在多數法域不受著作權
+保護；受保護的是我們對這些事實的選取與編排，而那一層以 CC BY 4.0 釋出。
+
+---
+
+## 3. 個人資料處理 / Personal-data handling
+
+資料集中的教師姓名、職稱、學歷與研究領域，全部取自各系所官網**公開**的師資頁面，
+用於學術性的社會網路分析。
+
+**電子郵件位址已全部假名化。** 原始資料中的 518 個不重複信箱（共 3,920 處）
+已以 HMAC-SHA256 + 未公開的隨機 salt 置換為 `<16 碼 hex>@redacted.invalid` 形式的
+不可逆 token。同一個信箱固定對應同一個 token，因此仰賴信箱比對的
+「跨校合聘教授去重」與「系辦共用信箱偵測」邏輯完全不受影響，但無法還原成真實信箱。
+salt 不隨專案發布（見 `.gitignore`）。
+
+All e-mail addresses have been **irreversibly pseudonymised** (HMAC-SHA256 with
+an unpublished random salt). Equal addresses map to equal tokens, so the
+person-level de-duplication in the pipeline still works, but no address can be
+recovered. The salt is never committed.
+
+**如果你是資料中的教師**，希望移除或更正自己的紀錄，請開一個 GitHub Issue 或
+來信告知，我會盡快處理。
+
+If you are a member of faculty appearing in this dataset and would like your
+record removed or corrected, please open an issue and it will be actioned.
+
+---
+
+## 4. 免責聲明 / Disclaimer
+
+- 這是一份**學生的個人研究專案**，不是任何大學、系所或機構的官方出版品，
+  也未經任何一方審閱或背書。
+- 資料是 **2026-09-09** 的官網快照。官網內容會變動，時間越久與現況落差越大。
+- 各欄位覆蓋率介於 67.9% 與 100% 之間，**不可**解讀為系所或教師的品質、
+  聲譽或學術成就排名。
+- 報告中的「重要教授」指的是該教師在**共享研究領域網路中的位置**
+  （degree、betweenness），與學術成就、影響力或評價無關。
+- 研究領域由教師在官網自填，粒度與詳盡程度因人而異；網路的密度與集群結構
+  有一部分反映的是填寫習慣，而不是真實的研究分布。
+- 資料與分析「依現狀」提供，不附任何形式的擔保。
+
+This is a personal student project, not an official publication of, nor
+reviewed or endorsed by, any university or department. Nothing here should be
+read as a ranking of institutions or individuals. Provided "as is", without
+warranty of any kind.

@@ -1,0 +1,1181 @@
+[
+  {
+    "faculty_id": "nccu-mb-劉淑芳-e6aed109b7",
+    "school_id": "nccu-mb",
+    "name_zh": ": 劉淑芳",
+    "name_en": "",
+    "role_groups": [],
+    "titles_zh": [],
+    "titles_en": [],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=3&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members?page_no=3&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E5%8A%89%E6%B7%91%E8%8A%B3-23503899"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/%E6%B7%91%E8%8A%B3-%E5%8A%89-23503899"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "24189bcd5970e59b@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-呂桔誠-5062972a99",
+    "school_id": "nccu-mb",
+    "name_zh": ": 呂桔誠",
+    "name_en": ": JYE-CHERNG LYU",
+    "role_groups": [
+      "adjunct",
+      "project"
+    ],
+    "titles_zh": [
+      "兼任"
+    ],
+    "titles_en": [
+      "Contracted"
+    ],
+    "education_zh": [
+      "美國 | 美國西北大學 | 管理(科)學系 | 碩士 | 1987.09 ~ 1989.06",
+      "臺灣,中華民國 | 國立政治大學 | 銀行學系 | 學士 | 1975.09 ~ 1979.06"
+    ],
+    "education_en": [
+      "U.S.A. | 美國西北大學 | 管理(科)學系 | 碩士 | 1987.09 ~ 1989.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 銀行學系 | 學士 | 1975.09 ~ 1979.06"
+    ],
+    "research_interests_zh": [
+      "金融創新"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E5%91%82%E6%A1%94%E8%AA%A0-86158071"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/JYE-CHERNG-LYU-86158071"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "836dbc0a04ffab9c@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-廖四郎-dd4aa0acae",
+    "school_id": "nccu-mb",
+    "name_zh": ": 廖四郎",
+    "name_en": ": SZU-LANG LIAO",
+    "role_groups": [
+      "adjunct",
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "名譽",
+      "兼任"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國 | 美國芝加哥大學 | 經濟學系 | 博士 | 1984.10 ~ 1994.08",
+      "臺灣,中華民國 | 國立臺灣大學 | 經濟學系 | 碩士 | 1978.09 ~ 1982.06",
+      "臺灣,中華民國 | 國立臺灣大學 | 農業經濟學系 | 學士 | 1974.09 ~ 1978.06"
+    ],
+    "education_en": [
+      "U.S.A. | The University of Chicago | Economics | 博士 | 1984.10 ~ 1994.08",
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 經濟學系 | 碩士 | 1978.09 ~ 1982.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 農業經濟學系 | 學士 | 1974.09 ~ 1978.06"
+    ],
+    "research_interests_zh": [
+      "數位金融、國際金融、金融機構風險管理、財務工程"
+    ],
+    "research_interests_en": [
+      "Financial Engineering, Trading Strategy"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members2",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E5%BB%96%E5%9B%9B%E9%83%8E-45187245",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2/%E5%BB%96%E5%9B%9B%E9%83%8E-45187245"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/SZU-LANG-LIAO-45187245",
+      "https://banking.nccu.edu.tw/en/Members/Members2/SZU-LANG-LIAO-45187245"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "4ae31021a8baf14f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-張興華-a1ad78b558",
+    "school_id": "nccu-mb",
+    "name_zh": ": 張興華",
+    "name_en": ": HSING-HUA CHANG",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "美國 | 美國哈佛大學 | 經濟學系 | 博士 | 1994.09 ~ 1999.11",
+      "美國 | 美國哈佛大學 | 經濟學系 | 碩士 | 1994.09 ~ 1999.11",
+      "臺灣,中華民國 | 國立臺灣大學 | 經濟學系 | 學士 | 1986.10 ~ 1990.06"
+    ],
+    "education_en": [
+      "U.S.A. | Harvard University | Economics | 博士 | 1994.09 ~ 1999.11",
+      "U.S.A. | 美國哈佛大學 | 經濟學系 | 碩士 | 1994.09 ~ 1999.11",
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 經濟學系 | 學士 | 1986.10 ~ 1990.06"
+    ],
+    "research_interests_zh": [
+      "賽局理論與個體經濟分析"
+    ],
+    "research_interests_en": [
+      "Game Theory, Microeconomics"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E5%BC%B5%E8%88%88%E8%8F%AF-37410166",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E5%BC%B5%E8%88%88%E8%8F%AF-37410166"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/HSING-HUA-CHANG-37410166",
+      "https://banking.nccu.edu.tw/en/Members/Members1/HSING-HUA-CHANG-37410166"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "33bb9b0d6fd24860@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-朱浩民-b36900208d",
+    "school_id": "nccu-mb",
+    "name_zh": ": 朱浩民",
+    "name_en": ": HAU-MIN CHU",
+    "role_groups": [
+      "emeritus"
+    ],
+    "titles_zh": [
+      "教授",
+      "退休"
+    ],
+    "titles_en": [
+      "Professor",
+      "Retired"
+    ],
+    "education_zh": [
+      "美國 | 美國布朗大學 | Economics | 博士 | 1987.06 ~ 1991.07",
+      "美國 | 美國布朗大學 | 經濟學系 | 碩士 | 1985.09 ~ 1987.06",
+      "台灣,中華民國 | 國立臺灣大學 | 經濟學系 | 碩士 | 1982.09 ~ 1984.06",
+      "台灣,中華民國 | 國立臺灣大學 | 經濟學系 | 學士 | 1976.09 ~ 1980.06"
+    ],
+    "education_en": [
+      "U.S.A. | 美國布朗大學 | Economics | 博士 | 1987.06 ~ 1991.07",
+      "U.S.A. | 美國布朗大學 | 經濟學系 | 碩士 | 1985.09 ~ 1987.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 經濟學系 | 碩士 | 1982.09 ~ 1984.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 經濟學系 | 學士 | 1976.09 ~ 1980.06"
+    ],
+    "research_interests_zh": [
+      "大陸金融、證券期貨、金融管理、總體經濟"
+    ],
+    "research_interests_en": [
+      "China's Financial Market, Securities Market, Financial Supervision, Macroeconomics"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%9C%B1%E6%B5%A9%E6%B0%91-94799979"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/HAU-MIN-CHU-94799979"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "51af9ae512150017@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-李桐豪-54fed609f6",
+    "school_id": "nccu-mb",
+    "name_zh": ": 李桐豪",
+    "name_en": ": THOMAS LEE",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任",
+      "教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "美國 | 美國俄亥俄大學 | Economics | 博士 | 1980.09 ~ 1986.08",
+      "台灣,中華民國 | 國立臺灣大學 | 經濟學系 | 學士 | 1974.09 ~ 1978.06"
+    ],
+    "education_en": [
+      "UNITED STATES | 美國俄亥俄大學 | Economics | 博士 | 1980.09 ~ 1986.08",
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 經濟學系 | 學士 | 1974.09 ~ 1978.06"
+    ],
+    "research_interests_zh": [
+      "投資學、財務管理與貨幣銀行"
+    ],
+    "research_interests_en": [
+      "Investments, Financial Management, Money and Banking"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2",
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2/%E6%9D%8E%E6%A1%90%E8%B1%AA-96697271",
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%9D%8E%E6%A1%90%E8%B1%AA-96697271"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2/THOMAS-LEE-96697271",
+      "https://banking.nccu.edu.tw/en/Members/THOMAS-LEE-96697271"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "49bede6025e710b9@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-林士貴-1dfbcb1d92",
+    "school_id": "nccu-mb",
+    "name_zh": ": 林士貴",
+    "name_en": ": SHIH-KUEI LIN",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "臺灣,中華民國 | 國立政治大學 | 統計學系 | 博士 | 2000.09 ~ 2004.06",
+      "臺灣,中華民國 | 國立政治大學 | 統計學系 | 碩士 | 1995.09 ~ 1997.06",
+      "臺灣,中華民國 | 國立成功大學 | 數學系 | 學士 | 1990.09 ~ 1994.06"
+    ],
+    "education_en": [
+      "TAIWAN, REPUBLIC OF CHINA | National Chengchi University | Statistics | 博士 | 2000.09 ~ 2004.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 統計學系 | 碩士 | 1995.09 ~ 1997.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立成功大學 | 數學系 | 學士 | 1990.09 ~ 1994.06"
+    ],
+    "research_interests_zh": [
+      "金融工程暨金融創新 衍生性金融商品暨巨災衍生性金融商品 金融大數據 綠色金融與氣候金融 金融風險管理 銀行經營管理與策略"
+    ],
+    "research_interests_en": [
+      "Financial Engineering, Derivatives, Financial Econometrics, Actuarial Finance"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%9E%97%E5%A3%AB%E8%B2%B4-75877965",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E6%9E%97%E5%A3%AB%E8%B2%B4-75877965"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/SHIH-KUEI-LIN-75877965",
+      "https://banking.nccu.edu.tw/en/Members/Members1/SHIH-KUEI-LIN-75877965"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "f5182c9a8b8f8843@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-林建秀-7e10d6c7e3",
+    "school_id": "nccu-mb",
+    "name_zh": ": 林建秀",
+    "name_en": ": CHIEN-HSIU LIN",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國 | 加州大學洛杉磯分校 | 經濟學系 | 博士 | 2002.09 ~ 2007.06",
+      "臺灣,中華民國 | 國立政治大學 | 國際貿易(學)系 | 碩士 | 1998.09 ~ 2000.06"
+    ],
+    "education_en": [
+      "U.S.A. | University of California, Los Angeles | Economics | 博士 | 2002.09 ~ 2007.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 國際貿易(學)系 | 碩士 | 1998.09 ~ 2000.06"
+    ],
+    "research_interests_zh": [
+      "資產訂價、國際金融"
+    ],
+    "research_interests_en": [
+      "International Finance, Asset Pricing, Applied Econometrics"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%9E%97%E5%BB%BA%E7%A7%80-74750284",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E6%9E%97%E5%BB%BA%E7%A7%80-74750284"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/CHIEN-HSIU-LIN-74750284",
+      "https://banking.nccu.edu.tw/en/Members/Members1/CHIEN-HSIU-LIN-74750284"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "85d6d4b4f6e372f4@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-林靖庭-0c65309b7a",
+    "school_id": "nccu-mb",
+    "name_zh": ": 林靖庭",
+    "name_en": ": CHING-TING LIN",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "美國 | University of Delaware | 經濟學系 | 博士 | 2005.01 ~ 2008.12",
+      "美國 | University of Delaware | 經濟學系 | 碩士 | 2003.09 ~ 2004.12",
+      "臺灣,中華民國 | 國立東華大學 | 國際經濟研究所 | 碩士 | 1999.09 ~ 2001.06",
+      "臺灣,中華民國 | 國立政治大學 | 金融學系 | 學士 | 1995.09 ~ 1999.06"
+    ],
+    "education_en": [
+      "U.S.A. | University of Delaware | Economics | 博士 | 2005.01 ~ 2008.12",
+      "U.S.A. | University of Delaware | 經濟學系 | 碩士 | 2003.09 ~ 2004.12",
+      "TAIWAN, REPUBLIC OF CHINA | 國立東華大學 | 國際經濟研究所 | 碩士 | 1999.09 ~ 2001.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 金融學系 | 學士 | 1995.09 ~ 1999.06"
+    ],
+    "research_interests_zh": [
+      "公司治理 市場微結構"
+    ],
+    "research_interests_en": [
+      "Behavioral Finance, Financial Institution Risk Management"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%9E%97%E9%9D%96%E5%BA%AD-2578423",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E6%9E%97%E9%9D%96%E5%BA%AD-2578423"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/CHING-TING-LIN-2578423",
+      "https://banking.nccu.edu.tw/en/Members/Members1/CHING-TING-LIN-2578423"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "ae936c6514c6745a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-楊曉文-bfe05b5d2b",
+    "school_id": "nccu-mb",
+    "name_zh": ": 楊曉文",
+    "name_en": ": SHEAUWEN YANG",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "英國 | 赫里奧特-瓦特大學 | 統計與精算研究所 | 博士 | 1998.07 ~ 2001.11",
+      "美國 | 愛荷華大學 | 統計學類 | 碩士 | 1995.08 ~ 1997.05"
+    ],
+    "education_en": [
+      "UNITED KINGDOM | Heriot-Watt University | Actuarial Mathematics | 博士 | 1998.07 ~ 2001.11",
+      "U.S.A. | 愛荷華大學 | 統計學類 | 碩士 | 1995.08 ~ 1997.05"
+    ],
+    "research_interests_zh": [
+      "永續金融、氣候及碳金融、銀髮金融、金融商品創新、金融監理與政策、退休金制度與投資、財務精算、風險管理"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%A5%8A%E6%9B%89%E6%96%87-28599675",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E6%A5%8A%E6%9B%89%E6%96%87-28599675"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/SHEAUWEN-YANG-28599675",
+      "https://banking.nccu.edu.tw/en/Members/Members1/SHEAUWEN-YANG-28599675"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "ecbe2ae88604f680@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-殷乃平-d68e64b186",
+    "school_id": "nccu-mb",
+    "name_zh": ": 殷乃平",
+    "name_en": ": NORMAN YIN",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任",
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "美國 | 美國華盛頓州州立大學 | 經濟學系 | 碩士 | 1970.01 ~ 1972.05",
+      "臺灣,中華民國 | 國立政治大學 | 財政研究所 | 碩士 | 1967.09 ~ 1969.07",
+      "臺灣,中華民國 | 國立政治大學 | 財稅學系 | 學士 | 1962.09 ~ 1966.07"
+    ],
+    "education_en": [
+      "U.S.A. | Washington State University | Economics | 碩士 | 1970.01 ~ 1972.05",
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 財政研究所 | 碩士 | 1967.09 ~ 1969.07",
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 財稅學系 | 學士 | 1962.09 ~ 1966.07"
+    ],
+    "research_interests_zh": [
+      "金融制度、法規與銀行管理"
+    ],
+    "research_interests_en": [
+      "Financial System, Financial Regulations, Bank Management"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2",
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2/%E6%AE%B7%E4%B9%83%E5%B9%B3-57954357",
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%AE%B7%E4%B9%83%E5%B9%B3-57954357"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2/NORMAN-YIN-57954357",
+      "https://banking.nccu.edu.tw/en/Members/NORMAN-YIN-57954357"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "0ad5c8d0e70f42d3@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-江彌修-10fe15f5d0",
+    "school_id": "nccu-mb",
+    "name_zh": ": 江彌修",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "英國 | 倫敦帝國理工學院 | 計量金融研究所 | 博士 | 1994.10 ~ 2000.01",
+      "英國 | 倫敦帝國理工學院 | 數學系 | 碩士 | 1993.10 ~ 1994.10",
+      "英國 | 倫敦帝國理工學院 | 數學系 | 學士 | 1990.10 ~ 1993.10"
+    ],
+    "education_en": [
+      "UNITED KINGDOM | Imperial College London | Quantitative Finance Centre for Quantitative Finance | 博士 | 1994.10 ~ 2000.01",
+      "UNITED KINGDOM | Imperial College London | Mathematics | 碩士 | 1993.10 ~ 1994.10",
+      "UNITED KINGDOM | Imperial College London | Mathematics | 學士 | 1990.10 ~ 1993.10"
+    ],
+    "research_interests_zh": [
+      "計量金融與財務工程"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%B1%9F%E5%BD%8C%E4%BF%AE-23401924",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E6%B1%9F%E5%BD%8C%E4%BF%AE-23401924"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/%E6%B1%9F%E5%BD%8C%E4%BF%AE-23401924",
+      "https://banking.nccu.edu.tw/en/Members/Members1/%E6%B1%9F%E5%BD%8C%E4%BF%AE-23401924"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "0c766cddeccb1f66@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-江永裕-6d4512e3aa",
+    "school_id": "nccu-mb",
+    "name_zh": ": 江永裕",
+    "name_en": ": YEONG-YUH CHIANG",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任",
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "美國 | 美國明尼蘇達大學 | 經濟學系 | 博士 | 1986.09 ~ 1993.03",
+      "臺灣,中華民國 | 國立政治大學 | 國際貿易(學)系 | 碩士 | 1979.08 ~ 1981.06",
+      "臺灣,中華民國 | 國立政治大學 | 銀行學系 | 學士 | 1975.09 ~ 1979.06"
+    ],
+    "education_en": [
+      "U.S.A. | University of Minnesota | Economics | 博士 | 1986.09 ~ 1993.03",
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 國際貿易(學)系 | 碩士 | 1979.08 ~ 1981.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 銀行學系 | 學士 | 1975.09 ~ 1979.06"
+    ],
+    "research_interests_zh": [
+      "金融理論、國貿理論、管理經濟"
+    ],
+    "research_interests_en": [
+      "theory of finance, theory of international trade, managerial economics"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2",
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2/%E6%B1%9F%E6%B0%B8%E8%A3%95-89916001",
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E6%B1%9F%E6%B0%B8%E8%A3%95-89916001"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2/YEONG-YUH-CHIANG-89916001",
+      "https://banking.nccu.edu.tw/en/Members/YEONG-YUH-CHIANG-89916001"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "fc71222c95e497df@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-羅秉政-7c7cc9688b",
+    "school_id": "nccu-mb",
+    "name_zh": ": 羅秉政",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "臺灣,中華民國 | 國立臺灣大學 | 管理學院國際企業學系國際財務與金融組 | 博士 | 2012.09 ~ 2017.12"
+    ],
+    "education_en": [
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 管理學院國際企業學系國際財務與金融組 | 博士 | 2012.09 ~ 2017.12"
+    ],
+    "research_interests_zh": [
+      "資本市場實證研究,會計盈餘品質,大規模假設檢定,財務機器學習 Empirical capital market research, accounting earnings quality, large-scale hypothesis testing, financial machine learning"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E7%BE%85%E7%A7%89%E6%94%BF-21057595",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E7%BE%85%E7%A7%89%E6%94%BF-21057595"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/%E7%BE%85%E7%A7%89%E6%94%BF-21057595",
+      "https://banking.nccu.edu.tw/en/Members/Members1/%E7%BE%85%E7%A7%89%E6%94%BF-21057595"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "4fd6a4d74a070312@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-蔡明潔-4030866b38",
+    "school_id": "nccu-mb",
+    "name_zh": ": 蔡明潔",
+    "name_en": ": MING-CHIEH TSAI",
+    "role_groups": [],
+    "titles_zh": [],
+    "titles_en": [],
+    "education_zh": [],
+    "education_en": [],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=3&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members?page_no=3&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E8%94%A1%E6%98%8E%E6%BD%94-62229674"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/MING-CHIEH-TSAI-62229674"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "2bed5f5d417ebe86@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-詹育儒-b0e506f68d",
+    "school_id": "nccu-mb",
+    "name_zh": ": 詹育儒",
+    "name_en": ": Yu-Ju Chan",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "香港 | 香港大學 | 金融學系 | 博士 | 2019.09 ~ 2024.06"
+    ],
+    "education_en": [
+      "HONG KONG | 香港大學 | 金融學系 | 博士 | 2019.09 ~ 2024.06"
+    ],
+    "research_interests_zh": [
+      "共同基金,實證資產定價,資本市場"
+    ],
+    "research_interests_en": [
+      "Mutual funds, Empirical asset pricing, Capital markets."
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E8%A9%B9%E8%82%B2%E5%84%92-98178118",
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E8%A9%B9%E8%82%B2%E5%84%92-98178118"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members1/Yu-Ju-Chan-98178118",
+      "https://banking.nccu.edu.tw/en/Members/Yu-Ju-Chan-98178118"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "42c95f248716a619@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-趙世偉-bb0dcdcc7f",
+    "school_id": "nccu-mb",
+    "name_zh": ": 趙世偉",
+    "name_en": ": SHIH-WEI CHAO",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Associate Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "美國 | 美國加州大學戴維斯分校 | 經濟學系 | 博士 | 2005.09 ~ 2010.06"
+    ],
+    "education_en": [
+      "U.S.A. | University of California, Davis | Economics | 博士 | 2005.09 ~ 2010.06"
+    ],
+    "research_interests_zh": [
+      "Monetary Economics, Financial Economics"
+    ],
+    "research_interests_en": [
+      "Monetary Economics, Financial Economics"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E8%B6%99%E4%B8%96%E5%81%89-71495440",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E8%B6%99%E4%B8%96%E5%81%89-71495440"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/SHIH-WEI-CHAO-71495440",
+      "https://banking.nccu.edu.tw/en/Members/Members1/SHIH-WEI-CHAO-71495440"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "409cb52e27a337f8@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-金帛春-6af918f80e",
+    "school_id": "nccu-mb",
+    "name_zh": ": 金帛春",
+    "name_en": ": BAEK-CHUN KIM",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "新加坡 | 南洋理工大學 | 金融學系 | 博士 | 2015.07 ~ 2020.05"
+    ],
+    "education_en": [
+      "SINGAPORE | 南洋理工大學 | 金融學系 | 博士 | 2015.07 ~ 2020.05"
+    ],
+    "research_interests_zh": [
+      "Empirical asset pricing based on production-based asset pricing, Productivity, Innovation, Insider trading"
+    ],
+    "research_interests_en": [
+      "Empirical asset pricing based on production-based asset pricing, Productivity, Innovation, Insider trading"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=1&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members",
+      "https://banking.nccu.edu.tw/en/Members/Members1",
+      "https://banking.nccu.edu.tw/en/Members?page_no=1&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=1&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E9%87%91%E5%B8%9B%E6%98%A5-45739640",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E9%87%91%E5%B8%9B%E6%98%A5-45739640"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/BAEK-CHUN-KIM-45739640",
+      "https://banking.nccu.edu.tw/en/Members/Members1/BAEK-CHUN-KIM-45739640"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "0f9643ca006ffead@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-陳威光-119fc2a584",
+    "school_id": "nccu-mb",
+    "name_zh": ": 陳威光",
+    "name_en": ": WEI-KUANG CHEN",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任",
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "美國 | 美國紐約州立大學 | 經濟學系 | 博士 | 1987.09 ~ 1992.06",
+      "台灣,中華民國 | 國立臺灣大學 | 經濟學系 | 學士 | 1978.09 ~ 1981.06"
+    ],
+    "education_en": [
+      "UNITED STATES | State University of New York | Economics | 博士 | 1987.09 ~ 1992.06",
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 經濟學系 | 學士 | 1978.09 ~ 1981.06"
+    ],
+    "research_interests_zh": [
+      "衍生性商品、風險管理"
+    ],
+    "research_interests_en": [
+      "Financial Derivatives, Risk Management"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2",
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2/%E9%99%B3%E5%A8%81%E5%85%89-52149772",
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E9%99%B3%E5%A8%81%E5%85%89-52149772"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2/WEI-KUANG-CHEN-52149772",
+      "https://banking.nccu.edu.tw/en/Members/WEI-KUANG-CHEN-52149772"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "e8bdea63de273d6d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-陳正暉-5d7134b1d1",
+    "school_id": "nccu-mb",
+    "name_zh": ": 陳正暉",
+    "name_en": ": Zheng-Hui Chen",
+    "role_groups": [
+      "full_time",
+      "adjunct",
+      "project"
+    ],
+    "titles_zh": [
+      "兼任",
+      "助理教授級約聘教學人員"
+    ],
+    "titles_en": [
+      "Assistant Professor-level Contracted Teacher",
+      "Full-time"
+    ],
+    "education_zh": [
+      "臺灣,中華民國 | 國立政治大學 | 金融學系 | 博士 | 2004.09 ~ 2010.06"
+    ],
+    "education_en": [
+      "TAIWAN, REPUBLIC OF CHINA | 國立政治大學 | 金融學系 | 博士 | 2004.09 ~ 2010.06"
+    ],
+    "research_interests_zh": [
+      "財務數學,計量經濟學"
+    ],
+    "research_interests_en": [
+      "Financial Mathematics, Econometrics"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2",
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2/-%E9%99%B3%E6%AD%A3%E6%9A%89-94366250",
+      "https://banking.nccu.edu.tw/zh_tw/Members/-%E9%99%B3%E6%AD%A3%E6%9A%89-94366250"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2/Zheng-Hui-Chen-94366250",
+      "https://banking.nccu.edu.tw/en/Members/Zheng-Hui-Chen-94366250"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "0a9b94858f261b19@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-陳韋達-69b2d375bd",
+    "school_id": "nccu-mb",
+    "name_zh": ": 陳韋達",
+    "name_en": "",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授",
+      "專任"
+    ],
+    "titles_en": [
+      "Assistant Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "臺灣,中華民國 | 國立臺灣大學 | 財務金融(學)系 | 博士 | 2010.08 ~ 2021.07"
+    ],
+    "education_en": [
+      "TAIWAN, REPUBLIC OF CHINA | 國立臺灣大學 | 財務金融(學)系 | 博士 | 2010.08 ~ 2021.07"
+    ],
+    "research_interests_zh": [
+      "金融機構管理"
+    ],
+    "research_interests_en": [],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&",
+      "https://banking.nccu.edu.tw/en/Members/Members1?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E9%99%B3%E9%9F%8B%E9%81%94-59535532",
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members1/%E9%99%B3%E9%9F%8B%E9%81%94-59535532"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/%E9%99%B3%E9%9F%8B%E9%81%94-59535532",
+      "https://banking.nccu.edu.tw/en/Members/Members1/%E9%99%B3%E9%9F%8B%E9%81%94-59535532"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "e7ca53f12d298eb4@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  },
+  {
+    "faculty_id": "nccu-mb-黃台心-e46c71fea9",
+    "school_id": "nccu-mb",
+    "name_zh": ": 黃台心",
+    "name_en": ": TAI-HSIN HUANG",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任",
+      "教授"
+    ],
+    "titles_en": [
+      "Professor",
+      "Full-time"
+    ],
+    "education_zh": [
+      "美國 | 美國紐約州立大學石溪分校 | 經濟學系 | 博士 | 1983.09 ~ 1988.12",
+      "臺灣,中華民國 | 私立東吳大學 | 經濟學系 | 學士 | 1978.09 ~ 1982.06"
+    ],
+    "education_en": [
+      "U.S.A. | The State University of New York, Stony Brook | Economics | 博士 | 1983.09 ~ 1988.12",
+      "TAIWAN, REPUBLIC OF CHINA | 私立東吳大學 | 經濟學系 | 學士 | 1978.09 ~ 1982.06"
+    ],
+    "research_interests_zh": [
+      "效率與生產力分析、 應用個體計量分析"
+    ],
+    "research_interests_en": [
+      "Efficiency and Productivity Analysis, Applied Econometrics, Labor Economics"
+    ],
+    "listing_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2",
+      "https://banking.nccu.edu.tw/zh_tw/Members?page_no=2&"
+    ],
+    "listing_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2",
+      "https://banking.nccu.edu.tw/en/Members?page_no=2&"
+    ],
+    "profile_urls_zh": [
+      "https://banking.nccu.edu.tw/zh_tw/Members/Members2/%E9%BB%83%E5%8F%B0%E5%BF%83-37095274",
+      "https://banking.nccu.edu.tw/zh_tw/Members/%E9%BB%83%E5%8F%B0%E5%BF%83-37095274"
+    ],
+    "profile_urls_en": [
+      "https://banking.nccu.edu.tw/en/Members/Members2/TAI-HSIN-HUANG-37095274",
+      "https://banking.nccu.edu.tw/en/Members/TAI-HSIN-HUANG-37095274"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "1095979aa4ebed2a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T09:25:47+08:00"
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "unit": "ntu-comm-engin-ds-network",
+  "level": "school",
+  "school_ids": [
+    "ntu-comm-engin-ds-network"
+  ],
+  "deduplicated": false,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 25,
+    "n_entities": 25,
+    "n_duplicate_records_removed": 0,
+    "n_in_network": 25,
+    "n_excluded_no_keywords": 0,
+    "coverage_pct": 100.0
+  },
+  "bipartite": {
+    "n_professors": 25,
+    "n_keywords": 31,
+    "n_edges": 74,
+    "density": 0.09548387096774194,
+    "n_connected_components": 1,
+    "lcc_n_nodes": 56,
+    "lcc_n_professors": 25,
+    "lcc_n_keywords": 31,
+    "lcc_node_share": 1.0,
+    "lcc_professor_share": 1.0,
+    "professor_degree_mean": 2.96,
+    "professor_degree_max": 7,
+    "keyword_degree_mean": 2.3870967741935485,
+    "keyword_degree_max": 9
+  },
+  "keyword_network": {
+    "n_nodes": 31,
+    "n_edges": 89,
+    "density": 0.1913978494623656,
+    "mean_degree": 5.741935483870968,
+    "mean_weight": 1.1348314606741574,
+    "avg_clustering": 0.7221896383186706,
+    "modularity_q_by_resolution": {
+      "0.7": 0.49584844623076174,
+      "1.0": 0.4065777864915205,
+      "1.3": 0.32657092441917457
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 4,
+      "1.3": 4
+    },
+    "modularity_q": 0.4065777864915205,
+    "n_communities": 4,
+    "girvan_newman": {
+      "n_communities": 5,
+      "modularity_q": 0.35971963532986967
+    },
+    "taxonomy_alignment_nmi": 0.4319275341369018,
+    "taxonomy_alignment_ari": 0.19868660053094872,
+    "pearson_degree_betweenness_r": 0.8312152456411225,
+    "pearson_degree_betweenness_p": 7.0350590364676805e-09
+  },
+  "professor_network": {
+    "n_nodes": 25,
+    "n_edges": 153,
+    "density": 0.51,
+    "mean_degree": 12.24,
+    "avg_clustering": 0.8415328294893513,
+    "modularity_q_by_resolution": {
+      "0.7": 0.47490397673526163,
+      "1.0": 0.37393381193176095,
+      "1.3": 0.27296364712826027
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 3,
+      "1.3": 3
+    },
+    "modularity_q": 0.37393381193176095,
+    "n_communities": 3,
+    "assortativity_dominant_l1": 0.3698716933312212,
+    "assortativity_role_groups": -0.017830852282021872,
+    "assortativity_school": NaN,
+    "community_vs_dominant_l1_nmi": 0.8385449415808351,
+    "community_vs_dominant_l1_ari": 0.8180955393862702
+  },
+  "guardrails": {
+    "l1_too_broad": [
+      "Vision, Multimedia & Human-Centered Computing"
+    ],
+    "lambda_over_merging": []
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 0,
+    "professors_without_chinese_name": []
+  }
+}

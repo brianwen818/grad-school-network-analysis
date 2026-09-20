@@ -1,0 +1,111 @@
+{
+  "unit": "cs",
+  "level": "group",
+  "school_ids": [
+    "ncku-cs-ie",
+    "nthu-cs",
+    "ntu-cs-ie",
+    "ntu-im",
+    "nycu-cs"
+  ],
+  "deduplicated": true,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 416,
+    "n_entities": 411,
+    "n_duplicate_records_removed": 5,
+    "n_in_network": 381,
+    "n_excluded_no_keywords": 30,
+    "coverage_pct": 92.7
+  },
+  "bipartite": {
+    "n_professors": 381,
+    "n_keywords": 115,
+    "n_edges": 1159,
+    "density": 0.026452128266575375,
+    "n_connected_components": 3,
+    "lcc_n_nodes": 492,
+    "lcc_n_professors": 379,
+    "lcc_n_keywords": 113,
+    "lcc_node_share": 0.9919354838709677,
+    "lcc_professor_share": 0.994750656167979,
+    "professor_degree_mean": 3.041994750656168,
+    "professor_degree_max": 9,
+    "keyword_degree_mean": 10.078260869565218,
+    "keyword_degree_max": 83
+  },
+  "keyword_network": {
+    "n_nodes": 113,
+    "n_edges": 851,
+    "density": 0.13448166877370418,
+    "mean_degree": 15.061946902654867,
+    "mean_weight": 1.9600470035252644,
+    "avg_clustering": 0.5882302184167933,
+    "modularity_q_by_resolution": {
+      "0.7": 0.37634689011380823,
+      "1.0": 0.29478341787002055,
+      "1.3": 0.22666487313746125
+    },
+    "n_communities_by_resolution": {
+      "0.7": 4,
+      "1.0": 7,
+      "1.3": 8
+    },
+    "modularity_q": 0.29478341787002055,
+    "n_communities": 7,
+    "girvan_newman": {},
+    "taxonomy_alignment_nmi": 0.4489780290344378,
+    "taxonomy_alignment_ari": 0.23750804065354433,
+    "pearson_degree_betweenness_r": 0.7118095257067807,
+    "pearson_degree_betweenness_p": 9.80090770276819e-19
+  },
+  "professor_network": {
+    "n_nodes": 379,
+    "n_edges": 18688,
+    "density": 0.26089263028577014,
+    "mean_degree": 98.6174142480211,
+    "avg_clustering": 0.7189596644600255,
+    "modularity_q_by_resolution": {
+      "0.7": 0.39135841006985245,
+      "1.0": 0.3146996348490182,
+      "1.3": 0.2509613049410756
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 5,
+      "1.3": 9
+    },
+    "modularity_q": 0.3146996348490182,
+    "n_communities": 5,
+    "assortativity_dominant_l1": 0.23833214581346457,
+    "assortativity_role_groups": 0.0001315287880847998,
+    "assortativity_school": 0.0031660278327473534,
+    "community_vs_dominant_l1_nmi": 0.43151862440068733,
+    "community_vs_dominant_l1_ari": 0.28075617929482394
+  },
+  "guardrails": {
+    "l1_too_broad": [],
+    "lambda_over_merging": [
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 2,
+    "professors_without_chinese_name": [
+      {
+        "node_id": "nthu-cs-chunglaungliu-81c34bb998",
+        "name_en": "Chung Laung Liu"
+      },
+      {
+        "node_id": "nthu-cs-wenlianhsu-baee37b511",
+        "name_en": "Wen-Lian Hsu"
+      }
+    ]
+  }
+}

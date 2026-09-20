@@ -1,0 +1,31 @@
+﻿node_id,professor_name,name_en,school_ids,role_groups,n_keywords,phd_institution,n_appointments
+ntu-im-何承遠-cf78426b61,何承遠,Cheng-Yuan Ho,ntu-im,full_time | project,6,National Chiao Tung University,1
+ntu-im-劉若慧-6dfb552dd3,劉若慧,Olivia Liu Sheng,ntu-im,chair,9,Arizona State University,1
+ntu-im-吳玲玲-b1cc11729b,吳玲玲,Ling-Ling Wu,ntu-im,full_time,1,University of Chicago,1
+ntu-im-孔令傑-e559d7c758,孔令傑,Ling-Chieh Kung,ntu-im,full_time,2,"University of California, Berkeley",1
+ntu-im-孫雅麗-3feed1b304,孫雅麗,Yeali Sun,ntu-im,full_time,3,"University of California, Los Angeles",1
+ntu-im-彭志宏-82251610cf,彭志宏,Chih-Hung PENG,ntu-im,full_time,4,,1
+ntu-im-曹承礎-c4150b76bf,曹承礎,Seng-Cho Chou,ntu-im,full_time,5,University of Illinois Urbana-Champaign,1
+ntu-im-李家岩-6ba583b1b6,李家岩,Chia-Yen Lee,ntu-im,full_time,3,Texas A&M University,2
+ntu-im-李根逸-da82e4a379,李根逸,Ken-Yi Lee,ntu-im,adjunct | full_time,4,,1
+ntu-im-李瑞庭-aa45881e08,李瑞庭,J. T. Lee,ntu-im,full_time,2,University of Illinois Urbana-Champaign,1
+ntu-im-林永松-dc984527a6,林永松,Yeong-Sung Lin,ntu-im,full_time,7,University of Southern California,1
+ntu-im-楊立偉-002d946f70,楊立偉,Willie Li-wei Yang,ntu-im,adjunct | full_time,1,,1
+ntu-im-王春笙-478b704144,王春笙,Chun-Sheng Wang,ntu-im,adjunct | full_time,1,National Taiwan University,1
+ntu-im-畢南怡-4db729714a,畢南怡,Nanyi Bi,ntu-im,full_time,1,,1
+ntu-im-盧信銘-ac737946aa,盧信銘,Hsin-Min Lu,ntu-im,,3,University of Arizona,1
+ntu-im-穆信成-cf38907306,穆信成,Shin-Cheng Mu,ntu-im,joint,1,University of Oxford,1
+ntu-im-翁崇雄-a45a797db7,翁崇雄,Chorng-Shyong Ong,ntu-im,adjunct,1,National Taiwan University,1
+ntu-im-莊裕澤-6aba42587c,莊裕澤,Yuh-Jzer Joung,ntu-im,full_time,3,Stony Brook University,1
+ntu-im-蔡益坤-b2ae2b2f7c,蔡益坤,Yih-Kuen Tsay,ntu-im,full_time,2,"University of California, Los Angeles",1
+ntu-im-蕭邱漢-887e21f502,蕭邱漢,Chiu-Han Hsiao,ntu-im,adjunct | full_time,5,,1
+ntu-im-陳仲儼-e8851126e5,陳仲儼,Jung-Yan Chen,ntu-im,adjunct,1,University of Arizona,1
+ntu-im-陳建錦-02f4784706,陳建錦,Chien Chin Chen,ntu-im,full_time,3,National Taiwan University,1
+ntu-im-陳文賢-0756ac0f09,陳文賢,Wen-Hsien Chen,ntu-im,adjunct,3,"University of California, Berkeley",1
+ntu-im-陳炘鈞-a14cb18eab,陳炘鈞,Hsin-Chun Chen,ntu-im,chair,8,New York University,1
+ntu-im-陳炳宇-4670eb5fcd,陳炳宇,Bing-Yu Chen,ntu-im,full_time,4,,2
+ntu-im-陳靜枝-eab2ccfdb6,陳靜枝,Ching-Chin Chern,ntu-im,full_time,1,,1
+ntu-im-魏志平-1e1877736d,魏志平,Chih-Ping Wei,ntu-im,full_time,6,University of Arizona,1
+ntu-im-魏資文-17ab818dbe,魏資文,Tzu-Wen Wei,ntu-im,adjunct,1,,1
+ntu-im-黃意婷-dd1ec1a025,黃意婷,Yi-Ting Huang,ntu-im,adjunct | full_time,4,National Taiwan University,1
+ntu-im-黃明蕙-69aee8c193,黃明蕙,Ming-Hui Huang,ntu-im,chair,1,University of Wisconsin-Madison,1

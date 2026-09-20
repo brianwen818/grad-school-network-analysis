@@ -1,0 +1,27 @@
+{
+  "school_id": "nccu-fin",
+  "analyzed_at": "2026-09-09T09:22:09+08:00",
+  "faculty_count": 23,
+  "role_counts": {
+    "adjunct": 11,
+    "chair": 10,
+    "emeritus": 1,
+    "faculty": 1,
+    "full_time": 14
+  },
+  "merge_status_counts": {
+    "matched": 23
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 0.8696,
+    "education_zh": 0.9565,
+    "education_en": 0.9565,
+    "research_interests_zh": 1.0,
+    "research_interests_en": 0.6957
+  },
+  "pages_visited": 60,
+  "warnings": [],
+  "errors": []
+}

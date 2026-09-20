@@ -1,0 +1,2494 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d8" for="edge" attr.name="cosine" attr.type="double"/>
+<key id="d7" for="edge" attr.name="jaccard" attr.type="double"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d5" for="node" attr.name="community" attr.type="long"/>
+<key id="d4" for="node" attr.name="idf" attr.type="double"/>
+<key id="d3" for="node" attr.name="n_faculty_in_unit" attr.type="long"/>
+<key id="d2" for="node" attr.name="parent_l1" attr.type="string"/>
+<key id="d1" for="node" attr.name="parent_l2" attr.type="string"/>
+<key id="d0" for="node" attr.name="kind" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Business Valuation">
+  <data key="d0">keyword</data>
+  <data key="d1">Corporate Finance &amp; Valuation</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">1</data>
+  <data key="d4">6.496774990185863</data>
+  <data key="d5">1</data>
+</node>
+<node id="Financial Management">
+  <data key="d0">keyword</data>
+  <data key="d1">Corporate Finance &amp; Valuation</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">11</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">1</data>
+</node>
+<node id="Personal Finance">
+  <data key="d0">keyword</data>
+  <data key="d1">Banking &amp; Financial Technology</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">2</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">1</data>
+</node>
+<node id="Portfolio Management">
+  <data key="d0">keyword</data>
+  <data key="d1">Asset Pricing &amp; Investments</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">2</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">0</data>
+</node>
+<node id="Behavioral Finance">
+  <data key="d0">keyword</data>
+  <data key="d1">Behavioral &amp; International Finance</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">12</data>
+  <data key="d4">3.949763333410993</data>
+  <data key="d5">1</data>
+</node>
+<node id="Investments">
+  <data key="d0">keyword</data>
+  <data key="d1">Asset Pricing &amp; Investments</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">16</data>
+  <data key="d4">3.746558565700614</data>
+  <data key="d5">1</data>
+</node>
+<node id="Market Microstructure">
+  <data key="d0">keyword</data>
+  <data key="d1">Financial Markets &amp; Microstructure</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">6</data>
+  <data key="d4">4.712528704308591</data>
+  <data key="d5">1</data>
+</node>
+<node id="Entrepreneurship">
+  <data key="d0">keyword</data>
+  <data key="d1">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d2">Information Systems &amp; Management</data>
+  <data key="d3">3</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">1</data>
+</node>
+<node id="International Finance">
+  <data key="d0">keyword</data>
+  <data key="d1">Behavioral &amp; International Finance</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">14</data>
+  <data key="d4">3.8771357464277054</data>
+  <data key="d5">1</data>
+</node>
+<node id="Risk Management">
+  <data key="d0">keyword</data>
+  <data key="d1">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">22</data>
+  <data key="d4">3.3939246223330755</data>
+  <data key="d5">3</data>
+</node>
+<node id="Corporate Finance">
+  <data key="d0">keyword</data>
+  <data key="d1">Corporate Finance &amp; Valuation</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">34</data>
+  <data key="d4">3.0189891357182583</data>
+  <data key="d5">1</data>
+</node>
+<node id="Financial Markets">
+  <data key="d0">keyword</data>
+  <data key="d1">Financial Markets &amp; Microstructure</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">13</data>
+  <data key="d4">3.8771357464277054</data>
+  <data key="d5">1</data>
+</node>
+<node id="Credit Risk">
+  <data key="d0">keyword</data>
+  <data key="d1">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">6</data>
+  <data key="d4">4.712528704308591</data>
+  <data key="d5">3</data>
+</node>
+<node id="Financial Engineering">
+  <data key="d0">keyword</data>
+  <data key="d1">Derivatives &amp; Financial Engineering</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">14</data>
+  <data key="d4">3.8771357464277054</data>
+  <data key="d5">3</data>
+</node>
+<node id="Interest Rate Modeling">
+  <data key="d0">keyword</data>
+  <data key="d1">Derivatives &amp; Financial Engineering</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">2</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">3</data>
+</node>
+<node id="Corporate Governance">
+  <data key="d0">keyword</data>
+  <data key="d1">Governance &amp; Corporate Control</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">13</data>
+  <data key="d4">3.949763333410993</data>
+  <data key="d5">1</data>
+</node>
+<node id="Banking and Financial Institutions">
+  <data key="d0">keyword</data>
+  <data key="d1">Banking &amp; Financial Technology</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">15</data>
+  <data key="d4">3.746558565700614</data>
+  <data key="d5">3</data>
+</node>
+<node id="Asset Pricing">
+  <data key="d0">keyword</data>
+  <data key="d1">Asset Pricing &amp; Investments</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">19</data>
+  <data key="d4">3.529297384289471</data>
+  <data key="d5">1</data>
+</node>
+<node id="Econometrics">
+  <data key="d0">keyword</data>
+  <data key="d1">Econometrics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">29</data>
+  <data key="d4">3.138388573955514</data>
+  <data key="d5">2</data>
+</node>
+<node id="Financial Derivatives">
+  <data key="d0">keyword</data>
+  <data key="d1">Derivatives &amp; Financial Engineering</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">13</data>
+  <data key="d4">3.8771357464277054</data>
+  <data key="d5">3</data>
+</node>
+<node id="Mergers and Acquisitions">
+  <data key="d0">keyword</data>
+  <data key="d1">Governance &amp; Corporate Control</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">4</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">1</data>
+</node>
+<node id="Institutional Investors">
+  <data key="d0">keyword</data>
+  <data key="d1">Governance &amp; Corporate Control</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">2</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">1</data>
+</node>
+<node id="Real Estate Finance">
+  <data key="d0">keyword</data>
+  <data key="d1">Behavioral &amp; International Finance</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">4</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">0</data>
+</node>
+<node id="Accounting">
+  <data key="d0">keyword</data>
+  <data key="d1">Corporate Finance &amp; Valuation</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">8</data>
+  <data key="d4">4.427836170705175</data>
+  <data key="d5">0</data>
+</node>
+<node id="Game Theory">
+  <data key="d0">keyword</data>
+  <data key="d1">Game Theory &amp; Mechanism Design</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">5</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">2</data>
+</node>
+<node id="Microeconomics">
+  <data key="d0">keyword</data>
+  <data key="d1">Microeconomics &amp; Industrial Organization</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">6</data>
+  <data key="d4">4.712528704308591</data>
+  <data key="d5">2</data>
+</node>
+<node id="Macroeconomics">
+  <data key="d0">keyword</data>
+  <data key="d1">Macroeconomics &amp; Monetary Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">16</data>
+  <data key="d4">3.746558565700614</data>
+  <data key="d5">2</data>
+</node>
+<node id="Actuarial Science">
+  <data key="d0">keyword</data>
+  <data key="d1">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">2</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">3</data>
+</node>
+<node id="Sustainable Finance">
+  <data key="d0">keyword</data>
+  <data key="d1">Banking &amp; Financial Technology</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">5</data>
+  <data key="d4">4.893352133481524</data>
+  <data key="d5">1</data>
+</node>
+<node id="Machine Learning">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">5</data>
+  <data key="d4">2.084746593909529</data>
+  <data key="d5">0</data>
+</node>
+<node id="Financial Economics">
+  <data key="d0">keyword</data>
+  <data key="d1">Asset Pricing &amp; Investments</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">7</data>
+  <data key="d4">4.559873911072915</data>
+  <data key="d5">2</data>
+</node>
+<node id="Monetary Economics">
+  <data key="d0">keyword</data>
+  <data key="d1">Macroeconomics &amp; Monetary Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">8</data>
+  <data key="d4">4.427836170705175</data>
+  <data key="d5">2</data>
+</node>
+<node id="Labor Economics">
+  <data key="d0">keyword</data>
+  <data key="d1">Applied &amp; Policy Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">11</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">2</data>
+</node>
+<node id="Big Data Analytics">
+  <data key="d0">keyword</data>
+  <data key="d1">Data Mining &amp; Big Data Analytics</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">2</data>
+  <data key="d4">3.2394044050093296</data>
+  <data key="d5">0</data>
+</node>
+<node id="Financial Technology">
+  <data key="d0">keyword</data>
+  <data key="d1">Banking &amp; Financial Technology</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">6</data>
+  <data key="d4">3.809621071810065</data>
+  <data key="d5">0</data>
+</node>
+<node id="Innovation Management">
+  <data key="d0">keyword</data>
+  <data key="d1">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d2">Information Systems &amp; Management</data>
+  <data key="d3">1</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">0</data>
+</node>
+<node id="Insurance">
+  <data key="d0">keyword</data>
+  <data key="d1">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">4</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">3</data>
+</node>
+<node id="Probability Theory">
+  <data key="d0">keyword</data>
+  <data key="d1">Statistical Theory &amp; Inference</data>
+  <data key="d2">Statistics &amp; Statistical Methods</data>
+  <data key="d3">1</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">3</data>
+</node>
+<node id="Algorithms">
+  <data key="d0">keyword</data>
+  <data key="d1">Algorithms &amp; Computational Complexity</data>
+  <data key="d2">Theory &amp; Algorithms</data>
+  <data key="d3">2</data>
+  <data key="d4">2.674852131692614</data>
+  <data key="d5">0</data>
+</node>
+<node id="Theory of Computation">
+  <data key="d0">keyword</data>
+  <data key="d1">Algorithms &amp; Computational Complexity</data>
+  <data key="d2">Theory &amp; Algorithms</data>
+  <data key="d3">1</data>
+  <data key="d4">4.712528704308591</data>
+  <data key="d5">3</data>
+</node>
+<node id="Industrial Organization">
+  <data key="d0">keyword</data>
+  <data key="d1">Microeconomics &amp; Industrial Organization</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">7</data>
+  <data key="d4">4.559873911072915</data>
+  <data key="d5">2</data>
+</node>
+<node id="Mechanism Design">
+  <data key="d0">keyword</data>
+  <data key="d1">Game Theory &amp; Mechanism Design</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">3</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">2</data>
+</node>
+<node id="Time Series Analysis">
+  <data key="d0">keyword</data>
+  <data key="d1">Time Series &amp; Change Point Analysis</data>
+  <data key="d2">Statistics &amp; Statistical Methods</data>
+  <data key="d3">5</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">2</data>
+</node>
+<node id="International Economics">
+  <data key="d0">keyword</data>
+  <data key="d1">Applied &amp; Policy Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">1</data>
+  <data key="d4">6.496774990185863</data>
+  <data key="d5">2</data>
+</node>
+<node id="Health Economics">
+  <data key="d0">keyword</data>
+  <data key="d1">Applied &amp; Policy Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">2</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">2</data>
+</node>
+<node id="Public Economics">
+  <data key="d0">keyword</data>
+  <data key="d1">Applied &amp; Policy Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">3</data>
+  <data key="d4">5.401174751987744</data>
+  <data key="d5">2</data>
+</node>
+<node id="Environmental Economics">
+  <data key="d0">keyword</data>
+  <data key="d1">Applied &amp; Policy Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">1</data>
+  <data key="d4">6.496774990185863</data>
+  <data key="d5">0</data>
+</node>
+<node id="Development Economics">
+  <data key="d0">keyword</data>
+  <data key="d1">Applied &amp; Policy Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">2</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">2</data>
+</node>
+<node id="Political Economy">
+  <data key="d0">keyword</data>
+  <data key="d1">Applied &amp; Policy Economics</data>
+  <data key="d2">Economics &amp; Policy</data>
+  <data key="d3">7</data>
+  <data key="d4">4.559873911072915</data>
+  <data key="d5">2</data>
+</node>
+<node id="Social Network Analysis">
+  <data key="d0">keyword</data>
+  <data key="d1">Social &amp; Web Network Analytics</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">2</data>
+  <data key="d4">4.207673247529104</data>
+  <data key="d5">2</data>
+</node>
+<node id="Statistics">
+  <data key="d0">keyword</data>
+  <data key="d1">Statistical Theory &amp; Inference</data>
+  <data key="d2">Statistics &amp; Statistical Methods</data>
+  <data key="d3">3</data>
+  <data key="d4">3.076736057707078</data>
+  <data key="d5">2</data>
+</node>
+<node id="Asset Management">
+  <data key="d0">keyword</data>
+  <data key="d1">Asset Pricing &amp; Investments</data>
+  <data key="d2">Asset Pricing &amp; Financial Markets</data>
+  <data key="d3">2</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">1</data>
+</node>
+<node id="Initial Public Offerings">
+  <data key="d0">keyword</data>
+  <data key="d1">Corporate Finance &amp; Valuation</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">1</data>
+  <data key="d4">6.496774990185863</data>
+  <data key="d5">1</data>
+</node>
+<node id="Special Purpose Acquisition Companies">
+  <data key="d0">keyword</data>
+  <data key="d1">Governance &amp; Corporate Control</data>
+  <data key="d2">Corporate Finance &amp; Governance</data>
+  <data key="d3">1</data>
+  <data key="d4">6.496774990185863</data>
+  <data key="d5">1</data>
+</node>
+<node id="Causal Inference">
+  <data key="d0">keyword</data>
+  <data key="d1">Statistical Theory &amp; Inference</data>
+  <data key="d2">Statistics &amp; Statistical Methods</data>
+  <data key="d3">1</data>
+  <data key="d4">4.893352133481524</data>
+  <data key="d5">1</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">2</data>
+  <data key="d4">2.584696120396371</data>
+  <data key="d5">0</data>
+</node>
+<node id="Information Security">
+  <data key="d0">keyword</data>
+  <data key="d1">Information &amp; Systems Security</data>
+  <data key="d2">Security, Privacy &amp; Cryptography</data>
+  <data key="d3">2</data>
+  <data key="d4">2.888946240904944</data>
+  <data key="d5">0</data>
+</node>
+<node id="Cryptocurrency">
+  <data key="d0">keyword</data>
+  <data key="d1">Banking &amp; Financial Technology</data>
+  <data key="d2">Financial Engineering &amp; Risk</data>
+  <data key="d3">1</data>
+  <data key="d4">6.496774990185863</data>
+  <data key="d5">3</data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d0">keyword</data>
+  <data key="d1">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">4</data>
+  <data key="d4">1.9563404913341855</data>
+  <data key="d5">0</data>
+</node>
+<node id="Network Security">
+  <data key="d0">keyword</data>
+  <data key="d1">Information &amp; Systems Security</data>
+  <data key="d2">Security, Privacy &amp; Cryptography</data>
+  <data key="d3">1</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">0</data>
+</node>
+<node id="Bioinformatics">
+  <data key="d0">keyword</data>
+  <data key="d1">Bioinformatics &amp; Systems Biology</data>
+  <data key="d2">Biomedical &amp; Health Informatics</data>
+  <data key="d3">1</data>
+  <data key="d4">3.107042794704757</data>
+  <data key="d5">0</data>
+</node>
+<node id="Multimedia Systems">
+  <data key="d0">keyword</data>
+  <data key="d1">Graphics &amp; Multimedia Systems</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">2</data>
+  <data key="d4">2.5348100898864967</data>
+  <data key="d5">0</data>
+</node>
+<node id="Computer Networks">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer &amp; Wireless Networks</data>
+  <data key="d2">Networks &amp; Communications</data>
+  <data key="d3">1</data>
+  <data key="d4">3.047404284098312</data>
+  <data key="d5">0</data>
+</node>
+<node id="Robotics">
+  <data key="d0">keyword</data>
+  <data key="d1">Robotics &amp; Automation</data>
+  <data key="d2">Robotics, Control &amp; Smart Manufacturing</data>
+  <data key="d3">1</data>
+  <data key="d4">3.746558565700614</data>
+  <data key="d5">0</data>
+</node>
+<node id="Optimization">
+  <data key="d0">keyword</data>
+  <data key="d1">Optimization &amp; Operations Research</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">1</data>
+  <data key="d4">3.047404284098312</data>
+  <data key="d5">0</data>
+</node>
+<node id="Computer Vision">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">1</data>
+  <data key="d4">2.584696120396371</data>
+  <data key="d5">0</data>
+</node>
+<node id="Recommender Systems">
+  <data key="d0">keyword</data>
+  <data key="d1">Data Mining &amp; Big Data Analytics</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">1</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">0</data>
+</node>
+<node id="Reinforcement Learning">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">1</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">0</data>
+</node>
+<edge source="Business Valuation" target="Financial Management">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.30151134457776363</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Business Valuation" target="Personal Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Business Valuation" target="Portfolio Management">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Personal Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.21320071635561041</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Portfolio Management">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.21320071635561041</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Behavioral Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.045454545454545456</data>
+  <data key="d8">0.08703882797784893</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Investments">
+  <data key="d6">5</data>
+  <data key="d7">0.22727272727272727</data>
+  <data key="d8">0.3768891807222045</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Financial Management" target="Market Microstructure">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.12309149097933272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Entrepreneurship">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.17407765595569785</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="International Finance">
+  <data key="d6">4</data>
+  <data key="d7">0.19047619047619047</data>
+  <data key="d8">0.3223291856101521</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Financial Management" target="Risk Management">
+  <data key="d6">3</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.19284730395996752</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Financial Management" target="Corporate Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.022727272727272728</data>
+  <data key="d8">0.051708768999501914</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Financial Markets">
+  <data key="d6">3</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2508726030021272</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Financial Management" target="Corporate Governance">
+  <data key="d6">1</data>
+  <data key="d7">0.043478260869565216</data>
+  <data key="d8">0.08362420100070908</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Banking and Financial Institutions">
+  <data key="d6">1</data>
+  <data key="d7">0.04</data>
+  <data key="d8">0.0778498944161523</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Asset Pricing">
+  <data key="d6">1</data>
+  <data key="d7">0.034482758620689655</data>
+  <data key="d8">0.06917144638660747</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Financial Engineering">
+  <data key="d6">1</data>
+  <data key="d7">0.041666666666666664</data>
+  <data key="d8">0.08058229640253803</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Econometrics">
+  <data key="d6">1</data>
+  <data key="d7">0.02564102564102564</data>
+  <data key="d8">0.05598925109558543</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Management" target="Financial Derivatives">
+  <data key="d6">1</data>
+  <data key="d7">0.043478260869565216</data>
+  <data key="d8">0.08362420100070908</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Personal Finance" target="Portfolio Management">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Personal Finance" target="Corporate Governance">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.19611613513818404</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Personal Finance" target="Sustainable Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="Accounting">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="Behavioral Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.20412414523193154</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="Econometrics">
+  <data key="d6">1</data>
+  <data key="d7">0.03333333333333333</data>
+  <data key="d8">0.13130643285972254</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="Financial Engineering">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.1889822365046136</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="International Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.1889822365046136</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Portfolio Management" target="Real Estate Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Behavioral Finance" target="Investments">
+  <data key="d6">3</data>
+  <data key="d7">0.12</data>
+  <data key="d8">0.21650635094610968</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Behavioral Finance" target="Market Microstructure">
+  <data key="d6">2</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Behavioral Finance" target="Asset Pricing">
+  <data key="d6">3</data>
+  <data key="d7">0.10714285714285714</data>
+  <data key="d8">0.19867985355975656</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Behavioral Finance" target="Financial Markets">
+  <data key="d6">2</data>
+  <data key="d7">0.08695652173913043</data>
+  <data key="d8">0.16012815380508713</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Behavioral Finance" target="Banking and Financial Institutions">
+  <data key="d6">2</data>
+  <data key="d7">0.08</data>
+  <data key="d8">0.14907119849998599</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Behavioral Finance" target="Corporate Governance">
+  <data key="d6">4</data>
+  <data key="d7">0.19047619047619047</data>
+  <data key="d8">0.32025630761017426</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Behavioral Finance" target="Risk Management">
+  <data key="d6">2</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.12309149097933272</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Behavioral Finance" target="Accounting">
+  <data key="d6">2</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.20412414523193154</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Behavioral Finance" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.20412414523193154</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Behavioral Finance" target="Econometrics">
+  <data key="d6">1</data>
+  <data key="d7">0.025</data>
+  <data key="d8">0.05360562674188974</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Behavioral Finance" target="Financial Engineering">
+  <data key="d6">2</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.1543033499620919</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Behavioral Finance" target="Financial Technology">
+  <data key="d6">2</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Behavioral Finance" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Behavioral Finance" target="International Finance">
+  <data key="d6">2</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.1543033499620919</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Behavioral Finance" target="Real Estate Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.14433756729740646</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Behavioral Finance" target="Corporate Finance">
+  <data key="d6">6</data>
+  <data key="d7">0.15</data>
+  <data key="d8">0.2970442628930023</data>
+  <data key="d9">0.16666666666666666</data>
+</edge>
+<edge source="Behavioral Finance" target="Sustainable Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.12909944487358055</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Behavioral Finance" target="Causal Inference">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Behavioral Finance" target="Interest Rate Modeling">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.20412414523193154</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Investments" target="Market Microstructure">
+  <data key="d6">4</data>
+  <data key="d7">0.2222222222222222</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Investments" target="Entrepreneurship">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.14433756729740646</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Investments" target="International Finance">
+  <data key="d6">3</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.2004459314343183</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Investments" target="Risk Management">
+  <data key="d6">4</data>
+  <data key="d7">0.11764705882352941</data>
+  <data key="d8">0.21320071635561041</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Investments" target="Banking and Financial Institutions">
+  <data key="d6">3</data>
+  <data key="d7">0.10714285714285714</data>
+  <data key="d8">0.19364916731037085</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Investments" target="Corporate Finance">
+  <data key="d6">8</data>
+  <data key="d7">0.19047619047619047</data>
+  <data key="d8">0.34299717028501764</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Investments" target="Asset Pricing">
+  <data key="d6">2</data>
+  <data key="d7">0.06060606060606061</data>
+  <data key="d8">0.11470786693528087</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Investments" target="Corporate Governance">
+  <data key="d6">2</data>
+  <data key="d7">0.07407407407407407</data>
+  <data key="d8">0.1386750490563073</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Investments" target="Financial Markets">
+  <data key="d6">2</data>
+  <data key="d7">0.07407407407407407</data>
+  <data key="d8">0.1386750490563073</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Investments" target="Credit Risk">
+  <data key="d6">2</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.20412414523193154</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Investments" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.047619047619047616</data>
+  <data key="d8">0.10206207261596577</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Investments" target="Financial Derivatives">
+  <data key="d6">2</data>
+  <data key="d7">0.07407407407407407</data>
+  <data key="d8">0.1386750490563073</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Investments" target="Time Series Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.11180339887498948</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Investments" target="Econometrics">
+  <data key="d6">2</data>
+  <data key="d7">0.046511627906976744</data>
+  <data key="d8">0.09284766908852593</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Investments" target="Financial Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.045454545454545456</data>
+  <data key="d8">0.0944911182523068</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Market Microstructure" target="Banking and Financial Institutions">
+  <data key="d6">2</data>
+  <data key="d7">0.10526315789473684</data>
+  <data key="d8">0.21081851067789195</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Market Microstructure" target="Corporate Finance">
+  <data key="d6">3</data>
+  <data key="d7">0.08108108108108109</data>
+  <data key="d8">0.21004201260420147</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Market Microstructure" target="Risk Management">
+  <data key="d6">2</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.17407765595569785</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Market Microstructure" target="Corporate Governance">
+  <data key="d6">2</data>
+  <data key="d7">0.11764705882352941</data>
+  <data key="d8">0.22645540682891913</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Market Microstructure" target="Financial Markets">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.11322770341445956</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Market Microstructure" target="Financial Derivatives">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.11322770341445956</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Market Microstructure" target="Time Series Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.18257418583505536</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Entrepreneurship" target="International Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.1543033499620919</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Entrepreneurship" target="Risk Management">
+  <data key="d6">1</data>
+  <data key="d7">0.041666666666666664</data>
+  <data key="d8">0.12309149097933272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Entrepreneurship" target="Econometrics">
+  <data key="d6">1</data>
+  <data key="d7">0.03225806451612903</data>
+  <data key="d8">0.10721125348377948</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Entrepreneurship" target="Financial Markets">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.16012815380508713</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Entrepreneurship" target="Corporate Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.027777777777777776</data>
+  <data key="d8">0.09901475429766744</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Risk Management">
+  <data key="d6">3</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.1709408646894569</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="International Finance" target="Corporate Governance">
+  <data key="d6">1</data>
+  <data key="d7">0.038461538461538464</data>
+  <data key="d8">0.07412493166611012</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Banking and Financial Institutions">
+  <data key="d6">3</data>
+  <data key="d7">0.11538461538461539</data>
+  <data key="d8">0.20701966780270628</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="International Finance" target="Financial Engineering">
+  <data key="d6">3</data>
+  <data key="d7">0.12</data>
+  <data key="d8">0.21428571428571427</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="International Finance" target="Asset Pricing">
+  <data key="d6">3</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.18394180184548975</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="International Finance" target="Econometrics">
+  <data key="d6">4</data>
+  <data key="d7">0.10256410256410256</data>
+  <data key="d8">0.19851666679418603</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="International Finance" target="Accounting">
+  <data key="d6">1</data>
+  <data key="d7">0.047619047619047616</data>
+  <data key="d8">0.0944911182523068</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.1889822365046136</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Financial Technology">
+  <data key="d6">2</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.2182178902359924</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="International Finance" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Real Estate Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.1336306209562122</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Time Series Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.11952286093343936</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Monetary Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.047619047619047616</data>
+  <data key="d8">0.0944911182523068</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Financial Derivatives">
+  <data key="d6">2</data>
+  <data key="d7">0.08</data>
+  <data key="d8">0.14824986333222023</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="International Finance" target="Financial Markets">
+  <data key="d6">2</data>
+  <data key="d7">0.08</data>
+  <data key="d8">0.14824986333222023</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="International Finance" target="Corporate Finance">
+  <data key="d6">3</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.1375047745542317</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="International Finance" target="Political Economy">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.10101525445522107</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="International Finance" target="Sustainable Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.11952286093343936</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Risk Management" target="Credit Risk">
+  <data key="d6">3</data>
+  <data key="d7">0.12</data>
+  <data key="d8">0.26111648393354675</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Risk Management" target="Financial Engineering">
+  <data key="d6">8</data>
+  <data key="d7">0.2857142857142857</data>
+  <data key="d8">0.4558423058385518</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Risk Management" target="Interest Rate Modeling">
+  <data key="d6">2</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.30151134457776363</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Risk Management" target="Banking and Financial Institutions">
+  <data key="d6">6</data>
+  <data key="d7">0.1935483870967742</data>
+  <data key="d8">0.3302891295379082</data>
+  <data key="d9">0.16666666666666666</data>
+</edge>
+<edge source="Risk Management" target="Corporate Finance">
+  <data key="d6">3</data>
+  <data key="d7">0.05660377358490566</data>
+  <data key="d8">0.10969086361906959</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Risk Management" target="Actuarial Science">
+  <data key="d6">2</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.30151134457776363</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Risk Management" target="Econometrics">
+  <data key="d6">4</data>
+  <data key="d7">0.0851063829787234</data>
+  <data key="d8">0.15836151649297917</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Risk Management" target="Financial Derivatives">
+  <data key="d6">5</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2956561979945413</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Risk Management" target="Corporate Governance">
+  <data key="d6">1</data>
+  <data key="d7">0.029411764705882353</data>
+  <data key="d8">0.05913123959890826</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Risk Management" target="Sustainable Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.038461538461538464</data>
+  <data key="d8">0.09534625892455924</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Risk Management" target="Insurance">
+  <data key="d6">3</data>
+  <data key="d7">0.13043478260869565</data>
+  <data key="d8">0.31980107453341566</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Risk Management" target="Asset Pricing">
+  <data key="d6">2</data>
+  <data key="d7">0.05128205128205128</data>
+  <data key="d8">0.0978231976089037</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Risk Management" target="Algorithms">
+  <data key="d6">1</data>
+  <data key="d7">0.043478260869565216</data>
+  <data key="d8">0.15075567228888181</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Risk Management" target="Theory of Computation">
+  <data key="d6">1</data>
+  <data key="d7">0.045454545454545456</data>
+  <data key="d8">0.21320071635561041</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Risk Management" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.037037037037037035</data>
+  <data key="d8">0.08703882797784893</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Risk Management" target="Financial Markets">
+  <data key="d6">1</data>
+  <data key="d7">0.029411764705882353</data>
+  <data key="d8">0.05913123959890826</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Risk Management" target="Financial Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.03571428571428571</data>
+  <data key="d8">0.08058229640253803</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Financial Markets">
+  <data key="d6">3</data>
+  <data key="d7">0.06818181818181818</data>
+  <data key="d8">0.14269544824634822</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Corporate Finance" target="Banking and Financial Institutions">
+  <data key="d6">5</data>
+  <data key="d7">0.11363636363636363</data>
+  <data key="d8">0.22140372138502384</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Corporate Finance" target="Mergers and Acquisitions">
+  <data key="d6">3</data>
+  <data key="d7">0.08571428571428572</data>
+  <data key="d8">0.25724787771376323</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Corporate Finance" target="Corporate Governance">
+  <data key="d6">7</data>
+  <data key="d7">0.175</data>
+  <data key="d8">0.3329560459081458</data>
+  <data key="d9">0.14285714285714285</data>
+</edge>
+<edge source="Corporate Finance" target="Institutional Investors">
+  <data key="d6">2</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.24253562503633297</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Corporate Finance" target="Asset Pricing">
+  <data key="d6">4</data>
+  <data key="d7">0.08163265306122448</data>
+  <data key="d8">0.15737789507292674</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Corporate Finance" target="Financial Derivatives">
+  <data key="d6">3</data>
+  <data key="d7">0.06818181818181818</data>
+  <data key="d8">0.14269544824634822</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Corporate Finance" target="Insurance">
+  <data key="d6">1</data>
+  <data key="d7">0.02702702702702703</data>
+  <data key="d8">0.08574929257125441</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Econometrics">
+  <data key="d6">2</data>
+  <data key="d7">0.03278688524590164</data>
+  <data key="d8">0.0636929755298482</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Corporate Finance" target="Asset Management">
+  <data key="d6">2</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.24253562503633297</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Corporate Finance" target="Sustainable Finance">
+  <data key="d6">2</data>
+  <data key="d7">0.05405405405405406</data>
+  <data key="d8">0.15339299776947407</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Corporate Finance" target="Initial Public Offerings">
+  <data key="d6">1</data>
+  <data key="d7">0.029411764705882353</data>
+  <data key="d8">0.17149858514250882</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Special Purpose Acquisition Companies">
+  <data key="d6">1</data>
+  <data key="d7">0.029411764705882353</data>
+  <data key="d8">0.17149858514250882</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Credit Risk">
+  <data key="d6">2</data>
+  <data key="d7">0.05263157894736842</data>
+  <data key="d8">0.14002800840280097</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Corporate Finance" target="Accounting">
+  <data key="d6">2</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.12126781251816648</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Corporate Finance" target="Causal Inference">
+  <data key="d6">1</data>
+  <data key="d7">0.029411764705882353</data>
+  <data key="d8">0.17149858514250882</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Political Economy">
+  <data key="d6">1</data>
+  <data key="d7">0.025</data>
+  <data key="d8">0.06482037235521644</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.02631578947368421</data>
+  <data key="d8">0.07669649888473704</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Real Estate Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.02702702702702703</data>
+  <data key="d8">0.08574929257125441</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Statistics">
+  <data key="d6">1</data>
+  <data key="d7">0.027777777777777776</data>
+  <data key="d8">0.09901475429766744</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Finance" target="Financial Technology">
+  <data key="d6">2</data>
+  <data key="d7">0.05263157894736842</data>
+  <data key="d8">0.14002800840280097</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Markets" target="Asset Pricing">
+  <data key="d6">4</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2545139051903111</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Financial Markets" target="Macroeconomics">
+  <data key="d6">1</data>
+  <data key="d7">0.03571428571428571</data>
+  <data key="d8">0.06933752452815364</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Accounting">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.09805806756909202</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Machine Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.12403473458920847</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Econometrics">
+  <data key="d6">1</data>
+  <data key="d7">0.024390243902439025</data>
+  <data key="d8">0.051502620262460476</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Corporate Governance">
+  <data key="d6">1</data>
+  <data key="d7">0.04</data>
+  <data key="d8">0.07692307692307693</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Banking and Financial Institutions">
+  <data key="d6">2</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.1432229748078866</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Markets" target="Monetary Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.09805806756909202</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Financial Derivatives">
+  <data key="d6">1</data>
+  <data key="d7">0.04</data>
+  <data key="d8">0.07692307692307693</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Information Security">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.19611613513818404</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.11322770341445956</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Markets" target="Financial Engineering">
+  <data key="d6">1</data>
+  <data key="d7">0.038461538461538464</data>
+  <data key="d8">0.07412493166611012</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Credit Risk" target="Financial Engineering">
+  <data key="d6">2</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.2182178902359924</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Credit Risk" target="Interest Rate Modeling">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Credit Risk" target="Asset Pricing">
+  <data key="d6">2</data>
+  <data key="d7">0.08695652173913043</data>
+  <data key="d8">0.1873171623163388</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Credit Risk" target="Financial Derivatives">
+  <data key="d6">2</data>
+  <data key="d7">0.11764705882352941</data>
+  <data key="d8">0.22645540682891913</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Credit Risk" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.16666666666666666</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Engineering" target="Interest Rate Modeling">
+  <data key="d6">2</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.3779644730092272</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Engineering" target="Banking and Financial Institutions">
+  <data key="d6">2</data>
+  <data key="d7">0.07407407407407407</data>
+  <data key="d8">0.13801311186847084</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Engineering" target="Actuarial Science">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.1889822365046136</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Engineering" target="Econometrics">
+  <data key="d6">4</data>
+  <data key="d7">0.10256410256410256</data>
+  <data key="d8">0.19851666679418603</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Financial Engineering" target="Financial Derivatives">
+  <data key="d6">3</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.22237479499833035</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Financial Engineering" target="Accounting">
+  <data key="d6">1</data>
+  <data key="d7">0.047619047619047616</data>
+  <data key="d8">0.0944911182523068</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Engineering" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.1889822365046136</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Engineering" target="Financial Technology">
+  <data key="d6">3</data>
+  <data key="d7">0.17647058823529413</data>
+  <data key="d8">0.3273268353539886</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Financial Engineering" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Engineering" target="Real Estate Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.1336306209562122</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Engineering" target="Asset Pricing">
+  <data key="d6">2</data>
+  <data key="d7">0.06451612903225806</data>
+  <data key="d8">0.12262786789699316</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Engineering" target="Probability Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Engineering" target="Artificial Intelligence">
+  <data key="d6">1</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.1336306209562122</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Engineering" target="Statistics">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.1543033499620919</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Governance" target="Institutional Investors">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.19611613513818404</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Governance" target="Banking and Financial Institutions">
+  <data key="d6">1</data>
+  <data key="d7">0.037037037037037035</data>
+  <data key="d8">0.0716114874039433</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Governance" target="Sustainable Finance">
+  <data key="d6">2</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.24806946917841693</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Corporate Governance" target="Accounting">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.09805806756909202</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Governance" target="Asset Pricing">
+  <data key="d6">1</data>
+  <data key="d7">0.03225806451612903</data>
+  <data key="d8">0.06362847629757777</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Governance" target="Causal Inference">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.2773500981126146</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Corporate Governance" target="Mergers and Acquisitions">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.1386750490563073</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Actuarial Science">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.18257418583505536</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Econometrics">
+  <data key="d6">3</data>
+  <data key="d7">0.07317073170731707</data>
+  <data key="d8">0.14383899044561524</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Financial Derivatives">
+  <data key="d6">2</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.1432229748078866</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Insurance">
+  <data key="d6">2</data>
+  <data key="d7">0.11764705882352941</data>
+  <data key="d8">0.2581988897471611</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Time Series Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.05263157894736842</data>
+  <data key="d8">0.11547005383792514</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Monetary Economics">
+  <data key="d6">2</data>
+  <data key="d7">0.09523809523809523</data>
+  <data key="d8">0.18257418583505536</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Financial Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.047619047619047616</data>
+  <data key="d8">0.09759000729485333</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Macroeconomics">
+  <data key="d6">1</data>
+  <data key="d7">0.03333333333333333</data>
+  <data key="d8">0.06454972243679027</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.05263157894736842</data>
+  <data key="d8">0.11547005383792514</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Real Estate Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.12909944487358055</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Statistics">
+  <data key="d6">1</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.14907119849998599</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Banking and Financial Institutions" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.10540925533894598</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Econometrics">
+  <data key="d6">4</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.17040572913692198</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Asset Pricing" target="Financial Derivatives">
+  <data key="d6">1</data>
+  <data key="d7">0.03225806451612903</data>
+  <data key="d8">0.06362847629757777</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Financial Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.04</data>
+  <data key="d8">0.086710996952412</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Macroeconomics">
+  <data key="d6">1</data>
+  <data key="d7">0.029411764705882353</data>
+  <data key="d8">0.057353933467640436</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Time Series Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.043478260869565216</data>
+  <data key="d8">0.10259783520851541</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Accounting">
+  <data key="d6">1</data>
+  <data key="d7">0.038461538461538464</data>
+  <data key="d8">0.08111071056538127</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Causal Inference">
+  <data key="d6">1</data>
+  <data key="d7">0.05263157894736842</data>
+  <data key="d8">0.22941573387056174</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.16222142113076254</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Information Security">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.16222142113076254</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Machine Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.043478260869565216</data>
+  <data key="d8">0.10259783520851541</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Asset Pricing" target="Optimization">
+  <data key="d6">1</data>
+  <data key="d7">0.05263157894736842</data>
+  <data key="d8">0.22941573387056174</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Econometrics" target="Actuarial Science">
+  <data key="d6">1</data>
+  <data key="d7">0.03333333333333333</data>
+  <data key="d8">0.13130643285972254</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Econometrics" target="Financial Derivatives">
+  <data key="d6">2</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.10300524052492095</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Econometrics" target="Labor Economics">
+  <data key="d6">5</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2799462554779272</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Econometrics" target="Accounting">
+  <data key="d6">2</data>
+  <data key="d7">0.05714285714285714</data>
+  <data key="d8">0.13130643285972254</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Econometrics" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.03333333333333333</data>
+  <data key="d8">0.13130643285972254</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Econometrics" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.029411764705882353</data>
+  <data key="d8">0.07580980435789034</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Econometrics" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.034482758620689655</data>
+  <data key="d8">0.18569533817705186</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Econometrics" target="Real Estate Finance">
+  <data key="d6">3</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.2785430072655778</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Econometrics" target="Time Series Analysis">
+  <data key="d6">4</data>
+  <data key="d7">0.13333333333333333</data>
+  <data key="d8">0.3321819194149599</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Econometrics" target="Financial Economics">
+  <data key="d6">2</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.1403724812687193</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Econometrics" target="Macroeconomics">
+  <data key="d6">3</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.1392715036327889</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Econometrics" target="Health Economics">
+  <data key="d6">2</data>
+  <data key="d7">0.06896551724137931</data>
+  <data key="d8">0.2626128657194451</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Econometrics" target="Industrial Organization">
+  <data key="d6">1</data>
+  <data key="d7">0.02857142857142857</data>
+  <data key="d8">0.07018624063435965</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Econometrics" target="Environmental Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.034482758620689655</data>
+  <data key="d8">0.18569533817705186</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Econometrics" target="Machine Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.030303030303030304</data>
+  <data key="d8">0.08304547985373997</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Econometrics" target="Social Network Analysis">
+  <data key="d6">2</data>
+  <data key="d7">0.06896551724137931</data>
+  <data key="d8">0.2626128657194451</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Econometrics" target="Statistics">
+  <data key="d6">2</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.21442250696755896</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Econometrics" target="Public Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.03225806451612903</data>
+  <data key="d8">0.10721125348377948</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Derivatives" target="Actuarial Science">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.19611613513818404</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Derivatives" target="Insurance">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.1386750490563073</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Derivatives" target="Algorithms">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.19611613513818404</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Derivatives" target="Theory of Computation">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.2773500981126146</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Derivatives" target="Cryptocurrency">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.2773500981126146</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Derivatives" target="Financial Technology">
+  <data key="d6">2</data>
+  <data key="d7">0.11764705882352941</data>
+  <data key="d8">0.22645540682891913</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Derivatives" target="Time Series Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.12403473458920847</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Derivatives" target="Artificial Intelligence">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.1386750490563073</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Derivatives" target="Statistics">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.16012815380508713</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Institutional Investors" target="Asset Management">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Real Estate Finance" target="Accounting">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.17677669529663687</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Real Estate Finance" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Real Estate Finance" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.20412414523193154</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Real Estate Finance" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Real Estate Finance" target="Statistics">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Accounting" target="Machine Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.15811388300841897</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Accounting" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Accounting" target="Financial Technology">
+  <data key="d6">2</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Accounting" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Accounting" target="Causal Inference">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Accounting" target="Insurance">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.17677669529663687</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Game Theory" target="Microeconomics">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.18257418583505536</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Game Theory" target="Industrial Organization">
+  <data key="d6">2</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.3380617018914066</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Game Theory" target="Political Economy">
+  <data key="d6">3</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.50709255283711</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Game Theory" target="Mechanism Design">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2581988897471611</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Microeconomics" target="Industrial Organization">
+  <data key="d6">2</data>
+  <data key="d7">0.18181818181818182</data>
+  <data key="d8">0.3086066999241838</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Microeconomics" target="Financial Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.1543033499620919</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Microeconomics" target="Labor Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.12309149097933272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Microeconomics" target="Political Economy">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.1543033499620919</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Macroeconomics" target="Labor Economics">
+  <data key="d6">3</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.22613350843332272</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Macroeconomics" target="International Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Macroeconomics" target="Monetary Economics">
+  <data key="d6">4</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Macroeconomics" target="Financial Economics">
+  <data key="d6">3</data>
+  <data key="d7">0.15</data>
+  <data key="d8">0.2834733547569204</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Macroeconomics" target="Time Series Analysis">
+  <data key="d6">2</data>
+  <data key="d7">0.10526315789473684</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Macroeconomics" target="Public Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.14433756729740646</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Macroeconomics" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.17677669529663687</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Macroeconomics" target="Statistics">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.14433756729740646</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Actuarial Science" target="Sustainable Finance">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Sustainable Finance" target="Political Economy">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.1690308509457033</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Environmental Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Artificial Intelligence">
+  <data key="d6">2</data>
+  <data key="d7">0.2857142857142857</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Machine Learning" target="Information Security">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Optimization">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Financial Technology">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.18257418583505536</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Recommender Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Economics" target="Monetary Economics">
+  <data key="d6">2</data>
+  <data key="d7">0.15384615384615385</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Economics" target="Labor Economics">
+  <data key="d6">2</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2279211529192759</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Economics" target="Time Series Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.1690308509457033</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Monetary Economics" target="International Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Labor Economics" target="Development Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.21320071635561041</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Labor Economics" target="Health Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.21320071635561041</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Labor Economics" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.21320071635561041</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Labor Economics" target="Public Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.17407765595569785</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Big Data Analytics" target="Financial Technology">
+  <data key="d6">2</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Big Data Analytics" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Big Data Analytics" target="Artificial Intelligence">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Big Data Analytics" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Big Data Analytics" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Big Data Analytics" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Big Data Analytics" target="Recommender Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Big Data Analytics" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Technology" target="Innovation Management">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Technology" target="Artificial Intelligence">
+  <data key="d6">2</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Financial Technology" target="Statistics">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Technology" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Technology" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Technology" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Technology" target="Recommender Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Financial Technology" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Theory of Computation">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Artificial Intelligence">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Computer Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Robotics">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Industrial Organization" target="Health Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Industrial Organization" target="Political Economy">
+  <data key="d6">3</data>
+  <data key="d7">0.2727272727272727</data>
+  <data key="d8">0.42857142857142855</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Industrial Organization" target="Public Economics">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.2182178902359924</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Mechanism Design" target="Political Economy">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.2182178902359924</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Health Economics" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Public Economics" target="Political Economy">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.2182178902359924</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Development Economics" target="Political Economy">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Social Network Analysis" target="Statistics">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Statistics" target="Artificial Intelligence">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Initial Public Offerings" target="Special Purpose Acquisition Companies">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Artificial Intelligence">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Recommender Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Security" target="Artificial Intelligence">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Security" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Robotics">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Recommender Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Bioinformatics" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Recommender Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Networks" target="Robotics">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Recommender Systems">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Recommender Systems" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+</graph></graphml>

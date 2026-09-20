@@ -1,0 +1,1387 @@
+[
+  {
+    "faculty_id": "nycu-info-mag-fin-俞明德-560565dfd3",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "俞明德",
+    "name_en": "Min-Teh Yu",
+    "role_groups": [
+      "chair"
+    ],
+    "titles_zh": [
+      "講座教授"
+    ],
+    "titles_en": [
+      "University Chair Professor"
+    ],
+    "education_zh": [
+      "PhD, Ohio State University"
+    ],
+    "education_en": [
+      "PhD, Ohio State University"
+    ],
+    "research_interests_zh": [
+      "金融機構管理 風險管理與保險 期貨與選擇權"
+    ],
+    "research_interests_en": [
+      "Financial Institutions Risk Management and Insurance Derivatives Markets."
+    ],
+    "research_fields_zh": [
+      "金融機構管理 風險管理與保險 期貨與選擇權"
+    ],
+    "research_fields_en": [
+      "Financial Institutions Risk Management and Insurance Derivatives Markets."
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/view/mtyu/"
+    ],
+    "emails": [
+      "dae6a327bf077669@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-劉宗聖-deef95a488",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "劉宗聖",
+    "name_en": "Tsung-Sheng Liu",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任副教授級專業技術人員"
+    ],
+    "titles_en": [
+      "Adjunct Associate Professor"
+    ],
+    "education_zh": [
+      "上海財經大學金融學博士"
+    ],
+    "education_en": [
+      "Ph.D. in Finance, Shanghai University of Finance and Economics"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-吳偉臺-0572151c99",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "吳偉臺",
+    "name_en": "Richard Watanabe",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授級專業技術人員"
+    ],
+    "titles_en": [
+      "Adjunct Professor"
+    ],
+    "education_zh": [
+      "澳洲 Bond University 法學博士"
+    ],
+    "education_en": [
+      "Ph.D. in Legal Science, Bond University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-徐熊健-9290fbce28",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "徐熊健",
+    "name_en": "Shyong Jian Shyu",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Adjunct Professor"
+    ],
+    "education_zh": [
+      "國立清華大學資訊工程學系博士"
+    ],
+    "education_en": [
+      "Ph.D., National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "演算式分析與設計、計算生物學、智慧型計算、多媒體應用"
+    ],
+    "research_interests_en": [],
+    "research_fields_zh": [
+      "演算式分析與設計、計算生物學、智慧型計算、多媒體應用"
+    ],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/view/sjshyu"
+    ],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-戴天時-ba41515d9f",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "戴天時",
+    "name_en": "Tian-Shyr Dai",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學資訊工程博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "資訊科學、財務工程、金融計算、金融科技"
+    ],
+    "research_interests_en": [
+      "Pricing Path-Dependent Derivatives, Pricing Asian Options With Lattices, Financial Engineering and Computation, Risk Management, Derivative Pricing, Credit Risk"
+    ],
+    "research_fields_zh": [
+      "資訊科學、財務工程、金融計算、金融科技"
+    ],
+    "research_fields_en": [
+      "Pricing Path-Dependent Derivatives, Pricing Asian Options With Lattices, Financial Engineering and Computation, Risk Management, Derivative Pricing, Credit Risk"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20407&serno=e4c79e99-f5e7-48cc-b320-d50b463c5c14"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20452&serno=2fdc4782-3eab-452e-9d7f-8351fb43be2e"
+    ],
+    "personal_urls": [
+      "https://finance.lab.nycu.edu.tw/"
+    ],
+    "emails": [
+      "34c0f298006277ab@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-李正福-85865a27fe",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "李正福",
+    "name_en": "Cheng-Few Lee",
+    "role_groups": [
+      "visiting"
+    ],
+    "titles_zh": [
+      "客座教授"
+    ],
+    "titles_en": [
+      "Visiting Professor"
+    ],
+    "education_zh": [
+      "美國紐約州州立大學水牛城分校 財經博士"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, State University of New York at Buffalo"
+    ],
+    "research_interests_zh": [
+      "財務金融管理、期貨選擇權、基金管理、金融政策"
+    ],
+    "research_interests_en": [
+      "Corporate Finance, Financial Econometrics and Statistics, Futures and Options, Real Estate Securitization, Asset Allocation, Financial Statement Analysis, Financial Policy, Financial Institutions and Markets"
+    ],
+    "research_fields_zh": [
+      "財務金融管理、期貨選擇權、基金管理、金融政策"
+    ],
+    "research_fields_en": [
+      "Corporate Finance, Financial Econometrics and Statistics, Futures and Options, Real Estate Securitization, Asset Allocation, Financial Statement Analysis, Financial Policy, Financial Institutions and Markets"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "ddb7ba7eac6a197f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-李漢星-9c9e73434e",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "李漢星",
+    "name_en": "Han-Hsing Lee",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國羅格斯大學財務博士"
+    ],
+    "education_en": [
+      "Ph.D. in Finance, Rutgers, The State University of New Jersey"
+    ],
+    "research_interests_zh": [
+      "信用風險、資產定價實證研究、投資分析"
+    ],
+    "research_interests_en": [
+      "Credit Risk, Empirical Asset Pricing, Investment"
+    ],
+    "research_fields_zh": [
+      "信用風險、資產定價實證研究、投資分析"
+    ],
+    "research_fields_en": [
+      "Credit Risk, Empirical Asset Pricing, Investment"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20415&serno=c291ad0d-0b88-4018-8902-3805c162ed8e"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20460&serno=af460abc-7d2f-43bc-9a3d-91dd0b9553a9"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "4393a915df2f678a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-林智勇-9f2fd3a531",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "林智勇",
+    "name_en": "Chih-Yung Lin",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授兼系主任"
+    ],
+    "titles_en": [
+      "Professor and Chairman"
+    ],
+    "education_zh": [
+      "國立臺灣大學財務金融博士"
+    ],
+    "education_en": [
+      "PhD in Finance, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "公司理財、行為財務、金融科技、投資與資本市場、金融機構、國際金融"
+    ],
+    "research_interests_en": [
+      "Capital market and investment, Global Banking Research, Financial Institutions, Political Connection"
+    ],
+    "research_fields_zh": [
+      "公司理財、行為財務、金融科技、投資與資本市場、金融機構、國際金融"
+    ],
+    "research_fields_en": [
+      "Capital market and investment, Global Banking Research, Financial Institutions, Political Connection"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20459&serno=a11a2622-5533-41fe-8913-ba2f26da42bc"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "1ab696bc7bc67e4a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-林瑞嘉-9b5e92d792",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "林瑞嘉",
+    "name_en": "Jui-Chia Lin",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學會計學博士"
+    ],
+    "education_en": [
+      "Ph.D. in Accounting ,National Taiwan University,Taiwan"
+    ],
+    "research_interests_zh": [
+      "財務會計、退休金、公司理財、金融科技"
+    ],
+    "research_interests_en": [
+      "Financial accounting, pension, corporate finance"
+    ],
+    "research_fields_zh": [
+      "財務會計、退休金、公司理財、金融科技"
+    ],
+    "research_fields_en": [
+      "Financial accounting, pension, corporate finance"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20411&serno=80d29c48-e37a-4423-956b-fda046a8ebf4"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20456&serno=b6614902-2717-4b4a-9b56-6a7922d72f82"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "d64a4d24ef1567e4@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-林雲逸-5273e5d3ab",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "林雲逸",
+    "name_en": "Yun-Yi Lin",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任助理教授級專業技術人員"
+    ],
+    "titles_en": [
+      "Adjunct Assistant Professor"
+    ],
+    "education_zh": [
+      "國立成功大學機械工程研究所碩士"
+    ],
+    "education_en": [
+      "MS. Mechanical Engineering, National Cheng Kung University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-梁婉麗-9640195164",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "梁婉麗",
+    "name_en": "Woan-lih Liang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學國際企業博士"
+    ],
+    "education_en": [
+      "Ph. D. in International Business, National Taiwan University, Taiwan"
+    ],
+    "research_interests_zh": [
+      "公司理財、股票購回、公司研發&創新、創業投資"
+    ],
+    "research_interests_en": [
+      "Corporate Finance, Share repurchase, R&D, Venture capital"
+    ],
+    "research_fields_zh": [
+      "公司理財、股票購回、公司研發&創新、創業投資"
+    ],
+    "research_fields_en": [
+      "Corporate Finance, Share repurchase, R&D, Venture capital"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20410&serno=d38862e2-4adf-42ab-a6e2-5ae387739a3b"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20455&serno=9c98b0a9-fcc3-417b-905e-2ba91e11211e"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "aca44aea4bc3edf7@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-游家牧-160b56ff8f",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "游家牧",
+    "name_en": "Chia-Mu Yu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學電機工程博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "人工智慧與機器學習, 資訊安全, 資料隱私與資料去識別化"
+    ],
+    "research_interests_en": [
+      "Data Privacy, Adversarial Machine Learning, Computer and Network Security"
+    ],
+    "research_fields_zh": [
+      "人工智慧與機器學習, 資訊安全, 資料隱私與資料去識別化"
+    ],
+    "research_fields_en": [
+      "Data Privacy, Adversarial Machine Learning, Computer and Network Security"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5985&serno=7badbc81-3663-4de2-92e4-6797b9577e77"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20319&serno=33be7a63-3df2-4e19-ba50-f78125997c81"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://chiamuyu.weebly.com/"
+    ],
+    "emails": [
+      "9fe6b83743158a15@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-王國強-e09365b7b3",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "王國強",
+    "name_en": "Kuo-Chiang Wang",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任助理教授級專業技術人員"
+    ],
+    "titles_en": [
+      "Adjunct Assistant Professor"
+    ],
+    "education_zh": [
+      "國立交通大學高階主管管理學程碩士"
+    ],
+    "education_en": [
+      "MS. Executive Master of Business Administration, National Chiao-Tung University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-王燈山-3927d837c1",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "王燈山",
+    "name_en": "Ding-Shan Wang",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任助理教授級專業技術人員"
+    ],
+    "titles_en": [
+      "Adjunct Assistant Professor"
+    ],
+    "education_zh": [
+      "國立交通大學科技管理研究所碩士"
+    ],
+    "education_en": [
+      "MA. Management of Technology, National Chiao-Tung University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-葉銀華-cd82122651",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "葉銀華",
+    "name_en": "Yin-Hua Yeh",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學商研所財務博士"
+    ],
+    "education_en": [
+      "Ph. D. in Finance National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "公司治理、家族企業與傳承、合併與收購、永續發展"
+    ],
+    "research_interests_en": [
+      "Corporate governance, Family business and inheritance, Mergers and acquisitions, Sustainable development"
+    ],
+    "research_fields_zh": [
+      "公司治理、家族企業與傳承、合併與收購、永續發展"
+    ],
+    "research_fields_en": [
+      "Corporate governance, Family business and inheritance, Mergers and acquisitions, Sustainable development"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20409&serno=3fb20169-e86b-4a8b-8bd8-782acd929b37"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20454&serno=b26e87d3-001b-408f-b80e-8a922d5d18eb"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "ec236de5d9166b29@redacted.invalid",
+      "f92b55de95b1878b@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-蔡詩妤-e1db4b4746",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "蔡詩妤",
+    "name_en": "Shih-Yu Tsai",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國紐約州石溪大學資訊工程博士"
+    ],
+    "education_en": [
+      "PhD., Computer Science, Stony Brook University (SBU), NY, USA"
+    ],
+    "research_interests_zh": [
+      "人工智慧、公平性和海量資料集的演算法設計、機器人和網路中的調度問題、解決方案/軌跡隱私、平行編程"
+    ],
+    "research_interests_en": [
+      "Artificial Intelligence, Algorithm Design for Fairness and Massive Datasets, Scheduling Problems in Robotics and Networking, Solution/Trajectory Privacy, Parallel Programming"
+    ],
+    "research_fields_zh": [
+      "人工智慧、公平性和海量資料集的演算法設計、機器人和網路中的調度問題、解決方案/軌跡隱私、平行編程"
+    ],
+    "research_fields_en": [
+      "Artificial Intelligence, Algorithm Design for Fairness and Massive Datasets, Scheduling Problems in Robotics and Networking, Solution/Trajectory Privacy, Parallel Programming"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20419&serno=bc92c6c7-c4a7-40b4-aa31-6025a945ee8a"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20464&serno=20eaf180-ac90-41db-8345-26fd5f65448a"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "2ed8bff808452289@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-謝文良-ec8ba7b6cf",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "謝文良",
+    "name_en": "Wen-Liang Hsieh",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國田納西州立曼菲斯大學財務博士"
+    ],
+    "education_en": [
+      "Ph.D. in Finance, The University of Memphis"
+    ],
+    "research_interests_zh": [
+      "期貨與選擇權、市場微結構、財務計量、投資學、指數建構與證券化"
+    ],
+    "research_interests_en": [
+      "Stock index futures, Options, Microstructure, Portfolio construction, Time series models of cointegration"
+    ],
+    "research_fields_zh": [
+      "期貨與選擇權、市場微結構、財務計量、投資學、指數建構與證券化"
+    ],
+    "research_fields_en": [
+      "Stock index futures, Options, Microstructure, Portfolio construction, Time series models of cointegration"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20408&serno=fc88a9fc-643b-483d-9742-a5541d76ea63"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20453&serno=61778ad6-051b-4dc3-ac63-b18c20495518"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "f0cf1f13d5cada68@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-郭家豪-0efd529562",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "郭家豪",
+    "name_en": "Jia-hau Guo",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學國企所財務博士"
+    ],
+    "education_en": [
+      "Ph.D. in International Business, National Taiwan University"
+    ],
+    "research_interests_zh": [
+      "金融計算、財務工程、風險管理、資產定價、財務理論、金融市場"
+    ],
+    "research_interests_en": [
+      "Asset Pricing, Financial Management, Financial computing"
+    ],
+    "research_fields_zh": [
+      "金融計算、財務工程、風險管理、資產定價、財務理論、金融市場"
+    ],
+    "research_fields_en": [
+      "Asset Pricing, Financial Management, Financial computing"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20417&serno=f60d1e54-51cb-465f-bd48-a77342309439"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20462&serno=0f38dedf-8b8c-48fc-ba1f-fc2393cd4cc0"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "0fb5b6e1478edd62@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-鄧惠文-9b670d9d4e",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "鄧惠文",
+    "name_en": "Huei-Wen Teng",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國賓州州立大學統計學博士"
+    ],
+    "education_en": [
+      "Ph.D. in Statistics, Pennsylvania State University"
+    ],
+    "research_interests_zh": [
+      "衍生性金融商品、信用評等、財務工程、金融科技、統計方法與人工智慧"
+    ],
+    "research_interests_en": [
+      "Financial Derivatives, Credit Scoring, Financial Engineering, FinTech, Statistical Methods and AI"
+    ],
+    "research_fields_zh": [
+      "衍生性金融商品、信用評等、財務工程、金融科技、統計方法與人工智慧"
+    ],
+    "research_fields_en": [
+      "Financial Derivatives, Credit Scoring, Financial Engineering, FinTech, Statistical Methods and AI"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20413&serno=85f84fc0-6c92-411e-b456-e83a7332fe80"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20458&serno=9c30e7e7-fdb0-4d5f-8177-5313b7746c39"
+    ],
+    "personal_urls": [
+      "https://venteng.github.io/",
+      "https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en"
+    ],
+    "emails": [
+      "ab885d29e90a4115@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-鄭仲傑-8c7481cca0",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "鄭仲傑",
+    "name_en": "Chung-Chieh Cheng",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任助理教授"
+    ],
+    "titles_en": [
+      "Adjunct Assistant Professor"
+    ],
+    "education_zh": [
+      "國立陽明交通大學資訊管理與財務金融學系博士"
+    ],
+    "education_en": [
+      "Ph.D. in Finance, National Yang Ming Chiao Tung University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-鍾惠民-ae10d194fa",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "鍾惠民",
+    "name_en": "Huimin Chung",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國密西根州立大學經濟博士"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, Michigan State University"
+    ],
+    "research_interests_zh": [
+      "國際財務管理、經濟學、高等財務計量經濟學、衍生性商品、投資學"
+    ],
+    "research_interests_en": [
+      "International Financial Management, Economics Advanced Financial Econometrics, Derivatives, Investments"
+    ],
+    "research_fields_zh": [
+      "國際財務管理、經濟學、高等財務計量經濟學、衍生性商品、投資學"
+    ],
+    "research_fields_en": [
+      "International Financial Management, Economics Advanced Financial Econometrics, Derivatives, Investments"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20451&serno=9adf1cca-c970-4bec-9bd3-76937e7bb200"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "5523f69ef9330596@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-陳建榮-dae9b73834",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "陳建榮",
+    "name_en": "Jian-Rong Chen",
+    "role_groups": [
+      "full_time",
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任助理教授級專業技術人員"
+    ],
+    "titles_en": [
+      "Adjunct Assistant Professor"
+    ],
+    "education_zh": [
+      "國立陽明交通大學高階主管管理學程碩士"
+    ],
+    "education_en": [
+      "MS. Executive Master of Business Administration, National Chiao-Tung University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-陳玠甫-e90a086822",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "陳玠甫",
+    "name_en": "Jeff Chen",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授級專業技術人員"
+    ],
+    "titles_en": [
+      "Adjunct Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學資訊管理學系博士"
+    ],
+    "education_en": [
+      "Ph.D. in Information Management, National Taiwan University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-陳耀宗-5cb5b0b06f",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "陳耀宗",
+    "name_en": "Yao-Tsung Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立中山大學資訊管理博士、國立中興大學財務金融博士"
+    ],
+    "education_en": [
+      "Ph. D. in Information Management, National Sun Yat-sen University、Ph. D. in Finance, National Chung Hsing University",
+      "Ph. D. in Information Management, National Sun Yat-sen University、"
+    ],
+    "research_interests_zh": [
+      "投資組合最佳化、資產評價、機器學習"
+    ],
+    "research_interests_en": [
+      "Portfolio Optimization; Asset Pricing; Machine Learning"
+    ],
+    "research_fields_zh": [
+      "投資組合最佳化、資產評價、機器學習"
+    ],
+    "research_fields_en": [
+      "Portfolio Optimization; Asset Pricing; Machine Learning"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20418&serno=884d3a7a-a254-4230-bd3b-0275d64a76ad"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20463&serno=ab68dfa3-8d33-48c3-90e0-379ba5a48ae0"
+    ],
+    "personal_urls": [
+      "https://www.researchgate.net/profile/Yao-Tsung-Chen-2"
+    ],
+    "emails": [
+      "7db936b3e5489c9d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-魏寶生-fcdf98d036",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "魏寶生",
+    "name_en": "Bao-Sheng Wei",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授級專業技術人員"
+    ],
+    "titles_en": [
+      "Adjunct Professor"
+    ],
+    "education_zh": [
+      "美國華府喬治華盛頓大學企業管理碩士"
+    ],
+    "education_en": [
+      "MA. Business Administration, The George Washington University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5986&serno=705f43ee-d8a7-42e2-ae39-dff3467445c9"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20320&serno=22aa29f7-6154-46ad-9187-5221d951c30d"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-黃宜侯-dbc03aa22c",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "黃宜侯",
+    "name_en": "Alex YiHou Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國紐約市立大學經濟學博士"
+    ],
+    "education_en": [
+      "Ph.D. Economics, City University of New York"
+    ],
+    "research_interests_zh": [
+      "財務經濟、投資學、應用計量經濟、財務風險管理"
+    ],
+    "research_interests_en": [
+      "Financial Economics, Financial Risk Management, Investment"
+    ],
+    "research_fields_zh": [
+      "財務經濟、投資學、應用計量經濟、財務風險管理"
+    ],
+    "research_fields_en": [
+      "Financial Economics, Financial Risk Management, Investment"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20423&serno=46198d15-5749-4e7c-b749-f62557307bbe"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20450&serno=58ea2f67-5f41-48e3-9f34-a45bf55c2727"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "25b2c03d954d572e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-黃思皓-2ee9d5c50c",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "黃思皓",
+    "name_en": "Szu-Hao Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立清華大學資訊工程博士"
+    ],
+    "education_en": [
+      "Ph.D. Computer Science, National Tsing Hua University"
+    ],
+    "research_interests_zh": [
+      "人工智慧精準行銷與推薦系統、機器學習與財務大數據分析、強化學習交易決策、深度學習對抗例資安攻防、電腦視覺與多媒體技術、金融科技"
+    ],
+    "research_interests_en": [
+      "AI Precision Marketing & Recommender System、Machine Learning & Big Data Analysis in Finance, Trading with Reinforcement Learning",
+      "AI Precision Marketing & Recommender System、Machine Learning & Big Data Analysis in Finance, Trading with Reinforcement Learning、Adversarial Attacks & Defenses with Deep Learning、Computer Vision & Multimedia Processing"
+    ],
+    "research_fields_zh": [
+      "人工智慧精準行銷與推薦系統、機器學習與財務大數據分析、強化學習交易決策、深度學習對抗例資安攻防、電腦視覺與多媒體技術、金融科技"
+    ],
+    "research_fields_en": [
+      "AI Precision Marketing & Recommender System、Machine Learning & Big Data Analysis in Finance, Trading with Reinforcement Learning",
+      "AI Precision Marketing & Recommender System、Machine Learning & Big Data Analysis in Finance, Trading with Reinforcement Learning、Adversarial Attacks & Defenses with Deep Learning、Computer Vision & Multimedia Processing"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20412&serno=e7efbdc2-04d5-46d8-ad80-795e364add0b"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20457&serno=34664ba6-5db8-43ac-a386-5d8164227900"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "3fb6457cd344cf24@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "stable_id",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  },
+  {
+    "faculty_id": "nycu-info-mag-fin-黃星華-06752d69a5",
+    "school_id": "nycu-info-mag-fin",
+    "name_zh": "黃星華",
+    "name_en": "Hsing-Hua Huang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立政治大學金融博士"
+    ],
+    "education_en": [
+      "Ph.D. in Finance (Financial Engineering), National Chengchi University"
+    ],
+    "research_interests_zh": [
+      "衍生性商品訂價理論、數理財務在公司理財之應用、信用風險模型"
+    ],
+    "research_interests_en": [
+      "Derivatives Pricing Theory, Applied Financial Mathematics, Credit Risk Models"
+    ],
+    "research_fields_zh": [
+      "衍生性商品訂價理論、數理財務在公司理財之應用、信用風險模型"
+    ],
+    "research_fields_en": [
+      "Derivatives Pricing Theory, Applied Financial Mathematics, Credit Risk Models"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=21165&serno=974eb96c-cb14-43ad-bea1-bea337c94d8e"
+    ],
+    "listing_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=21166&serno=b1633736-6d3a-4684-a00b-562dd2357431"
+    ],
+    "profile_urls_zh": [
+      "https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20416&serno=9c327ddf-c713-4eb3-a7ba-155059e1d5c6"
+    ],
+    "profile_urls_en": [
+      "https://imf.nycu.edu.tw/imf/en/app/artwebsite/view?module=artwebsite&id=20461&serno=fd624e98-f28c-446d-a97a-3de4787a1f63"
+    ],
+    "personal_urls": [],
+    "emails": [
+      "e6259d64dbf60915@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:19:37+08:00"
+  }
+]

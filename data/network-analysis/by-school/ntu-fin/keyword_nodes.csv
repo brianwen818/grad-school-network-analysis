@@ -1,0 +1,34 @@
+﻿keyword_en,parent_l2,parent_l1,n_faculty_in_unit,n_faculty_overall,idf
+Corporate Finance,Corporate Finance & Valuation,Corporate Finance & Governance,15,34,3.0189891357182583
+Behavioral Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,8,13,3.949763333410993
+Asset Pricing,Asset Pricing & Investments,Asset Pricing & Financial Markets,7,20,3.529297384289471
+Corporate Governance,Governance & Corporate Control,Corporate Finance & Governance,6,13,3.949763333410993
+Risk Management,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,4,23,3.3939246223330755
+Sustainable Finance,Banking & Financial Technology,Financial Engineering & Risk,4,5,4.893352133481524
+Econometrics,Econometrics,Economics & Policy,3,30,3.138388573955514
+Financial Derivatives,Derivatives & Financial Engineering,Financial Engineering & Risk,3,14,3.8771357464277054
+Financial Markets,Financial Markets & Microstructure,Asset Pricing & Financial Markets,3,14,3.8771357464277054
+International Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,3,14,3.8771357464277054
+Investments,Asset Pricing & Investments,Asset Pricing & Financial Markets,3,16,3.746558565700614
+Accounting,Corporate Finance & Valuation,Corporate Finance & Governance,2,8,4.427836170705175
+Asset Management,Asset Pricing & Investments,Asset Pricing & Financial Markets,2,2,5.805134968916488
+Insurance,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,2,4,5.1149953094204985
+Macroeconomics,Macroeconomics & Monetary Economics,Economics & Policy,2,16,3.746558565700614
+Time Series Analysis,Time Series & Change Point Analysis,Statistics & Statistical Methods,2,11,4.113850056846357
+Algorithms,Algorithms & Computational Complexity,Theory & Algorithms,1,49,2.674852131692614
+Banking and Financial Institutions,Banking & Financial Technology,Financial Engineering & Risk,1,16,3.746558565700614
+Causal Inference,Statistical Theory & Inference,Statistics & Statistical Methods,1,5,4.893352133481524
+Credit Risk,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,1,6,4.712528704308591
+Cryptocurrency,Banking & Financial Technology,Financial Engineering & Risk,1,1,6.4967749901858625
+Deep Learning,Machine Learning & Deep Learning,AI & Machine Learning,1,54,2.584696120396371
+Financial Engineering,Derivatives & Financial Engineering,Financial Engineering & Risk,1,14,3.8771357464277054
+Game Theory,Game Theory & Mechanism Design,Applied Mathematics & Operations Research,1,11,4.113850056846357
+Information Security,Information & Systems Security,"Security, Privacy & Cryptography",1,39,2.888946240904944
+Initial Public Offerings,Corporate Finance & Valuation,Corporate Finance & Governance,1,1,6.4967749901858625
+Institutional Investors,Governance & Corporate Control,Corporate Finance & Governance,1,2,5.805134968916488
+Interest Rate Modeling,Derivatives & Financial Engineering,Financial Engineering & Risk,1,2,5.805134968916488
+Mergers and Acquisitions,Governance & Corporate Control,Corporate Finance & Governance,1,4,5.1149953094204985
+Personal Finance,Banking & Financial Technology,Financial Engineering & Risk,1,2,5.805134968916488
+Political Economy,Applied & Policy Economics,Economics & Policy,1,7,4.559873911072915
+Special Purpose Acquisition Companies,Governance & Corporate Control,Corporate Finance & Governance,1,1,6.4967749901858625
+Theory of Computation,Algorithms & Computational Complexity,Theory & Algorithms,1,6,4.712528704308591

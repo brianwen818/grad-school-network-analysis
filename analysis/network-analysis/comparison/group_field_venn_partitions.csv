@@ -1,0 +1,171 @@
+﻿partition,n_groups,keyword_en,parent_l1,parent_l2,in_cs,in_ds,in_fin_and_econ,n_faculty_cs,n_faculty_ds,n_faculty_fin_and_econ,n_faculty_total
+cs only,1,Medical Informatics,Biomedical & Health Informatics,Medical Informatics & Imaging,True,False,False,15,0,0,15
+cs only,1,Operating Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",True,False,False,15,0,0,15
+cs only,1,Distributed Systems,"Systems, Software & Architecture",Parallel & Distributed Computing,True,False,False,14,0,0,14
+cs only,1,Cloud Computing,Networks & Communications,Cloud & Edge Computing,True,False,False,13,0,0,13
+cs only,1,Virtual Reality,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,True,False,False,13,0,0,13
+cs only,1,Software Engineering,"Systems, Software & Architecture","Software Engineering, Languages & Verification",True,False,False,12,0,0,12
+cs only,1,Cryptography,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",True,False,False,11,0,0,11
+cs only,1,Graph Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,True,False,False,11,0,0,11
+cs only,1,Storage Systems,"Data, Databases & Knowledge Discovery",Database & Storage Systems,True,False,False,11,0,0,11
+cs only,1,Real-Time Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",True,False,False,7,0,0,7
+cs only,1,Knowledge Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",True,False,False,6,0,0,6
+cs only,1,Systems Security,"Security, Privacy & Cryptography",Information & Systems Security,True,False,False,6,0,0,6
+cs only,1,Cyber-Physical Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",True,False,False,4,0,0,4
+cs only,1,Edge Computing,Networks & Communications,Cloud & Edge Computing,True,False,False,4,0,0,4
+cs only,1,Evolutionary Computation,AI & Machine Learning,Machine Learning & Deep Learning,True,False,False,4,0,0,4
+cs only,1,Operations Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",True,False,False,4,0,0,4
+cs only,1,Operations Research,Applied Mathematics & Operations Research,Optimization & Operations Research,True,False,False,4,0,0,4
+cs only,1,Coding Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,True,False,False,3,0,0,3
+cs only,1,E-Commerce,Information Systems & Management,Digital Business & E-Commerce,True,False,False,3,0,0,3
+cs only,1,High-Performance Computing,"Systems, Software & Architecture",Parallel & Distributed Computing,True,False,False,3,0,0,3
+cs only,1,Information Visualization,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,True,False,False,3,0,0,3
+cs only,1,Programming Languages,"Systems, Software & Architecture","Software Engineering, Languages & Verification",True,False,False,3,0,0,3
+cs only,1,Computational Complexity,Theory & Algorithms,Algorithms & Computational Complexity,True,False,False,2,0,0,2
+cs only,1,Discrete Mathematics,Theory & Algorithms,Discrete Mathematics & Information Theory,True,False,False,2,0,0,2
+cs only,1,Formal Verification,"Systems, Software & Architecture","Software Engineering, Languages & Verification",True,False,False,2,0,0,2
+cs only,1,Fuzzy Systems,AI & Machine Learning,Machine Learning & Deep Learning,True,False,False,2,0,0,2
+cs only,1,Intelligent Transportation Systems,Networks & Communications,"Mobile, IoT & Pervasive Computing",True,False,False,2,0,0,2
+cs only,1,Machine Translation,AI & Machine Learning,Natural Language & Speech Processing,True,False,False,2,0,0,2
+cs only,1,Neuromorphic Computing,AI & Machine Learning,Machine Learning & Deep Learning,True,False,False,2,0,0,2
+cs only,1,Quantum Computing,"Systems, Software & Architecture",Computer Architecture & Hardware Design,True,False,False,2,0,0,2
+cs only,1,Queueing Theory,Applied Mathematics & Operations Research,Optimization & Operations Research,True,False,False,2,0,0,2
+cs only,1,Statistical Inference,Statistics & Statistical Methods,Statistical Theory & Inference,True,False,False,2,0,0,2
+cs only,1,Text Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,False,False,2,0,0,2
+cs only,1,Business Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,False,False,1,0,0,1
+cs only,1,Data Envelopment Analysis,Applied Mathematics & Operations Research,Optimization & Operations Research,True,False,False,1,0,0,1
+cs only,1,Federated Learning,AI & Machine Learning,Machine Learning & Deep Learning,True,False,False,1,0,0,1
+cs only,1,Malware Analysis,"Security, Privacy & Cryptography",Information & Systems Security,True,False,False,1,0,0,1
+cs only,1,Service Science,Information Systems & Management,Digital Business & E-Commerce,True,False,False,1,0,0,1
+ds only,1,Statistical Computing,Statistics & Statistical Methods,Bayesian & Computational Statistics,False,True,False,0,6,0,6
+ds only,1,Partial Differential Equations,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,False,True,False,0,5,0,5
+ds only,1,Reliability Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,False,True,False,0,5,0,5
+ds only,1,Statistical Consulting,Statistics & Statistical Methods,Applied & Industrial Statistics,False,True,False,0,5,0,5
+ds only,1,Regression Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,False,True,False,0,4,0,4
+ds only,1,Experimental Design,Statistics & Statistical Methods,Applied & Industrial Statistics,False,True,False,0,3,0,3
+ds only,1,Survey Sampling,Statistics & Statistical Methods,Applied & Industrial Statistics,False,True,False,0,3,0,3
+ds only,1,Statistical Process Control,Statistics & Statistical Methods,Applied & Industrial Statistics,False,True,False,0,2,0,2
+ds only,1,Algebraic Geometry,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,False,True,False,0,1,0,1
+ds only,1,Differential Geometry,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,False,True,False,0,1,0,1
+ds only,1,Formal Methods,"Systems, Software & Architecture","Software Engineering, Languages & Verification",False,True,False,0,1,0,1
+ds only,1,Software Verification,"Systems, Software & Architecture","Software Engineering, Languages & Verification",False,True,False,0,1,0,1
+ds only,1,Spatial Clustering,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,False,True,False,0,1,0,1
+fin-and-econ only,1,Corporate Finance,Corporate Finance & Governance,Corporate Finance & Valuation,False,False,True,0,0,34,34
+fin-and-econ only,1,Risk Management,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",False,False,True,0,0,22,22
+fin-and-econ only,1,Asset Pricing,Asset Pricing & Financial Markets,Asset Pricing & Investments,False,False,True,0,0,19,19
+fin-and-econ only,1,Investments,Asset Pricing & Financial Markets,Asset Pricing & Investments,False,False,True,0,0,16,16
+fin-and-econ only,1,Macroeconomics,Economics & Policy,Macroeconomics & Monetary Economics,False,False,True,0,0,16,16
+fin-and-econ only,1,Banking and Financial Institutions,Financial Engineering & Risk,Banking & Financial Technology,False,False,True,0,0,15,15
+fin-and-econ only,1,Financial Engineering,Financial Engineering & Risk,Derivatives & Financial Engineering,False,False,True,0,0,14,14
+fin-and-econ only,1,International Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,False,False,True,0,0,14,14
+fin-and-econ only,1,Corporate Governance,Corporate Finance & Governance,Governance & Corporate Control,False,False,True,0,0,13,13
+fin-and-econ only,1,Financial Derivatives,Financial Engineering & Risk,Derivatives & Financial Engineering,False,False,True,0,0,13,13
+fin-and-econ only,1,Financial Markets,Asset Pricing & Financial Markets,Financial Markets & Microstructure,False,False,True,0,0,13,13
+fin-and-econ only,1,Behavioral Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,False,False,True,0,0,12,12
+fin-and-econ only,1,Financial Management,Corporate Finance & Governance,Corporate Finance & Valuation,False,False,True,0,0,11,11
+fin-and-econ only,1,Labor Economics,Economics & Policy,Applied & Policy Economics,False,False,True,0,0,11,11
+fin-and-econ only,1,Accounting,Corporate Finance & Governance,Corporate Finance & Valuation,False,False,True,0,0,8,8
+fin-and-econ only,1,Monetary Economics,Economics & Policy,Macroeconomics & Monetary Economics,False,False,True,0,0,8,8
+fin-and-econ only,1,Financial Economics,Asset Pricing & Financial Markets,Asset Pricing & Investments,False,False,True,0,0,7,7
+fin-and-econ only,1,Industrial Organization,Economics & Policy,Microeconomics & Industrial Organization,False,False,True,0,0,7,7
+fin-and-econ only,1,Political Economy,Economics & Policy,Applied & Policy Economics,False,False,True,0,0,7,7
+fin-and-econ only,1,Credit Risk,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",False,False,True,0,0,6,6
+fin-and-econ only,1,Market Microstructure,Asset Pricing & Financial Markets,Financial Markets & Microstructure,False,False,True,0,0,6,6
+fin-and-econ only,1,Microeconomics,Economics & Policy,Microeconomics & Industrial Organization,False,False,True,0,0,6,6
+fin-and-econ only,1,Sustainable Finance,Financial Engineering & Risk,Banking & Financial Technology,False,False,True,0,0,5,5
+fin-and-econ only,1,Insurance,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",False,False,True,0,0,4,4
+fin-and-econ only,1,Mergers and Acquisitions,Corporate Finance & Governance,Governance & Corporate Control,False,False,True,0,0,4,4
+fin-and-econ only,1,Real Estate Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,False,False,True,0,0,4,4
+fin-and-econ only,1,Experimental Economics,Economics & Policy,Microeconomics & Industrial Organization,False,False,True,0,0,3,3
+fin-and-econ only,1,Public Economics,Economics & Policy,Applied & Policy Economics,False,False,True,0,0,3,3
+fin-and-econ only,1,Asset Management,Asset Pricing & Financial Markets,Asset Pricing & Investments,False,False,True,0,0,2,2
+fin-and-econ only,1,Development Economics,Economics & Policy,Applied & Policy Economics,False,False,True,0,0,2,2
+fin-and-econ only,1,Health Economics,Economics & Policy,Applied & Policy Economics,False,False,True,0,0,2,2
+fin-and-econ only,1,Institutional Investors,Corporate Finance & Governance,Governance & Corporate Control,False,False,True,0,0,2,2
+fin-and-econ only,1,Interest Rate Modeling,Financial Engineering & Risk,Derivatives & Financial Engineering,False,False,True,0,0,2,2
+fin-and-econ only,1,Personal Finance,Financial Engineering & Risk,Banking & Financial Technology,False,False,True,0,0,2,2
+fin-and-econ only,1,Portfolio Management,Asset Pricing & Financial Markets,Asset Pricing & Investments,False,False,True,0,0,2,2
+fin-and-econ only,1,Business Valuation,Corporate Finance & Governance,Corporate Finance & Valuation,False,False,True,0,0,1,1
+fin-and-econ only,1,Cryptocurrency,Financial Engineering & Risk,Banking & Financial Technology,False,False,True,0,0,1,1
+fin-and-econ only,1,Environmental Economics,Economics & Policy,Applied & Policy Economics,False,False,True,0,0,1,1
+fin-and-econ only,1,Initial Public Offerings,Corporate Finance & Governance,Corporate Finance & Valuation,False,False,True,0,0,1,1
+fin-and-econ only,1,International Economics,Economics & Policy,Applied & Policy Economics,False,False,True,0,0,1,1
+fin-and-econ only,1,Special Purpose Acquisition Companies,Corporate Finance & Governance,Governance & Corporate Control,False,False,True,0,0,1,1
+cs & ds,2,Data Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,True,False,29,10,0,39
+cs & ds,2,Image Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",True,True,False,33,6,0,39
+cs & ds,2,Embedded Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",True,True,False,28,3,0,31
+cs & ds,2,Internet of Things,Networks & Communications,"Mobile, IoT & Pervasive Computing",True,True,False,23,6,0,29
+cs & ds,2,Signal Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",True,True,False,14,10,0,24
+cs & ds,2,Wireless Networks,Networks & Communications,Computer & Wireless Networks,True,True,False,18,6,0,24
+cs & ds,2,Parallel Computing,"Systems, Software & Architecture",Parallel & Distributed Computing,True,True,False,20,3,0,23
+cs & ds,2,Databases,"Data, Databases & Knowledge Discovery",Database & Storage Systems,True,True,False,20,2,0,22
+cs & ds,2,Natural Language Processing,AI & Machine Learning,Natural Language & Speech Processing,True,True,False,15,7,0,22
+cs & ds,2,Automation and Control,"Robotics, Control & Smart Manufacturing",Robotics & Automation,True,True,False,17,4,0,21
+cs & ds,2,Human-Computer Interaction,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,True,True,False,19,2,0,21
+cs & ds,2,Computer Architecture,"Systems, Software & Architecture",Computer Architecture & Hardware Design,True,True,False,17,3,0,20
+cs & ds,2,Computer Graphics,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,True,True,False,18,1,0,19
+cs & ds,2,Mobile Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",True,True,False,15,3,0,18
+cs & ds,2,Electronic Design Automation,"Systems, Software & Architecture",Computer Architecture & Hardware Design,True,True,False,13,3,0,16
+cs & ds,2,Information Retrieval,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,True,False,13,2,0,15
+cs & ds,2,Pattern Recognition,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",True,True,False,12,3,0,15
+cs & ds,2,Smart Healthcare,Biomedical & Health Informatics,Medical Informatics & Imaging,True,True,False,11,3,0,14
+cs & ds,2,Biostatistics,Biomedical & Health Informatics,Biostatistics & Survival Analysis,True,True,False,3,9,0,12
+cs & ds,2,Compilers,"Systems, Software & Architecture","Software Engineering, Languages & Verification",True,True,False,11,1,0,12
+cs & ds,2,Blockchain,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",True,True,False,10,1,0,11
+cs & ds,2,Data Science,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,True,False,7,4,0,11
+cs & ds,2,Neural Networks,AI & Machine Learning,Machine Learning & Deep Learning,True,True,False,9,2,0,11
+cs & ds,2,Wireless Communications,Networks & Communications,Computer & Wireless Networks,True,True,False,5,5,0,10
+cs & ds,2,Bayesian Statistics,Statistics & Statistical Methods,Bayesian & Computational Statistics,True,True,False,2,7,0,9
+cs & ds,2,Medical Imaging,Biomedical & Health Informatics,Medical Informatics & Imaging,True,True,False,8,1,0,9
+cs & ds,2,Augmented Reality,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,True,True,False,7,1,0,8
+cs & ds,2,Pervasive Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",True,True,False,6,2,0,8
+cs & ds,2,Generative AI,AI & Machine Learning,Artificial Intelligence & Generative Models,True,True,False,6,1,0,7
+cs & ds,2,Web Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,True,False,5,2,0,7
+cs & ds,2,Digital Twins,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",True,True,False,5,1,0,6
+cs & ds,2,Multivariate Analysis,Statistics & Statistical Methods,Applied & Industrial Statistics,True,True,False,1,5,0,6
+cs & ds,2,Social Media Analytics,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,True,True,False,5,1,0,6
+cs & ds,2,Speech Recognition,AI & Machine Learning,Natural Language & Speech Processing,True,True,False,4,2,0,6
+cs & ds,2,Industrial Statistics,Statistics & Statistical Methods,Applied & Industrial Statistics,True,True,False,1,4,0,5
+cs & ds,2,Privacy-Preserving Computing,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",True,True,False,4,1,0,5
+cs & ds,2,Scientific Computing,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,True,True,False,4,1,0,5
+cs & ds,2,Smart Manufacturing,"Robotics, Control & Smart Manufacturing",Smart Manufacturing & Industrial Systems,True,True,False,4,1,0,5
+cs & ds,2,Survival Analysis,Biomedical & Health Informatics,Biostatistics & Survival Analysis,True,True,False,1,4,0,5
+cs & ds,2,Digital Transformation,Information Systems & Management,Digital Business & E-Commerce,True,True,False,3,1,0,4
+cs & ds,2,Systems Biology,Biomedical & Health Informatics,Bioinformatics & Systems Biology,True,True,False,3,1,0,4
+cs & ds,2,Trustworthy AI,AI & Machine Learning,Artificial Intelligence & Generative Models,True,True,False,3,1,0,4
+cs & ds,2,Brain-Computer Interfaces,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,True,True,False,2,1,0,3
+cs & ds,2,Numerical Analysis,Applied Mathematics & Operations Research,Mathematical Analysis & Scientific Computing,True,True,False,2,1,0,3
+cs & ds,2,Change Point Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,True,True,False,1,1,0,2
+cs & ds,2,Computational Linguistics,AI & Machine Learning,Natural Language & Speech Processing,True,True,False,1,1,0,2
+cs & ds,2,High-Dimensional Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,True,True,False,1,1,0,2
+cs & ds,2,Information Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,True,True,False,1,1,0,2
+cs & ds,2,Model Checking,"Systems, Software & Architecture","Software Engineering, Languages & Verification",True,True,False,1,1,0,2
+cs & ds,2,Scientific Modeling,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,True,False,1,1,0,2
+cs & fin-and-econ,2,Econometrics,Economics & Policy,Econometrics,True,False,True,1,0,29,30
+cs & fin-and-econ,2,Entrepreneurship,Information Systems & Management,"Innovation, Entrepreneurship & Management",True,False,True,9,0,3,12
+cs & fin-and-econ,2,Theory of Computation,Theory & Algorithms,Algorithms & Computational Complexity,True,False,True,5,0,1,6
+cs & fin-and-econ,2,Innovation Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",True,False,True,3,0,1,4
+cs & fin-and-econ,2,Mechanism Design,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,True,False,True,1,0,3,4
+ds & fin-and-econ,2,Actuarial Science,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",False,True,True,0,2,2,4
+cs & ds & fin-and-econ,3,Artificial Intelligence,AI & Machine Learning,Artificial Intelligence & Generative Models,True,True,True,83,20,4,107
+cs & ds & fin-and-econ,3,Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,True,True,True,60,26,5,91
+cs & ds & fin-and-econ,3,Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,True,True,True,41,13,2,56
+cs & ds & fin-and-econ,3,Computer Vision,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",True,True,True,43,10,1,54
+cs & ds & fin-and-econ,3,Deep Learning,AI & Machine Learning,Machine Learning & Deep Learning,True,True,True,39,12,2,53
+cs & ds & fin-and-econ,3,Algorithms,Theory & Algorithms,Algorithms & Computational Complexity,True,True,True,46,1,2,49
+cs & ds & fin-and-econ,3,Information Security,"Security, Privacy & Cryptography",Information & Systems Security,True,True,True,29,6,2,37
+cs & ds & fin-and-econ,3,Computer Networks,Networks & Communications,Computer & Wireless Networks,True,True,True,25,6,1,32
+cs & ds & fin-and-econ,3,Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,True,True,True,7,22,3,32
+cs & ds & fin-and-econ,3,Bioinformatics,Biomedical & Health Informatics,Bioinformatics & Systems Biology,True,True,True,21,9,1,31
+cs & ds & fin-and-econ,3,Optimization,Applied Mathematics & Operations Research,Optimization & Operations Research,True,True,True,23,7,1,31
+cs & ds & fin-and-econ,3,Big Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,True,True,19,6,2,27
+cs & ds & fin-and-econ,3,Robotics,"Robotics, Control & Smart Manufacturing",Robotics & Automation,True,True,True,10,4,1,15
+cs & ds & fin-and-econ,3,Financial Technology,Financial Engineering & Risk,Banking & Financial Technology,True,True,True,5,3,6,14
+cs & ds & fin-and-econ,3,Network Security,"Security, Privacy & Cryptography",Information & Systems Security,True,True,True,10,1,1,12
+cs & ds & fin-and-econ,3,Game Theory,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,True,True,True,4,2,5,11
+cs & ds & fin-and-econ,3,Reinforcement Learning,AI & Machine Learning,Machine Learning & Deep Learning,True,True,True,6,4,1,11
+cs & ds & fin-and-econ,3,Time Series Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,True,True,True,2,4,5,11
+cs & ds & fin-and-econ,3,Social Network Analysis,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,True,True,True,5,3,2,10
+cs & ds & fin-and-econ,3,Causal Inference,Statistics & Statistical Methods,Statistical Theory & Inference,True,True,True,1,3,1,5
+cs & ds & fin-and-econ,3,Probability Theory,Statistics & Statistical Methods,Statistical Theory & Inference,True,True,True,1,2,1,4
+cs & ds & fin-and-econ,3,Recommender Systems,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,True,True,True,2,1,1,4

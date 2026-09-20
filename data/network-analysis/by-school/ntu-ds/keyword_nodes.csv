@@ -1,0 +1,64 @@
+﻿keyword_en,parent_l2,parent_l1,n_faculty_in_unit,n_faculty_overall,idf
+Artificial Intelligence,Artificial Intelligence & Generative Models,AI & Machine Learning,15,109,1.9563404913341857
+Machine Learning,Machine Learning & Deep Learning,AI & Machine Learning,15,94,2.084746593909529
+Deep Learning,Machine Learning & Deep Learning,AI & Machine Learning,8,54,2.584696120396371
+Computer Vision,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",7,54,2.584696120396371
+Multimedia Systems,Graphics & Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",7,57,2.5348100898864967
+Data Mining,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",6,39,2.888946240904944
+Natural Language Processing,Natural Language & Speech Processing,AI & Machine Learning,6,22,3.4369154642642346
+Information Security,Information & Systems Security,"Security, Privacy & Cryptography",5,39,2.888946240904944
+Partial Differential Equations,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,5,5,4.893352133481524
+Data Science,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",4,13,3.949763333410993
+Internet of Things,"Mobile, IoT & Pervasive Computing",Networks & Communications,4,30,3.138388573955514
+Optimization,Optimization & Operations Research,Applied Mathematics & Operations Research,4,33,3.0474042840983118
+Reinforcement Learning,Machine Learning & Deep Learning,AI & Machine Learning,4,12,4.028323461124307
+Statistics,Statistical Theory & Inference,Statistics & Statistical Methods,4,32,3.076736057707078
+Automation and Control,Robotics & Automation,"Robotics, Control & Smart Manufacturing",3,21,3.481972421847367
+Big Data Analytics,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",3,27,3.2394044050093296
+Computer Architecture,Computer Architecture & Hardware Design,"Systems, Software & Architecture",3,20,3.529297384289471
+Electronic Design Automation,Computer Architecture & Hardware Design,"Systems, Software & Architecture",3,16,3.746558565700614
+Financial Technology,Banking & Financial Technology,Financial Engineering & Risk,3,15,3.809621071810065
+Parallel Computing,Parallel & Distributed Computing,"Systems, Software & Architecture",3,23,3.3939246223330755
+Signal Processing,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",3,24,3.3528237973779396
+Smart Healthcare,Medical Informatics & Imaging,Biomedical & Health Informatics,3,15,3.809621071810065
+Bayesian Statistics,Bayesian & Computational Statistics,Statistics & Statistical Methods,2,9,4.311544559635462
+Causal Inference,Statistical Theory & Inference,Statistics & Statistical Methods,2,5,4.893352133481524
+Embedded Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",2,32,3.076736057707078
+Information Retrieval,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",2,15,3.809621071810065
+Mobile Computing,"Mobile, IoT & Pervasive Computing",Networks & Communications,2,18,3.631721040273988
+Robotics,Robotics & Automation,"Robotics, Control & Smart Manufacturing",2,16,3.746558565700614
+Web Mining,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",2,7,4.559873911072915
+Wireless Communications,Computer & Wireless Networks,Networks & Communications,2,10,4.207673247529104
+Wireless Networks,Computer & Wireless Networks,Networks & Communications,2,25,3.3134584673541485
+Algebraic Geometry,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,1,1,6.4967749901858625
+Bioinformatics,Bioinformatics & Systems Biology,Biomedical & Health Informatics,1,31,3.107042794704757
+Biostatistics,Biostatistics & Survival Analysis,Biomedical & Health Informatics,1,12,4.028323461124307
+Blockchain,"Cryptography, Blockchain & Privacy","Security, Privacy & Cryptography",1,12,4.028323461124307
+Brain-Computer Interfaces,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",1,3,5.401174751987744
+Compilers,"Software Engineering, Languages & Verification","Systems, Software & Architecture",1,12,4.028323461124307
+Computational Linguistics,Natural Language & Speech Processing,AI & Machine Learning,1,2,5.805134968916488
+Computer Networks,Computer & Wireless Networks,Networks & Communications,1,33,3.0474042840983118
+Databases,Database & Storage Systems,"Data, Databases & Knowledge Discovery",1,22,3.4369154642642346
+Differential Geometry,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,1,1,6.4967749901858625
+Digital Transformation,Digital Business & E-Commerce,Information Systems & Management,1,4,5.1149953094204985
+Digital Twins,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",1,6,4.712528704308591
+Formal Methods,"Software Engineering, Languages & Verification","Systems, Software & Architecture",1,1,6.4967749901858625
+Game Theory,Game Theory & Mechanism Design,Applied Mathematics & Operations Research,1,11,4.113850056846357
+Generative AI,Artificial Intelligence & Generative Models,AI & Machine Learning,1,7,4.559873911072915
+Human-Computer Interaction,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",1,22,3.4369154642642346
+Image Processing,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",1,40,2.865053949911875
+Medical Imaging,Medical Informatics & Imaging,Biomedical & Health Informatics,1,9,4.311544559635462
+Model Checking,"Software Engineering, Languages & Verification","Systems, Software & Architecture",1,2,5.805134968916488
+Multivariate Analysis,Applied & Industrial Statistics,Statistics & Statistical Methods,1,6,4.712528704308591
+Network Security,Information & Systems Security,"Security, Privacy & Cryptography",1,12,4.028323461124307
+Pervasive Computing,"Mobile, IoT & Pervasive Computing",Networks & Communications,1,8,4.427836170705175
+Privacy-Preserving Computing,"Cryptography, Blockchain & Privacy","Security, Privacy & Cryptography",1,5,4.893352133481524
+Probability Theory,Statistical Theory & Inference,Statistics & Statistical Methods,1,4,5.1149953094204985
+Scientific Computing,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,1,5,4.893352133481524
+Scientific Modeling,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",1,2,5.805134968916488
+Social Network Analysis,Social & Web Network Analytics,"Data, Databases & Knowledge Discovery",1,10,4.207673247529104
+Software Verification,"Software Engineering, Languages & Verification","Systems, Software & Architecture",1,1,6.4967749901858625
+Speech Recognition,Natural Language & Speech Processing,AI & Machine Learning,1,6,4.712528704308591
+Statistical Computing,Bayesian & Computational Statistics,Statistics & Statistical Methods,1,6,4.712528704308591
+Systems Biology,Bioinformatics & Systems Biology,Biomedical & Health Informatics,1,5,4.893352133481524
+Time Series Analysis,Time Series & Change Point Analysis,Statistics & Statistical Methods,1,11,4.113850056846357

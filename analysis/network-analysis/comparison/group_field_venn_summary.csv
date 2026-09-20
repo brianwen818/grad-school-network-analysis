@@ -1,0 +1,8 @@
+﻿partition,n_fields,n_faculty_mentions,example_fields
+cs only,38,196,Medical Informatics | Operating Systems | Distributed Systems
+ds only,13,38,Statistical Computing | Partial Differential Equations | Reliability Analysis
+fin-and-econ only,41,321,Corporate Finance | Risk Management | Asset Pricing
+cs & ds,50,606,Data Mining | Image Processing | Embedded Systems
+cs & fin-and-econ,5,56,Econometrics | Entrepreneurship | Theory of Computation
+ds & fin-and-econ,1,4,Actuarial Science
+cs & ds & fin-and-econ,22,697,Artificial Intelligence | Machine Learning | Multimedia Systems

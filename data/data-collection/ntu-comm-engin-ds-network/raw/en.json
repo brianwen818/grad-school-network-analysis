@@ -1,0 +1,706 @@
+[
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Lin-Shan Lee",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Stanford Univ."
+    ],
+    "research_interests": [
+      "Digital speech processing, Digital signal processing, Digital transmission"
+    ],
+    "emails": [
+      "cabe9be678982a2f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901017&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901017&p=3",
+      "http://speech.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Soo-Chang Pei",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., UC Santa Barbara"
+    ],
+    "research_interests": [
+      "Digital signal processing and applications, Digital image processing, Pattern recognition, Computer graphics"
+    ],
+    "emails": [
+      "a052b1b544f8bed9@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901001&p=5",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901001&p=5"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shyh-Kang Jeng",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., National Taiwan Univ."
+    ],
+    "research_interests": [
+      "My own studies: Theory of electromagnetics and acoustics, Computational neuroscience ;Collaboration: Robots for caring elders with dementia, Machine learning and multimedia, Empirical mode decomposition"
+    ],
+    "emails": [
+      "9be3b3b926cf6a27@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901071&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901071&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Che Lin",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Univ. of Illinois at Urbana-Champaign"
+    ],
+    "research_interests": [
+      "Deep Learning, Data Science, Signal Processing in Wireless Communications, Systems Biology, FinTech"
+    ],
+    "emails": [
+      "8d594b0cca83fd78@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=25203&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=25203&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chun-Ting Chou",
+    "titles": [
+      "Associate Professor"
+    ],
+    "education": [
+      "Ph.D., Univ. of Michigan, Ann Arbor"
+    ],
+    "research_interests": [
+      "Medium access control for wireless networks, Ultra wide band and multi-gigabyte wireless personal area networks, Cognitive radio networks"
+    ],
+    "emails": [
+      "0137d3a69a52cade@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942021&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942021&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Eli Chien",
+    "titles": [
+      "Assistant Professor"
+    ],
+    "education": [
+      "University of Illinois, Urbana-Champaign . Ph.D."
+    ],
+    "research_interests": [
+      "AI, Machine Learning, Regulatable AI, Trustworthy AI, ML Privacy, Machine Unlearning, AI Copyright, Graph Machine Learning"
+    ],
+    "emails": [
+      "69ddfdb337223e60@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=28115&p=3",
+      "https://sites.google.com/view/eli-chien/home"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hao-Chung Cheng",
+    "titles": [
+      "Associate Professor"
+    ],
+    "education": [
+      "PhD, National Taiwan Univ. and Univ. of Technology Sydney"
+    ],
+    "research_interests": [
+      "Quantum information processing, Quantum communication, Quantum machine learning"
+    ],
+    "emails": [
+      "981bdd98d8fd6237@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hsuan-Jung Su",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Univ. of Maryland at College Park"
+    ],
+    "research_interests": [
+      "Coding, Modulation and signal processing"
+    ],
+    "emails": [
+      "d3ab9aa762adff43@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942007&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942007&p=3",
+      "http://cc.ee.ntu.edu.tw/~hjsu/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hung-yi Lee",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., National Taiwan Univ."
+    ],
+    "research_interests": [
+      "Deep learning, Machine learning, Spoken language understanding, Speech recognition"
+    ],
+    "emails": [
+      "2790b597d357b931@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901182&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901182&p=3",
+      "http://speech.ee.ntu.edu.tw/~tlkagk/",
+      "http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hung-Yun Hsieh",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Georgia Institute of Technology"
+    ],
+    "research_interests": [
+      "IoT, vehicular communications, network science, cybersecurity"
+    ],
+    "emails": [
+      "2c753dc973eec470@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942014&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942014&p=3",
+      "http://tonic.ee.ntu.edu.tw"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hung-Yu Wei",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Columbia Univ."
+    ],
+    "research_interests": [
+      "Mobile and wireless networking, Game theoretical models for communications and networking, Cross-layer design and optimization for wireless multimedia networking, Wireless sensor networks and machine-to-machine communications"
+    ],
+    "emails": [
+      "30420dd660f7655f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901161&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901161&p=3",
+      "http://wmnlab.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "I-Hsiang Wang",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Univ. of California at Berkeley"
+    ],
+    "research_interests": [
+      "Information Theory, Wireless Communications, Networked Information and Data Processing"
+    ],
+    "emails": [
+      "cfa3718f8e912dc8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=102002&p=3",
+      "http://cc.ee.ntu.edu.tw/~ihsiangw/",
+      "http://cc.ee.ntu.edu.tw/~ihsiangw/NICLab/NIC.html"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jian-Jiun Ding",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., National Taiwan Univ."
+    ],
+    "research_interests": [
+      "Digital signal processing, Digital image processing"
+    ],
+    "emails": [
+      "4329dfd7c3f7f919@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942019&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942019&p=3",
+      "https://disp.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tzu-Yu Liu",
+    "titles": [
+      "Associate Professor"
+    ],
+    "education": [
+      "Ph.D,University of Michiganr, Ann Arbor"
+    ],
+    "research_interests": [
+      "Optimization, Structured variable selection, Density estimation, Functional data analysis, Transfer learning, Multi-task learning, Data fusion, Neural network"
+    ],
+    "emails": [
+      "1eb4c1d71e85b6fb@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/bio1.php?teacher_id=26592&p=3",
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=26592&p=3",
+      "https://sites.google.com/view/joyliu-m2lab/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ming-Syan Chen",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Univ. of Michigan, Ann Arbor"
+    ],
+    "research_interests": [
+      "Databases, Mobile computing, Multimedia networking"
+    ],
+    "emails": [
+      "998f5bca9af71ba1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901118&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901118&p=3",
+      "http://arbor.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ping-Cheng Yeh",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Univ. of Michigan"
+    ],
+    "research_interests": [
+      "Wireless communications, Wireless networks"
+    ],
+    "emails": [
+      "6fadc54b9c3e5abf@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942016&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942016&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Pei-Yuan Wu",
+    "titles": [
+      "Associate Professor"
+    ],
+    "education": [
+      "Ph.D., Princeton University"
+    ],
+    "research_interests": [
+      "Machine Learning, Estimation and Prediction, Smart Manufacturing, and Cyber Security"
+    ],
+    "emails": [
+      "32bc4ca01a588820@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=24038&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=24038&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Polly Huang",
+    "titles": [
+      "Professor"
+    ],
+    "education": [],
+    "research_interests": [
+      "Internet characterization, Wireless sensor network, Pervasive computing"
+    ],
+    "emails": [
+      "e2a24ccb10d941c8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901151&p=3",
+      "http://homepage.ntu.edu.tw/~pollyhuang/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shao-Hua Sun",
+    "titles": [
+      "Assistant Professor"
+    ],
+    "education": [
+      "Ph.D., University of Southern California"
+    ],
+    "research_interests": [
+      "Machine Learning, Robot Learning, Reinforcement Learning, Program Synthesis"
+    ],
+    "emails": [
+      "d88082384d665159@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/bio1.php?id=1090721",
+      "https://shaohua0116.github.io/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tsung-Nan Lin",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., Princeton University"
+    ],
+    "research_interests": [
+      "Digital signal processing, Computer networks, Neural networks, Color image processing"
+    ],
+    "emails": [
+      "1afb304543a01708@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901147&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901147&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wanjiun Liao",
+    "titles": [
+      "Professor"
+    ],
+    "education": [
+      "Ph.D., USC"
+    ],
+    "research_interests": [
+      "Wireless Network, Multimedia Systems and Applications, AI for Networking, IoT, Blockchain"
+    ],
+    "emails": [
+      "d3ab333d6bf7d91f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901125&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901125&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yi-Hsuan Yang",
+    "titles": [
+      "Professor"
+    ],
+    "education": [],
+    "research_interests": [
+      "Music information research; Artificial intelligence; Machine learning; Music generation"
+    ],
+    "emails": [
+      "c71206c942b3b55a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://affige.github.io/",
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=26591&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Homer H. Chen",
+    "titles": [
+      "Adjunct Professor"
+    ],
+    "education": [
+      "Ph.D., Univ. of Illinois at Urbana-Champaign"
+    ],
+    "research_interests": [
+      "Multimedia signal processing, Computational photography and display, and Music data mining"
+    ],
+    "emails": [
+      "97a1fffaccc41225@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942010&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942010&p=3",
+      "http://mpac.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yu-Chiang Frank Wang",
+    "titles": [
+      "Adjunct Professor"
+    ],
+    "education": [
+      "Ph.D., Carnegie Mellon University"
+    ],
+    "research_interests": [
+      "Computer Vision, Machine Learning, Deep Learning, Artificial Intelligence"
+    ],
+    "emails": [
+      "d1fb113cd91daaf4@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=24037&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=24037&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Zsehong Tsai",
+    "titles": [
+      "Adjunct Professor"
+    ],
+    "education": [
+      "Ph.D., UCLA"
+    ],
+    "research_interests": [
+      "Broadband networks, Performance analysis, Computer simulations, Network planning and management"
+    ],
+    "emails": [
+      "b74e4140bf50c030@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901040&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901040&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  }
+]

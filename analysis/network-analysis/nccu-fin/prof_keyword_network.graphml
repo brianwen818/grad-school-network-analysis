@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="source" attr.type="string"/>
+<key id="d12" for="node" attr.name="idf" attr.type="double"/>
+<key id="d11" for="node" attr.name="parent_l1" attr.type="string"/>
+<key id="d10" for="node" attr.name="parent_l2" attr.type="string"/>
+<key id="d9" for="node" attr.name="label" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="nccu-fin-吳啟銘-0eb39621fc">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳啟銘</data>
+  <data key="d3">: CHI-MING WU</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair | full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">Mississippi State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-吳啟銘-0eb39621fc</data>
+</node>
+<node id="nccu-fin-周冠男-a15a6e7a1c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">周冠男</data>
+  <data key="d3">: ROBIN K. CHOU</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Iowa</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-周冠男-a15a6e7a1c</data>
+</node>
+<node id="nccu-fin-周行一-b726d62ff6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">周行一</data>
+  <data key="d3">: HSING-YI CHOW</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair | emeritus</data>
+  <data key="d6">5</data>
+  <data key="d7">Indiana University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-周行一-b726d62ff6</data>
+</node>
+<node id="nccu-fin-屠美亞-825b95159f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">屠美亞</data>
+  <data key="d3">: MIA TWU</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair</data>
+  <data key="d6">3</data>
+  <data key="d7">Indiana University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-屠美亞-825b95159f</data>
+</node>
+<node id="nccu-fin-岳夢蘭-8f45cf7ffd">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">岳夢蘭</data>
+  <data key="d3">: MENG-LAN YUEH</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Warwick</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-岳夢蘭-8f45cf7ffd</data>
+</node>
+<node id="nccu-fin-張元晨-6d9fd8f19a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張元晨</data>
+  <data key="d3">: YUAN-CHEN CHANG</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Lancaster University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-張元晨-6d9fd8f19a</data>
+</node>
+<node id="nccu-fin-李志宏-3d451901f4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李志宏</data>
+  <data key="d3">: JIE-HAUN LEE</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair</data>
+  <data key="d6">5</data>
+  <data key="d7">Louisiana State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-李志宏-3d451901f4</data>
+</node>
+<node id="nccu-fin-林則君-199ef589b3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林則君</data>
+  <data key="d3">nan</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Amsterdam</data>
+  <data key="d8">2</data>
+  <data key="d9">nccu-fin-林則君-199ef589b3</data>
+</node>
+<node id="nccu-fin-林基煌-c8b22f6f53">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林基煌</data>
+  <data key="d3">: CHI-HUANG LIN</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair</data>
+  <data key="d6">3</data>
+  <data key="d7">Oklahoma State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-林基煌-c8b22f6f53</data>
+</node>
+<node id="nccu-fin-林炯垚-2db34c9033">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林炯垚</data>
+  <data key="d3">: JOUNG-YOL LIN</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair</data>
+  <data key="d6">2</data>
+  <data key="d7">Iowa State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-林炯垚-2db34c9033</data>
+</node>
+<node id="nccu-fin-湛可南-384e4580ac">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">湛可南</data>
+  <data key="d3">: KONAN CHAN</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-湛可南-384e4580ac</data>
+</node>
+<node id="nccu-fin-盧敬植-91799a8b46">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">盧敬植</data>
+  <data key="d3">: CHING-CHIH LU</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Columbia University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-盧敬植-91799a8b46</data>
+</node>
+<node id="nccu-fin-謝沛霖-e1729f4ebf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝沛霖</data>
+  <data key="d3">: Pei-Lin Hsieh</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Cornell University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-謝沛霖-e1729f4ebf</data>
+</node>
+<node id="nccu-fin-車倫周-87b2cd6bb1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">車倫周</data>
+  <data key="d3">: Yun Ju Cha</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Nanyang Technological University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-車倫周-87b2cd6bb1</data>
+</node>
+<node id="nccu-fin-邱健嘉-961599f1d4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">邱健嘉</data>
+  <data key="d3">: Jian-Jia Chiou</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Nanyang Technological University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-邱健嘉-961599f1d4</data>
+</node>
+<node id="nccu-fin-陳嬿如-01b3a0dea2">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳嬿如</data>
+  <data key="d3">: YENN-RU CHEN</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Houston</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-陳嬿如-01b3a0dea2</data>
+</node>
+<node id="nccu-fin-陳明吉-8484a66d06">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳明吉</data>
+  <data key="d3">: MING-CHI CHEN</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Cambridge</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-陳明吉-8484a66d06</data>
+</node>
+<node id="nccu-fin-陳虹伶-5ed853cf6c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳虹伶</data>
+  <data key="d3">nan</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair | full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Chengchi University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-陳虹伶-5ed853cf6c</data>
+</node>
+<node id="nccu-fin-陳鴻毅-7cb1ac41d1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳鴻毅</data>
+  <data key="d3">: HONG-YI CHEN</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Rutgers University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-陳鴻毅-7cb1ac41d1</data>
+</node>
+<node id="nccu-fin-顏錫銘-e86d3d4b8c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">顏錫銘</data>
+  <data key="d3">: SIMON H . YEN</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair</data>
+  <data key="d6">3</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-顏錫銘-e86d3d4b8c</data>
+</node>
+<node id="nccu-fin-黃嘉威-f12b04b95e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃嘉威</data>
+  <data key="d3">: CHIA-WEI HUANG</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-黃嘉威-f12b04b95e</data>
+</node>
+<node id="nccu-fin-黃群仰-00dc9d3e9d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃群仰</data>
+  <data key="d3">: CHUAN YANG HWANG</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | chair</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-黃群仰-00dc9d3e9d</data>
+</node>
+<node id="nccu-fin-龔則立-a8ccf22859">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">龔則立</data>
+  <data key="d3">nan</data>
+  <data key="d4">nccu-fin</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">nccu-fin-龔則立-a8ccf22859</data>
+</node>
+<node id="Business Valuation">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Business Valuation</data>
+</node>
+<node id="Financial Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Financial Management</data>
+</node>
+<node id="Personal Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Personal Finance</data>
+</node>
+<node id="Portfolio Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Asset Pricing &amp; Investments</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Portfolio Management</data>
+</node>
+<node id="Behavioral Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Behavioral &amp; International Finance</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Behavioral Finance</data>
+</node>
+<node id="Investments">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Asset Pricing &amp; Investments</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Investments</data>
+</node>
+<node id="Market Microstructure">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Financial Markets &amp; Microstructure</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Market Microstructure</data>
+</node>
+<node id="Entrepreneurship">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Entrepreneurship</data>
+</node>
+<node id="International Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Behavioral &amp; International Finance</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">International Finance</data>
+</node>
+<node id="Risk Management">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.3939246223330755</data>
+  <data key="d9">Risk Management</data>
+</node>
+<node id="Corporate Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">3.0189891357182583</data>
+  <data key="d9">Corporate Finance</data>
+</node>
+<node id="Financial Markets">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Financial Markets &amp; Microstructure</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Markets</data>
+</node>
+<node id="Credit Risk">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Risk, Insurance &amp; Actuarial Science</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Credit Risk</data>
+</node>
+<node id="Financial Engineering">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Derivatives &amp; Financial Engineering</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Engineering</data>
+</node>
+<node id="Interest Rate Modeling">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Derivatives &amp; Financial Engineering</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Interest Rate Modeling</data>
+</node>
+<node id="Corporate Governance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Governance &amp; Corporate Control</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Corporate Governance</data>
+</node>
+<node id="Banking and Financial Institutions">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Banking and Financial Institutions</data>
+</node>
+<node id="Asset Pricing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Asset Pricing &amp; Investments</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">3.529297384289471</data>
+  <data key="d9">Asset Pricing</data>
+</node>
+<node id="Econometrics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Econometrics</data>
+  <data key="d11">Economics &amp; Policy</data>
+  <data key="d12">3.138388573955514</data>
+  <data key="d9">Econometrics</data>
+</node>
+<node id="Financial Derivatives">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Derivatives &amp; Financial Engineering</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.8771357464277054</data>
+  <data key="d9">Financial Derivatives</data>
+</node>
+<node id="Mergers and Acquisitions">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Governance &amp; Corporate Control</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Mergers and Acquisitions</data>
+</node>
+<node id="Institutional Investors">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Governance &amp; Corporate Control</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Institutional Investors</data>
+</node>
+<node id="Real Estate Finance">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Behavioral &amp; International Finance</data>
+  <data key="d11">Asset Pricing &amp; Financial Markets</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Real Estate Finance</data>
+</node>
+<node id="Accounting">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Corporate Finance &amp; Valuation</data>
+  <data key="d11">Corporate Finance &amp; Governance</data>
+  <data key="d12">4.427836170705175</data>
+  <data key="d9">Accounting</data>
+</node>
+<edge source="nccu-fin-吳啟銘-0eb39621fc" target="Business Valuation">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-吳啟銘-0eb39621fc" target="Financial Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-吳啟銘-0eb39621fc" target="Personal Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-吳啟銘-0eb39621fc" target="Portfolio Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周冠男-a15a6e7a1c" target="Behavioral Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周冠男-a15a6e7a1c" target="Financial Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周冠男-a15a6e7a1c" target="Investments">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周冠男-a15a6e7a1c" target="Market Microstructure">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周行一-b726d62ff6" target="Entrepreneurship">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周行一-b726d62ff6" target="Financial Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周行一-b726d62ff6" target="International Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周行一-b726d62ff6" target="Investments">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-周行一-b726d62ff6" target="Risk Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-屠美亞-825b95159f" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-屠美亞-825b95159f" target="Financial Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-屠美亞-825b95159f" target="Financial Markets">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-岳夢蘭-8f45cf7ffd" target="Credit Risk">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-岳夢蘭-8f45cf7ffd" target="Financial Engineering">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-岳夢蘭-8f45cf7ffd" target="Interest Rate Modeling">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-岳夢蘭-8f45cf7ffd" target="Risk Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-張元晨-6d9fd8f19a" target="Corporate Governance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-張元晨-6d9fd8f19a" target="Financial Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-張元晨-6d9fd8f19a" target="International Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-李志宏-3d451901f4" target="Banking and Financial Institutions">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-李志宏-3d451901f4" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-李志宏-3d451901f4" target="Investments">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-李志宏-3d451901f4" target="Market Microstructure">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-李志宏-3d451901f4" target="Risk Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-林則君-199ef589b3" target="Asset Pricing">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-林則君-199ef589b3" target="Behavioral Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-林則君-199ef589b3" target="Financial Markets">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-林基煌-c8b22f6f53" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-林基煌-c8b22f6f53" target="Investments">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-林基煌-c8b22f6f53" target="Risk Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-林炯垚-2db34c9033" target="Financial Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-林炯垚-2db34c9033" target="Financial Markets">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-湛可南-384e4580ac" target="Financial Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-湛可南-384e4580ac" target="Investments">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-盧敬植-91799a8b46" target="Asset Pricing">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-盧敬植-91799a8b46" target="Econometrics">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-謝沛霖-e1729f4ebf" target="Asset Pricing">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-謝沛霖-e1729f4ebf" target="Financial Derivatives">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-車倫周-87b2cd6bb1" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-車倫周-87b2cd6bb1" target="Mergers and Acquisitions">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-邱健嘉-961599f1d4" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-邱健嘉-961599f1d4" target="Corporate Governance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-邱健嘉-961599f1d4" target="Institutional Investors">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-陳嬿如-01b3a0dea2" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-陳嬿如-01b3a0dea2" target="Mergers and Acquisitions">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-陳明吉-8484a66d06" target="Real Estate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-陳虹伶-5ed853cf6c" target="Corporate Governance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-陳鴻毅-7cb1ac41d1" target="Asset Pricing">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-陳鴻毅-7cb1ac41d1" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-陳鴻毅-7cb1ac41d1" target="Investments">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-顏錫銘-e86d3d4b8c" target="Financial Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-顏錫銘-e86d3d4b8c" target="International Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-顏錫銘-e86d3d4b8c" target="Risk Management">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-黃嘉威-f12b04b95e" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-黃嘉威-f12b04b95e" target="Corporate Governance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-黃群仰-00dc9d3e9d" target="Corporate Finance">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-黃群仰-00dc9d3e9d" target="Market Microstructure">
+  <data key="d13">nccu-fin</data>
+</edge>
+<edge source="nccu-fin-龔則立-a8ccf22859" target="Accounting">
+  <data key="d13">nccu-fin</data>
+</edge>
+</graph></graphml>

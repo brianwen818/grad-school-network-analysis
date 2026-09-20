@@ -1,0 +1,19 @@
+﻿node_id,professor_name,name_en,school_ids,role_groups,n_keywords,phd_institution,n_appointments
+nccu-mb-廖四郎-dd4aa0acae,廖四郎,: SZU-LANG LIAO,nccu-mb,adjunct | emeritus,4,University of Chicago,1
+nccu-mb-張興華-a1ad78b558,張興華,: HSING-HUA CHANG,nccu-mb,full_time,2,Harvard University,1
+nccu-mb-朱浩民-b36900208d,朱浩民,: HAU-MIN CHU,nccu-mb,emeritus,2,Brown University,1
+nccu-mb-李桐豪-54fed609f6,李桐豪,: THOMAS LEE,nccu-mb,adjunct | full_time,3,Ohio University,1
+nccu-mb-林士貴-1dfbcb1d92,林士貴,: SHIH-KUEI LIN,nccu-mb,full_time,6,National Chengchi University,1
+nccu-mb-林建秀-7e10d6c7e3,林建秀,: CHIEN-HSIU LIN,nccu-mb,full_time,3,"University of California, Los Angeles",1
+nccu-mb-林靖庭-0c65309b7a,林靖庭,: CHING-TING LIN,nccu-mb,full_time,5,University of Delaware,1
+nccu-mb-楊曉文-bfe05b5d2b,楊曉文,: SHEAUWEN YANG,nccu-mb,full_time,3,Heriot-Watt University,1
+nccu-mb-殷乃平-d68e64b186,殷乃平,: NORMAN YIN,nccu-mb,adjunct | full_time,1,,1
+nccu-mb-江彌修-10fe15f5d0,江彌修,,nccu-mb,full_time,1,Imperial College London,1
+nccu-mb-羅秉政-7c7cc9688b,羅秉政,,nccu-mb,full_time,3,National Taiwan University,1
+nccu-mb-詹育儒-b0e506f68d,詹育儒,: Yu-Ju Chan,nccu-mb,full_time,2,University of Hong Kong,1
+nccu-mb-趙世偉-bb0dcdcc7f,趙世偉,: SHIH-WEI CHAO,nccu-mb,full_time,2,"University of California, Davis",1
+nccu-mb-金帛春-6af918f80e,金帛春,: BAEK-CHUN KIM,nccu-mb,full_time,1,Nanyang Technological University,1
+nccu-mb-陳威光-119fc2a584,陳威光,: WEI-KUANG CHEN,nccu-mb,adjunct | full_time,2,,1
+nccu-mb-陳正暉-5d7134b1d1,陳正暉,: Zheng-Hui Chen,nccu-mb,adjunct | full_time | project,1,National Chengchi University,1
+nccu-mb-陳韋達-69b2d375bd,陳韋達,,nccu-mb,full_time,1,National Taiwan University,1
+nccu-mb-黃台心-e46c71fea9,黃台心,: TAI-HSIN HUANG,nccu-mb,adjunct | full_time,2,Stony Brook University,1

@@ -1,0 +1,13 @@
+﻿parent_l1,n_faculty,coverage_pct,flag
+Statistics & Statistical Methods,29,74.4,too_broad
+Biomedical & Health Informatics,14,35.9,ok
+AI & Machine Learning,5,12.8,ok
+"Data, Databases & Knowledge Discovery",5,12.8,ok
+"Vision, Multimedia & Human-Centered Computing",3,7.7,ok
+Applied Mathematics & Operations Research,2,5.1,ok
+Financial Engineering & Risk,2,5.1,ok
+Networks & Communications,1,2.6,ok
+"Robotics, Control & Smart Manufacturing",1,2.6,ok
+"Security, Privacy & Cryptography",1,2.6,ok
+"Systems, Software & Architecture",1,2.6,ok
+Theory & Algorithms,1,2.6,ok

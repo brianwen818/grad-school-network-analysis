@@ -1,0 +1,101 @@
+﻿faculty_id,field,difference_type,zh_value,en_value
+ntu-comm-engin-ds-network-丁建均-e5141fb566,name,both_present_different,丁建均,Jian-Jiun Ding
+ntu-comm-engin-ds-network-丁建均-e5141fb566,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-丁建均-e5141fb566,education,both_present_different,國立臺灣大學博士,"Ph.D., National Taiwan Univ."
+ntu-comm-engin-ds-network-丁建均-e5141fb566,research_interests,both_present_different,"數位信號處理,數位影像處理","Digital signal processing, Digital image processing"
+ntu-comm-engin-ds-network-劉子毓-3ebc338425,name,both_present_different,劉子毓,Tzu-Yu Liu
+ntu-comm-engin-ds-network-劉子毓-3ebc338425,titles,both_present_different,專任副教授,Associate Professor
+ntu-comm-engin-ds-network-劉子毓-3ebc338425,education,both_present_different,密西根大學安娜堡分校博士,"Ph.D,University of Michiganr, Ann Arbor"
+ntu-comm-engin-ds-network-劉子毓-3ebc338425,research_interests,both_present_different,機器學習、最佳化、結構化變數選取、密度估計、時序資料分析、遷移學習、多任務學習、資料融合、神經網路,"Optimization, Structured variable selection, Density estimation, Functional data analysis, Transfer learning, Multi-task learning, Data fusion, Neural network"
+ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,name,both_present_different,吳沛遠,Pei-Yuan Wu
+ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,titles,both_present_different,專任副教授,Associate Professor
+ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,education,both_present_different,美國普林斯頓大學博士,"Ph.D., Princeton University"
+ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,research_interests,both_present_different,機器學習、估計理論、智慧製造、資訊安全,"Machine Learning, Estimation and Prediction, Smart Manufacturing, and Cyber Security"
+ntu-comm-engin-ds-network-周俊廷-e6686de123,name,both_present_different,周俊廷,Chun-Ting Chou
+ntu-comm-engin-ds-network-周俊廷-e6686de123,titles,both_present_different,專任副教授,Associate Professor
+ntu-comm-engin-ds-network-周俊廷-e6686de123,education,both_present_different,美國密西根大學安納堡分校博士,"Ph.D., Univ. of Michigan, Ann Arbor"
+ntu-comm-engin-ds-network-周俊廷-e6686de123,research_interests,both_present_different,無線網路通訊協定、超高速個人無線區域網路、認知型智慧無線網路,"Medium access control for wireless networks, Ultra wide band and multi-gigabyte wireless personal area networks, Cognitive radio networks"
+ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,name,both_present_different,孫紹華,Shao-Hua Sun
+ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,titles,both_present_different,專任助理教授,Assistant Professor
+ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,education,both_present_different,美國南加州大學博士,"Ph.D., University of Southern California"
+ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,research_interests,both_present_different,機器學習、機器人學習、強化學習、程式合成,"Machine Learning, Robot Learning, Reinforcement Learning, Program Synthesis"
+ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,name,both_present_different,廖婉君,Wanjiun Liao
+ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,education,both_present_different,美國南加州大學博士,"Ph.D., USC"
+ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,research_interests,both_present_different,無線網路、多媒體系統及應用、人工智慧物聯網、區塊鏈,"Wireless Network, Multimedia Systems and Applications, AI for Networking, IoT, Blockchain"
+ntu-comm-engin-ds-network-李宏毅-617adf302c,name,both_present_different,李宏毅,Hung-yi Lee
+ntu-comm-engin-ds-network-李宏毅-617adf302c,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-李宏毅-617adf302c,education,both_present_different,國立臺灣大學博士,"Ph.D., National Taiwan Univ."
+ntu-comm-engin-ds-network-李宏毅-617adf302c,research_interests,both_present_different,深度學習、機器學習、語意理解、語音辨識,"Deep learning, Machine learning, Spoken language understanding, Speech recognition"
+ntu-comm-engin-ds-network-李琳山-193d6b842c,name,both_present_different,李琳山,Lin-Shan Lee
+ntu-comm-engin-ds-network-李琳山-193d6b842c,titles,both_present_different,教授,Professor
+ntu-comm-engin-ds-network-李琳山-193d6b842c,education,both_present_different,美國史丹福大學博士,"Ph.D., Stanford Univ."
+ntu-comm-engin-ds-network-李琳山-193d6b842c,research_interests,both_present_different,數位語音處理、數位訊號處理、數位傳輸,"Digital speech processing, Digital signal processing, Digital transmission"
+ntu-comm-engin-ds-network-林宗男-d804481822,name,both_present_different,林宗男,Tsung-Nan Lin
+ntu-comm-engin-ds-network-林宗男-d804481822,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-林宗男-d804481822,education,both_present_different,美國普林斯頓大學博士,"Ph.D., Princeton University"
+ntu-comm-engin-ds-network-林宗男-d804481822,research_interests,both_present_different,數位信號處理、通訊網路、神經網路、色彩影像處理,"Digital signal processing, Computer networks, Neural networks, Color image processing"
+ntu-comm-engin-ds-network-林澤-45fabc226a,name,both_present_different,林澤,Che Lin
+ntu-comm-engin-ds-network-林澤-45fabc226a,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-林澤-45fabc226a,education,both_present_different,美國伊利諾大學香檳分校博士,"Ph.D., Univ. of Illinois at Urbana-Champaign"
+ntu-comm-engin-ds-network-林澤-45fabc226a,research_interests,both_present_different,深度學習、資料科學、通訊/生醫信號處理、金融科技、最佳化理論,"Deep Learning, Data Science, Signal Processing in Wireless Communications, Systems Biology, FinTech"
+ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b,name,both_present_different,楊奕軒,Yi-Hsuan Yang
+ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b,education,missing_en,國立臺灣大學博士,
+ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b,research_interests,both_present_different,音樂資料研究、人工智慧、機器學習、自動音樂生成,Music information research; Artificial intelligence; Machine learning; Music generation
+ntu-comm-engin-ds-network-王奕翔-e163a124b7,name,both_present_different,王奕翔,I-Hsiang Wang
+ntu-comm-engin-ds-network-王奕翔-e163a124b7,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-王奕翔-e163a124b7,education,both_present_different,美國加州大學柏克萊分校博士,"Ph.D., Univ. of California at Berkeley"
+ntu-comm-engin-ds-network-王奕翔-e163a124b7,research_interests,both_present_different,消息理論、無線通訊、網路資訊與資料處理,"Information Theory, Wireless Communications, Networked Information and Data Processing"
+ntu-comm-engin-ds-network-王鈺強-43bfbd0d23,name,both_present_different,王鈺強,Yu-Chiang Frank Wang
+ntu-comm-engin-ds-network-王鈺強-43bfbd0d23,titles,both_present_different,兼任教授,Adjunct Professor
+ntu-comm-engin-ds-network-王鈺強-43bfbd0d23,education,both_present_different,美國卡內基美隆大學博士,"Ph.D., Carnegie Mellon University"
+ntu-comm-engin-ds-network-王鈺強-43bfbd0d23,research_interests,both_present_different,電腦視覺、機器學習、深度學習、人工智慧,"Computer Vision, Machine Learning, Deep Learning, Artificial Intelligence"
+ntu-comm-engin-ds-network-簡翌-6a29f81209,name,both_present_different,簡翌,Eli Chien
+ntu-comm-engin-ds-network-簡翌-6a29f81209,titles,both_present_different,專任助理教授,Assistant Professor
+ntu-comm-engin-ds-network-簡翌-6a29f81209,education,both_present_different,伊利諾大學厄巴納-香檳分校博士,"University of Illinois, Urbana-Champaign . Ph.D."
+ntu-comm-engin-ds-network-簡翌-6a29f81209,research_interests,both_present_different,人工智慧、機器學習、可規範性人工智慧、機器學習隱私、機器遺忘、人工智慧智慧財產權、圖機器學習,"AI, Machine Learning, Regulatable AI, Trustworthy AI, ML Privacy, Machine Unlearning, AI Copyright, Graph Machine Learning"
+ntu-comm-engin-ds-network-葉丙成-281ee85757,name,both_present_different,葉丙成,Ping-Cheng Yeh
+ntu-comm-engin-ds-network-葉丙成-281ee85757,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-葉丙成-281ee85757,education,both_present_different,美國密西根大學博士,"Ph.D., Univ. of Michigan"
+ntu-comm-engin-ds-network-葉丙成-281ee85757,research_interests,both_present_different,無線通訊、無線網路,"Wireless communications, Wireless networks"
+ntu-comm-engin-ds-network-蔡志宏-22700a6730,name,both_present_different,蔡志宏,Zsehong Tsai
+ntu-comm-engin-ds-network-蔡志宏-22700a6730,titles,both_present_different,兼任教授,Adjunct Professor
+ntu-comm-engin-ds-network-蔡志宏-22700a6730,education,both_present_different,美國加州大學洛杉磯分校博士,"Ph.D., UCLA"
+ntu-comm-engin-ds-network-蔡志宏-22700a6730,research_interests,both_present_different,寬頻網路、效能分析、計算機模擬、網路規劃與管理,"Broadband networks, Performance analysis, Computer simulations, Network planning and management"
+ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee,name,both_present_different,蘇炫榮,Hsuan-Jung Su
+ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee,education,both_present_different,美國馬里蘭大學博士,"Ph.D., Univ. of Maryland at College Park"
+ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee,research_interests,both_present_different,編碼、調變、訊號處理,"Coding, Modulation and signal processing"
+ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,name,both_present_different,謝宏昀,Hung-Yun Hsieh
+ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,education,both_present_different,美國喬治亞理工學院博士,"Ph.D., Georgia Institute of Technology"
+ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,research_interests,both_present_different,物聯網、車載通訊網路、網路科學與資訊安全,"IoT, vehicular communications, network science, cybersecurity"
+ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6,name,both_present_different,貝蘇章,Soo-Chang Pei
+ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6,titles,both_present_different,教授,Professor
+ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6,education,both_present_different,美國加州大學(聖塔芭芭拉)博士,"Ph.D., UC Santa Barbara"
+ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6,research_interests,both_present_different,數位訊號處理及其應用、影像處理與圖型識別、電腦圖學,"Digital signal processing and applications, Digital image processing, Pattern recognition, Computer graphics"
+ntu-comm-engin-ds-network-鄭士康-08dd5999fd,name,both_present_different,鄭士康,Shyh-Kang Jeng
+ntu-comm-engin-ds-network-鄭士康-08dd5999fd,titles,both_present_different,教授,Professor
+ntu-comm-engin-ds-network-鄭士康-08dd5999fd,education,both_present_different,國立臺灣大學博士,"Ph.D., National Taiwan Univ."
+ntu-comm-engin-ds-network-鄭士康-08dd5999fd,research_interests,both_present_different,"獨力: 電磁與聲波理論, 計算神經科學 合作: 失智照護機器人, 機器學習與多媒體, 經驗模態分解","My own studies: Theory of electromagnetics and acoustics, Computational neuroscience ;Collaboration: Robots for caring elders with dementia, Machine learning and multimedia, Empirical mode decomposition"
+ntu-comm-engin-ds-network-鄭皓中-046d884ef1,name,both_present_different,鄭皓中,Hao-Chung Cheng
+ntu-comm-engin-ds-network-鄭皓中-046d884ef1,titles,both_present_different,專任副教授,Associate Professor
+ntu-comm-engin-ds-network-鄭皓中-046d884ef1,education,both_present_different,國立臺灣大學博士及澳洲雪梨理工大學博士,"PhD, National Taiwan Univ. and Univ. of Technology Sydney"
+ntu-comm-engin-ds-network-鄭皓中-046d884ef1,research_interests,both_present_different,量子資訊處理、量子通訊、量子機器學習,"Quantum information processing, Quantum communication, Quantum machine learning"
+ntu-comm-engin-ds-network-陳宏銘-9a7386a945,name,both_present_different,陳宏銘,Homer H. Chen
+ntu-comm-engin-ds-network-陳宏銘-9a7386a945,titles,both_present_different,兼任教授,Adjunct Professor
+ntu-comm-engin-ds-network-陳宏銘-9a7386a945,education,both_present_different,美國伊利諾大學香檳分校博士,"Ph.D., Univ. of Illinois at Urbana-Champaign"
+ntu-comm-engin-ds-network-陳宏銘-9a7386a945,research_interests,both_present_different,多媒體信號處理、計算攝影及顯示技術、音樂資訊探勘,"Multimedia signal processing, Computational photography and display, and Music data mining"
+ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,name,both_present_different,陳銘憲,Ming-Syan Chen
+ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,education,both_present_different,美國密西根大學安那堡分校博士,"Ph.D., Univ. of Michigan, Ann Arbor"
+ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,research_interests,both_present_different,資料庫、行動通訊、多媒體網路,"Databases, Mobile computing, Multimedia networking"
+ntu-comm-engin-ds-network-魏宏宇-c14d33111c,name,both_present_different,魏宏宇,Hung-Yu Wei
+ntu-comm-engin-ds-network-魏宏宇-c14d33111c,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-魏宏宇-c14d33111c,education,both_present_different,美國哥倫比亞大學博士,"Ph.D., Columbia Univ."
+ntu-comm-engin-ds-network-魏宏宇-c14d33111c,research_interests,both_present_different,行動無線網路、通信網路賽局理論、跨階層無線多媒體通信系統設計,"Mobile and wireless networking, Game theoretical models for communications and networking, Cross-layer design and optimization for wireless multimedia networking, Wireless sensor networks and machine-to-machine communications"
+ntu-comm-engin-ds-network-黃寶儀-3684ae24b6,name,both_present_different,黃寶儀,Polly Huang
+ntu-comm-engin-ds-network-黃寶儀-3684ae24b6,titles,both_present_different,專任教授,Professor
+ntu-comm-engin-ds-network-黃寶儀-3684ae24b6,education,missing_en,美國南加州大學博士,
+ntu-comm-engin-ds-network-黃寶儀-3684ae24b6,research_interests,both_present_different,網際網路分析、無線感測網路、多媒體同儕網路、普及運算,"Internet characterization, Wireless sensor network, Pervasive computing"

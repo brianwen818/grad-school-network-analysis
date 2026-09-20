@@ -1,0 +1,20 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Accounting,Corporate Finance & Governance,Corporate Finance & Valuation,1,3,3,3
+Actuarial Science,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",0,1,1,1
+Asset Pricing,Asset Pricing & Financial Markets,Asset Pricing & Investments,1,2,2,2
+Banking and Financial Institutions,Financial Engineering & Risk,Banking & Financial Technology,0,0,0,0
+Behavioral Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,0,0,0
+Corporate Governance,Corporate Finance & Governance,Governance & Corporate Control,0,0,0,0
+Econometrics,Economics & Policy,Econometrics,0,2,2,2
+Financial Derivatives,Financial Engineering & Risk,Derivatives & Financial Engineering,0,1,1,1
+Financial Engineering,Financial Engineering & Risk,Derivatives & Financial Engineering,0,1,1,1
+Financial Management,Corporate Finance & Governance,Corporate Finance & Valuation,2,0,0,0
+Financial Markets,Asset Pricing & Financial Markets,Financial Markets & Microstructure,1,3,3,3
+International Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,2,2,2
+Investments,Asset Pricing & Financial Markets,Asset Pricing & Investments,2,0,0,0
+Labor Economics,Economics & Policy,Applied & Policy Economics,0,2,2,2
+Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,1,3,3,3
+Macroeconomics,Economics & Policy,Macroeconomics & Monetary Economics,1,3,3,3
+Market Microstructure,Asset Pricing & Financial Markets,Financial Markets & Microstructure,0,0,0,0
+Risk Management,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",0,1,1,1
+Sustainable Finance,Financial Engineering & Risk,Banking & Financial Technology,0,1,1,1

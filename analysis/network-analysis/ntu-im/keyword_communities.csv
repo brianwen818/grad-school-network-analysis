@@ -1,0 +1,42 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Algorithms,Theory & Algorithms,Algorithms & Computational Complexity,0,2,3,2
+Artificial Intelligence,AI & Machine Learning,Artificial Intelligence & Generative Models,1,1,0,1
+Big Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,1,0,1
+Bioinformatics,Biomedical & Health Informatics,Bioinformatics & Systems Biology,1,1,0,1
+Blockchain,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",2,1,0,1
+Business Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,6,0
+Cloud Computing,Networks & Communications,Cloud & Edge Computing,1,1,0,1
+Computer Graphics,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,2,3,4,3
+Computer Networks,Networks & Communications,Computer & Wireless Networks,1,1,0,1
+Computer Vision,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",2,3,4,3
+Data Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,1,0
+Data Science,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,1,0,5,0
+Databases,"Data, Databases & Knowledge Discovery",Database & Storage Systems,0,2,3,2
+Deep Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,0,1,0
+Distributed Systems,"Systems, Software & Architecture",Parallel & Distributed Computing,0,0,1,0
+E-Commerce,Information Systems & Management,Digital Business & E-Commerce,0,0,1,0
+Econometrics,Economics & Policy,Econometrics,1,4,2,4
+Entrepreneurship,Information Systems & Management,"Innovation, Entrepreneurship & Management",2,1,0,1
+Financial Technology,Financial Engineering & Risk,Banking & Financial Technology,0,1,1,1
+Formal Verification,"Systems, Software & Architecture","Software Engineering, Languages & Verification",1,1,2,1
+Human-Computer Interaction,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,2,3,4,3
+Image Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",2,3,4,3
+Information Retrieval,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,2,3,2
+Information Security,"Security, Privacy & Cryptography",Information & Systems Security,1,1,2,1
+Innovation Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",2,1,0,1
+Internet of Things,Networks & Communications,"Mobile, IoT & Pervasive Computing",1,1,0,1
+Knowledge Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,0,1,0
+Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,2,3,2
+Malware Analysis,"Security, Privacy & Cryptography",Information & Systems Security,1,4,2,4
+Mechanism Design,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,1,0,5,0
+Medical Informatics,Biomedical & Health Informatics,Medical Informatics & Imaging,0,0,1,0
+Mobile Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",1,1,2,1
+Natural Language Processing,AI & Machine Learning,Natural Language & Speech Processing,1,4,2,4
+Neural Networks,AI & Machine Learning,Machine Learning & Deep Learning,0,2,3,2
+Operations Research,Applied Mathematics & Operations Research,Optimization & Operations Research,1,0,5,0
+Optimization,Applied Mathematics & Operations Research,Optimization & Operations Research,1,1,0,1
+Recommender Systems,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,6,0
+Service Science,Information Systems & Management,Digital Business & E-Commerce,0,0,1,0
+Social Media Analytics,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,0,0,1,0
+Text Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,6,0
+Web Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,2,3,2

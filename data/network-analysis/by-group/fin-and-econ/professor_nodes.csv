@@ -1,0 +1,152 @@
+﻿node_id,professor_name,name_en,school_ids,role_groups,n_keywords,phd_institution,n_appointments
+nccu-fin-吳啟銘-0eb39621fc,吳啟銘,: CHI-MING WU,nccu-fin,adjunct | chair | full_time,4,Mississippi State University,1
+nccu-fin-周冠男-a15a6e7a1c,周冠男,: ROBIN K. CHOU,nccu-fin,full_time,4,University of Iowa,1
+nccu-fin-周行一-b726d62ff6,周行一,: HSING-YI CHOW,nccu-fin,adjunct | chair | emeritus,5,Indiana University,1
+nccu-fin-屠美亞-825b95159f,屠美亞,: MIA TWU,nccu-fin,adjunct | chair,3,Indiana University,1
+nccu-fin-岳夢蘭-8f45cf7ffd,岳夢蘭,: MENG-LAN YUEH,nccu-fin,full_time,4,University of Warwick,1
+nccu-fin-張元晨-6d9fd8f19a,張元晨,: YUAN-CHEN CHANG,nccu-fin,full_time,3,Lancaster University,1
+nccu-fin-李志宏-3d451901f4,李志宏,: JIE-HAUN LEE,nccu-fin,adjunct | chair,5,Louisiana State University,1
+nccu-fin-林則君-199ef589b3,林則君,Tse-Chun Lin,nccu-fin | ntu-fin,adjunct | chair,3,University of Amsterdam,2
+nccu-fin-林基煌-c8b22f6f53,林基煌,: CHI-HUANG LIN,nccu-fin,adjunct | chair,3,Oklahoma State University,1
+nccu-fin-林炯垚-2db34c9033,林炯垚,: JOUNG-YOL LIN,nccu-fin,adjunct | chair,2,Iowa State University,1
+nccu-fin-湛可南-384e4580ac,湛可南,: KONAN CHAN,nccu-fin,full_time,2,University of Illinois Urbana-Champaign,1
+nccu-fin-盧敬植-91799a8b46,盧敬植,: CHING-CHIH LU,nccu-fin,full_time,2,Columbia University,1
+nccu-fin-謝沛霖-e1729f4ebf,謝沛霖,: Pei-Lin Hsieh,nccu-fin,full_time,2,Cornell University,1
+nccu-fin-車倫周-87b2cd6bb1,車倫周,: Yun Ju Cha,nccu-fin,full_time,2,Nanyang Technological University,1
+nccu-fin-邱健嘉-961599f1d4,邱健嘉,: Jian-Jia Chiou,nccu-fin,full_time,3,Nanyang Technological University,1
+nccu-fin-陳嬿如-01b3a0dea2,陳嬿如,: YENN-RU CHEN,nccu-fin,full_time,2,University of Houston,1
+nccu-fin-陳明吉-8484a66d06,陳明吉,: MING-CHI CHEN,nccu-fin,full_time,1,University of Cambridge,1
+nccu-fin-陳虹伶-5ed853cf6c,陳虹伶,,nccu-fin,adjunct | chair | full_time,1,National Chengchi University,1
+nccu-fin-陳鴻毅-7cb1ac41d1,陳鴻毅,: HONG-YI CHEN,nccu-fin,full_time,3,Rutgers University,1
+nccu-fin-顏錫銘-e86d3d4b8c,顏錫銘,: SIMON H . YEN,nccu-fin,adjunct | chair,3,The Ohio State University,1
+nccu-fin-黃嘉威-f12b04b95e,黃嘉威,: CHIA-WEI HUANG,nccu-fin,faculty,2,National Taiwan University,1
+nccu-fin-黃群仰-00dc9d3e9d,黃群仰,: CHUAN YANG HWANG,nccu-fin,adjunct | chair,2,,1
+nccu-fin-龔則立-a8ccf22859,龔則立,,nccu-fin,adjunct | full_time,1,,1
+nccu-mb-廖四郎-dd4aa0acae,廖四郎,: SZU-LANG LIAO,nccu-mb,adjunct | emeritus,4,University of Chicago,1
+nccu-mb-張興華-a1ad78b558,張興華,: HSING-HUA CHANG,nccu-mb,full_time,2,Harvard University,1
+nccu-mb-朱浩民-b36900208d,朱浩民,: HAU-MIN CHU,nccu-mb,emeritus,2,Brown University,1
+nccu-mb-李桐豪-54fed609f6,李桐豪,: THOMAS LEE,nccu-mb,adjunct | full_time,3,Ohio University,1
+nccu-mb-林士貴-1dfbcb1d92,林士貴,: SHIH-KUEI LIN,nccu-mb,full_time,6,National Chengchi University,1
+nccu-mb-林建秀-7e10d6c7e3,林建秀,: CHIEN-HSIU LIN,nccu-mb,full_time,3,"University of California, Los Angeles",1
+nccu-mb-林靖庭-0c65309b7a,林靖庭,: CHING-TING LIN,nccu-mb,full_time,5,University of Delaware,1
+nccu-mb-楊曉文-bfe05b5d2b,楊曉文,: SHEAUWEN YANG,nccu-mb,full_time,3,Heriot-Watt University,1
+nccu-mb-殷乃平-d68e64b186,殷乃平,: NORMAN YIN,nccu-mb,adjunct | full_time,1,,1
+nccu-mb-江彌修-10fe15f5d0,江彌修,,nccu-mb,full_time,1,Imperial College London,1
+nccu-mb-羅秉政-7c7cc9688b,羅秉政,,nccu-mb,full_time,3,National Taiwan University,1
+nccu-mb-詹育儒-b0e506f68d,詹育儒,: Yu-Ju Chan,nccu-mb,full_time,2,University of Hong Kong,1
+nccu-mb-趙世偉-bb0dcdcc7f,趙世偉,: SHIH-WEI CHAO,nccu-mb,full_time,2,"University of California, Davis",1
+nccu-mb-金帛春-6af918f80e,金帛春,: BAEK-CHUN KIM,nccu-mb,full_time,1,Nanyang Technological University,1
+nccu-mb-陳威光-119fc2a584,陳威光,: WEI-KUANG CHEN,nccu-mb,adjunct | full_time,2,,1
+nccu-mb-陳正暉-5d7134b1d1,陳正暉,: Zheng-Hui Chen,nccu-mb,adjunct | full_time | project,1,National Chengchi University,1
+nccu-mb-陳韋達-69b2d375bd,陳韋達,,nccu-mb,full_time,1,National Taiwan University,1
+nccu-mb-黃台心-e46c71fea9,黃台心,: TAI-HSIN HUANG,nccu-mb,adjunct | full_time,2,Stony Brook University,1
+nthu-qf-kangliu-cb7ae7428e,劉鋼,Kang Liu,nthu-qf,adjunct | full_time | practice,10,The Ohio State University,1
+nthu-qf-余士迪-fee4dd1609,余士迪,,nthu-qf,full_time,2,University of Rochester,1
+nthu-qf-俞明德-5bc6444834,俞明德,Min-Teh Yu,nthu-qf | nycu-info-mag-fin,chair | emeritus | full_time | joint,5,The Ohio State University,2
+nthu-qf-張焯然-be6ae873ff,張焯然,,nthu-qf,full_time,3,National Taiwan University,1
+nthu-qf-曾祺峰-0159aadf46,曾祺峰,,nthu-qf,full_time,3,Lancaster University,1
+nthu-qf-林哲群-8dd6d7cb57,林哲群,,nthu-qf,full_time,1,University of Texas at Arlington,1
+nthu-qf-潘虹華-2cd399c3cc,潘虹華,,nthu-qf,full_time,1,National Taiwan University,1
+nthu-qf-索樂晴-9b18bc7ea3,索樂晴,,nthu-qf,full_time,3,National Taiwan University,1
+nthu-qf-蔡子晧-d1c931b9aa,蔡子晧,,nthu-qf,full_time,3,National Taiwan University,1
+nthu-qf-蔡怡純-bc1e0b3659,蔡怡純,,nthu-qf,chair | full_time,2,National Sun Yat-sen University,1
+nthu-qf-許博炫-19a6a7d0a1,許博炫,,nthu-qf,chair | full_time,3,Columbia University,1
+nthu-qf-謝佩芳-000b7cb509,謝佩芳,,nthu-qf,full_time,2,National Central University,1
+nthu-qf-謝宗翰-b308786865,謝宗翰,,nthu-qf,full_time,1,University of Wisconsin-Madison,1
+nthu-qf-鍾經樊-def35bacad,鍾經樊,,nthu-qf,chair | full_time,3,University of Wisconsin-Madison,1
+nthu-qf-韓傳祥-b9870472b6,韓傳祥,,nthu-qf,full_time,2,North Carolina State University,1
+nthu-qf-黃德源-436d6848bb,黃德源,,nthu-qf,full_time,1,Boston University,1
+nthu-qf-黃裕烈-945496ca2a,黃裕烈,,nthu-qf,full_time,1,National Taiwan University,1
+ntu-cs-ie-ydlyuu-ca115abad3,呂育道,Yuh-Dauh Lyuu,ntu-fin,full_time | joint,4,Harvard University,1
+ntu-econ-joonkyohong-abba80fbe9,Joonkyo Hong,Joonkyo Hong,ntu-econ,full_time,2,Pennsylvania State University,1
+ntu-econ-junrokpark-d50100b56e,Junrok Park,Junrok Park,ntu-econ,full_time,1,"University of California, Los Angeles",1
+ntu-econ-sungminpark-469370a4d3,Sungmin Park,Sungmin Park,ntu-econ,full_time,2,The Ohio State University,1
+ntu-econ-toshiakikomatsu-2c1f940cc4,Toshiaki Komatsu,Toshiaki Komatsu,ntu-econ,full_time,2,University of Chicago,1
+ntu-econ-何泰寬-3f8b4902cb,何泰寬,Tai-kuang Ho,ntu-econ,faculty,4,,1
+ntu-econ-劉育辰-40b649c520,劉育辰,Yu-Chen Liu,ntu-econ,full_time,3,University of Washington,1
+ntu-econ-吳儀玲-9ff31e9638,吳儀玲,YiLin Wu,ntu-econ,faculty,5,University of Chicago,1
+ntu-econ-和田健司-cd35fc2b2a,和田健司,Kenji Wada,ntu-econ,full_time,5,New York University,1
+ntu-econ-小松利明-e63776cdd7,小松利明,,ntu-econ,faculty,2,University of Chicago,1
+ntu-econ-廖珮如-cff0efe03d,廖珮如,Pei-Ju Liao,ntu-econ,faculty,2,"University of California, Los Angeles",1
+ntu-econ-張勝凱-af91a80773,張勝凱,Sheng-Kai Chang,ntu-econ,faculty,1,University of Wisconsin-Madison,1
+ntu-econ-朱玉琦-f9c58241bc,朱玉琦,Yu-Chi Chu,ntu-econ,full_time,1,University of Wisconsin-Madison,1
+ntu-econ-朴埻錄-9cec86c47b,朴埻錄,,ntu-econ,faculty,1,"University of California, Los Angeles",1
+ntu-econ-朴聖民-100e67fe5b,朴聖民,,ntu-econ,faculty,3,The Ohio State University,1
+ntu-econ-李宗穎-b1fed3d112,李宗穎,Chung-Ying Lee,ntu-econ,full_time,3,Duke University,1
+ntu-econ-李怡庭-876e01e588,李怡庭,Yiting Li,ntu-econ,faculty,3,,1
+ntu-econ-林明仁-3459b553e9,林明仁,Ming-Jen Lin,ntu-econ,faculty,1,University of Chicago,1
+ntu-econ-梁卓誠-81139af4f8,梁卓誠,Cheuk Shing Leung,ntu-econ,full_time,2,McGill University,1
+ntu-econ-楊睿中-6c2f0e88ae,楊睿中,Jui-Chung Yang,ntu-econ,full_time,3,Texas A&M University,1
+ntu-econ-樊家忠-0d4e667fb7,樊家忠,Elliott Fan,ntu-econ,faculty,2,,1
+ntu-econ-江淳芳-727bf49f84,江淳芳,Chun-Fang Chiang,ntu-econ,faculty,2,Brown University,1
+ntu-econ-洪俊教-348bf31cd5,洪俊教,,ntu-econ,faculty,2,Pennsylvania State University,1
+ntu-econ-王建強-992a85075e,王建強,Chien-Chiang Wang,ntu-econ,full_time,4,Saint Louis University,1
+ntu-econ-王泓仁-6e89dae82f,王泓仁,Hung-Jen Wang,ntu-econ,faculty,1,University of Michigan,1
+ntu-econ-王道一-6484b93714,王道一,Joseph Tao-yi Wang,ntu-econ,faculty,1,"University of California, Los Angeles",1
+ntu-econ-羅珮瑜-24610cd413,羅珮瑜,Pei-Yu Lo,ntu-econ,full_time,3,,1
+ntu-econ-蔡宜展-c83bdc5cdc,蔡宜展,Yi-Chan Tsai,ntu-econ,faculty,2,The Ohio State University,1
+ntu-econ-蔡崇聖-b5b6a97658,蔡崇聖,Tsung-Sheng Tsai,ntu-econ,faculty,3,University of Wisconsin-Madison,1
+ntu-econ-蘇軒立-87d57366a0,蘇軒立,Hsuan-Li Su,ntu-econ,full_time,2,University of Wisconsin-Madison,1
+ntu-econ-許軒銘-45dfd20a6e,許軒銘,Shanon Hsuan-Ming Hsu,ntu-econ,full_time,2,University of Chicago,1
+ntu-econ-謝志昇-c7296b64a4,謝志昇,Chih-Sheng Hsieh,ntu-econ,faculty,4,The Ohio State University,1
+ntu-econ-賴建宇-2ecdf98d19,賴建宇,Chien-Yu Lai,ntu-econ,full_time,1,University of Chicago,1
+ntu-econ-郭漢豪-7977d0a5be,郭漢豪,Kwok Hon Ho,ntu-econ,full_time,4,University of Wisconsin-Madison,1
+ntu-econ-陳儀-b6cd95972c,陳儀,Josie I Chen,ntu-econ,full_time,1,Brown University,1
+ntu-econ-陳冠銘-e3634202cf,陳冠銘,Kuan-Ming Chen,ntu-econ,full_time,2,University of Chicago,1
+ntu-econ-陳南光-8b0f367291,陳南光,Nan-Kuang Chen,ntu-econ,faculty,1,University of Minnesota,1
+ntu-econ-陳慶池-440d91818f,陳慶池,Hing Chi Jimmy Chan,ntu-econ,faculty,3,"University of California, Berkeley",1
+ntu-econ-陳旭昇-a9164bcf1e,陳旭昇,Shiu-Sheng Chen,ntu-econ,faculty,2,University of Wisconsin-Madison,1
+ntu-econ-陳由常-b2ab5a0144,陳由常,Yu-Chang Chen,ntu-econ,full_time,3,"University of California, San Diego",1
+ntu-econ-陳虹如-4ec44ed550,陳虹如,Hung-Ju Chen,ntu-econ,faculty,1,"University of California, Los Angeles",1
+ntu-econ-馮勃翰-3891fb6c24,馮勃翰,Po Han Fong,ntu-econ,full_time,3,University of Rochester,1
+ntu-econ-駱明慶-49f94e80de,駱明慶,Ming-Ching Luoh,ntu-econ,faculty,2,University of Michigan,1
+ntu-econ-高恩琵-a49ecd70d7,高恩琵,Ko Eunbi,ntu-econ,full_time,2,Pennsylvania State University,1
+ntu-econ-黃景沂-8fe2cfab0f,黃景沂,Ching-I Huang,ntu-econ,faculty,1,Northwestern University,1
+ntu-fin-何耕宇-d2b3346e2a,何耕宇,Keng-Yu Ho,ntu-fin,full_time,3,University of Warwick,1
+ntu-fin-劉博瑀-e3648c529a,劉博瑀,Po-Yu Liu,ntu-fin,full_time,3,University of Hong Kong,1
+ntu-fin-吳瑞萱-1b792bb68d,吳瑞萱,Ruei-Shian Wu,ntu-fin,adjunct,4,National Taiwan University,1
+ntu-fin-姜堯民-f95a106036,姜堯民,Yao-Min Chiang,ntu-fin,full_time,3,University of Iowa,1
+ntu-fin-廖咸興-3f10a438b5,廖咸興,Hsien-Hsing Liao,ntu-fin,full_time,3,Rutgers University,1
+ntu-fin-張晏誠-e89d9c3220,張晏誠,Yen-Cheng Chang,ntu-fin,full_time,6,University of Washington,1
+ntu-fin-張景宏-44af4653d2,張景宏,Ching-Hung Chang,ntu-fin,full_time,1,Arizona State University,1
+ntu-fin-張森林-1b507984fb,張森林,San-Lin Chung,ntu-fin,full_time,4,Lancaster University,1
+ntu-fin-曾郁仁-f6b4b8a7f0,曾郁仁,Larry Y. Tzeng,ntu-fin,full_time,2,,1
+ntu-fin-李賢源-f154346550,李賢源,Shyan-Yuan Lee,ntu-fin,full_time,3,Columbia University,1
+ntu-fin-林姿婷-fdcec17cd0,林姿婷,Tzu-Ting Lin,ntu-fin,full_time,2,,1
+ntu-fin-林岳祥-60b88640bb,林岳祥,Yueh-Hsiang Lin,ntu-fin,adjunct,3,National Taiwan University,1
+ntu-fin-林軒馳-f0dadcf7f0,林軒馳,Hsuan-Chih Lin,ntu-fin,full_time,1,University of Wisconsin-Madison,1
+ntu-fin-池祥麟-0a614738b2,池祥麟,Hsiang-Lin Chih,ntu-fin,adjunct,1,National Taiwan University,1
+ntu-fin-洪志清-04c9cc50a7,洪志清,Chih-Ching Hung,ntu-fin,full_time,2,Baruch College,1
+ntu-fin-王衍智-97f457b74b,王衍智,Yan-Zhi Wang,ntu-fin,full_time,2,National Taiwan University,1
+ntu-fin-石百達-b922fdf1bd,石百達,Pai-Ta Shih,ntu-fin,full_time,1,University of Texas at Austin,1
+ntu-fin-管中閔-7ca9563996,管中閔,Chung-Ming Kuan,ntu-fin,chair,3,"University of California, San Diego",1
+ntu-fin-胡星陽-4994e4eee9,胡星陽,Shing-Yang Hu,ntu-fin,emeritus,3,University of Rochester,1
+ntu-fin-莊文議-571404c55b,莊文議,Wen-I Chuang,ntu-fin,full_time,2,University of Houston,1
+ntu-fin-蔡易達-f68700fe00,蔡易達,Yi-Da Tsai,ntu-fin,full_time,4,University at Buffalo,1
+ntu-fin-蕭湛東-be0195ff06,蕭湛東,Lawrence Hsiao,ntu-fin,full_time,2,Northwestern University,1
+ntu-fin-賴淑青-e9105e48ac,賴淑青,Sandy Lai,ntu-fin,full_time,3,Georgia Institute of Technology,1
+ntu-fin-邱顯比-9fc73b83ef,邱顯比,Shean-Bii Chiu,ntu-fin,emeritus,2,University of Washington,1
+ntu-fin-陳宜廷-dc86876d95,陳宜廷,Yi-Ting Chen,ntu-fin,,2,National Taiwan University,1
+ntu-fin-陳彥行-8829488460,陳彥行,Yan-Shing Chen,ntu-fin,full_time,3,National Taiwan University,1
+ntu-fin-陳明賢-3e54e36dc3,陳明賢,Ming-Shen Chen,ntu-fin,full_time,3,Michigan State University,1
+ntu-fin-陳業寧-736c019d65,陳業寧,Yehning Chen,ntu-fin,full_time,3,"University of California, Los Angeles",1
+ntu-fin-陳聖賢-7059d0af03,陳聖賢,Sheng-Syan Chen,ntu-fin,chair,3,University at Buffalo,1
+ntu-fin-顏廣杰-074de26dd3,顏廣杰,Kuang-Chieh Yen,ntu-fin,adjunct,2,National Taiwan University,1
+nycu-cs-chiamuyu-baf01c6c43,游家牧,Chia-Mu Yu,nycu-info-mag-fin,faculty | full_time,4,National Taiwan University,1
+nycu-info-mag-fin-徐熊健-9290fbce28,徐熊健,Shyong Jian Shyu,nycu-info-mag-fin,adjunct,2,National Tsing Hua University,1
+nycu-info-mag-fin-戴天時-ba41515d9f,戴天時,Tian-Shyr Dai,nycu-info-mag-fin,faculty,5,National Taiwan University,1
+nycu-info-mag-fin-李正福-85865a27fe,李正福,Cheng-Few Lee,nycu-info-mag-fin,visiting,5,University at Buffalo,1
+nycu-info-mag-fin-李漢星-9c9e73434e,李漢星,Han-Hsing Lee,nycu-info-mag-fin,faculty,3,Rutgers University,1
+nycu-info-mag-fin-林智勇-9f2fd3a531,林智勇,Chih-Yung Lin,nycu-info-mag-fin,faculty,7,National Taiwan University,1
+nycu-info-mag-fin-林瑞嘉-9b5e92d792,林瑞嘉,Jui-Chia Lin,nycu-info-mag-fin,faculty,3,National Taiwan University,1
+nycu-info-mag-fin-梁婉麗-9640195164,梁婉麗,Woan-lih Liang,nycu-info-mag-fin,faculty,2,National Taiwan University,1
+nycu-info-mag-fin-葉銀華-cd82122651,葉銀華,Yin-Hua Yeh,nycu-info-mag-fin,faculty,2,National Taiwan University,1
+nycu-info-mag-fin-蔡詩妤-e1db4b4746,蔡詩妤,Shih-Yu Tsai,nycu-info-mag-fin,full_time,4,Stony Brook University,1
+nycu-info-mag-fin-謝文良-ec8ba7b6cf,謝文良,Wen-Liang Hsieh,nycu-info-mag-fin,faculty,4,,1
+nycu-info-mag-fin-郭家豪-0efd529562,郭家豪,Jia-hau Guo,nycu-info-mag-fin,full_time,5,National Taiwan University,1
+nycu-info-mag-fin-鄧惠文-9b670d9d4e,鄧惠文,Huei-Wen Teng,nycu-info-mag-fin,faculty,5,Pennsylvania State University,1
+nycu-info-mag-fin-鍾惠民-ae10d194fa,鍾惠民,Huimin Chung,nycu-info-mag-fin,faculty,5,Michigan State University,1
+nycu-info-mag-fin-陳耀宗-5cb5b0b06f,陳耀宗,Yao-Tsung Chen,nycu-info-mag-fin,full_time,3,National Sun Yat-sen University,1
+nycu-info-mag-fin-黃宜侯-dbc03aa22c,黃宜侯,Alex YiHou Huang,nycu-info-mag-fin,faculty,4,,1
+nycu-info-mag-fin-黃思皓-2ee9d5c50c,黃思皓,Szu-Hao Huang,nycu-info-mag-fin,faculty,9,National Tsing Hua University,1
+nycu-info-mag-fin-黃星華-06752d69a5,黃星華,Hsing-Hua Huang,nycu-info-mag-fin,full_time,3,National Chengchi University,1

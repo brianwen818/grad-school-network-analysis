@@ -1,0 +1,20 @@
+# Normalise line endings for text, keep data files byte-stable across platforms.
+* text=auto eol=lf
+
+*.py    text eol=lf
+*.md    text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+*.cff   text eol=lf
+
+# CSV exports are written with a UTF-8 BOM for Excel; keep them exactly as-is.
+*.csv   -text
+
+# Binary
+*.png      binary
+*.pdf      binary
+*.xlsx     binary
+*.graphml  -text
+
+# Keep notebooks out of language statistics and diff them as text.
+*.ipynb  text eol=lf linguist-documentation

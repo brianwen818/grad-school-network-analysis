@@ -1,0 +1,4 @@
+﻿field,faculty_with_standardized_value,faculty_total,faculty_coverage_pct,raw_non_noise_values,raw_unique_values,standardized_values,standardized_unique_values,source_entries_mapped_pct,source_entries_requiring_review
+title,734,741,99.1,1863,230,1072,31,94.8,99
+education,530,741,71.5,1528,1183,900,367,73.5,405
+research_interest,662,741,89.3,1315,1220,1953,170,63.3,1836

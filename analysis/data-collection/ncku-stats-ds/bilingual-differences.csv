@@ -1,0 +1,185 @@
+﻿faculty_id,field,difference_type,zh_value,en_value
+ncku-stats-ds-chichunhsia-826f072271,name,missing_zh,,Chi-Chun Hsia
+ncku-stats-ds-chichunhsia-826f072271,titles,missing_zh,,Part-time & Others teacher
+ncku-stats-ds-chichunhsia-826f072271,education,missing_both,,
+ncku-stats-ds-chichunhsia-826f072271,research_interests,missing_zh,,"Data Mining, Statistical Analysis, Big Data Network Community Analysis"
+ncku-stats-ds-chihchiehwu-f4240ef7d4,name,missing_zh,,Chih-Chieh Wu
+ncku-stats-ds-chihchiehwu-f4240ef7d4,titles,missing_zh,,Part-time & Others teacher
+ncku-stats-ds-chihchiehwu-f4240ef7d4,education,missing_both,,
+ncku-stats-ds-chihchiehwu-f4240ef7d4,research_interests,missing_zh,,Biostatistics; Cancer Genetics; Genetic Epidemiology
+ncku-stats-ds-chingtiliu-2cc20e2d15,name,missing_zh,,Ching-Ti Liu
+ncku-stats-ds-chingtiliu-2cc20e2d15,titles,missing_zh,,Part-time & Others teacher
+ncku-stats-ds-chingtiliu-2cc20e2d15,education,missing_both,,
+ncku-stats-ds-chingtiliu-2cc20e2d15,research_interests,missing_zh,,Bioinformatics
+ncku-stats-ds-hsiulihsi-c8baf98fee,name,missing_zh,,Hsiu-Li Hsi
+ncku-stats-ds-hsiulihsi-c8baf98fee,titles,missing_zh,,Part-time & Others teacher
+ncku-stats-ds-hsiulihsi-c8baf98fee,education,missing_both,,
+ncku-stats-ds-hsiulihsi-c8baf98fee,research_interests,missing_zh,,"Mathematics of Compound Interest, Sampling Theory, Actuarial Mathematics"
+ncku-stats-ds-piocheng-2e27b06feb,name,missing_zh,,Pi-O Cheng
+ncku-stats-ds-piocheng-2e27b06feb,titles,missing_zh,,Retired teacher | 經 歷(Main Experiences)
+ncku-stats-ds-piocheng-2e27b06feb,education,missing_zh,,成功大學統計系講師
+ncku-stats-ds-piocheng-2e27b06feb,research_interests,missing_zh,,Statistics; Regression Analysis; Calculus
+ncku-stats-ds-wengkeewong-5482e739e7,name,missing_zh,,Weng Kee Wong
+ncku-stats-ds-wengkeewong-5482e739e7,titles,missing_zh,,Part-time & Others teacher
+ncku-stats-ds-wengkeewong-5482e739e7,education,missing_zh,,"PhD, Statistics, University of Minnesota"
+ncku-stats-ds-wengkeewong-5482e739e7,research_interests,missing_zh,,"Experimental Design, Biostatistics, Statistics"
+ncku-stats-ds-yihauchen-1c07c2ff45,name,missing_zh,,Yi-Hau Chen
+ncku-stats-ds-yihauchen-1c07c2ff45,titles,missing_zh,,Part-time & Others teacher
+ncku-stats-ds-yihauchen-1c07c2ff45,education,missing_both,,
+ncku-stats-ds-yihauchen-1c07c2ff45,research_interests,missing_zh,,Biostatistics; Incomplete Data; Genetic Epidemiology; Survival Analysis
+ncku-stats-ds-任眉眉-233662b353,name,both_present_different,任眉眉,Mei-Mei Zen
+ncku-stats-ds-任眉眉-233662b353,titles,both_present_different,退休教授 / 108.07.31 退休 | 退休教師,Retired teacher
+ncku-stats-ds-任眉眉-233662b353,education,missing_both,,
+ncku-stats-ds-任眉眉-233662b353,research_interests,both_present_different,機率論、隨機過程、貝氏分析、最適設計,Calculus; Probability; Bayesian Analysis; Optimal Design
+ncku-stats-ds-余定宏-2852d11565,name,both_present_different,余定宏,Ting-Hung Yu
+ncku-stats-ds-余定宏-2852d11565,titles,both_present_different,助理教授 | 專任教師,Full-time teachers
+ncku-stats-ds-余定宏-2852d11565,education,missing_both,,
+ncku-stats-ds-余定宏-2852d11565,research_interests,both_present_different,時間序列分析、高維度資料分析,"Time series analysis, High-dimensional data analysis"
+ncku-stats-ds-劉應興-4bbf14fe9c,name,missing_en,劉應興,
+ncku-stats-ds-劉應興-4bbf14fe9c,titles,missing_en,退休老師 / 94.07.31 退休 | 退休教師,
+ncku-stats-ds-劉應興-4bbf14fe9c,education,missing_both,,
+ncku-stats-ds-劉應興-4bbf14fe9c,research_interests,missing_both,,
+ncku-stats-ds-吳宗正-35be6e6323,name,missing_en,吳宗正,
+ncku-stats-ds-吳宗正-35be6e6323,titles,missing_en,退休副教授 / 103.07.31 退休 | 退休教師,
+ncku-stats-ds-吳宗正-35be6e6323,education,missing_both,,
+ncku-stats-ds-吳宗正-35be6e6323,research_interests,missing_both,,
+ncku-stats-ds-吳致杰-e83801110c,name,missing_en,吳致杰,
+ncku-stats-ds-吳致杰-e83801110c,titles,missing_en,合聘副教授 / 成功大學工業衛生學科暨環境醫學研究所 | 合聘 / 客座教授,
+ncku-stats-ds-吳致杰-e83801110c,education,missing_both,,
+ncku-stats-ds-吳致杰-e83801110c,research_interests,missing_en,生物統計學、癌症遺傳學、遺傳流行病學,
+ncku-stats-ds-吳鐵肩-55decc0a17,name,both_present_different,吳鐵肩,Tiee-Jian Wu
+ncku-stats-ds-吳鐵肩-55decc0a17,titles,both_present_different,退休教授 / 104.01.31 退休 | 退休教師,Retired teacher
+ncku-stats-ds-吳鐵肩-55decc0a17,education,missing_both,,
+ncku-stats-ds-吳鐵肩-55decc0a17,research_interests,missing_en,基因序列比對、密度函數估計、隨機過程估計、模型選取、統計與大數據哲學,
+ncku-stats-ds-呂金河-421da4de18,name,missing_en,呂金河,
+ncku-stats-ds-呂金河-421da4de18,titles,missing_en,退休教授 / 93.07.31 退休 | 退休教師,
+ncku-stats-ds-呂金河-421da4de18,education,missing_both,,
+ncku-stats-ds-呂金河-421da4de18,research_interests,missing_en,抽樣調查、實驗設計、多變量分析,
+ncku-stats-ds-嵇允嬋-5dd8a77c5a,name,both_present_different,嵇允嬋,Yun-Chan Chi
+ncku-stats-ds-嵇允嬋-5dd8a77c5a,titles,both_present_different,兼任教授 /109.01.31退休 | 兼任老師,Retired teacher | Main Experiences
+ncku-stats-ds-嵇允嬋-5dd8a77c5a,education,both_present_different,美國俄亥俄州立大學生物統計博士,"PhD, The Ohio State University, 1988. Major: Biostatistics MSc, The Ohio State University, 1983. Major: Statistics BSc, National Cheng-Kung University, 1981. Major: Statistics"
+ncku-stats-ds-嵇允嬋-5dd8a77c5a,research_interests,both_present_different,無母數統計、存活分析、迴歸分析、統計諮詢,"Survival Analysis, Regression Analysis; Nonparametrics; Statistical Consulting | Survival Analysis Regression Analysis Nonparametrics Statistical Consulting"
+ncku-stats-ds-張欣民-2a561caa4d,name,both_present_different,張欣民,Hsing-Ming Chang
+ncku-stats-ds-張欣民-2a561caa4d,titles,both_present_different,副教授 | 專任教師 | 經 歷(Main Experiences),Full-time teachers | Main Experiences
+ncku-stats-ds-張欣民-2a561caa4d,education,both_present_different,加拿大 University of Manitoba 統計博士,"2012, Ph.D. (Statistics), University of Manitoba, Thesis Advisor: Professor James C. Fu, External Examiner: Associate Professor Jiann-Ming Wu 2004, M.Sc. (Statistics), University of Manitoba, Thesis Advisor: Professor Saumen Mandal, External Examiner: Associate Professor Ruppa Thulasiram 2002, B.Sc. (Statistics, minor in Economics), University of Manitoba 1998, High School Diploma, Gordon Bell High School, Winnipeg, Canada"
+ncku-stats-ds-張欣民-2a561caa4d,research_interests,both_present_different,FMCI技巧於分級列隊等候之應用、空間群聚檢測方法與應用,"Applications of Finite Markov Chain Imbedding Technique, Applied Spatial Clustering Detection Method | Application of finite Markov chain imbedding in priority queue modeling Application of finite Markov chain imbedding in pattern recognition for DNA/RNA sequencing Methodology in spatial and temporal event cluster detection and analysis Statistical models and methods in social network analysis Methodological research for marked point process model"
+ncku-stats-ds-戴安順-b1f00ad732,name,both_present_different,戴安順,An-Shun Tai
+ncku-stats-ds-戴安順-b1f00ad732,titles,both_present_different,兼任助理教授/清華大學統計與數據科學研究所助理教授 | 兼任老師 | 經 歷(Main Experiences),Part-time & Others teacher
+ncku-stats-ds-戴安順-b1f00ad732,education,missing_en,國立清華大學統計研究所博士 國立清華大學統計研究所碩士 國立清華大學數學系學士,
+ncku-stats-ds-戴安順-b1f00ad732,research_interests,missing_en,生物統計、生物資訊(基因體統計)、貝氏變數選擇、流行病學、因果推論、中介模型、Mendelian randomization,
+ncku-stats-ds-戴齊賢-6fec31cf3d,name,both_present_different,戴齊賢,Chi-Shian Dai
+ncku-stats-ds-戴齊賢-6fec31cf3d,titles,both_present_different,助理教授 | 專任教師,Full-time teachers
+ncku-stats-ds-戴齊賢-6fec31cf3d,education,missing_both,,
+ncku-stats-ds-戴齊賢-6fec31cf3d,research_interests,missing_en,資料整合、高維度統計,
+ncku-stats-ds-李俊毅-6ad50d7c53,name,both_present_different,李俊毅,Chung-I Li
+ncku-stats-ds-李俊毅-6ad50d7c53,titles,both_present_different,副教授 | 專任教師 | 經 歷(Main Experiences),Full-time teachers | Main Experiences
+ncku-stats-ds-李俊毅-6ad50d7c53,education,both_present_different,國立成功大學大學統計系博士(2008.11) 成功大學統計系碩士(2001.06) 輔仁大學統計系學士(1999.06),"Ph.D. Department of Statistics, National Cheng Kung University(2008) M.S. Department of Statistics, National Cheng Kung University(2001) B.S. Department of Statistics, Fu Jen Catholic University(1999)"
+ncku-stats-ds-李俊毅-6ad50d7c53,research_interests,both_present_different,工業統計、統計計算、生物資訊、 統計諮詢,"Industrial Statistics, Statistical Computing, Bioinformatics, Statistical Consulting | Industrial Statistics Statistical Computing Bioinformatics Statistical Consulting"
+ncku-stats-ds-李國榮-1200a0959b,name,both_present_different,李國榮,Kuo-Jung Lee
+ncku-stats-ds-李國榮-1200a0959b,titles,both_present_different,教授兼系主任/所長 | 專任教師 | 經 歷(Main Experiences),Full-time teachers | Main Experiences
+ncku-stats-ds-李國榮-1200a0959b,education,both_present_different,美國明尼蘇達大學統計學博士 交通大學統計學碩士 中興大學統計學學士,"h.D. in Statistics, University of Minnesota-Twin Cities, 2004-2010 M.S. in Statistics, National Chiao Tung University, 1999-2001 B.B.A. in Statistics, National Chung Hsing University, 1995-2000"
+ncku-stats-ds-李國榮-1200a0959b,research_interests,both_present_different,貝氏分析、蒙地卡羅演算法、時空統計模型、功能性核磁共振影像及擴散張量影像資料分析,"Bayesian Modeling, Monte Carlo Algorithms, Functional MRI Analysis | fMRI Data Analysis Monte Carlo Algorithms Diffusion Tensor Imaging (DTI) Analysis Bayesian Modeling"
+ncku-stats-ds-李宗翰-1d5a48a614,name,both_present_different,李宗翰,Chung-Han Lee
+ncku-stats-ds-李宗翰-1d5a48a614,titles,both_present_different,助理教授 | 專任教師,Full-time teachers
+ncku-stats-ds-李宗翰-1d5a48a614,education,missing_en,指導學生陳志恆榮獲第八屆「碩士生統計研究成果研討會」之海報論文競賽「優選」,
+ncku-stats-ds-李宗翰-1d5a48a614,research_interests,both_present_different,統計區間估計、不完整資料分析、統計製程管制,"Statistical interval estimation, Incomplete data analysis, Statistical process control"
+ncku-stats-ds-李宜真-1ca5a58f06,name,both_present_different,李宜真,I-Chen Lee
+ncku-stats-ds-李宜真-1ca5a58f06,titles,both_present_different,副教授 | 專任教師 | 經 歷(Main Experiences),Full-time teachers | Main Experiences
+ncku-stats-ds-李宜真-1ca5a58f06,education,both_present_different,國立清華大學統計研究所博士 國立清華大學統計研究所碩士 國立中山大學應用數學系學士,"PhD, Institute of Statistics, National Tsing Hua University, 2016. Major: Statistics Dissertation Title: Planning Accelerated Life and Degradation Tests MS, Institute of Statistics, National Tsing Hua University, 2011. Major: Statistics Dissertation Title: Optimal Sample Size Allocation for Accelerated Degradation Test (Based on Exponential Dispersion Model) BS, Applied Mathematics, National Sun Yat-sen University, 2009."
+ncku-stats-ds-李宜真-1ca5a58f06,research_interests,both_present_different,可靠度分析、工業統計、貝氏分析,Reliability Analysis、Industrial Statistics | Reliability Analysis Industrial Statistics
+ncku-stats-ds-李政德-7a32c4c18a,name,both_present_different,李政德,Cheng-Te Li
+ncku-stats-ds-李政德-7a32c4c18a,titles,both_present_different,合聘教授 / 成功大學資工系 | 合聘 / 客座教授,Part-time & Others teacher | Main Experiences
+ncku-stats-ds-李政德-7a32c4c18a,education,missing_zh,,"2009/09 - 2013/01 Ph.D. in Computer Science, Graduate Institute of Networking and Multimedia (GINM), National Taiwan University 2007/09 - 2009/06 M.S. in Computer Science, Graduate Institute of Networking and Multimedia (GINM), National Taiwan University 2003/09 - 2007/06 B.S. in Computer Science, Department of Computer Science, National Chengchi University"
+ncku-stats-ds-李政德-7a32c4c18a,research_interests,both_present_different,機器學習、深度學習、資料探勘、社群網路分析、推薦系統、自然語言處理、物聯網與智慧城市,"Machine Learning, Deep Learning, Data Mining, Social Network Analysis, Recommender Systems, Natural Language Processing | Knowledge Discovery and Data Mining Machine Learning and Deep Learning Artificial Intelligence Natural Language Processing & Recommender Systems Social Networks & Social Media Analytics"
+ncku-stats-ds-林宇凡-7d52b28bb8,name,missing_en,林宇凡,
+ncku-stats-ds-林宇凡-7d52b28bb8,titles,missing_en,【喜訊】數據所許志仲老師帶領ACVLAB團隊 林宇凡 鄭敬恒 邱勃誠 康成駿 李家銘 ICPR Automated Crop Disease Diagnosis from Hyperspectral Imagery 3rd Challenge 獲得冠軍,
+ncku-stats-ds-林宇凡-7d52b28bb8,education,missing_both,,
+ncku-stats-ds-林宇凡-7d52b28bb8,research_interests,missing_both,,
+ncku-stats-ds-liangchinglin-1a87e637fa,name,both_present_different,林良靖,Liang-Ching Lin
+ncku-stats-ds-liangchinglin-1a87e637fa,titles,both_present_different,教授 | 專任教師 | 經 歷(Main Experiences) | Main Experiences,Full-time teachers | Main Experiences
+ncku-stats-ds-liangchinglin-1a87e637fa,education,both_present_different,"中山大學應用數學所博士(2007.09~2013.01) 中山大學應用數學系碩士(2005.09~2007.06) 清華大學數學系學士(1998.09~2003.06) | 2007.09 – 2013.01 Ph.D. in Applied Mathematics, National Sun Yat-sen University 2005.09 – 2007.06 M.S. in Applied Mathematics, National Sun Yat-sen University 1998.09 – 2003.06 B.S. in Mathematics, National Tsing Hua University","2007.09 – 2013.01 Ph.D. in Applied Mathematics, National Sun Yat-sen University 2005.09 – 2007.06 M.S. in Applied Mathematics, National Sun Yat-sen University 1998.09 – 2003.06 B.S. in Mathematics, National Tsing Hua University"
+ncku-stats-ds-liangchinglin-1a87e637fa,research_interests,both_present_different,"時間序列、數理財務、高頻財務資料分析、區間數值分析 | Time series analysis, Mathematical finance, High-frequency financial data analysis, Symbolic interval-valued data analysis. | Time series; High-frequency financial data analysis; Stochastic process; Goodness of fit test for diffusion models; Symbolic Interval-valued data analysis.","Time series analysis, Mathematical finance, High-frequency financial data analysis, Symbolic interval-valued data analysis. | Time series; High-frequency financial data analysis; Stochastic process; Goodness of fit test for diffusion models; Symbolic Interval-valued data analysis."
+ncku-stats-ds-楊明宗-97d04aab5b,name,both_present_different,楊明宗,Ming-Tzong Yang
+ncku-stats-ds-楊明宗-97d04aab5b,titles,both_present_different,名譽教授、兼任教授 / 101.02.01統計系退休 | 客座特聘講座/名譽教授 | 經 歷(Main Experiences),Guest lectures / Emeritus Professor | Professor | 經 歷(Main Experiences)
+ncku-stats-ds-楊明宗-97d04aab5b,research_interests,both_present_different,統計學、統計實務、統計問題,Statistics; Statistics Practice; Statistics Problem
+ncku-stats-ds-楊欣洲-1132517e30,name,both_present_different,楊欣洲,Hsin-Chou Yang
+ncku-stats-ds-楊欣洲-1132517e30,titles,both_present_different,合聘教授 / 中研院統計所 | 合聘 / 客座教授 | / 客座教授,Part-time & Others teacher
+ncku-stats-ds-楊欣洲-1132517e30,education,missing_both,,
+ncku-stats-ds-楊欣洲-1132517e30,research_interests,both_present_different,統計遺傳與統計基因體學、生物資訊、生態統計,Statistical Genetics; Genomics; Ecological Statistics
+ncku-stats-ds-溫敏杰-99a3082790,name,both_present_different,溫敏杰,Miin-Jye Wen
+ncku-stats-ds-溫敏杰-99a3082790,titles,both_present_different,名譽教授、兼任教授 / 114.01.31 統計系退休 | 客座特聘講座/名譽教授 | 經 歷(Main Experiences),Guest lectures / Emeritus Professor | Professor | Main Experiences
+ncku-stats-ds-溫敏杰-99a3082790,education,both_present_different,美國喬治亞大學統計博士(1991) 美國喬治亞大學統計碩士(1988) 國立成功大學統計商學士(1982),"Ph.D. in Statistics, University of Georgia,1991 Master in Statistics, University of Georgia,1988 B.S. in Statistics, National Cheng Kung University, 1981"
+ncku-stats-ds-溫敏杰-99a3082790,research_interests,both_present_different,多變量方析、等級與選擇、多重比較、統計諮詢,"Multivariate Analysis, Ranking and Selection, Multiple Comparison Procedures | Ranking and Selection Multiple Comparison Procedures Time Series Applied Statistics"
+ncku-stats-ds-潘浙楠-852778d16a,name,both_present_different,潘浙楠,Jeh-Nan Pan
+ncku-stats-ds-潘浙楠-852778d16a,titles,both_present_different,退休教授 / 108.07.31退休 | 退休教師 | 經 歷(Main Experiences),Retired teacher | 經 歷(Main Experiences)
+ncku-stats-ds-潘浙楠-852778d16a,research_interests,both_present_different,工業統計、品質管理、可靠度分析、企業決策方法,Industrial Statistics; Statistical Process Control and Quality Management; Reliability Engineering; Business Decision Methods
+ncku-stats-ds-王婉倫-fe18c219d3,name,both_present_different,王婉倫,Wan-Lun Wang
+ncku-stats-ds-王婉倫-fe18c219d3,titles,both_present_different,教授、副教務長 | 專任教師,Full-time teachers
+ncku-stats-ds-王婉倫-fe18c219d3,education,missing_both,,
+ncku-stats-ds-王婉倫-fe18c219d3,research_interests,both_present_different,長期資料分析、多變量分析、統計計算、貝氏統計,"Longitudinal Data Analysis, Multivariate Analysis, Statistical Computing, Bayesian Statistics"
+ncku-stats-ds-王義富-84941b85dc,name,both_present_different,王義富,Yi-Fu Wang
+ncku-stats-ds-王義富-84941b85dc,titles,both_present_different,副教授 | 專任教師 | 經 歷(Main Experiences),Full-time teachers
+ncku-stats-ds-王義富-84941b85dc,education,missing_en,中央大學 統計所 博士 (2005/09-2011/06) 中央大學 統計所 碩士 (2003/09-2005/06) 清華大學 數學系 學士 (1999/09-2003/06),
+ncku-stats-ds-王義富-84941b85dc,research_interests,both_present_different,貝氏分析、可靠度分析、衰變分析,Bayesian Analysis、Reliability Analysis、Degradation Analysis
+ncku-stats-ds-石瑜-38ea37cc03,name,both_present_different,石 瑜,Yu Shyr
+ncku-stats-ds-石瑜-38ea37cc03,titles,both_present_different,客座特聘講座 / 美國范德堡大學生物統計系及定量科學研究中心 | 客座特聘講座/名譽教授,Guest lectures / Emeritus Professor | Professor
+ncku-stats-ds-石瑜-38ea37cc03,research_interests,missing_zh,,"statistical and bioinformatic methodology, next-generation sequencing data, adaptive clinical trials, longitudinal binary data; cancer biology, epidemiology, genetics, and bioinformatics; proteomics; survival analysis; teaching biostatistics"
+ncku-stats-ds-蘇佩芳-7c1f71e6de,name,both_present_different,蘇佩芳,Pei-Fang Su
+ncku-stats-ds-蘇佩芳-7c1f71e6de,titles,both_present_different,教授兼管理學院院長 | 專任教師 | 經 歷(Main Experiences),Full-time teachers | Main Experiences
+ncku-stats-ds-蘇佩芳-7c1f71e6de,education,both_present_different,成功大學統計系博士,"PhD, National Cheng Kung University, 2010. Major: Statistics MS, National Cheng Kung University, 2001. Major: Statistics BS, National Cheng Kung University, 1999. Major: Mathematics"
+ncku-stats-ds-蘇佩芳-7c1f71e6de,research_interests,both_present_different,存活分析、生物醫學統計、臨床試驗設計、大數據分析,"Survival Analysis, Statistical Consulting, Biostatistics | Survival Analysis Statistical Consulting Biostatistics"
+ncku-stats-ds-許志仲-042daaf5f7,name,both_present_different,許志仲,Chih-Chung Hsu
+ncku-stats-ds-許志仲-042daaf5f7,titles,both_present_different,兼任副教授 / 交通大學AI學院智慧系統與應用研究所 | 兼任老師,Part-time & Others teacher
+ncku-stats-ds-許志仲-042daaf5f7,research_interests,both_present_different,多媒體資訊安全、影像處理、電腦視覺、機器學習、深度學習,"Image Processing, Computer VIsion, Deep Learning, Machine Learning"
+ncku-stats-ds-許秀麗-975216e01f,name,missing_en,許秀麗,
+ncku-stats-ds-許秀麗-975216e01f,titles,missing_en,兼任副教授 /105.02.01 統計系退休老師 | 兼任老師,
+ncku-stats-ds-許秀麗-975216e01f,education,missing_both,,
+ncku-stats-ds-許秀麗-975216e01f,research_interests,missing_en,精算數學、統計計算、抽樣理論,
+ncku-stats-ds-詹世煌-86dc72a847,name,both_present_different,詹世煌,Shih-Huang Chan
+ncku-stats-ds-詹世煌-86dc72a847,titles,both_present_different,退休副教授 / 109.01.31退休 | 退休教師 | 經 歷(Main Experiences),Retired teacher | Main Experiences
+ncku-stats-ds-詹世煌-86dc72a847,education,both_present_different,"美國俄亥俄州統計博士(1989) | and cognitive decline in parkinson's disease: A study of 102 patients Pai, M. C. & Chan, S. H., 2001 四月 26, 於 : Acta Neurologica Scandinavica. 103, 4, p. 243-247 5 p.","PhD, Ohio State University, 1989. Major: Department of Statistics MBA, National Cheng Chi University, 1983. Major: Graduate Institute of Statistics BBA, National Taiwan University, 1978. Major: Department of Business Administration | and cognitive decline in parkinson's disease: A study of 102 patients Pai, M. C. & Chan, S. H., 2001 四月 26, 於 : Acta Neurologica Scandinavica. 103, 4, p. 243-247 5 p."
+ncku-stats-ds-詹世煌-86dc72a847,research_interests,both_present_different,多變量分析、長期資料迴歸分析、生物資訊,Regression Analysis; Multivariate Analysis; Longitudinal Data Regression | Longitudinal Data Analysis Diagnostics On Outliers and Influential Observations Genetic Linkage Analysis Microarray Analysis
+ncku-stats-ds-趙昌泰-c9b9a4a18b,name,both_present_different,趙昌泰,Chang-Tai Chao
+ncku-stats-ds-趙昌泰-c9b9a4a18b,titles,both_present_different,副教授 | 專任教師 | 經 歷(Main Experiences),Full-time teachers | Main Experiences
+ncku-stats-ds-趙昌泰-c9b9a4a18b,education,both_present_different,美國賓州州立大學統計博士(1999) 國立成功大學大學數學系學士(1988),"PhD, The Pennsylvania State University, University Park, 1999. Major: Statistics BSc, National Cheng Kung University, 1988. Major: Mathematics"
+ncku-stats-ds-趙昌泰-c9b9a4a18b,research_interests,both_present_different,抽樣理論與方法、調適型抽樣、最佳化抽樣策略,Adaptive Sampling Strategy; Sampling Theory and Methods; Optimal Sampling Strategy | Theory and applications of model based optimal sampling strategy -Development of optimal sampling strategies using the adaptive sampling principal -Better selection of sampling units with computational ease. -Related applications on environmental、ecologcal statistics、and geostatistics. Adaptive cluster sampling and related topics - Rare population survey - Incomplete adaptive cluster sampling - Model-assisted estimators(ratio and regression estimators)under adaptive cluster sampling. - Related applications on environmental and ecological sciences Relative applications of sampling survey - Marketing survey - Political and public opinion survey
+ncku-stats-ds-連震杰-07850768ed,name,both_present_different,連震杰,Jenn-Jier James Lien
+ncku-stats-ds-連震杰-07850768ed,titles,both_present_different,合聘教授 / 成功大學資工系 | 合聘 / 客座教授 | / 客座教授,Part-time & Others teacher
+ncku-stats-ds-連震杰-07850768ed,education,missing_both,,
+ncku-stats-ds-連震杰-07850768ed,research_interests,missing_en,"智慧型機器人及自動化、人機互動及擴增實境、3D自動光學檢測、視覺伺服控制、影像處理,3D電腦視覺及圖形辨識、機器學習、嵌入式系統、雲端智慧型監控服務",
+ncku-stats-ds-鄧浩陽-56bcccee94,name,both_present_different,鄧浩陽,Hao Yang Teng
+ncku-stats-ds-鄧浩陽-56bcccee94,titles,both_present_different,助理教授 | 專任教師,Full-time teachers
+ncku-stats-ds-鄧浩陽-56bcccee94,education,missing_both,,
+ncku-stats-ds-鄧浩陽-56bcccee94,research_interests,both_present_different,變點/閾值估計、極端閾值估計、機器學習,"Change-point/threshold estimation, extreme threshold estimation, machine learning"
+ncku-stats-ds-鄭碧娥-4a76d96528,name,missing_en,鄭碧娥,
+ncku-stats-ds-鄭碧娥-4a76d96528,titles,missing_en,退休老師 / 95.08.01 退休 | 退休教師 | 經 歷(Main Experiences),
+ncku-stats-ds-鄭碧娥-4a76d96528,education,missing_en,成功大學統計系講師,
+ncku-stats-ds-鄭碧娥-4a76d96528,research_interests,missing_en,微積分、統計學、迴歸分析,
+ncku-stats-ds-鄭順林-58732da4fc,name,both_present_different,鄭順林,Shuen-Lin Jeng
+ncku-stats-ds-鄭順林-58732da4fc,titles,both_present_different,教授、管理學院產學合作中心主任 | 專任教師 | 經 歷(Main Experiences),Full-time teachers | Main Experiences
+ncku-stats-ds-鄭順林-58732da4fc,education,both_present_different,美國愛荷華州立大學統計博士(1998) 輔仁大學數學研究所碩士(1989) 成功大學數學系學士(1987),"PhD, Iowa State University, 1998. Major: Statistics MSc, Fu-Jen University, 1989. Major: Applied mathematics with emphasis on Statistics BSc, National Cheng Kung University, 1987. Major: Mathematics"
+ncku-stats-ds-鄭順林-58732da4fc,research_interests,both_present_different,可靠度分析、資料採礦、生物資訊分析、統計計算與模擬、工業統計、大數據分析、機器學習,"Special interests in statistical intervals, reliability data analysis, bioinformatics, statistical computing and data mining. | reliability modeling and data analysis data mining and machine learning statistical computing and bioinformatics"
+ncku-stats-ds-鍾淑美-1395b4142b,name,missing_en,鍾淑美,
+ncku-stats-ds-鍾淑美-1395b4142b,titles,missing_en,退休老師 / 84.07.31 退休 | 退休教師,
+ncku-stats-ds-鍾淑美-1395b4142b,education,missing_both,,
+ncku-stats-ds-鍾淑美-1395b4142b,research_interests,missing_both,,
+ncku-stats-ds-陳瑞彬-f146defa8b,name,both_present_different,陳瑞彬,Ray-Bing Chen
+ncku-stats-ds-陳瑞彬-f146defa8b,titles,both_present_different,兼任教授 / 清華大學統計與數據科學所 | 兼任老師 | 經 歷(Main Experiences),Part-time & Others teacher | Main Experiences
+ncku-stats-ds-陳瑞彬-f146defa8b,education,both_present_different,美國加州大學洛杉磯分校(UCLA)統計學博士 中山大學應用數學系碩士 中山大學應用數學系學士,"PhD, University of California, Los Angeles, 2003. Major: Statistics MS, University of California, Los Angeles, 2001. Major: Statistics MS, National Sun Yat-sen University, 1996. Major: Applied Mathematics BS, National Sun Yat-sen University, 1994. Major: Applied Mathematics"
+ncku-stats-ds-陳瑞彬-f146defa8b,research_interests,both_present_different,統計建模、統計計算、實驗設計、獨立因子分析,"Statistical Modeling, Statistical Computing, Experimental Designs, Independent Component Analysis | Statistical Modeling in Computer Experiments and Related Experimental Desgins Small n and Large p Variable Selection Approach Independent Component Analysis Optimal Designs"
+ncku-stats-ds-陳能新-1422973faf,name,missing_en,陳能新,
+ncku-stats-ds-陳能新-1422973faf,titles,missing_en,退休老師 / 100.07.31 退休 | 退休教師,
+ncku-stats-ds-陳能新-1422973faf,education,missing_both,,
+ncku-stats-ds-陳能新-1422973faf,research_interests,missing_both,,
+ncku-stats-ds-陳順宇-5b3c614736,name,missing_en,陳順宇,
+ncku-stats-ds-陳順宇-5b3c614736,titles,missing_en,退休教授 / 94.07.31 退休 | 退休教師,
+ncku-stats-ds-陳順宇-5b3c614736,education,missing_both,,
+ncku-stats-ds-陳順宇-5b3c614736,research_interests,missing_both,,
+ncku-stats-ds-馬瀰嘉-acd5f760d8,name,both_present_different,馬瀰嘉,Mi-Chia Ma
+ncku-stats-ds-馬瀰嘉-acd5f760d8,titles,both_present_different,副教授 | 專任教師 | 經 歷(Main Experiences),Full-time teachers | Main Experiences
+ncku-stats-ds-馬瀰嘉-acd5f760d8,education,both_present_different,國立清華大學應用數學研究所博士(1988.09~1992.06) 國立中興大學應用數學研究所碩士(1986.09~1988.06) 國立成功大學數學系學士(1982.09~1986.06),"PhD, National Tsing-Hwa University, 1992. Major: Applied Mathematic with emphasis on Ecology Statistic National Chung-Hsing University, 1988. Major: Applied Mathematic with emphasis on Categorical Data Analysis BSc, National Cheng-Kung University, 1986. Major: Mathematics with emphasis on Mathematical Methods"
+ncku-stats-ds-馬瀰嘉-acd5f760d8,research_interests,both_present_different,生物資訊、資料分析、生物統計、數理統計、生態統計、統計諮詢,Biostatistics; Mathematical Statistics; Software Reliability Analysis; Ecology Statistics | Ecology Statisticss; Software Reliability Analysis; Mathematical Statistics; Bioinformatics; Biostatistics
+ncku-stats-ds-黃銘欽-8ccf2e88ad,name,missing_en,黃銘欽,
+ncku-stats-ds-黃銘欽-8ccf2e88ad,titles,missing_en,退休老師 / 104.01.31 退休 | 退休教師,
+ncku-stats-ds-黃銘欽-8ccf2e88ad,education,missing_both,,
+ncku-stats-ds-黃銘欽-8ccf2e88ad,research_interests,missing_both,,

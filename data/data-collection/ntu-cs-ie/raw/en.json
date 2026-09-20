@@ -1,0 +1,2569 @@
+[
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wen-Huang Cheng",
+    "titles": [
+      "Professor, CSIE Chair",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Artificial intelligence, multimedia, computer vision, machine learning, digital transformation, financial technology"
+    ],
+    "emails": [
+      "2f8beda439a602d0@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Wen-Huang-Cheng-80704716"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "80704716"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Pu-Jen Cheng",
+    "titles": [
+      "Professor, GINM Director",
+      "Professors",
+      "Professor"
+    ],
+    "education": [],
+    "research_interests": [
+      "Web Mining, Information Retrieval, Multimedia Databases"
+    ],
+    "emails": [
+      "9371e0647ec744d3@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Pu-Jen-Cheng-85154852"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "85154852"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Phone Lin",
+    "titles": [
+      "Distinguished Professor, BEBI Director",
+      "Professors",
+      "Professor"
+    ],
+    "education": [],
+    "research_interests": [
+      "Data Driven Anomaly Detection/Prediction, Wireless Internet, Performance Modeling"
+    ],
+    "emails": [
+      "383cf4d928115dfc@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Phone-Lin-71171980"
+    ],
+    "personal_urls": [
+      "http://www.pcs.csie.ntu.edu.tw"
+    ],
+    "stable_ids": [
+      "71171980"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hsu-Chun Hsiao",
+    "titles": [
+      "Professor, CSIE Associate Chair",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "network security, applied cryptography, highly available future networks"
+    ],
+    "emails": [
+      "17e7526cb2d4c3ec@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Hsu-Chun-Hsiao-61175440"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "61175440"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shang-Tse Chen",
+    "titles": [
+      "Associate Professor, CSIE Associate Chair",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine learning, Security, Algorithmic Game Theory, and Data Mining"
+    ],
+    "emails": [
+      "f50361de6e336527@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Shang-Tse-Chen-46279707"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "46279707"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ruey-Feng Chang",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Medical Image Computer-Aided Diagnosis, Image/Video Processing, Multimedia Systems and Communication"
+    ],
+    "emails": [
+      "e79f9cf6527f1473@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Ruey-Feng-Chang-98081457"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "98081457"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yuan-Hao Chang",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer System、Computer Architecture、Embedded System、Operating System、Memory System、Storage System、Non-volatile Memory"
+    ],
+    "emails": [
+      "74de8592482c49b8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Yuan-Hao-Chang-93441860"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "93441860"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Kun-Mao Chao",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Design and Analysis of Algorithms, Computational Biology and Bioinformatics"
+    ],
+    "emails": [
+      "4e8dc3d4fd42743d@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Kun-Mao-Chao-23652923"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "23652923"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Bing-Yu Chen",
+    "titles": [
+      "Distinguished Professor",
+      "Professors",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer Graphics, Human-Computer Interaction, Image Processing, Multimedia Systems"
+    ],
+    "emails": [
+      "c0ac987f7a72e26a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty",
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Bing-Yu-Chen-88808685",
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/Bing-Yu-Chen-88808685"
+    ],
+    "personal_urls": [
+      "http://graphics.csie.ntu.edu.tw/~robin/"
+    ],
+    "stable_ids": [
+      "88808685"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hsin-Hsi Chen",
+    "titles": [
+      "Distinguished Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Natural Language Processing, Information Retrieval and Extraction, Web Mining"
+    ],
+    "emails": [
+      "1ad609eaf764310e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Hsin-Hsi-Chen-52075551"
+    ],
+    "personal_urls": [
+      "http://nlg.csie.ntu.edu.tw/advisor.php"
+    ],
+    "stable_ids": [
+      "52075551"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chu-Song Chen",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Deep Learning, Computer Vision, Machine Learning, Image Processing, Multimedia Understanding, Big Data Analysis, Medical Image Processing."
+    ],
+    "emails": [
+      "5a30c192301c369e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Chu-Song-Chen-94737564"
+    ],
+    "personal_urls": [
+      "http://imp.iis.sinica.edu.tw/"
+    ],
+    "stable_ids": [
+      "94737564"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Mike Yen-Yang Chen",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Human-Computer Interaction, Mobile Computing, Cloud Computing, Ubiquitous Computing"
+    ],
+    "emails": [
+      "c0b5118dd1b7d16f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Mike-Yen-Yang-Chen-24622147"
+    ],
+    "personal_urls": [
+      "http://mikechen.com/"
+    ],
+    "stable_ids": [
+      "24622147"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yun-Nung Chen",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Language Understanding, Dialogue System, Machine Intelligence, Natural Language Processing"
+    ],
+    "emails": [
+      "354551f31126fea2@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Yun-Nung-Chen-61987364"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "61987364"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Lung-Pan Cheng",
+    "titles": [
+      "Associate Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Human-Computer Interaction, Augmented/Virtual Reality, Haptics"
+    ],
+    "emails": [
+      "9736b8b754864187@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Lung-Pan-Cheng-71528326"
+    ],
+    "personal_urls": [
+      "http://lungpancheng.tw/"
+    ],
+    "stable_ids": [
+      "71528326"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Cheng-Fu Chou",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Distributed Machine Learning System, Smart Healthcare, Multimedia Systems, Wireless (and Sensor) Networks, Performance Evaluation Theory"
+    ],
+    "emails": [
+      "00c9b9c82d54ab52@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Cheng-Fu-Chou-83891101"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "83891101"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yung-Yu Chuang",
+    "titles": [
+      "Distinguished Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Distinguished Professor",
+      "Professors"
+    ],
+    "emails": [
+      "826ba477a3339ac7@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Yung-Yu-Chuang-45405479"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "45405479"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Li-Chen Fu",
+    "titles": [
+      "Distinguished Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Smart Home, Intelligent Robotics, Virtual Reality, Advanced Vision Applications, Evolutionary Computation and Application"
+    ],
+    "emails": [
+      "56c0f1c3888623de@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Li-Chen-Fu-83121066"
+    ],
+    "personal_urls": [
+      "http://robotlab.csie.ntu.edu.tw/"
+    ],
+    "stable_ids": [
+      "83121066"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chiou-Shann Fuh",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer Vision, Digital Image Processing ,Digital Camera"
+    ],
+    "emails": [
+      "40674b1bae7b97e6@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Chiou-Shann-Fuh-52500798"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "52500798"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Winston H. Hsu",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine Learning, Computer Vision , Large-Scale Photo/Video Retrieval and Recognition, Embodied AI"
+    ],
+    "emails": [
+      "376fcae7a7d46312@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Winston-H-Hsu-54088813"
+    ],
+    "personal_urls": [
+      "http://winstonhsu.info/"
+    ],
+    "stable_ids": [
+      "54088813"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shang-En Huang",
+    "titles": [
+      "Assistant Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Graph Algorithms and Data Structures, Parallel and Distributed Graph Algorithms"
+    ],
+    "emails": [
+      "4efdeea733641c62@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Shang-En-Huang-24620424"
+    ],
+    "personal_urls": [
+      "https://tmt514.github.io/"
+    ],
+    "stable_ids": [
+      "24620424"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hsuan-Cheng Huang",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Bioinformatics, Computational Biology, Systems Biology, Biomedical Data Science"
+    ],
+    "emails": [
+      "088e9163f50c7794@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Hsuan-Cheng-Huang-2010123"
+    ],
+    "personal_urls": [
+      "http://hchuang.info/"
+    ],
+    "stable_ids": [
+      "2010123"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chih-Wen Hsueh",
+    "titles": [
+      "Associate Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Real-Time System, Operating System, Blockchain"
+    ],
+    "emails": [
+      "edf189271343326e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Chih-Wen-Hsueh-63961161"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "63961161"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yi-Ping Hung",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Extended and Virtual Reality, Image Processing and Computer Vision, Human–Computer Interaction, Artificial Intelligence, Metaverse Systems, and Blockchain-Based Applications"
+    ],
+    "emails": [
+      "bf7ecef4a97adfda@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Yi-Ping-Hung-79237338"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "79237338"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shih-Hao Hung",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Co-Optimization of Applications and Architectures, Computer Architecture and Parallel Computing, Computer Performance Characterization and Optimization, Commercial Servers and Applications, Design of Embedded Systems"
+    ],
+    "emails": [
+      "b6a920635c9ad6e6@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/-Shih-Hao-Hung-9582773"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "9582773"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tsung-Wei Ke",
+    "titles": [
+      "Assistant Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer Vision, Robot Learning, Machine Learning"
+    ],
+    "emails": [
+      "81d1887345ed8abf@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Tsung-Wei-Ke-11778221"
+    ],
+    "personal_urls": [
+      "http://twke18.github.io"
+    ],
+    "stable_ids": [
+      "11778221"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chun-Yi Lee",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Intelligent Robotics, Reinforcement Learning, Virtual-to-Real Learning with Digital Twins, Computer Vision, Parallel Computing and Parallel Computing Architecture, Electronic Design Automation"
+    ],
+    "emails": [
+      "eb871848f60bfed9@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Chun-Yi-Lee-67240464"
+    ],
+    "personal_urls": [
+      "http://elsalab.ai"
+    ],
+    "stable_ids": [
+      "67240464"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chung-Wei Lin",
+    "titles": [
+      "Associate Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Cyber-Physical Systems, Intelligent Vehicles, Security, System Design Methodology"
+    ],
+    "emails": [
+      "ab0ef8d3a6500ce8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Chung-Wei-Lin-85572174"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "85572174"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jonathan Lee",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Software engineering, service-oriented computing, and software engineering with computational intelligence"
+    ],
+    "emails": [
+      "7665c582d2afbc44@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Jonathan-Lee-5559333"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "5559333"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ming-Sui Lee",
+    "titles": [
+      "Associate Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Multimedia Image Processing, Ditigal Image Mosaicking and Compression, Signal Processing"
+    ],
+    "emails": [
+      "fd28ca5c510e552f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Ming-Sui-Lee-22356351"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "22356351"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yen-Huan Li",
+    "titles": [
+      "Associate Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine learning, optimization, high-dimensional statistics, quantum information"
+    ],
+    "emails": [
+      "877f133ed1d9c177@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Yen-Huan-Li-79229944"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/yenhuanli/home"
+    ],
+    "stable_ids": [
+      "79229944"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shih-Wei Li",
+    "titles": [
+      "Assistant Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Operating Systems, Computer Security, Computer Architecture, Formal Verification"
+    ],
+    "emails": [
+      "f370bd7927d10b02@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Shih-Wei-Li-11810480"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "11810480"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shih-wei Liao",
+    "titles": [
+      "Associate Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Blockchain and Big data, Fintech (Internet Finance), Android virtual machines and compilers"
+    ],
+    "emails": [
+      "38056adad5ff1f1c@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Shih-wei-Liao-40406732"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "40406732"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "廖以圻",
+    "name_en": "Yi-Chi Liao",
+    "titles": [
+      "Assistant Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Human-AI interaction; Computational design; Reinforcement learning; Optimization; Interactive machine learning"
+    ],
+    "emails": [
+      "efb00b0d7b3e865a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/%E5%BB%96%E4%BB%A5%E5%9C%BB-Yi-Chi-Liao-96167643"
+    ],
+    "personal_urls": [
+      "http://yichiliao.com"
+    ],
+    "stable_ids": [
+      "96167643"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "CJ Lin",
+    "titles": [
+      "Distinguished Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine Learning, Data Mining, Optimization"
+    ],
+    "emails": [
+      "d04447b5cf963936@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/CJ-Lin-49984545"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "49984545"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hsuan-Tien Lin",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine Learning, Data Mining, Information Theory"
+    ],
+    "emails": [
+      "70cb532d2b76f215@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Hsuan-Tien-Lin-37794513"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "37794513"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ching-Ju Lin",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Network and mobile systems, Distributed learning and in-network computing, AIoT and mobile sensing"
+    ],
+    "emails": [
+      "0bea20b3a734cb65@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Ching-Ju-Lin-18919875"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "18919875"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shou-De Lin",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine Discovery, Knowledge Discovery and Data Mining, Natural Language Process, Artificial Intelligence, Social Network Analysis"
+    ],
+    "emails": [
+      "29a2083623a2f21f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Shou-De-Lin-7793380"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "7793380"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Pangfeng Liu",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Parallel Processing, Algorithm Design"
+    ],
+    "emails": [
+      "e4fdf1133ac1560e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Pangfeng-Liu-18370922"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/pangfengliu/home"
+    ],
+    "stable_ids": [
+      "18370922"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shao-Yuan Lo",
+    "titles": [
+      "Assistant Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Trustworthy AI, Machine Learning, Multimodal Models"
+    ],
+    "emails": [
+      "8652ef1209c410d4@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Shao-Yuan-Lo-85992013"
+    ],
+    "personal_urls": [
+      "https://shaoyuanlo.github.io"
+    ],
+    "stable_ids": [
+      "85992013"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hsueh-I Lu",
+    "titles": [
+      "Distinguished Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Algorithms, Graph theory"
+    ],
+    "emails": [
+      "cbd48fbc1e75c8a8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Hsueh-I-Lu-26795451"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "26795451"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yuh-Dauh Lyuu",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Parallel Computation, Financial Computation, Theory of Computation"
+    ],
+    "emails": [
+      "b3659e9186e5b7b1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Yuh-Dauh-Lyuu-6121637"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "6121637"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yen-Jen Oyang",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Bioinformatics, Knowledge Engineering, Machine Learning"
+    ],
+    "emails": [
+      "ba4a2b10e37f15de@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Yen-Jen-Oyang-89941567"
+    ],
+    "personal_urls": [
+      "http://mbi.csie.ntu.edu.tw/member/yjoyang.html"
+    ],
+    "stable_ids": [
+      "89941567"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ai-Chun Pang",
+    "titles": [
+      "Distinguished Professor",
+      "Professors",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "5G/6G Mobile Communication Network, Edge Intelligence, Internet-of-Things (IoT)"
+    ],
+    "emails": [
+      "585c1b6f108407a7@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty",
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Ai-Chun-Pang-30111182",
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/Ai-Chun-Pang-30111182"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "30111182"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chi-Sheng Shih",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Real-Time Systems, Scheduling Theory, Resource Management, Embedded Systems"
+    ],
+    "emails": [
+      "e0c40becb3b25152@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Chi-Sheng-Shih-70044877"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "70044877"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shan-Yuan Teng",
+    "titles": [
+      "Assistant Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Human-Computer Interaction (HCI), Haptic feedback, Wearable device, Assistive technology"
+    ],
+    "emails": [
+      "2d051a0624c70627@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Shan-Yuan-Teng-24358378"
+    ],
+    "personal_urls": [
+      "https://lab.tengshanyuan.info"
+    ],
+    "stable_ids": [
+      "24358378"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yufeng Jane Tseng",
+    "titles": [
+      "Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computational Chemistry and Toxicology, Bioinformatics, Cheminformatics, Health Informatics"
+    ],
+    "emails": [
+      "2d772dd4ee5a2471@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Yufeng-Jane-Tseng-95281407"
+    ],
+    "personal_urls": [
+      "https://www.cmdm.tw/"
+    ],
+    "stable_ids": [
+      "95281407"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "王士欣",
+    "name_en": "Shih-Hsin Wang",
+    "titles": [
+      "Assistant Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine Learning、Deep Learning、Generative Models、Geometric Deep Learning、AI for Science"
+    ],
+    "emails": [
+      "9cb59a314c000af1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/%E7%8E%8B%E5%A3%AB%E6%AC%A3-Shih-Hsin-Wang-36218887"
+    ],
+    "personal_urls": [
+      "https://shihhsinwang0214.github.io/personal_website/zh/"
+    ],
+    "stable_ids": [
+      "36218887"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jia-Ling Wu",
+    "titles": [
+      "Distinguished Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Digital Signal Processing, Data Compression, Multimedia System, Error-Correcting Codes"
+    ],
+    "emails": [
+      "58e42f3d7be51d99@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Jia-Ling-Wu-57949360"
+    ],
+    "personal_urls": [
+      "http://www.cmlab.csie.ntu.edu.tw/cml/dsp/prof-wu/prof-wu.html"
+    ],
+    "stable_ids": [
+      "57949360"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Fang-Jing Wu",
+    "titles": [
+      "Associate Professor",
+      "Professors",
+      "Professor"
+    ],
+    "education": [],
+    "research_interests": [
+      "Mobile Computing, Pervasive Intelligence, Wireless Networks, Internet of Smart Things, Distributed Intelligence and Artificial Intelligence, Privacy-preserving Techniques"
+    ],
+    "emails": [
+      "f266dae41113448a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Fang-Jing-Wu-37115253"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "37115253"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chia-Lin Yang",
+    "titles": [
+      "Distinguished Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Low-power Embedded System, High Performance Processor Architecture, Storage System for Big Data"
+    ],
+    "emails": [
+      "6aadd1ba0f787585@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/Faculty/Chia-Lin-Yang-61108798"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "61108798"
+    ],
+    "section": "Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Yao-Wen Chang",
+    "titles": [
+      "Professor",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "Electronic Design Automation, VLSI Physical Design, Heterogeneous Integration, Design for Manufacturability, AI for EDA & EDA for AI"
+    ],
+    "emails": [
+      "c02431ec97a32b37@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/Yao-Wen-Chang-96651812"
+    ],
+    "personal_urls": [
+      "http://cc.ee.ntu.edu.tw/~ywchang"
+    ],
+    "stable_ids": [
+      "96651812"
+    ],
+    "section": "Professor (joint appointment)"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ming-Syan Chen",
+    "titles": [
+      "Professor",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "Multimedia Networking, Database System, Data Mining"
+    ],
+    "emails": [
+      "998f5bca9af71ba1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/Ming-Syan-Chen-39510959"
+    ],
+    "personal_urls": [
+      "https://arbor.ee.ntu.edu.tw/~mschen/"
+    ],
+    "stable_ids": [
+      "39510959"
+    ],
+    "section": "Professor (joint appointment)"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "YI-LWUN HO",
+    "titles": [
+      "Professor",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "Internal Medicine、Cardiology、Cardiac arrhythmia、Heart Failure、Tele-Health"
+    ],
+    "emails": [
+      "05f9629d055c4e75@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/YI-LWUN-HO-54440872"
+    ],
+    "personal_urls": [
+      "https://www.mc.ntu.edu.tw/intmed/Vcard.action?q_type=-1&q_itemCode=280"
+    ],
+    "stable_ids": [
+      "54440872"
+    ],
+    "section": "Professor (joint appointment)"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hung-Yi Lee",
+    "titles": [
+      "Professor",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine Learning, Deep Learning, Spoken Language Understanding, Speech Recognition"
+    ],
+    "emails": [
+      "2790b597d357b931@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/Hung-Yi-Lee-37196640"
+    ],
+    "personal_urls": [
+      "http://speech.ee.ntu.edu.tw/~tlkagk/"
+    ],
+    "stable_ids": [
+      "37196640"
+    ],
+    "section": "Professor (joint appointment)"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wanjiun Liao",
+    "titles": [
+      "Professor",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "AI for 6G, Semantic Communications, Connected Vehicle Networks, LEO Satellite Networks"
+    ],
+    "emails": [
+      "d3ab333d6bf7d91f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/Wanjiun-Liao-50854754"
+    ],
+    "personal_urls": [
+      "https://kiki.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [
+      "50854754"
+    ],
+    "section": "Professor (joint appointment)"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Sheng-De Wang",
+    "titles": [
+      "Professor",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "Embedded Systems, Network and Cloud Computing, IoT Data Analysis, Deep Learning Model Optimization, Design and Applications"
+    ],
+    "emails": [
+      "59b6dbe11be33e23@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/Sheng-De-Wang-8075786"
+    ],
+    "personal_urls": [
+      "http://hpc.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [
+      "8075786"
+    ],
+    "section": "Professor (joint appointment)"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ping-Cheng Yeh",
+    "titles": [
+      "Professor",
+      "Professor (joint appointment)"
+    ],
+    "education": [],
+    "research_interests": [
+      "Molecular Communications, Wireless Communications, Wireless Networks, EdTech"
+    ],
+    "emails": [
+      "6fadc54b9c3e5abf@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/joint_appointment/Ping-Cheng-Yeh-62256378"
+    ],
+    "personal_urls": [
+      "https://www.facebook.com/pcyeh.NTU"
+    ],
+    "stable_ids": [
+      "62256378"
+    ],
+    "section": "Professor (joint appointment)"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jie-Fan Chang",
+    "titles": [
+      "Assistant Professor",
+      "Project-Based Professor",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Deep Learning,Convolutional Neural Network,Breast Density,Medical Image Processing,Computer Vision,Image/Video Forensic"
+    ],
+    "emails": [
+      "82a0a35d43aa9cc2@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%B0%88%E6%A1%88%E8%A8%88%E7%95%AB%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%B0%88%E6%A1%88%E8%A8%88%E7%95%AB%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88/Jie-Fan-Chang-63045572"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~jfanc/"
+    ],
+    "stable_ids": [
+      "63045572"
+    ],
+    "section": "Project-Based Professor"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Der-Tsai Lee",
+    "titles": [
+      "Distinguished Research Chair Professor",
+      "Distinguished Chair Professors and Academicians"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computational Geometry, Design and Analysis of Algorithms, Web-Based Computing, Parallel and Distributed Computing"
+    ],
+    "emails": [
+      "c980d6b5a9651d3f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E8%AC%9B%E5%BA%A7%E6%95%99%E6%8E%88%E3%80%81%E4%B8%AD%E7%A0%94%E9%99%A2%E9%99%A2%E5%A3%AB"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E8%AC%9B%E5%BA%A7%E6%95%99%E6%8E%88%E3%80%81%E4%B8%AD%E7%A0%94%E9%99%A2%E9%99%A2%E5%A3%AB/Der-Tsai-Lee-15214626"
+    ],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/~dtlee/"
+    ],
+    "stable_ids": [
+      "15214626"
+    ],
+    "section": "Distinguished Chair Professors and Academicians"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tei-Wei Kuo",
+    "titles": [
+      "Academician",
+      "Distinguished Chair Professors and Academicians",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Embedded Systems, Real-Time Systems, Neuromorphic Computing, Flash-Memory Systems, Operating Systems, Storage Systems"
+    ],
+    "emails": [
+      "87e615c49f2a7815@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E8%AC%9B%E5%BA%A7%E6%95%99%E6%8E%88%E3%80%81%E4%B8%AD%E7%A0%94%E9%99%A2%E9%99%A2%E5%A3%AB",
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E8%AC%9B%E5%BA%A7%E6%95%99%E6%8E%88%E3%80%81%E4%B8%AD%E7%A0%94%E9%99%A2%E9%99%A2%E5%A3%AB/Tei-Wei-Kuo-33626263",
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Tei-Wei-Kuo-33626263"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "33626263"
+    ],
+    "section": "Distinguished Chair Professors and Academicians"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Lin-shan Lee",
+    "titles": [
+      "Academician",
+      "Distinguished Chair Professors and Academicians",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Digital Speech Processing, Chinese Information Processing, Information Transmission Engineering, Digital Signal Processing"
+    ],
+    "emails": [
+      "a2f858e5e31ccf02@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E8%AC%9B%E5%BA%A7%E6%95%99%E6%8E%88%E3%80%81%E4%B8%AD%E7%A0%94%E9%99%A2%E9%99%A2%E5%A3%AB",
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E8%AC%9B%E5%BA%A7%E6%95%99%E6%8E%88%E3%80%81%E4%B8%AD%E7%A0%94%E9%99%A2%E9%99%A2%E5%A3%AB/Lin-shan-Lee-21765950",
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Lin-shan-Lee-21765950"
+    ],
+    "personal_urls": [
+      "http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm"
+    ],
+    "stable_ids": [
+      "21765950"
+    ],
+    "section": "Distinguished Chair Professors and Academicians"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "陳維超",
+    "name_en": "Wei-Chao Chen",
+    "titles": [
+      "Professor",
+      "Visiting Professors",
+      "Visiting Professor"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer Graphics, Computer Vision, Parallel Architecture, Artificial Intelligence"
+    ],
+    "emails": [
+      "6a0d6e5f378f8222@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/%E9%99%B3%E7%B6%AD%E8%B6%85-Wei-Chao-Chen-87961006"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "87961006"
+    ],
+    "section": "Visiting Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "周存貹",
+    "name_en": "Terrence Chou",
+    "titles": [
+      "Assistant Professor",
+      "Visiting Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Assistant Professor"
+    ],
+    "emails": [
+      "a45e1e2e026cd7c6@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/%E5%91%A8%E5%AD%98%E8%B2%B9-Terrence-Chou-96420390"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "96420390"
+    ],
+    "section": "Visiting Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tai-Yi Huang",
+    "titles": [
+      "Professor",
+      "Visiting Professors",
+      "Visiting Professor"
+    ],
+    "education": [],
+    "research_interests": [
+      "Smart Healthcare Information System, Artificial Intelligence, Cloud Platform, Embedded Systems"
+    ],
+    "emails": [
+      "ac87e862f2f33a90@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/Tai-Yi-Huang-99880952"
+    ],
+    "personal_urls": [
+      "https://www.linkedin.com/in/tai-yi-huang-8580035/"
+    ],
+    "stable_ids": [
+      "99880952"
+    ],
+    "section": "Visiting Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hsiao-Wuen Hon",
+    "titles": [
+      "Professor",
+      "Visiting Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Spoken language processing, Speech recognition, Statistical pattern recognition, Internet search, Data mining"
+    ],
+    "emails": [
+      "a67a1418d1f66649@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/Hsiao-Wuen-Hon-12065808"
+    ],
+    "personal_urls": [
+      "http://research.microsoft.com/en-us/people/hon/"
+    ],
+    "stable_ids": [
+      "12065808"
+    ],
+    "section": "Visiting Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Bor-Sung Liang",
+    "titles": [
+      "Professor",
+      "Visiting Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Digital IC design, processor architecture, SoC architecture, emerging computing platform architecture (AI computing, quantum computing, blockchain), technology management and strategy analysis"
+    ],
+    "emails": [
+      "c4d23c8319ca2238@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/Bor-Sung-Liang-24129504"
+    ],
+    "personal_urls": [
+      "https://zh.m.wikipedia.org/wiki/%E6%A2%81%E4%BC%AF%E5%B5%A9"
+    ],
+    "stable_ids": [
+      "24129504"
+    ],
+    "section": "Visiting Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Kwei-Jay Lin",
+    "titles": [
+      "Professor",
+      "Visiting Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Service-Oriented Computing,QoS for Real-time Systems,Distributed Software Architecture"
+    ],
+    "emails": [
+      "b44cdefb1cf825d1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/Kwei-Jay-Lin-16549145"
+    ],
+    "personal_urls": [
+      "https://faculty.sites.uci.edu/klin/"
+    ],
+    "stable_ids": [
+      "16549145"
+    ],
+    "section": "Visiting Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Kwan-Liu Ma",
+    "titles": [
+      "Professor",
+      "Visiting Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "large data visualization, information visualization, visual analytics, artistically inspired illustrations, video processing, and volume visualization"
+    ],
+    "emails": [
+      "1f6da592e937e1e7@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88/Kwan-Liu-Ma-37066127"
+    ],
+    "personal_urls": [
+      "http://www.cs.ucdavis.edu/~ma/"
+    ],
+    "stable_ids": [
+      "37066127"
+    ],
+    "section": "Visiting Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wen-Chin Chen",
+    "titles": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Algorithms, Database System, Multimedia System"
+    ],
+    "emails": [
+      "62c7b616f3ea96e5@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Wen-Chin-Chen-39642407"
+    ],
+    "personal_urls": [
+      "http://www.cmlab.csie.ntu.edu.tw/~wcchen/"
+    ],
+    "stable_ids": [
+      "39642407"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Hao-Hua Chu",
+    "titles": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Ubiquitous and Pervasive Computing, Sensor networks, Human computer interaction"
+    ],
+    "emails": [
+      "9ca0ab956c06fe25@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Hao-Hua-Chu-95301071"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "95301071"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ding-Yong Hong",
+    "titles": [
+      "Associate Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Compiler, Dynamic binary translation, Parallel computing"
+    ],
+    "emails": [
+      "4eba5ac6d6b740df@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Ding-Yong-Hong-21321949"
+    ],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/pages/dyhong"
+    ],
+    "stable_ids": [
+      "21321949"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Tsan-Sheng Hsu",
+    "titles": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Graph Theory, Data Privacy, Design, Analysis, Implementation and Performance Evaluation of Algorithms"
+    ],
+    "emails": [
+      "cbcbe625ca0ea53a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Tsan-Sheng-Hsu-65563259"
+    ],
+    "personal_urls": [
+      "http://homepage.iis.sinica.edu.tw/~tshsu/"
+    ],
+    "stable_ids": [
+      "65563259"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jieh Hsiang",
+    "titles": [
+      "Distinguished Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Automated Deduction, Logic in Computer Science, Digital Libraries and Archives"
+    ],
+    "emails": [
+      "75e6720ab78e6861@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Jieh-Hsiang-85216707"
+    ],
+    "personal_urls": [
+      "http://www.digital.ntu.edu.tw/hsiang/"
+    ],
+    "stable_ids": [
+      "85216707"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jane Yung-Jen Hsu",
+    "titles": [
+      "Professor",
+      "Adjunct Professors",
+      "Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Intelligent Multi-Agent Systems, Data Mining, Service Oriented Computing, Web Technology"
+    ],
+    "emails": [
+      "f50d5df410847dad@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Jane-Yung-Jen-Hsu-23388952"
+    ],
+    "personal_urls": [
+      "http://agents.csie.ntu.edu.tw/~yjhsu/"
+    ],
+    "stable_ids": [
+      "23388952"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Jyh-Shing Roger Jang",
+    "titles": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Music Analysis and Retrieval, Speech Recognition and Synthesis, Multimedia Information Retrieval"
+    ],
+    "emails": [
+      "af2b9d6fe1d85ba4@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Jyh-Shing-Roger-Jang-13692144"
+    ],
+    "personal_urls": [
+      "http://mirlab.org/jang"
+    ],
+    "stable_ids": [
+      "13692144"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Cheng-Yuan Liou",
+    "titles": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Neural Networks, Computational Cognitive Processes"
+    ],
+    "emails": [
+      "43111f05dde67c71@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Cheng-Yuan-Liou-65435261"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "65435261"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Ming Ouhyoung",
+    "titles": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer Graphics, Virtual Reality, Graphical User Interface"
+    ],
+    "emails": [
+      "4e92025c67b5336b@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/Ming-Ouhyoung-73434681"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "73434681"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "王柏堯",
+    "name_en": "BY Wang",
+    "titles": [
+      "Professor",
+      "Adjunct Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "model checking, formal veri cation, logic in computer science"
+    ],
+    "emails": [
+      "810f0934d852b5e6@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/%E5%85%BC%E4%BB%BB%E5%B8%AB%E8%B3%87/%E7%8E%8B%E6%9F%8F%E5%A0%AF-BY-Wang-80153896"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "80153896"
+    ],
+    "section": "Adjunct Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Gen-Huey Chen",
+    "titles": [
+      "Distinguished Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer Algorithms, Graph Theory and Combinatorial Optimization, Wireless Networks and Mobile Computing"
+    ],
+    "emails": [
+      "713b14e2c47e78f1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/Gen-Huey-Chen-1678697"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "1678697"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Chuen-Liang Chen",
+    "titles": [
+      "Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer Language, Compiler, Hospital Information System"
+    ],
+    "emails": [
+      "72cbdad5ef1525a0@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/Chuen-Liang-Chen-10450731"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "10450731"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Cheng-Yan Kao",
+    "titles": [
+      "Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Biological information, Computational molecular biology, Genetically programmed software engineerin"
+    ],
+    "emails": [],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/-Cheng-Yan-Kao-10311382"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "10311382"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Shun-Chin Hsu",
+    "titles": [
+      "Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Artificial Inteligence"
+    ],
+    "emails": [
+      "fb6b9ca946c3741a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/Shun-Chin-Hsu-96903674"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "96903674"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wei-Chung Hsu",
+    "titles": [
+      "Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Virtual Machines, Optimizing Compilers, Dynamic Binary Optimization Systems, High Performance Computer Architectures."
+    ],
+    "emails": [
+      "ab65868da68e06be@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/Wei-Chung-Hsu-9683250"
+    ],
+    "personal_urls": [
+      "https://covart.csie.ntu.edu.tw/advisor"
+    ],
+    "stable_ids": [
+      "9683250"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "I-Peng Lin",
+    "titles": [
+      "Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Natural Language Processing, Computational Logic"
+    ],
+    "emails": [
+      "7bc831931d8424a1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/I-Peng-Lin-9500406"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "9500406"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Feipei Lai",
+    "titles": [
+      "Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Low power system chip design, Information security, Medical information system"
+    ],
+    "emails": [
+      "fcad5d44094dfb95@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/Feipei-Lai-57901583"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/medinfolabatntu/"
+    ],
+    "stable_ids": [
+      "57901583"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Mu-Shiung Liu",
+    "titles": [
+      "Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Numerical Analysis"
+    ],
+    "emails": [],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/Mu-Shiung-Liu-96264380"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "96264380"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Gregory Y. Tang",
+    "titles": [
+      "Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "expertise: Multimedia Database Management System, Digital Video and Signal Processing, Image Recognition.",
+      "Multimedia Database Management System, Digital Video and Signal Processing, Image Recognition."
+    ],
+    "emails": [],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/Gregory-Y-Tang-14948571"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "14948571"
+    ],
+    "section": "Retired Professors"
+  },
+  {
+    "school_id": "ntu-cs-ie",
+    "language": "en",
+    "name_zh": "",
+    "name_en": "Wen-Ming Yan",
+    "titles": [
+      "Associate Professor",
+      "Retired Professors"
+    ],
+    "education": [],
+    "research_interests": [
+      "Computer Math and Algorithm, Image processing and Computer Vision, Image and Video Compression"
+    ],
+    "emails": [
+      "87c72862d37e9d00@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors"
+    ],
+    "profile_urls": [
+      "https://www.csie.ntu.edu.tw/en/member/RetiredProfessors/Wen-Ming-Yan-85543275"
+    ],
+    "personal_urls": [],
+    "stable_ids": [
+      "85543275"
+    ],
+    "section": "Retired Professors"
+  }
+]

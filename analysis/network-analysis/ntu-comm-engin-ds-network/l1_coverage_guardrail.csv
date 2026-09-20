@@ -1,0 +1,11 @@
+﻿parent_l1,n_faculty,coverage_pct,flag
+"Vision, Multimedia & Human-Centered Computing",13,52.0,too_broad
+AI & Machine Learning,12,48.0,ok
+Networks & Communications,11,44.0,ok
+Applied Mathematics & Operations Research,3,12.0,ok
+"Data, Databases & Knowledge Discovery",3,12.0,ok
+"Robotics, Control & Smart Manufacturing",3,12.0,ok
+"Security, Privacy & Cryptography",3,12.0,ok
+Biomedical & Health Informatics,1,4.0,ok
+Financial Engineering & Risk,1,4.0,ok
+Theory & Algorithms,1,4.0,ok

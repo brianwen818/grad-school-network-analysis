@@ -1,0 +1,96 @@
+{
+  "unit": "ncku-cs-ie",
+  "level": "school",
+  "school_ids": [
+    "ncku-cs-ie"
+  ],
+  "deduplicated": false,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 62,
+    "n_entities": 62,
+    "n_duplicate_records_removed": 0,
+    "n_in_network": 51,
+    "n_excluded_no_keywords": 11,
+    "coverage_pct": 82.3
+  },
+  "bipartite": {
+    "n_professors": 51,
+    "n_keywords": 66,
+    "n_edges": 189,
+    "density": 0.05614973262032086,
+    "n_connected_components": 2,
+    "lcc_n_nodes": 115,
+    "lcc_n_professors": 50,
+    "lcc_n_keywords": 65,
+    "lcc_node_share": 0.9829059829059829,
+    "lcc_professor_share": 0.9803921568627451,
+    "professor_degree_mean": 3.7058823529411766,
+    "professor_degree_max": 9,
+    "keyword_degree_mean": 2.8636363636363638,
+    "keyword_degree_max": 17
+  },
+  "keyword_network": {
+    "n_nodes": 65,
+    "n_edges": 286,
+    "density": 0.1375,
+    "mean_degree": 8.8,
+    "mean_weight": 1.2237762237762237,
+    "avg_clustering": 0.7164110186567915,
+    "modularity_q_by_resolution": {
+      "0.7": 0.4770628571428572,
+      "1.0": 0.39730204081632653,
+      "1.3": 0.34593428571428575
+    },
+    "n_communities_by_resolution": {
+      "0.7": 4,
+      "1.0": 7,
+      "1.3": 6
+    },
+    "modularity_q": 0.39730204081632653,
+    "n_communities": 7,
+    "girvan_newman": {},
+    "taxonomy_alignment_nmi": 0.4482351435547297,
+    "taxonomy_alignment_ari": 0.14720900043271312,
+    "pearson_degree_betweenness_r": 0.846962659625664,
+    "pearson_degree_betweenness_p": 6.090262191992692e-19
+  },
+  "professor_network": {
+    "n_nodes": 50,
+    "n_edges": 493,
+    "density": 0.40244897959183673,
+    "mean_degree": 19.72,
+    "avg_clustering": 0.7362111431945674,
+    "modularity_q_by_resolution": {
+      "0.7": 0.3420923827815436,
+      "1.0": 0.23510845618923146,
+      "1.3": 0.17090452139917886
+    },
+    "n_communities_by_resolution": {
+      "0.7": 2,
+      "1.0": 5,
+      "1.3": 7
+    },
+    "modularity_q": 0.23510845618923146,
+    "n_communities": 5,
+    "assortativity_dominant_l1": 0.09552144161005248,
+    "assortativity_role_groups": -0.022918482586121943,
+    "assortativity_school": NaN,
+    "community_vs_dominant_l1_nmi": 0.3761579659073589,
+    "community_vs_dominant_l1_ari": 0.1479304907303848
+  },
+  "guardrails": {
+    "l1_too_broad": [
+      "AI & Machine Learning"
+    ],
+    "lambda_over_merging": []
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 0,
+    "professors_without_chinese_name": []
+  }
+}

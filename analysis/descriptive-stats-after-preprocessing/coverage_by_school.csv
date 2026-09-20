@@ -1,0 +1,15 @@
+﻿school_id,faculty_count,title_coverage_pct,education_coverage_pct,research_interest_coverage_pct,mean_titles_per_faculty,mean_education_entries_per_faculty,mean_research_fields_per_faculty
+nccu-fin,23,100.0,95.7,100.0,1.7,2.3,2.7
+nccu-mb,22,90.9,90.9,81.8,1.09,2.09,2.0
+ncku-cs-ie,62,98.4,80.6,82.3,1.13,3.21,3.05
+ncku-stats-ds,47,97.9,44.7,83.0,2.19,1.36,2.64
+nthu-cs,81,100.0,100.0,93.8,1.78,1.09,2.56
+nthu-qf,19,100.0,94.7,89.5,2.0,2.47,2.37
+ntu-comm-engin-ds-network,25,100.0,100.0,100.0,1.0,1.24,2.96
+ntu-cs-ie,90,100.0,0.0,97.8,1.94,0.0,2.84
+ntu-ds,69,100.0,0.0,85.5,1.04,0.0,2.43
+ntu-econ,49,93.9,100.0,89.8,0.96,1.12,2.04
+ntu-fin,43,100.0,95.3,74.4,1.09,1.09,2.0
+ntu-im,31,100.0,77.4,96.8,1.06,0.84,3.1
+nycu-cs,152,100.0,99.3,92.8,1.43,1.35,2.78
+nycu-info-mag-fin,28,100.0,100.0,67.9,1.36,1.39,2.82

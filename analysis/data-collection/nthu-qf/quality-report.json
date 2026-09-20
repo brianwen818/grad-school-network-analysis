@@ -1,0 +1,29 @@
+{
+  "school_id": "nthu-qf",
+  "analyzed_at": "2026-09-09T09:29:28+08:00",
+  "faculty_count": 19,
+  "role_counts": {
+    "adjunct": 1,
+    "chair": 4,
+    "emeritus": 1,
+    "faculty": 1,
+    "full_time": 18,
+    "joint": 1,
+    "practice": 1
+  },
+  "merge_status_counts": {
+    "matched": 19
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 0.1053,
+    "education_zh": 0.9474,
+    "education_en": 0.9474,
+    "research_interests_zh": 0.9474,
+    "research_interests_en": 0.9474
+  },
+  "pages_visited": 30,
+  "warnings": [],
+  "errors": []
+}

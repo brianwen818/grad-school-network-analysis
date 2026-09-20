@@ -1,0 +1,617 @@
+﻿unit,node_id,professor_name,name_en,school_ids,n_appointments,joint_appointment,degree,n_cross_school_edges,cross_school_edge_share,betweenness,dominant_l1
+overall,nthu-qf-kangliu-cb7ae7428e,劉鋼,Kang Liu,nthu-qf,1,False,202,186,0.9207920792079208,0.20091275831325098,Asset Pricing & Financial Markets
+overall,nycu-info-mag-fin-黃思皓-2ee9d5c50c,黃思皓,Szu-Hao Huang,nycu-info-mag-fin,1,False,290,280,0.9655172413793104,0.11097711891050258,AI & Machine Learning
+overall,ntu-im-劉若慧-6dfb552dd3,劉若慧,Olivia Liu Sheng,ntu-im,1,False,272,251,0.9227941176470589,0.0918384677564784,"Data, Databases & Knowledge Discovery"
+overall,ncku-cs-ie-李政德-56478665e8,李政德,dept. CSIE,ncku-cs-ie | ncku-stats-ds,2,True,239,202,0.8451882845188284,0.06531244070848424,AI & Machine Learning
+overall,ncku-stats-ds-鄭順林-58732da4fc,鄭順林,Shuen-Lin Jeng,ncku-stats-ds,1,False,225,192,0.8533333333333334,0.05974038470026396,Statistics & Statistical Methods
+overall,nthu-cs-李端興-72950bb080,李端興,Duan-Shin Lee,nthu-cs,1,False,296,260,0.8783783783783784,0.05545434884316274,AI & Machine Learning
+overall,nycu-info-mag-fin-林智勇-9f2fd3a531,林智勇,Chih-Yung Lin,nycu-info-mag-fin,1,False,99,85,0.8585858585858586,0.04952490664971796,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-chunyilee-d91b936234,李濬屹,Chun-Yi Lee,ntu-cs-ie | ntu-ds,2,True,252,184,0.7301587301587301,0.04668008439042046,"Systems, Software & Architecture"
+overall,ntu-im-林永松-dc984527a6,林永松,Yeong-Sung Lin,ntu-im,1,False,249,233,0.9357429718875502,0.04285082492518736,Networks & Communications
+overall,ntu-fin-張晏誠-e89d9c3220,張晏誠,Yen-Cheng Chang,ntu-fin,1,False,119,96,0.8067226890756303,0.03559089057619287,Corporate Finance & Governance
+overall,ncku-cs-ie-謝孫源-de0f810cf9,謝孫源,dept. CSIE,ncku-cs-ie,1,False,266,232,0.8721804511278195,0.03373263672143469,AI & Machine Learning
+overall,ntu-comm-engin-ds-network-林澤-45fabc226a,林澤,Che Lin,ntu-comm-engin-ds-network | ntu-ds,2,True,329,275,0.8358662613981763,0.02643427774435958,AI & Machine Learning
+overall,ncku-cs-ie-連震杰-f316933353,連震杰,dept. CSIE,ncku-cs-ie | ncku-stats-ds,2,True,237,202,0.8523206751054853,0.026021026985514152,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-im-陳炘鈞-a14cb18eab,陳炘鈞,Hsin-Chun Chen,ntu-im,1,False,245,231,0.9428571428571428,0.02528358182604627,"Data, Databases & Knowledge Discovery"
+overall,ntu-im-何承遠-cf78426b61,何承遠,Cheng-Yuan Ho,ntu-im,1,False,255,232,0.9098039215686274,0.021357661785086905,AI & Machine Learning
+overall,nycu-cs-chunronghuang-e31844e5ff,黃春融,Chun-Rong Huang,nycu-cs,1,False,253,177,0.6996047430830039,0.020230915659731105,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-econ-謝志昇-c7296b64a4,謝志昇,Chih-Sheng Hsieh,ntu-econ,1,False,54,30,0.5555555555555556,0.020045019994173883,Economics & Policy
+overall,ncku-cs-ie-李同益-15ef8859be,李同益,dept. CSIE,ncku-cs-ie,1,False,269,237,0.8810408921933085,0.02004324504622431,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-comm-engin-ds-network-林宗男-d804481822,林宗男,Tsung-Nan Lin,ntu-comm-engin-ds-network | ntu-ds,2,True,229,186,0.8122270742358079,0.01925378624035969,AI & Machine Learning
+overall,ncku-stats-ds-馬瀰嘉-acd5f760d8,馬瀰嘉,Mi-Chia Ma,ncku-stats-ds,1,False,73,44,0.6027397260273972,0.018760361219247353,Statistics & Statistical Methods
+overall,nycu-cs-tzongyilee-a682aad84a,李宗夷,Tzong-Yi Lee,nycu-cs,1,False,262,187,0.7137404580152672,0.017514612008931545,AI & Machine Learning
+overall,ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,陳銘憲,Ming-Syan Chen,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,3,True,270,186,0.6888888888888889,0.0174066843972302,"Data, Databases & Knowledge Discovery"
+overall,ntu-cs-ie-chusongchen-19351beadd,陳祝嵩,Chu-Song Chen,ntu-cs-ie | ntu-ds,2,True,244,168,0.6885245901639344,0.017059788818945085,"Vision, Multimedia & Human-Centered Computing"
+overall,nccu-mb-林士貴-1dfbcb1d92,林士貴,: SHIH-KUEI LIN,nccu-mb,1,False,84,73,0.8690476190476191,0.01658832304935428,Financial Engineering & Risk
+overall,ntu-cs-ie-ydlyuu-ca115abad3,呂育道,Yuh-Dauh Lyuu,ntu-cs-ie | ntu-fin,2,True,113,93,0.8230088495575221,0.016531165311653113,Financial Engineering & Risk
+overall,ntu-econ-和田健司-cd35fc2b2a,和田健司,Kenji Wada,ntu-econ,1,False,86,59,0.686046511627907,0.016360795529779402,Asset Pricing & Financial Markets
+overall,ncku-cs-ie-詹慧伶-5b224dd080,詹慧伶,dept. CSIE,ncku-cs-ie,1,False,252,221,0.876984126984127,0.014857632150076738,AI & Machine Learning
+overall,nthu-cs-黃稚存-6ad9444e87,黃稚存,Chih-Tsun Huang,nthu-cs,1,False,203,172,0.8472906403940886,0.013651099458877327,AI & Machine Learning
+overall,nycu-cs-pokaiyang-cf78685bcf,楊博凱,Po-Kai Yang,nycu-cs,1,False,222,155,0.6981981981981982,0.013411519317612908,AI & Machine Learning
+overall,ntu-econ-郭漢豪-7977d0a5be,郭漢豪,Kwok Hon Ho,ntu-econ,1,False,93,69,0.7419354838709677,0.013225285347316014,Economics & Policy
+overall,nycu-cs-teshenglin-f7015f5fff,林得勝,Te-Sheng Lin,nycu-cs,1,False,178,129,0.7247191011235955,0.013161727708482297,AI & Machine Learning
+overall,nycu-info-mag-fin-鄧惠文-9b670d9d4e,鄧惠文,Huei-Wen Teng,nycu-info-mag-fin,1,False,179,167,0.9329608938547486,0.012790974815285612,Financial Engineering & Risk
+overall,ntu-im-曹承礎-c4150b76bf,曹承礎,Seng-Cho Chou,ntu-im,1,False,177,157,0.8870056497175142,0.012482014070955038,Information Systems & Management
+overall,ntu-ds-chunhaoyang-8f0203e6f5,楊鈞澔,Chun-Hao Yang,ntu-ds,1,False,220,189,0.8590909090909091,0.012412608246603639,Statistics & Statistical Methods
+overall,ncku-cs-ie-張大緯-a732435fee,張大緯,dept. CSIE,ncku-cs-ie,1,False,109,89,0.8165137614678899,0.011696030548020698,Networks & Communications
+overall,ntu-im-魏志平-1e1877736d,魏志平,Chih-Ping Wei,ntu-im,1,False,185,172,0.9297297297297298,0.011672183822815426,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-chiamuyu-baf01c6c43,游家牧,Chia-Mu Yu,nycu-cs | nycu-info-mag-fin,2,True,207,136,0.6570048309178744,0.011220773259384528,AI & Machine Learning
+overall,nthu-cs-張隆紋-6579e42cba,張隆紋,Long-Wen Chang,nthu-cs,1,False,178,153,0.8595505617977528,0.011042243421682526,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-ds-taichialin-2475a3552a,林太家,Tai-Chia Lin,ntu-ds,1,False,82,64,0.7804878048780488,0.010539975106591456,Applied Mathematics & Operations Research
+overall,ntu-cs-ie-yipinghung-ed06deae8f,洪一平,Yi-Ping Hung,ntu-cs-ie,1,False,191,149,0.7801047120418848,0.010248404438441779,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-cs-ie-鄭憲宗-66a30ac62c,鄭憲宗,dept. CSIE,ncku-cs-ie,1,False,246,216,0.8780487804878049,0.010119258847311602,Networks & Communications
+overall,nycu-cs-lopangyunting-3b16a3f0bf,丁羅邦芸,Lo Pang-Yun Ting,nycu-cs,1,False,230,166,0.7217391304347827,0.009892739605935761,AI & Machine Learning
+overall,nycu-cs-chingchunhuang-4300ad3a0d,黃敬群,Ching-Chun Huang,nycu-cs,1,False,199,142,0.7135678391959799,0.009885566825266515,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-cs-ie-shihweiliao-e37c5cad8a,廖世偉,Shih-wei Liao,ntu-cs-ie,1,False,144,115,0.7986111111111112,0.00963692698816239,"Data, Databases & Knowledge Discovery"
+overall,nthu-cs-丁川康-09362c5c83,丁川康,Chuan-Kang Ting,nthu-cs,1,False,202,182,0.900990099009901,0.009043192712057415,AI & Machine Learning
+overall,nycu-cs-shichuntsai-2c8ef8afc5,蔡錫鈞,Shi-Chun Tsai,nycu-cs,1,False,217,150,0.6912442396313364,0.008951034135748525,Theory & Algorithms
+overall,nycu-cs-juihunghung-00f0b25000,洪瑞鴻,Jui-Hung Hung,nycu-cs,1,False,243,174,0.7160493827160493,0.008875622492846617,AI & Machine Learning
+overall,ntu-econ-王建強-992a85075e,王建強,Chien-Chiang Wang,ntu-econ,1,False,84,65,0.7738095238095238,0.008858345912449352,Economics & Policy
+overall,ntu-cs-ie-ghchen-6420c9bb16,陳健輝,Gen-Huey Chen,ntu-cs-ie,1,False,149,125,0.8389261744966443,0.008802417712404207,Networks & Communications
+overall,ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,廖婉君,Wanjiun Liao,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,3,True,214,145,0.677570093457944,0.008798142704554085,Networks & Communications
+overall,ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,吳沛遠,Pei-Yuan Wu,ntu-comm-engin-ds-network | ntu-ds,2,True,232,193,0.8318965517241379,0.008657609703132863,AI & Machine Learning
+overall,nycu-cs-kaichiangwu-34f06ed7b9,吳凱強,Kai-Chiang Wu,nycu-cs,1,False,229,156,0.6812227074235808,0.008512877357717271,AI & Machine Learning
+overall,ncku-cs-ie-郭軒安-ad75e1a6db,郭軒安,dept. CSIE,ncku-cs-ie,1,False,220,188,0.8545454545454545,0.00833853522341645,AI & Machine Learning
+overall,nccu-mb-張興華-a1ad78b558,張興華,: HSING-HUA CHANG,nccu-mb,1,False,20,20,1.0,0.008283678927994491,Applied Mathematics & Operations Research
+overall,nycu-cs-kuochenwang-4c84cd426d,王國禎,Kuo-Chen Wang,nycu-cs,1,False,148,98,0.6621621621621622,0.007931640228454401,Networks & Communications
+overall,nccu-fin-周行一-b726d62ff6,周行一,: HSING-YI CHOW,nccu-fin,1,False,111,90,0.8108108108108109,0.007840540946126073,Asset Pricing & Financial Markets
+overall,ntu-comm-engin-ds-network-魏宏宇-c14d33111c,魏宏宇,Hung-Yu Wei,ntu-comm-engin-ds-network,1,False,143,129,0.9020979020979021,0.007837804436676287,Applied Mathematics & Operations Research
+overall,nycu-info-mag-fin-鍾惠民-ae10d194fa,鍾惠民,Huimin Chung,nycu-info-mag-fin,1,False,106,93,0.8773584905660378,0.007781838404703266,Asset Pricing & Financial Markets
+overall,nycu-info-mag-fin-戴天時-ba41515d9f,戴天時,Tian-Shyr Dai,nycu-info-mag-fin,1,False,62,50,0.8064516129032258,0.0076143375440269065,Financial Engineering & Risk
+overall,nycu-cs-shiawshianyu-9f00080370,余孝先,Shiaw-Shian Yu,nycu-cs,1,False,168,122,0.7261904761904762,0.007287942586266254,Information Systems & Management
+overall,ntu-cs-ie-shengdewang-f22c6c99e2,王勝德,Sheng-De Wang,ntu-cs-ie,1,False,221,183,0.8280542986425339,0.00724821906199518,Networks & Communications
+overall,ntu-fin-蔡易達-f68700fe00,蔡易達,Yi-Da Tsai,ntu-fin,1,False,102,80,0.7843137254901961,0.0071361104490523745,Asset Pricing & Financial Markets
+overall,ntu-fin-吳瑞萱-1b792bb68d,吳瑞萱,Ruei-Shian Wu,ntu-fin,1,False,84,61,0.7261904761904762,0.007037621330145365,Corporate Finance & Governance
+overall,ntu-cs-ie-bychen-c5555c9a2f,陳炳宇,Bing-Yu Chen,ntu-cs-ie | ntu-im,2,True,157,115,0.732484076433121,0.006768888535790896,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-qf-俞明德-5bc6444834,俞明德,Min-Teh Yu,nthu-qf | nycu-info-mag-fin,2,True,92,66,0.717391304347826,0.006613348869645048,Financial Engineering & Risk
+overall,ntu-econ-陳慶池-440d91818f,陳慶池,Hing Chi Jimmy Chan,ntu-econ,1,False,31,10,0.3225806451612903,0.00643697642188152,Applied Mathematics & Operations Research
+overall,nycu-cs-wengueytzeng-322bddcb23,曾文貴,Wen-Guey Tzeng,nycu-cs,1,False,103,72,0.6990291262135923,0.006272697580396,"Security, Privacy & Cryptography"
+overall,ntu-ds-weichungwang-46d1252dcf,王偉仲,Wei-Chung Wang,ntu-ds,1,False,133,110,0.8270676691729323,0.006048568629008766,Applied Mathematics & Operations Research
+overall,ntu-cs-ie-pfliu-a4b8a4e929,劉邦鋒,Pangfeng Liu,ntu-cs-ie,1,False,215,175,0.813953488372093,0.00595815032138223,AI & Machine Learning
+overall,nycu-cs-fuhauhsu-7d03be9742,許富皓,Fu-Hau Hsu,nycu-cs,1,False,117,76,0.6495726495726496,0.005913508646487116,"Security, Privacy & Cryptography"
+overall,ncku-stats-ds-溫敏杰-99a3082790,溫敏杰,Miin-Jye Wen,ncku-stats-ds,1,False,56,28,0.5,0.005757262784354228,Statistics & Statistical Methods
+overall,nycu-info-mag-fin-李正福-85865a27fe,李正福,Cheng-Few Lee,nycu-info-mag-fin,1,False,137,126,0.9197080291970803,0.005570827043775323,Asset Pricing & Financial Markets
+overall,ncku-stats-ds-任眉眉-233662b353,任眉眉,Mei-Mei Zen,ncku-stats-ds,1,False,43,23,0.5348837209302325,0.005360027541643495,Statistics & Statistical Methods
+overall,ntu-comm-engin-ds-network-劉子毓-3ebc338425,劉子毓,Tzu-Yu Liu,ntu-comm-engin-ds-network | ntu-ds,2,True,219,182,0.8310502283105022,0.005352738590205818,AI & Machine Learning
+overall,nycu-cs-jeanjyhjiunshann-a5cae0db34,單智君,Jean Jyh-Jiun Shann,nycu-cs,1,False,178,126,0.7078651685393258,0.00534608017089943,"Systems, Software & Architecture"
+overall,ntu-cs-ie-mikeychen-e0f3b8ad08,陳彥仰,Mike Yen-Yang Chen,ntu-cs-ie,1,False,134,106,0.7910447761194029,0.005295587157825975,Networks & Communications
+overall,nccu-fin-李志宏-3d451901f4,李志宏,: JIE-HAUN LEE,nccu-fin,1,False,105,85,0.8095238095238095,0.0052252323826169865,Asset Pricing & Financial Markets
+overall,nthu-cs-張真誠-f90f3dfae1,張真誠,Chin-Chen Chang,nthu-cs,1,False,189,159,0.8412698412698413,0.004742648310615261,"Security, Privacy & Cryptography"
+overall,nthu-cs-胡敏君-d30f85d433,胡敏君,Min-Chun Hu,nthu-cs,1,False,135,116,0.8592592592592593,0.004520435206857707,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-cs-蔡仁松-13fcaf5bbe,蔡仁松,Ren-Song Tsay,nthu-cs,1,False,182,163,0.8956043956043956,0.004310002383411456,"Security, Privacy & Cryptography"
+overall,nycu-cs-wuuyang-0962a60276,楊武,Wuu Yang,nycu-cs,1,False,99,68,0.6868686868686869,0.004299850816097737,"Systems, Software & Architecture"
+overall,ntu-im-蕭邱漢-887e21f502,蕭邱漢,Chiu-Han Hsiao,ntu-im,1,False,208,199,0.9567307692307693,0.004224817492474598,Networks & Communications
+overall,ntu-econ-馮勃翰-3891fb6c24,馮勃翰,Po Han Fong,ntu-econ,1,False,35,10,0.2857142857142857,0.0041683218135112705,Economics & Policy
+overall,ntu-econ-羅珮瑜-24610cd413,羅珮瑜,Pei-Yu Lo,ntu-econ,1,False,35,10,0.2857142857142857,0.0041683218135112705,Economics & Policy
+overall,ntu-econ-何泰寬-3f8b4902cb,何泰寬,Tai-kuang Ho,ntu-econ,1,False,84,71,0.8452380952380952,0.004167439068527492,Asset Pricing & Financial Markets
+overall,ncku-stats-ds-蘇佩芳-7c1f71e6de,蘇佩芳,Pei-Fang Su,ncku-stats-ds,1,False,102,76,0.7450980392156863,0.004147135933900056,Biomedical & Health Informatics
+overall,nycu-cs-shieyuanwang-c0a10157f3,王協源,Shie-Yuan Wang,nycu-cs,1,False,223,150,0.672645739910314,0.004147135933900056,Networks & Communications
+overall,ntu-cs-ie-fangjingwu-0e7f46cd57,巫芳璟,Fang-Jing Wu,ntu-cs-ie | ntu-ds,2,True,173,128,0.7398843930635838,0.004011987676880025,Networks & Communications
+overall,nycu-cs-vincentstseng-9a223c9f3f,曾新穆,Vincent S. Tseng,nycu-cs,1,False,167,121,0.7245508982035929,0.003930301666060783,"Data, Databases & Knowledge Discovery"
+overall,ntu-ds-lienyunhsuan-dd216d994b,連云暄,"Lien, Yun-Hsuan",ntu-ds,1,False,204,176,0.8627450980392157,0.0037975689203146104,AI & Machine Learning
+overall,nycu-cs-ihengmeng-d93e9ca59d,蒙以亨,I Heng Meng,nycu-cs,1,False,185,132,0.7135135135135136,0.003788885919655763,"Data, Databases & Knowledge Discovery"
+overall,ncku-stats-ds-李俊毅-6ad50d7c53,李俊毅,Chung-I Li,ncku-stats-ds,1,False,73,46,0.6301369863013698,0.0037093826964328296,Statistics & Statistical Methods
+overall,nycu-cs-kuohuiyeh-60e6731211,葉國暉,Kuo-Hui Yeh,nycu-cs,1,False,165,103,0.6242424242424243,0.0037088530494425466,"Security, Privacy & Cryptography"
+overall,ntu-cs-ie-clyang-d0981273f4,楊佳玲,Chia-Lin Yang,ntu-cs-ie,1,False,128,101,0.7890625,0.0037039979520316377,"Data, Databases & Knowledge Discovery"
+overall,ntu-cs-ie-borsungliang-d27fbde277,梁伯嵩,Bor-Sung Liang,ntu-cs-ie | nycu-cs,2,True,141,67,0.475177304964539,0.0037022324620640343,AI & Machine Learning
+overall,ncku-stats-ds-liangchinglin-1a87e637fa,林良靖,Liang-Ching Lin,ncku-stats-ds,1,False,23,20,0.8695652173913043,0.0036969359921612244,Applied Mathematics & Operations Research
+overall,ntu-cs-ie-yuanhaochang-84d776f267,張原豪,Yuan-Hao Chang,ntu-cs-ie | ntu-ds,2,True,90,69,0.7666666666666667,0.003654223745587852,"Systems, Software & Architecture"
+overall,ntu-fin-陳明賢-3e54e36dc3,陳明賢,Ming-Shen Chen,ntu-fin,1,False,93,81,0.8709677419354839,0.0036519159979873416,Asset Pricing & Financial Markets
+overall,ncku-cs-ie-盧文祥-1905e6a59a,盧文祥,dept. CSIE,ncku-cs-ie,1,False,106,90,0.8490566037735849,0.0036210955874100394,AI & Machine Learning
+overall,nycu-info-mag-fin-郭家豪-0efd529562,郭家豪,Jia-hau Guo,nycu-info-mag-fin,1,False,95,82,0.8631578947368421,0.0036102062975027147,Asset Pricing & Financial Markets
+overall,ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,孫紹華,Shao-Hua Sun,ntu-comm-engin-ds-network | ntu-ds,2,True,194,160,0.8247422680412371,0.003597715455981922,AI & Machine Learning
+overall,ncku-stats-ds-許志仲-042daaf5f7,許志仲,Chih-Chung Hsu,ncku-stats-ds,1,False,223,218,0.9775784753363229,0.003429323524064129,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-econ-吳儀玲-9ff31e9638,吳儀玲,YiLin Wu,ntu-econ,1,False,79,73,0.9240506329113924,0.0034108635641963677,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-twkuo-d3cfd9197c,郭大維,Tei-Wei Kuo,ntu-cs-ie,1,False,183,149,0.8142076502732241,0.0033646833909009174,"Systems, Software & Architecture"
+overall,nthu-cs-黃能富-478224d15b,黃能富,Nen-Fu Huang,nthu-cs,1,False,191,166,0.8691099476439791,0.003362110819805266,Networks & Communications
+overall,ntu-fin-陳業寧-736c019d65,陳業寧,Yehning Chen,ntu-fin,1,False,84,66,0.7857142857142857,0.0033145308651783586,Applied Mathematics & Operations Research
+overall,ncku-stats-ds-戴安順-b1f00ad732,戴安順,An-Shun Tai,ncku-stats-ds,1,False,69,44,0.6376811594202898,0.003265273695082228,Biomedical & Health Informatics
+overall,ntu-cs-ie-shihweili-fd4467548b,黎士瑋,Shih-Wei Li,ntu-cs-ie,1,False,120,95,0.7916666666666666,0.003253798010292806,"Systems, Software & Architecture"
+overall,ncku-stats-ds-潘浙楠-852778d16a,潘浙楠,Jeh-Nan Pan,ncku-stats-ds,1,False,45,20,0.4444444444444444,0.0032467360504223933,Statistics & Statistical Methods
+overall,ncku-stats-ds-李宜真-1ca5a58f06,李宜真,I-Chen Lee,ncku-stats-ds,1,False,48,23,0.4791666666666667,0.0032281984057625592,Statistics & Statistical Methods
+overall,nycu-cs-junghongchuang-dc2cbcbefa,莊榮宏,Jung-Hong Chuang,nycu-cs,1,False,86,59,0.686046511627907,0.003164640766928842,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-cs-張峻銘-b2df996158,張峻銘,Tsun Ming Cheung,nthu-cs,1,False,54,39,0.7222222222222222,0.003140806652366198,Theory & Algorithms
+overall,nycu-info-mag-fin-黃宜侯-dbc03aa22c,黃宜侯,Alex YiHou Huang,nycu-info-mag-fin,1,False,81,71,0.8765432098765432,0.003138158417414793,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-taiyihuang-35a9a87e4f,黃泰一,Tai-Yi Huang,ntu-cs-ie | nycu-cs,2,True,176,81,0.4602272727272727,0.0031094061522281115,AI & Machine Learning
+overall,ntu-cs-ie-wenhuangcheng-8221ffdc39,鄭文皇,Wen-Huang Cheng,ntu-cs-ie | ntu-ds,2,True,271,198,0.7306273062730627,0.003055475768989712,AI & Machine Learning
+overall,ncku-cs-ie-蔣榮先-0acf9a388a,蔣榮先,dept. CSIE,ncku-cs-ie,1,False,190,162,0.8526315789473684,0.002985443535217111,"Data, Databases & Knowledge Discovery"
+overall,ntu-cs-ie-yenhuanli-d344991808,李彥寰,Yen-Huan Li,ntu-cs-ie,1,False,182,157,0.8626373626373627,0.0029608527820969236,Statistics & Statistical Methods
+overall,ntu-econ-李怡庭-876e01e588,李怡庭,Yiting Li,ntu-econ,1,False,64,47,0.734375,0.002875983157225709,Asset Pricing & Financial Markets
+overall,nthu-cs-李哲榮-722a84d1c8,李哲榮,nan,nthu-cs,1,False,44,36,0.8181818181818182,0.002833611398003231,Applied Mathematics & Operations Research
+overall,nycu-cs-yipingyou-26eb6eb15e,游逸平,Yi-Ping You,nycu-cs,1,False,94,66,0.7021276595744681,0.002776863506187412,"Systems, Software & Architecture"
+overall,ncku-stats-ds-王婉倫-fe18c219d3,王婉倫,Wan-Lun Wang,ncku-stats-ds,1,False,48,23,0.4791666666666667,0.002764757289266705,Statistics & Statistical Methods
+overall,ncku-cs-ie-陳朝鈞-4db96ee2d8,陳朝鈞,dept. CSIE,ncku-cs-ie,1,False,202,174,0.8613861386138614,0.0027080093974508846,"Data, Databases & Knowledge Discovery"
+overall,ntu-cs-ie-shangtsechen-68ade9cf16,陳尚澤,Shang-Tse Chen,ntu-cs-ie | ntu-ds,2,True,207,148,0.714975845410628,0.002684074397747235,AI & Machine Learning
+overall,nthu-cs-鍾葉青-fb3791172c,鍾葉青,Yeh-Ching Chung,nthu-cs,1,False,117,98,0.8376068376068376,0.0026205167589135174,Networks & Communications
+overall,nycu-cs-kouyuanhuang-85a556603b,黃國源,Kou-Yuan Huang,nycu-cs,1,False,166,119,0.7168674698795181,0.0025640799296158,AI & Machine Learning
+overall,nycu-info-mag-fin-謝文良-ec8ba7b6cf,謝文良,Wen-Liang Hsieh,nycu-info-mag-fin,1,False,78,68,0.8717948717948718,0.002521119673737454,Asset Pricing & Financial Markets
+overall,ncku-cs-ie-蔡佩璇-e67950ad08,蔡佩璇,dept. CSIE,ncku-cs-ie,1,False,82,61,0.7439024390243902,0.002465506739757951,"Systems, Software & Architecture"
+overall,nycu-cs-lihsingyen-ede27140ba,嚴力行,Li-Hsing Yen,nycu-cs,1,False,92,66,0.717391304347826,0.002399653963966351,Networks & Communications
+overall,nycu-info-mag-fin-陳耀宗-5cb5b0b06f,陳耀宗,Yao-Tsung Chen,nycu-info-mag-fin,1,False,188,180,0.9574468085106383,0.0023561724681928067,AI & Machine Learning
+overall,nthu-cs-周志遠-5af43e1b90,周志遠,nan,nthu-cs,1,False,71,56,0.7887323943661971,0.0023198538174306824,"Systems, Software & Architecture"
+overall,ntu-ds-wangchienyao-f1c3a0bfd6,王建堯,"Wang, Chien Yao",ntu-ds,1,False,196,170,0.8673469387755102,0.0022889220936809715,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-stats-ds-許秀麗-975216e01f,許秀麗,nan,ncku-stats-ds,1,False,55,34,0.6181818181818182,0.00225894441354837,Statistics & Statistical Methods
+overall,ntu-ds-gaspardbernard-b86127ba99,柏嘉偲,Gaspard Bernard,ntu-ds,1,False,45,39,0.8666666666666667,0.002208627949471677,Statistics & Statistical Methods
+overall,nycu-cs-wenhsiangtsai-6d30bccf0e,蔡文祥,Wen-Hsiang Tsai,nycu-cs,1,False,194,136,0.7010309278350515,0.002149484035556968,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-cs-ie-jiefanchang-fcddfe88b0,張傑帆,Jie-Fan Chang,ntu-cs-ie,1,False,183,146,0.7978142076502732,0.002146031872138172,AI & Machine Learning
+overall,ntu-econ-李宗穎-b1fed3d112,李宗穎,Chung-Ying Lee,ntu-econ,1,False,49,21,0.42857142857142855,0.002115939726172506,Economics & Policy
+overall,nycu-cs-chungpingchung-e03e9cf670,鍾崇斌,Chung-Ping Chung,nycu-cs,1,False,109,74,0.6788990825688074,0.002056089616270756,"Systems, Software & Architecture"
+overall,ntu-cs-ie-wchsu-26f450013c,徐慰中,Wei-Chung Hsu,ntu-cs-ie,1,False,107,87,0.8130841121495327,0.0020479683624197802,"Systems, Software & Architecture"
+overall,ncku-cs-ie-李家岩-10568c76d0,李家岩,dept. CSIE,ncku-cs-ie | ntu-im,2,True,100,76,0.76,0.0020232515028733348,Applied Mathematics & Operations Research
+overall,nycu-cs-wennungtsai-e203bf6296,蔡文能,Wen-Nung Tsai,nycu-cs,1,False,148,96,0.6486486486486487,0.002013541308051517,Networks & Communications
+overall,ncku-cs-ie-吳宗憲-3e336d616f,吳宗憲,dept. CSIE,ncku-cs-ie,1,False,236,207,0.8771186440677966,0.0019584075784917923,AI & Machine Learning
+overall,nycu-cs-shenghsuanlin-e373817af9,林聖軒,Sheng-Hsuan Lin,nycu-cs,1,False,45,37,0.8222222222222222,0.0017674320065676217,Statistics & Statistical Methods
+overall,ncku-cs-ie-洪昌鈺-66a7357cbf,洪昌鈺,dept. CSIE,ncku-cs-ie,1,False,225,192,0.8533333333333334,0.0016398711528607453,AI & Machine Learning
+overall,ncku-stats-ds-趙昌泰-c9b9a4a18b,趙昌泰,Chang-Tai Chao,ncku-stats-ds,1,False,78,53,0.6794871794871795,0.0016339609650168163,Statistics & Statistical Methods
+overall,nycu-cs-pingchunhsieh-65450d0a77,謝秉均,Ping-Chun Hsieh,nycu-cs,1,False,196,139,0.7091836734693877,0.0016313127300654113,AI & Machine Learning
+overall,nycu-cs-jenqnenghwang-d231fe3af3,黃正能,Jenq-Neng Hwang,nycu-cs,1,False,159,108,0.6792452830188679,0.0015951201857295444,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-econ-朴聖民-100e67fe5b,朴聖民,nan,ntu-econ,1,False,66,39,0.5909090909090909,0.0015862927358915283,Economics & Policy
+overall,nycu-cs-yulinwei-c6e4aed5d0,魏佑霖,Yu-Lin Wei,nycu-cs,1,False,192,124,0.6458333333333334,0.0015659896012640907,AI & Machine Learning
+overall,ncku-cs-ie-陳怡君-1ef245e216,陳怡君,dept. CSIE,ncku-cs-ie,1,False,213,184,0.863849765258216,0.0015412286044684557,AI & Machine Learning
+overall,ncku-cs-ie-涂嘉恒-664695302c,涂嘉恒,dept. CSIE,ncku-cs-ie,1,False,117,101,0.8632478632478633,0.0015347404288375132,"Systems, Software & Architecture"
+overall,ntu-im-黃意婷-dd1ec1a025,黃意婷,Yi-Ting Huang,ntu-im,1,False,169,160,0.9467455621301775,0.0014861894547284237,AI & Machine Learning
+overall,ntu-ds-leeyuhjye-a5b58ea312,李育杰,"Lee, Yuh-Jye",ntu-ds,1,False,188,158,0.8404255319148937,0.0014713088964300532,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-chunfengwu-749fae2324,吳俊峯,Chun-Feng Wu,nycu-cs,1,False,181,121,0.6685082872928176,0.0014674752610718293,"Systems, Software & Architecture"
+overall,nycu-cs-denniswang-ad355464b4,王邦任,Dennis Wang,nycu-cs,1,False,71,51,0.7183098591549296,0.0014671221630783084,Biomedical & Health Informatics
+overall,ntu-im-彭志宏-82251610cf,彭志宏,Chih-Hung PENG,ntu-im,1,False,47,44,0.9361702127659575,0.0014618256931754985,Information Systems & Management
+overall,nthu-cs-王家祥-79b45fac37,王家祥,Jia-Shung Wang,nthu-cs,1,False,237,195,0.8227848101265823,0.0014459362834670691,AI & Machine Learning
+overall,nthu-cs-邱瀞德-99539b19ee,邱瀞德,Ching-Te Chiu,nthu-cs,1,False,164,132,0.8048780487804879,0.0014069936489893586,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-cs-ie-朱治平-67c971642a,朱治平,dept. CSIE,ncku-cs-ie,1,False,54,49,0.9074074074074074,0.001403564524244591,"Systems, Software & Architecture"
+overall,nthu-qf-韓傳祥-b9870472b6,韓傳祥,nan,nthu-qf,1,False,60,53,0.8833333333333333,0.0013929715844389714,Financial Engineering & Risk
+overall,nthu-cs-高宏宇-e0f4516945,高宏宇,Hung-Yu Kao,nthu-cs,1,False,174,159,0.9137931034482759,0.001372479290172148,AI & Machine Learning
+overall,ntu-im-盧信銘-ac737946aa,盧信銘,Hsin-Min Lu,ntu-im,1,False,167,161,0.9640718562874252,0.001320145123275337,AI & Machine Learning
+overall,ntu-cs-ie-高成炎-438b507e91,高成炎,Cheng-Yan Kao,ntu-cs-ie,1,False,57,46,0.8070175438596491,0.0012817457164799662,Biomedical & Health Informatics
+overall,nthu-cs-謝源-fe3951f144,謝源,Yuan Xie,nthu-cs,1,False,82,63,0.7682926829268293,0.001281745716479966,"Systems, Software & Architecture"
+overall,ncku-cs-ie-藍崑展-7a14274076,藍崑展,dept. CSIE,ncku-cs-ie,1,False,174,148,0.8505747126436781,0.001266234626050309,AI & Machine Learning
+overall,ntu-fin-管中閔-7ca9563996,管中閔,Chung-Ming Kuan,ntu-fin,1,False,55,52,0.9454545454545454,0.0012539392494902149,Economics & Policy
+overall,ncku-cs-ie-郭紘睿-51fb9a8466,郭紘睿,dept. CSIE,ncku-cs-ie,1,False,183,161,0.8797814207650273,0.0012300168604291906,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-chengkuanlin-542e57dc09,林政寬,Cheng-Kuan Lin,nycu-cs,1,False,177,112,0.632768361581921,0.0012282513704615875,AI & Machine Learning
+overall,nthu-cs-張俊盛-260bd4fef4,張俊盛,Jason S. Chang,nthu-cs,1,False,173,159,0.9190751445086706,0.001226384995352978,AI & Machine Learning
+overall,ncku-cs-ie-梁勝富-e5094cf8db,梁勝富,dept. CSIE,ncku-cs-ie,1,False,160,137,0.85625,0.001198767688002613,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-cs-ie-cwhsueh-17fce3b74f,薛智文,Chih-Wen Hsueh,ntu-cs-ie,1,False,69,50,0.7246376811594203,0.0011890574931807951,"Systems, Software & Architecture"
+overall,nccu-mb-林靖庭-0c65309b7a,林靖庭,: CHING-TING LIN,nccu-mb,1,False,90,79,0.8777777777777778,0.0011166724045090614,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-shhung-41c464eeb6,洪士灝,Shih-Hao Hung,ntu-cs-ie | ntu-ds,2,True,120,92,0.7666666666666667,0.0010894838590079713,"Systems, Software & Architecture"
+overall,ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6,貝蘇章,Soo-Chang Pei,ntu-comm-engin-ds-network,1,False,122,109,0.8934426229508197,0.0010857763300760044,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-tsaipeiwang-5b213dba86,王才沛,Tsaipei Wang,nycu-cs,1,False,166,119,0.7168674698795181,0.0010840108401084009,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-yitingchen-c0ac044810,陳奕廷,Yi-Ting Chen,nycu-cs,1,False,228,161,0.706140350877193,0.0010769047429887981,AI & Machine Learning
+overall,ntu-econ-蔡崇聖-b5b6a97658,蔡崇聖,Tsung-Sheng Tsai,ntu-econ,1,False,26,3,0.11538461538461539,0.001062824960497161,Economics & Policy
+overall,nycu-cs-albertchen-b778265b06,陳逸萍,Albert Chen,nycu-cs,1,False,76,53,0.6973684210526315,0.0010566457456105507,Networks & Communications
+overall,ntu-im-孔令傑-e559d7c758,孔令傑,Ling-Chieh Kung,ntu-im,1,False,44,40,0.9090909090909091,0.0010328116310479067,Applied Mathematics & Operations Research
+overall,ncku-cs-ie-孫永年-d48186d8af,孫永年,dept. CSIE,ncku-cs-ie,1,False,108,88,0.8148148148148148,0.001022218691242287,Biomedical & Health Informatics
+overall,nthu-cs-張正尚-0173f59db1,張正尚,Cheng-Shang Chang,nthu-cs,1,False,107,87,0.8130841121495327,0.0010116257514366674,Applied Mathematics & Operations Research
+overall,nthu-cs-陳宜欣-10568557fc,陳宜欣,Yi-Shin Chen,nthu-cs,1,False,136,118,0.8676470588235294,0.0010080947715014608,"Data, Databases & Knowledge Discovery"
+overall,ncku-cs-ie-張瑞紘-ce33f2a33f,張瑞紘,dept. CSIE,ncku-cs-ie,1,False,192,164,0.8541666666666666,0.001003239674090552,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-rueichuanchang-4b1a14c4a7,張瑞川,Ruei-Chuan Chang,nycu-cs,1,False,146,100,0.684931506849315,0.000995736341728238,Networks & Communications
+overall,nthu-qf-許博炫-19a6a7d0a1,許博炫,nan,nthu-qf,1,False,67,61,0.9104477611940298,0.0009692539922141893,Asset Pricing & Financial Markets
+overall,nthu-cs-金陽和-83ed0dbb2c,金陽和,Y.H. Chin,nthu-cs,1,False,101,77,0.7623762376237624,0.0009418888977163386,"Data, Databases & Knowledge Discovery"
+overall,ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,謝宏昀,Hung-Yun Hsieh,ntu-comm-engin-ds-network | ntu-ds,2,True,183,150,0.819672131147541,0.0008823036113097289,Networks & Communications
+overall,nthu-cs-朱宏國-642998a4aa,朱宏國,Hung-Kuo Chu,nthu-cs,1,False,160,135,0.84375,0.0008752416514393157,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-cs-ie-陳響亮-2fc0990050,陳響亮,dept. CSIE,ncku-cs-ie,1,False,178,151,0.848314606741573,0.0008723285929927702,AI & Machine Learning
+overall,nycu-info-mag-fin-蔡詩妤-e1db4b4746,蔡詩妤,Shih-Yu Tsai,nycu-info-mag-fin,1,False,200,197,0.985,0.0008474351844495644,AI & Machine Learning
+overall,ncku-cs-ie-郭耀煌-b4f08bae71,郭耀煌,dept. CSIE,ncku-cs-ie,1,False,229,200,0.8733624454148472,0.000831545774741135,AI & Machine Learning
+overall,nthu-cs-石維寬-b54c54300e,石維寬,Wei-Kuan Shih,nthu-cs,1,False,152,121,0.7960526315789473,0.0008288975397897302,"Systems, Software & Architecture"
+overall,ncku-stats-ds-楊欣洲-1132517e30,楊欣洲,Hsin-Chou Yang,ncku-stats-ds | ntu-ds,2,True,95,63,0.6631578947368421,0.0008161860120229867,Biomedical & Health Informatics
+overall,nccu-mb-朱浩民-b36900208d,朱浩民,: HAU-MIN CHU,nccu-mb,1,False,35,31,0.8857142857142857,0.0008050634252270861,Asset Pricing & Financial Markets
+overall,ntu-econ-江淳芳-727bf49f84,江淳芳,Chun-Fang Chiang,ntu-econ,1,False,26,3,0.11538461538461539,0.0008050634252270861,Economics & Policy
+overall,nycu-cs-jiunlonghuang-a091703505,黃俊龍,Jiun-Long Huang,nycu-cs,1,False,130,98,0.7538461538461538,0.0008050634252270861,"Data, Databases & Knowledge Discovery"
+overall,nccu-mb-楊曉文-bfe05b5d2b,楊曉文,: SHEAUWEN YANG,nccu-mb,1,False,53,46,0.8679245283018868,0.0007653399009560128,Financial Engineering & Risk
+overall,ntu-cs-ie-hwhon-8567f422b4,洪小文,Hsiao-Wuen Hon,ntu-cs-ie,1,False,156,125,0.8012820512820513,0.0007457429623156167,AI & Machine Learning
+overall,ncku-stats-ds-李國榮-1200a0959b,李國榮,Kuo-Jung Lee,ncku-stats-ds,1,False,93,73,0.7849462365591398,0.0007415057863933689,Statistics & Statistical Methods
+overall,nycu-cs-davidhungchangdu-fbf57e0d1d,杜宏章,David Hung-Chang Du,nycu-cs,1,False,121,84,0.6942148760330579,0.0007044304970737004,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-chyangoeichung-3589223c97,鍾乾癸,Chyan-Goei Chung,nycu-cs,1,False,65,43,0.6615384615384615,0.0006991340271708907,"Systems, Software & Architecture"
+overall,nycu-cs-yuhjyhhu-4321b6e2c8,胡毓志,Yuh-Jyh Hu,nycu-cs,1,False,229,163,0.7117903930131004,0.0006890386345379593,AI & Machine Learning
+overall,nthu-cs-沈之涯-d5bb9630d8,沈之涯,Chih-Ya Shen,nthu-cs,1,False,90,80,0.8888888888888888,0.000652789915521305,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-henryhorngshinglu-4a431c90e1,盧鴻興,Henry Horng-Shing Lu,nycu-cs,1,False,42,32,0.7619047619047619,0.0006461693281427928,Applied Mathematics & Operations Research
+overall,ntu-cs-ie-pjcheng-d0b6b668e5,鄭卜壬,Pu-Jen Cheng,ntu-cs-ie | ntu-ds,2,True,144,103,0.7152777777777778,0.0006370896654522618,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-tyneliang-16f83307e0,梁婷,Tyne Liang,nycu-cs,1,False,99,77,0.7777777777777778,0.0006181737015136555,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-rongjayechen-92010fa6b3,陳榮傑,Rong-Jaye Chen,nycu-cs,1,False,74,53,0.7162162162162162,0.0006170387436773391,Theory & Algorithms
+overall,ntu-fin-何耕宇-d2b3346e2a,何耕宇,Keng-Yu Ho,ntu-fin,1,False,91,70,0.7692307692307693,0.0006011493339689098,Asset Pricing & Financial Markets
+overall,ntu-ds-yehmiyen-560d12ebe9,葉彌妍,"Yeh, Mi-Yen",ntu-ds,1,False,209,175,0.8373205741626795,0.0005998813911739948,AI & Machine Learning
+overall,nycu-cs-fandellin-355296aa1b,林寰鐸,Fandel Lin,nycu-cs,1,False,227,162,0.7136563876651982,0.0005947110276974424,AI & Machine Learning
+overall,ntu-im-李根逸-da82e4a379,李根逸,Ken-Yi Lee,ntu-im,1,False,196,189,0.9642857142857143,0.0005809344738398524,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-ichenlin-6ba082f1de,林奕成,I-Chen Lin,nycu-cs,1,False,135,93,0.6888888888888889,0.0005793455328690094,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-stats-ds-張欣民-2a561caa4d,張欣民,Hsing-Ming Chang,ncku-stats-ds,1,False,152,146,0.9605263157894737,0.0005720187495034559,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-chulankao-a2f5f3a7bf,高竹嵐,Chu-Lan Kao,nycu-cs,1,False,49,40,0.8163265306122449,0.0005720187495034559,Statistics & Statistical Methods
+overall,ntu-cs-ie-yichiliao-7e93131d46,廖以圻,Yi-Chi Liao,ntu-cs-ie,1,False,198,160,0.8080808080808081,0.0005620815631143747,AI & Machine Learning
+overall,nycu-cs-weichingwang-636e5be695,王維菁,Wei-Ching Wang,nycu-cs,1,False,45,37,0.8222222222222222,0.0005545403988241839,Biomedical & Health Informatics
+overall,ntu-cs-ie-湯耀中-c089a7bc21,湯耀中,Gregory Y. Tang,ntu-cs-ie,1,False,144,115,0.7986111111111112,0.0005505806570397021,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-stats-ds-石瑜-38ea37cc03,石 瑜,Yu Shyr,ncku-stats-ds,1,False,40,27,0.675,0.0005481846349408119,Biomedical & Health Informatics
+overall,nycu-cs-shihkunhuang-b8c345a5b6,黃世昆,Shih-Kun Huang,nycu-cs,1,False,65,44,0.676923076923077,0.000524350520378168,"Security, Privacy & Cryptography"
+overall,nycu-cs-wenchiehlin-8b8d7a58a8,林文杰,Wen-Chieh Lin,nycu-cs,1,False,155,109,0.7032258064516129,0.000518436128986697,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-cs-ie-sdlin-d4d6f26c5f,林守德,Shou-De Lin,ntu-cs-ie | ntu-ds,2,True,161,109,0.6770186335403726,0.0005183157546707239,AI & Machine Learning
+overall,nthu-cs-徐爵民-eade3af147,徐爵民,Jyuo-Min Shyu,nthu-cs,1,False,77,61,0.7922077922077922,0.0005137575805725484,Applied Mathematics & Operations Research
+overall,nycu-cs-anziyen-c5e4ec36a0,顏安孜,An-Zi Yen,nycu-cs,1,False,213,152,0.7136150234741784,0.0005129000568739984,AI & Machine Learning
+overall,ntu-im-孫雅麗-3feed1b304,孫雅麗,Yeali Sun,ntu-im,1,False,156,147,0.9423076923076923,0.0004996336608317223,AI & Machine Learning
+overall,ntu-cs-ie-htlin-969f525d2d,林軒田,Hsuan-Tien Lin,ntu-cs-ie,1,False,184,149,0.8097826086956522,0.0004992805628382017,AI & Machine Learning
+overall,nycu-cs-chunyinghuang-8274c3d2d8,黃俊穎,Chun-Ying Huang,nycu-cs,1,False,140,96,0.6857142857142857,0.0004952199359127142,Networks & Communications
+overall,nycu-info-mag-fin-梁婉麗-9640195164,梁婉麗,Woan-lih Liang,nycu-info-mag-fin,1,False,69,62,0.8985507246376812,0.0004872752310584995,Corporate Finance & Governance
+overall,nthu-cs-李政崑-965a47032e,李政崑,Jenq-Kuen Lee,nthu-cs,1,False,106,89,0.839622641509434,0.00048374425112329304,"Systems, Software & Architecture"
+overall,ntu-cs-ie-cwlin-9895f94a62,林忠緯,Chung-Wei Lin,ntu-cs-ie,1,False,83,67,0.8072289156626506,0.000483744251123293,"Security, Privacy & Cryptography"
+overall,ntu-im-陳文賢-0756ac0f09,陳文賢,Wen-Hsien Chen,ntu-im,1,False,58,43,0.7413793103448276,0.00047668229125287997,Information Systems & Management
+overall,nthu-cs-許健平-128c6ac6ab,許健平,Jang-Ping Sheu,nthu-cs,1,False,89,73,0.8202247191011236,0.0004744754287933759,Networks & Communications
+overall,nycu-cs-yingpingchen-a268139c0e,陳穎平,Ying-Ping Chen,nycu-cs,1,False,180,133,0.7388888888888889,0.00046533271288971617,AI & Machine Learning
+overall,nthu-cs-郭柏志-70f6925e3a,郭柏志,Po-Chih Kuo,nthu-cs,1,False,225,202,0.8977777777777778,0.0004652318277487103,AI & Machine Learning
+overall,nccu-mb-羅秉政-7c7cc9688b,羅秉政,nan,nccu-mb,1,False,184,180,0.9782608695652174,0.00045549641164164086,AI & Machine Learning
+overall,nycu-cs-hsufenghsiao-a993ebeba6,蕭旭峰,Hsu-Feng Hsiao,nycu-cs,1,False,135,91,0.674074074074074,0.00045549641164164086,Networks & Communications
+overall,nthu-cs-葉肩宇-1907b9cbf9,葉肩宇,nan,nthu-cs,1,False,65,54,0.8307692307692308,0.0004449034718360213,"Security, Privacy & Cryptography"
+overall,nycu-cs-jimmyjmtan-32fa81395b,譚建民,Jimmy J.M. Tan,nycu-cs,1,False,82,63,0.7682926829268293,0.0004362021284242624,Theory & Algorithms
+overall,nycu-cs-weichenchiu-3caf4c9228,邱維辰,Wei-Chen Chiu,nycu-cs,1,False,176,129,0.7329545454545454,0.0004240318074035402,AI & Machine Learning
+overall,ncku-cs-ie-楊大和-2573461fc2,楊大和,dept. CSIE,ncku-cs-ie,1,False,55,52,0.9454545454545454,0.0004237175922247822,Applied Mathematics & Operations Research
+overall,ntu-im-莊裕澤-6aba42587c,莊裕澤,Yuh-Jzer Joung,ntu-im,1,False,54,44,0.8148148148148148,0.0004210693572733773,Information Systems & Management
+overall,ntu-econ-梁卓誠-81139af4f8,梁卓誠,Cheuk Shing Leung,ntu-econ,1,False,36,6,0.16666666666666666,0.00040782818251635283,Economics & Policy
+overall,ntu-econ-陳由常-b2ab5a0144,陳由常,Yu-Chang Chen,ntu-econ,1,False,44,20,0.45454545454545453,0.0004057095945552289,Economics & Policy
+overall,nccu-mb-廖四郎-dd4aa0acae,廖四郎,: SZU-LANG LIAO,nccu-mb,1,False,75,66,0.88,0.00040495926131899746,Financial Engineering & Risk
+overall,ncku-cs-ie-陳奇業-b11a06448d,陳奇業,dept. CSIE,ncku-cs-ie,1,False,108,92,0.8518518518518519,0.0004000600266588985,Theory & Algorithms
+overall,ntu-ds-chenjuncheng-090ef61af5,陳駿丞,"Chen, Jun-Cheng",ntu-ds,1,False,232,202,0.8706896551724138,0.0003920175893243344,AI & Machine Learning
+overall,nthu-cs-邱德泉-23a7d7b698,邱德泉,Te-Chuan Chiu,nthu-cs,1,False,135,122,0.9037037037037037,0.00039193877280792354,Networks & Communications
+overall,nycu-cs-wenchihpeng-e0f2cd052a,彭文志,Wen-Chih Peng,nycu-cs,1,False,233,172,0.7381974248927039,0.0003862066625234974,AI & Machine Learning
+overall,ncku-stats-ds-詹世煌-86dc72a847,詹世煌,Shih-Huang Chan,ncku-stats-ds,1,False,48,26,0.5416666666666666,0.0003760493630994942,Statistics & Statistical Methods
+overall,nthu-cs-麥偉基-5269f158c4,麥偉基,Wai-Kei Mak,nthu-cs,1,False,102,76,0.7450980392156863,0.00037529272454195,Applied Mathematics & Operations Research
+overall,ntu-econ-楊睿中-6c2f0e88ae,楊睿中,Jui-Chung Yang,ntu-econ,1,False,169,145,0.8579881656804734,0.0003654564232938746,Economics & Policy
+overall,ncku-cs-ie-蕭宏章-51709ab6b4,蕭宏章,dept. CSIE,ncku-cs-ie,1,False,74,65,0.8783783783783784,0.0003594537574040236,"Systems, Software & Architecture"
+overall,nycu-cs-yihlangli-b43ed401d1,李毅郎,Yih-Lang Li,nycu-cs,1,False,73,52,0.7123287671232876,0.0003522152485368502,"Systems, Software & Architecture"
+overall,nthu-cs-蘇豐文-f06969cec0,蘇豐文,nan,nthu-cs,1,False,168,151,0.8988095238095238,0.0003522152485368502,AI & Machine Learning
+overall,nycu-cs-wjtsai-821adecac2,蔡文錦,W. J. Tsai,nycu-cs,1,False,209,144,0.6889952153110048,0.00035221524853685013,AI & Machine Learning
+overall,ntu-cs-ie-jiehhsiang-90a6272e7f,項潔,Jieh Hsiang,ntu-cs-ie,1,False,123,99,0.8048780487804879,0.00034956701358544533,AI & Machine Learning
+overall,nccu-fin-張元晨-6d9fd8f19a,張元晨,: YUAN-CHEN CHANG,nccu-fin,1,False,65,46,0.7076923076923077,0.00033897407377982575,Corporate Finance & Governance
+overall,nthu-cs-徐正炘-8b568ce001,徐正炘,Cheng-Hsin Hsu,nthu-cs,1,False,137,110,0.8029197080291971,0.00033632583882842084,Networks & Communications
+overall,ntu-cs-ie-wcchen-ce7e66d156,陳文進,Wen-Chin Chen,ntu-cs-ie,1,False,132,104,0.7878787878787878,0.0003298944110892947,"Data, Databases & Knowledge Discovery"
+overall,nthu-cs-洪仕軒-a9fa041928,洪仕軒,Shih-Hsuan Hung,nthu-cs,1,False,86,74,0.8604651162790697,0.00031513995921718174,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-cs-ie-陳俊良-323382e455,陳俊良,Chuen-Liang Chen,ntu-cs-ie,1,False,60,47,0.7833333333333333,0.00031160897928197523,Biomedical & Health Informatics
+overall,nccu-fin-林則君-199ef589b3,林則君,Tse-Chun Lin,nccu-fin | ntu-fin,2,True,63,31,0.49206349206349204,0.0003045470194115622,Asset Pricing & Financial Markets
+overall,ntu-econ-許軒銘-45dfd20a6e,許軒銘,Shanon Hsuan-Ming Hsu,ntu-econ,1,False,21,2,0.09523809523809523,0.0003018987844601573,Economics & Policy
+overall,ntu-cs-ie-yychuang-14a2c6366c,莊永裕,Yung-Yu Chuang,ntu-cs-ie,1,False,122,97,0.7950819672131147,0.0003017969292697187,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-cs-ie-tshsu-28e268a2d5,徐讚昇,Tsan-Sheng Hsu,ntu-cs-ie,1,False,74,56,0.7567567567567568,0.0002913058446545378,Theory & Algorithms
+overall,ntu-comm-engin-ds-network-陳宏銘-9a7386a945,陳宏銘,Homer H. Chen,ntu-comm-engin-ds-network,1,False,182,169,0.9285714285714286,0.0002868921197355296,"Vision, Multimedia & Human-Centered Computing"
+overall,nccu-fin-周冠男-a15a6e7a1c,周冠男,: ROBIN K. CHOU,nccu-fin,1,False,81,61,0.7530864197530864,0.00028600937475172796,Asset Pricing & Financial Markets
+overall,nthu-cs-林桂傑-3eab7348de,林桂傑,Kwei-Jay Lin,nthu-cs | ntu-cs-ie,2,True,50,31,0.62,0.00028600937475172796,Information Systems & Management
+overall,nycu-cs-fengjianwang-d39029c5b2,王豐堅,Feng-Jian Wang,nycu-cs,1,False,42,29,0.6904761904761905,0.00028600937475172796,Networks & Communications
+overall,nycu-cs-hueinianhong-bfb4677fda,洪慧念,HUEI-NIAN HONG,nycu-cs,1,False,49,40,0.8163265306122449,0.00028600937475172796,Applied Mathematics & Operations Research
+overall,nycu-cs-jhihrongchen-063b4650df,陳志榮,JHIH-RONG CHEN,nycu-cs,1,False,38,31,0.8157894736842105,0.00028600937475172796,Statistics & Statistical Methods
+overall,ncku-cs-ie-吳明龍-2c420299df,吳明龍,dept. CSIE,ncku-cs-ie,1,False,206,179,0.8689320388349514,0.00028306689147238924,AI & Machine Learning
+overall,ntu-comm-engin-ds-network-黃寶儀-3684ae24b6,黃寶儀,Polly Huang,ntu-comm-engin-ds-network,1,False,135,122,0.9037037037037037,0.0002714440825190011,Networks & Communications
+overall,ncku-cs-ie-郭淑美-d7fac758d5,郭淑美,dept. CSIE,ncku-cs-ie,1,False,247,216,0.8744939271255061,0.0002663367722555774,AI & Machine Learning
+overall,nycu-cs-philipsyu-32aa417b88,俞士綸,Philip S. Yu,nycu-cs,1,False,109,80,0.7339449541284404,0.00026614761261619133,"Data, Databases & Knowledge Discovery"
+overall,nthu-cs-王廷基-66e8de998a,王廷基,Ting-Chi Wang,nthu-cs,1,False,93,68,0.7311827956989247,0.00026482349514048885,"Robotics, Control & Smart Manufacturing"
+overall,nthu-cs-劉炯朗-714cd73f70,劉炯朗,nan,nthu-cs,1,False,93,68,0.7311827956989247,0.00026482349514048885,"Robotics, Control & Smart Manufacturing"
+overall,nycu-cs-saikeungwong-f96a50c8c1,黃世強,Sai-Keung Wong,nycu-cs,1,False,86,59,0.686046511627907,0.0002595270252376791,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-cs-羅婈-fdd893b309,羅婈,Ling Lo,nthu-cs,1,False,162,145,0.8950617283950617,0.0002449617330049522,AI & Machine Learning
+overall,ncku-stats-ds-wengkeewong-5482e739e7,Weng Kee Wong,Weng Kee Wong,ncku-stats-ds,1,False,50,22,0.44,0.00023410396970419245,Statistics & Statistical Methods
+overall,nycu-cs-liweichan-cb049f6bb6,詹力韋,Liwei Chan,nycu-cs,1,False,56,38,0.6785714285714286,0.00023216193073982854,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-cs-ie-yjtseng-dc282d14ca,曾宇鳳,Yufeng Jane Tseng,ntu-cs-ie,1,False,63,53,0.8412698412698413,0.00022774820582082043,Biomedical & Health Informatics
+overall,ntu-cs-ie-lcfu-0a2a6d8908,傅立成,Li-Chen Fu,ntu-cs-ie,1,False,168,137,0.8154761904761905,0.00022774820582082043,AI & Machine Learning
+overall,nthu-cs-張韻詩-a94b4eca78,張韻詩,nan,nthu-cs,1,False,73,59,0.8082191780821918,0.00022245173591801064,"Systems, Software & Architecture"
+overall,nthu-cs-賴尚宏-15f146b4f1,賴尚宏,Shang-Hong Lai,nthu-cs,1,False,122,103,0.8442622950819673,0.00021537619535553915,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-info-mag-fin-徐熊健-9290fbce28,徐熊健,Shyong Jian Shyu,nycu-info-mag-fin,1,False,97,96,0.9896907216494846,0.0002118587961123911,Biomedical & Health Informatics
+overall,nycu-cs-chihweiyi-09071093fb,易志偉,Chih-Wei Yi,nycu-cs,1,False,167,116,0.6946107784431138,0.0002118587961123911,AI & Machine Learning
+overall,nycu-cs-syho-4d3a7858ca,何信瑩,S.-Y. Ho,nycu-cs,1,False,123,84,0.6829268292682927,0.00020252692056934527,Biomedical & Health Informatics
+overall,ntu-econ-劉育辰-40b649c520,劉育辰,Yu-Chen Liu,ntu-econ,1,False,36,6,0.16666666666666666,0.00019332115145255686,Economics & Policy
+overall,ntu-econ-樊家忠-0d4e667fb7,樊家忠,Elliott Fan,ntu-econ,1,False,21,2,0.09523809523809523,0.00019067291650115198,Economics & Policy
+overall,nycu-cs-shiaolitsao-d45150ec07,曹孝櫟,Shiao-Li Tsao,nycu-cs,1,False,111,73,0.6576576576576577,0.0001880246815497471,Networks & Communications
+overall,nycu-cs-shiuhpyngshieh-cfcd6bedd1,謝續平,Shiuhpyng Shieh,nycu-cs,1,False,177,124,0.7005649717514124,0.0001818454666631357,AI & Machine Learning
+overall,ntu-fin-廖咸興-3f10a438b5,廖咸興,Hsien-Hsing Liao,ntu-fin,1,False,86,63,0.7325581395348837,0.00018140409417123488,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-jsjang-bd821014e6,張智星,Jyh-Shing Roger Jang,ntu-cs-ie,1,False,141,112,0.7943262411347518,0.00017654899676032592,AI & Machine Learning
+overall,ntu-fin-賴淑青-e9105e48ac,賴淑青,Sandy Lai,ntu-fin,1,False,78,57,0.7307692307692307,0.00017390076180892104,Asset Pricing & Financial Markets
+overall,nccu-mb-林建秀-7e10d6c7e3,林建秀,: CHIEN-HSIU LIN,nccu-mb,1,False,76,67,0.881578947368421,0.00016816291941421045,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-wmyan-d6a9dcb9ff,顏文明,Wen-Ming Yan,ntu-cs-ie,1,False,128,103,0.8046875,0.000166838801938508,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-chunshuwei-bd7c6c6cbb,魏群樹,Chun-Shu Wei,nycu-cs,1,False,183,129,0.7049180327868853,0.00016524986096766504,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-fin-陳宜廷-dc86876d95,陳宜廷,Yi-Ting Chen,ntu-fin,1,False,38,36,0.9473684210526315,0.00016286644951140066,Economics & Policy
+overall,nycu-cs-baoshuhpaullin-f45b49177f,林寶樹,Bao-Shuh Paul Lin,nycu-cs,1,False,129,91,0.7054263565891473,0.00015465692116204552,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-chiyuli-f64e0331c5,李奇育,CHI-YU LI,nycu-cs,1,False,89,59,0.6629213483146067,0.00015359762718148353,Networks & Communications
+overall,nycu-info-mag-fin-黃星華-06752d69a5,黃星華,Hsing-Hua Huang,nycu-info-mag-fin,1,False,77,65,0.8441558441558441,0.00015183213721388028,Financial Engineering & Risk
+overall,nthu-cs-蔡明哲-9d609636c8,蔡明哲,Ming-Jer Tsai,nthu-cs,1,False,99,76,0.7676767676767676,0.00015006664724627702,Theory & Algorithms
+overall,nycu-cs-ciouyuanchen-19348dd8be,陳秋媛,CIOU-YUAN CHEN,nycu-cs,1,False,99,68,0.6868686868686869,0.00015006664724627702,Theory & Algorithms
+overall,nthu-qf-余士迪-fee4dd1609,余士迪,nan,nthu-qf,1,False,74,63,0.8513513513513513,0.0001456529223272689,Corporate Finance & Governance
+overall,ntu-cs-ie-yaowenchang-e8bf92777c,張耀文,Yao-Wen Chang,ntu-cs-ie | ntu-ds,2,True,136,99,0.7279411764705882,0.00014300468737586398,AI & Machine Learning
+overall,nthu-qf-張焯然-be6ae873ff,張焯然,nan,nthu-qf,1,False,61,55,0.9016393442622951,0.00013770821747305422,Financial Engineering & Risk
+overall,ntu-cs-ie-hsuanchenghuang-4a05bef87b,黃宣誠,Hsuan-Cheng Huang,ntu-cs-ie,1,False,100,83,0.83,0.00013241174757024443,Biomedical & Health Informatics
+overall,nthu-qf-鍾經樊-def35bacad,鍾經樊,nan,nthu-qf,1,False,63,50,0.7936507936507936,0.00012777733640528588,Financial Engineering & Risk
+overall,nthu-qf-曾祺峰-0159aadf46,曾祺峰,nan,nthu-qf,1,False,63,50,0.7936507936507936,0.00012777733640528588,Financial Engineering & Risk
+overall,ncku-cs-ie-李強-64dafeaed4,李強,dept. CSIE,ncku-cs-ie,1,False,155,129,0.832258064516129,0.00012446704271602976,AI & Machine Learning
+overall,nthu-cs-吳尚鴻-69aaff2ef5,吳尚鴻,Shan-Hung Wu,nthu-cs,1,False,184,166,0.9021739130434783,0.00012367257223060832,"Data, Databases & Knowledge Discovery"
+overall,ntu-fin-陳聖賢-7059d0af03,陳聖賢,Sheng-Syan Chen,ntu-fin,1,False,75,54,0.72,0.00011822477461628966,Corporate Finance & Governance
+overall,nycu-cs-chuentsaisun-1084a4d050,孫春在,Chuen-Tsai Sun,nycu-cs,1,False,126,90,0.7142857142857143,0.0001165223378618151,AI & Machine Learning
+overall,nycu-cs-hsiluchao-8cc2ec929a,趙禧綠,Hsi-Lu Chao,nycu-cs,1,False,52,34,0.6538461538461539,0.00011334445592012925,Networks & Communications
+overall,nthu-cs-金仲達-87bd908f7e,金仲達,Chung-Ta King,nthu-cs,1,False,80,66,0.825,0.00011122586795900532,Networks & Communications
+overall,nccu-mb-李桐豪-54fed609f6,李桐豪,: THOMAS LEE,nccu-mb,1,False,92,81,0.8804347826086957,0.00011122586795900532,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-cjlin-c23da9cccb,林智仁,CJ Lin,ntu-cs-ie,1,False,188,154,0.8191489361702128,0.00010746789645653556,AI & Machine Learning
+overall,ncku-cs-ie-賀保羅-e1c2c5fbfe,賀保羅,dept. CSIE,ncku-cs-ie,1,False,181,155,0.856353591160221,0.00010592939805619554,AI & Machine Learning
+overall,nycu-cs-hsinchiafu-9c15fb612b,傅心家,Hsin-Chia Fu,nycu-cs,1,False,225,155,0.6888888888888889,0.00010592939805619554,AI & Machine Learning
+overall,ntu-cs-ie-fplai-2ea339a83a,賴飛羆,Feipei Lai,ntu-cs-ie,1,False,77,65,0.8441558441558441,0.00010592939805619554,Biomedical & Health Informatics
+overall,nycu-cs-yusungwu-377df1bd69,吳育松,Yu-Sung Wu,nycu-cs,1,False,83,55,0.6626506024096386,0.00010592939805619553,"Security, Privacy & Cryptography"
+overall,nthu-qf-索樂晴-9b18bc7ea3,索樂晴,nan,nthu-qf,1,False,71,62,0.8732394366197183,9.886743818578251e-05,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-cfchou-e60f76bba3,周承復,Cheng-Fu Chou,ntu-cs-ie,1,False,193,154,0.7979274611398963,9.710194821817926e-05,AI & Machine Learning
+overall,nycu-cs-suhyinlee-86023df5c6,李素瑛,Suh-Yin Lee,nycu-cs,1,False,129,91,0.7054263565891473,9.68497353656645e-05,"Data, Databases & Knowledge Discovery"
+overall,nthu-cs-wenlianhsu-baee37b511,Wen-Lian Hsu,Wen-Lian Hsu,nthu-cs,1,False,53,46,0.8679245283018868,9.533645825057599e-05,AI & Machine Learning
+overall,nthu-cs-孫宏民-ae6348d2b8,孫宏民,Hung-Min Sun,nthu-cs,1,False,169,151,0.893491124260355,9.136410582346866e-05,"Security, Privacy & Cryptography"
+overall,nccu-fin-邱健嘉-961599f1d4,邱健嘉,: Jian-Jia Chiou,nccu-fin,1,False,54,37,0.6851851851851852,8.777007267513344e-05,Corporate Finance & Governance
+overall,nycu-cs-yuchihchen-7ab9bc53da,陳昱芝,Yu-Chih Chen,nycu-cs,1,False,213,149,0.6995305164319249,8.765972955215822e-05,AI & Machine Learning
+overall,ntu-fin-蕭湛東-be0195ff06,蕭湛東,Lawrence Hsiao,ntu-fin,1,False,166,155,0.9337349397590361,8.474351844495644e-05,AI & Machine Learning
+overall,nycu-cs-chencheng-ff117c41c9,陳正,Chen Cheng,nycu-cs,1,False,58,42,0.7241379310344828,8.262493048383252e-05,"Systems, Software & Architecture"
+overall,nycu-cs-yijutseng-7702f61163,曾意儒,Yi-Ju Tseng,nycu-cs,1,False,183,132,0.7213114754098361,7.944704854214666e-05,AI & Machine Learning
+overall,nycu-cs-zenchen-ab4e753f4d,陳稔,Zen Chen,nycu-cs,1,False,103,72,0.6990291262135923,7.856430355834503e-05,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-tsungtaiyeh-aed61de71c,葉宗泰,Tsung-Tai Yeh,nycu-cs,1,False,126,84,0.6666666666666666,7.679881359074177e-05,AI & Machine Learning
+overall,ncku-cs-ie-程芙茵-643e2a7add,程芙茵,dept. CSIE,ncku-cs-ie,1,False,125,107,0.856,7.62691666004608e-05,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-comm-engin-ds-network-鄭士康-08dd5999fd,鄭士康,Shyh-Kang Jeng,ntu-comm-engin-ds-network,1,False,194,178,0.9175257731958762,7.591606860694014e-05,AI & Machine Learning
+overall,ntu-comm-engin-ds-network-李宏毅-617adf302c,李宏毅,Hung-yi Lee,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,3,True,139,87,0.6258992805755396,7.415057863933688e-05,AI & Machine Learning
+overall,ntu-cs-ie-weichaochen-820145e009,陳維超,Wei-Chao Chen,ntu-cs-ie,1,False,196,158,0.8061224489795918,7.415057863933688e-05,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-ds-kulunwei-57dc39df53,古倫維,"Ku, Lun-Wei",ntu-ds | nycu-cs,2,True,157,83,0.5286624203821656,7.175455654044675e-05,AI & Machine Learning
+overall,ntu-econ-陳旭昇-a9164bcf1e,陳旭昇,Shiu-Sheng Chen,ntu-econ,1,False,45,29,0.6444444444444445,7.150234368793199e-05,Asset Pricing & Financial Markets
+overall,ncku-cs-ie-莊坤達-5600c1346e,莊坤達,dept. CSIE,ncku-cs-ie,1,False,100,87,0.87,7.017822621222955e-05,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-hsiuyingwang-b0710cdb64,王秀瑛,Hsiu-Ying Wang,nycu-cs,1,False,70,55,0.7857142857142857,6.541140329970075e-05,Statistics & Statistical Methods
+overall,nycu-cs-shuohanchen-e41f1e1a0b,陳碩漢,Shuo-Han Chen,nycu-cs,1,False,68,45,0.6617647058823529,6.498264145042568e-05,"Systems, Software & Architecture"
+overall,nycu-cs-tingluhuang-7bb71e262e,黃廷祿,Ting-Lu Huang,nycu-cs,1,False,97,67,0.6907216494845361,6.355763883371733e-05,Networks & Communications
+overall,nycu-info-mag-fin-林瑞嘉-9b5e92d792,林瑞嘉,Jui-Chia Lin,nycu-info-mag-fin,1,False,72,62,0.8611111111111112,6.355763883371733e-05,Corporate Finance & Governance
+overall,nthu-qf-蔡子晧-d1c931b9aa,蔡子晧,nan,nthu-qf,1,False,53,48,0.9056603773584906,6.355763883371733e-05,Financial Engineering & Risk
+overall,ntu-comm-engin-ds-network-王鈺強-43bfbd0d23,王鈺強,Yu-Chiang Frank Wang,ntu-comm-engin-ds-network,1,False,213,195,0.9154929577464789,6.031355101824635e-05,AI & Machine Learning
+overall,nycu-cs-yenyulin-5a92a30687,林彥宇,Yen-Yu Lin,nycu-cs,1,False,213,149,0.6995305164319249,6.031355101824635e-05,AI & Machine Learning
+overall,ntu-fin-張森林-1b507984fb,張森林,San-Lin Chung,ntu-fin,1,False,57,41,0.7192982456140351,5.8923227668758776e-05,Financial Engineering & Risk
+overall,ntu-econ-高恩琵-a49ecd70d7,高恩琵,Ko Eunbi,ntu-econ,1,False,36,6,0.16666666666666666,5.649567896330429e-05,Economics & Policy
+overall,ntu-econ-小松利明-e63776cdd7,小松利明,nan,ntu-econ,1,False,36,6,0.16666666666666666,5.649567896330429e-05,Economics & Policy
+overall,ntu-econ-toshiakikomatsu-2c1f940cc4,Toshiaki Komatsu,Toshiaki Komatsu,ntu-econ,1,False,36,6,0.16666666666666666,5.649567896330429e-05,Economics & Policy
+overall,nccu-fin-岳夢蘭-8f45cf7ffd,岳夢蘭,: MENG-LAN YUEH,nccu-fin,1,False,39,34,0.8717948717948718,5.627499271735389e-05,Financial Engineering & Risk
+overall,nycu-cs-guanhuahuang-c739eb01e5,黃冠華,GUAN-HUA HUANG,nycu-cs,1,False,40,30,0.75,5.296469902809777e-05,Biomedical & Health Informatics
+overall,ncku-stats-ds-呂金河-421da4de18,呂金河,nan,ncku-stats-ds,1,False,21,3,0.14285714285714285,5.296469902809777e-05,Statistics & Statistical Methods
+overall,nccu-fin-陳鴻毅-7cb1ac41d1,陳鴻毅,: HONG-YI CHEN,nccu-fin,1,False,70,51,0.7285714285714285,5.164058155239533e-05,Asset Pricing & Financial Markets
+overall,nccu-fin-屠美亞-825b95159f,屠美亞,: MIA TWU,nccu-fin,1,False,58,41,0.7068965517241379,5.119920906049451e-05,Corporate Finance & Governance
+overall,ncku-stats-ds-吳致杰-e83801110c,吳致杰,nan,ncku-stats-ds,1,False,45,22,0.4888888888888889,4.872752310584994e-05,Biomedical & Health Informatics
+overall,ntu-comm-engin-ds-network-王奕翔-e163a124b7,王奕翔,I-Hsiang Wang,ntu-comm-engin-ds-network,1,False,64,54,0.84375,4.7668229125287996e-05,Networks & Communications
+overall,ntu-ds-wangchihyu-3933d444d6,王志宇,"Wang, Chih-Yu",ntu-ds,1,False,144,124,0.8611111111111112,4.7668229125287996e-05,Networks & Communications
+overall,ntu-ds-tsaoyu-b589dcdd49,曹昱,"Tsao, Yu",ntu-ds,1,False,101,84,0.8316831683168316,4.7668229125287996e-05,AI & Machine Learning
+overall,nycu-cs-yulunliu-3663ddf7cc,劉育綸,Yu-Lun Liu,nycu-cs,1,False,166,119,0.7168674698795181,4.268597440123618e-05,AI & Machine Learning
+overall,nccu-fin-盧敬植-91799a8b46,盧敬植,: CHING-CHIH LU,nccu-fin,1,False,64,55,0.859375,4.237175922247822e-05,Asset Pricing & Financial Markets
+overall,ntu-fin-林姿婷-fdcec17cd0,林姿婷,Tzu-Ting Lin,ntu-fin,1,False,68,49,0.7205882352941176,4.237175922247822e-05,Corporate Finance & Governance
+overall,nccu-fin-林基煌-c8b22f6f53,林基煌,: CHI-HUANG LIN,nccu-fin,1,False,86,66,0.7674418604651163,4.19303867305774e-05,Asset Pricing & Financial Markets
+overall,nycu-cs-landavan-4c6441da0d,范倫達,Lan-Da Van,nycu-cs,1,False,201,145,0.7213930348258707,4.1665563235436916e-05,AI & Machine Learning
+overall,ntu-cs-ie-hhchu-844927e4cf,朱浩華,Hao-Hua Chu,ntu-cs-ie,1,False,78,64,0.8205128205128205,3.707528931966844e-05,Networks & Communications
+overall,ntu-fin-劉博瑀-e3648c529a,劉博瑀,Po-Yu Liu,ntu-fin,1,False,75,54,0.72,3.707528931966844e-05,Corporate Finance & Governance
+overall,ntu-ds-changronaldy-a78313ae63,張佑榕,"Chang, Ronald Y.",ntu-ds,1,False,131,116,0.8854961832061069,3.4427054368263554e-05,Networks & Communications
+overall,nccu-mb-趙世偉-bb0dcdcc7f,趙世偉,: SHIH-WEI CHAO,nccu-mb,1,False,57,52,0.9122807017543859,3.4427054368263554e-05,Asset Pricing & Financial Markets
+overall,ncku-cs-ie-黃宗立-8fb86fbadf,黃宗立,dept. CSIE,ncku-cs-ie,1,False,57,55,0.9649122807017544,3.345603488608175e-05,"Security, Privacy & Cryptography"
+overall,ncku-cs-ie-陳培殷-4e3ee76964,陳培殷,dept. CSIE,ncku-cs-ie,1,False,143,118,0.8251748251748252,3.1778819416858666e-05,AI & Machine Learning
+overall,nccu-fin-謝沛霖-e1729f4ebf,謝沛霖,: Pei-Lin Hsieh,nccu-fin,1,False,59,49,0.8305084745762712,3.1778819416858666e-05,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-acpang-9884f42033,逄愛君,Ai-Chun Pang,ntu-cs-ie,1,False,159,135,0.8490566037735849,3.1778819416858666e-05,Networks & Communications
+overall,ncku-stats-ds-嵇允嬋-5dd8a77c5a,嵇允嬋,Yun-Chan Chi,ncku-stats-ds,1,False,30,7,0.23333333333333334,3.1778819416858666e-05,Statistics & Statistical Methods
+overall,ntu-econ-sungminpark-469370a4d3,Sungmin Park,Sungmin Park,ntu-econ,1,False,61,38,0.6229508196721312,3.1778819416858666e-05,Asset Pricing & Financial Markets
+overall,nycu-cs-yongshengchen-0447e10db7,陳永昇,Yong-Sheng Chen,nycu-cs,1,False,108,78,0.7222222222222222,3.045470194115622e-05,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-ds-linjenchun-7e473e6695,林仁俊,"Lin, Jen-Chun",ntu-ds,1,False,225,195,0.8666666666666667,2.966023145573475e-05,AI & Machine Learning
+overall,nycu-cs-markliao-3ab99628be,廖弘源,Mark Liao,nycu-cs,1,False,225,155,0.6888888888888889,2.966023145573475e-05,AI & Machine Learning
+overall,ntu-ds-maweiyun-d303532c6d,馬偉雲,"Ma, Wei-Yun",ntu-ds,1,False,139,112,0.8057553956834532,2.921885896383394e-05,AI & Machine Learning
+overall,ntu-cs-ie-csshih-6714f0cdd0,施吉昇,Chi-Sheng Shih,ntu-cs-ie,1,False,46,35,0.7608695652173914,2.9130584465453774e-05,"Systems, Software & Architecture"
+overall,ntu-fin-陳彥行-8829488460,陳彥行,Yan-Shing Chen,ntu-fin,1,False,48,36,0.75,2.9130584465453774e-05,Financial Engineering & Risk
+overall,nycu-info-mag-fin-李漢星-9c9e73434e,李漢星,Han-Hsing Lee,nycu-info-mag-fin,1,False,61,52,0.8524590163934426,2.9130584465453774e-05,Asset Pricing & Financial Markets
+overall,ntu-econ-joonkyohong-abba80fbe9,Joonkyo Hong,Joonkyo Hong,ntu-econ,1,False,10,1,0.1,2.780646698975133e-05,Economics & Policy
+overall,ntu-econ-洪俊教-348bf31cd5,洪俊教,nan,ntu-econ,1,False,10,1,0.1,2.780646698975133e-05,Economics & Policy
+overall,ntu-econ-蘇軒立-87d57366a0,蘇軒立,Hsuan-Li Su,ntu-econ,1,False,57,39,0.6842105263157895,2.6482349514048886e-05,Asset Pricing & Financial Markets
+overall,nccu-fin-吳啟銘-0eb39621fc,吳啟銘,: CHI-MING WU,nccu-fin,1,False,92,73,0.7934782608695652,2.6482349514048886e-05,Corporate Finance & Governance
+overall,ncku-stats-ds-鄧浩陽-56bcccee94,鄧浩陽,Hao Yang Teng,ncku-stats-ds,1,False,136,129,0.9485294117647058,2.6482349514048886e-05,AI & Machine Learning
+overall,ntu-cs-ie-mslee-a3c2ec9374,李明穗,Ming-Sui Lee,ntu-cs-ie,1,False,122,97,0.7950819672131147,2.4716859546445625e-05,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-qf-蔡怡純-bc1e0b3659,蔡怡純,nan,nthu-qf,1,False,50,43,0.86,2.4716859546445625e-05,Asset Pricing & Financial Markets
+overall,ncku-stats-ds-陳瑞彬-f146defa8b,陳瑞彬,Ray-Bing Chen,ncku-stats-ds,1,False,28,8,0.2857142857142857,2.3834114562643998e-05,Statistics & Statistical Methods
+overall,nycu-cs-mariacyuang-0b248f4f96,楊啟瑞,Maria C. Yuang,nycu-cs,1,False,66,44,0.6666666666666666,2.118587961123911e-05,Networks & Communications
+overall,nthu-cs-陳耘志-1b3b5d7ab0,陳耘志,Yun-Chih Chen,nthu-cs,1,False,29,24,0.8275862068965517,2.118587961123911e-05,"Data, Databases & Knowledge Discovery"
+overall,ncku-cs-ie-鄭芳田-7403af351c,鄭芳田,dept. CSIE,ncku-cs-ie,1,False,32,27,0.84375,2.118587961123911e-05,"Robotics, Control & Smart Manufacturing"
+overall,ntu-fin-林岳祥-60b88640bb,林岳祥,Yueh-Hsiang Lin,ntu-fin,1,False,78,57,0.7307692307692307,1.9861762135536665e-05,Asset Pricing & Financial Markets
+overall,nccu-mb-黃台心-e46c71fea9,黃台心,: TAI-HSIN HUANG,nccu-mb,1,False,44,41,0.9318181818181818,1.90672916501152e-05,Economics & Policy
+overall,ntu-econ-駱明慶-49f94e80de,駱明慶,Ming-Ching Luoh,ntu-econ,1,False,44,20,0.45454545454545453,1.90672916501152e-05,Economics & Policy
+overall,ntu-econ-陳冠銘-e3634202cf,陳冠銘,Kuan-Ming Chen,ntu-econ,1,False,44,20,0.45454545454545453,1.90672916501152e-05,Economics & Policy
+overall,ntu-cs-ie-dingyonghong-722d8f7585,洪鼎詠,Ding-Yong Hong,ntu-cs-ie | ntu-ds,2,True,54,42,0.7777777777777778,1.853764465983422e-05,"Systems, Software & Architecture"
+overall,ncku-stats-ds-王義富-84941b85dc,王義富,Yi-Fu Wang,ncku-stats-ds,1,False,48,23,0.4791666666666667,1.853764465983422e-05,Statistics & Statistical Methods
+overall,ntu-ds-huangyennun-474cb98b48,黃彥男,"Huang, Yen-Nun",ntu-ds,1,False,108,97,0.8981481481481481,1.853764465983422e-05,Networks & Communications
+overall,ntu-comm-engin-ds-network-葉丙成-281ee85757,葉丙成,Ping-Cheng Yeh,ntu-comm-engin-ds-network | ntu-cs-ie,2,True,52,38,0.7307692307692307,1.853764465983422e-05,Networks & Communications
+overall,nycu-cs-wenhsiaopeng-09b23b8ea5,彭文孝,Wen-Hsiao Peng,nycu-cs,1,False,162,109,0.6728395061728395,1.7213527184131777e-05,AI & Machine Learning
+overall,nthu-cs-陳良弼-2847ebc1d7,陳良弼,Arbee L.P Chen,nthu-cs,1,False,183,169,0.9234972677595629,1.5889409708429333e-05,AI & Machine Learning
+overall,ntu-cs-ie-kmchao-a077c2e3e5,趙坤茂,Kun-Mao Chao,ntu-cs-ie,1,False,76,63,0.8289473684210527,1.588940970842933e-05,Biomedical & Health Informatics
+overall,nthu-cs-許聞廉-24d823b30b,許聞廉,nan,nthu-cs,1,False,76,58,0.7631578947368421,1.588940970842933e-05,Biomedical & Health Informatics
+overall,nthu-cs-唐傳義-7f081eb094,唐傳義,Chuan-Yi Tang,nthu-cs,1,False,76,58,0.7631578947368421,1.588940970842933e-05,Biomedical & Health Informatics
+overall,nycu-cs-chunjentsai-31585fceca,蔡淳仁,Chun-Jen Tsai,nycu-cs,1,False,106,73,0.6886792452830188,1.4123919740826072e-05,"Systems, Software & Architecture"
+overall,nycu-cs-tienfuchen-4c448823c1,陳添福,Tien-Fu Chen,nycu-cs,1,False,69,44,0.6376811594202898,1.3241174757024443e-05,"Systems, Software & Architecture"
+overall,ntu-fin-李賢源-f154346550,李賢源,Shyan-Yuan Lee,ntu-fin,1,False,55,42,0.7636363636363637,1.3241174757024443e-05,Asset Pricing & Financial Markets
+overall,nthu-cs-林華君-4d8a5842a2,林華君,Hwa-Chun Lin,nthu-cs,1,False,52,43,0.8269230769230769,1.2711527766743467e-05,Networks & Communications
+overall,nycu-cs-yuchunyen-801e3b9f54,顏羽君,Yu-Chun Yen,nycu-cs,1,False,125,78,0.624,1.2711527766743466e-05,AI & Machine Learning
+overall,nycu-cs-jyhchengchen-3ea270c995,陳志成,Jyh-Cheng Chen,nycu-cs,1,False,83,52,0.6265060240963856,1.1917057281321999e-05,Networks & Communications
+overall,ntu-fin-胡星陽-4994e4eee9,胡星陽,Shing-Yang Hu,ntu-fin,1,False,65,44,0.676923076923077,1.185400406819331e-05,Corporate Finance & Governance
+overall,ntu-cs-ie-shihhsinwang-5c3f5f97c1,王士欣,Shih-Hsin Wang,ntu-cs-ie,1,False,178,143,0.8033707865168539,1.1500906074672658e-05,AI & Machine Learning
+overall,nycu-cs-jongchuangtsay-8476cdaaab,蔡中川,Jong-Chuang Tsay,nycu-cs,1,False,74,53,0.7162162162162162,1.1475684789421185e-05,"Systems, Software & Architecture"
+overall,nthu-cs-王炳豐-db84c4528b,王炳豐,Biing-Feng Wang,nthu-cs,1,False,74,51,0.6891891891891891,1.1475684789421185e-05,"Systems, Software & Architecture"
+overall,ntu-cs-ie-yunnungchen-3195f50578,陳縕儂,Yun-Nung Chen,ntu-cs-ie | ntu-ds,2,True,113,77,0.6814159292035398,1.0592939805619555e-05,AI & Machine Learning
+overall,ncku-cs-ie-梁郁珮-7d902464dc,梁郁珮,dept. CSIE,ncku-cs-ie,1,False,58,51,0.8793103448275862,1.0592939805619555e-05,"Data, Databases & Knowledge Discovery"
+overall,nthu-cs-楊熙年-e1cd89ea15,楊熙年,Shi-Nine Yang,nthu-cs,1,False,66,54,0.8181818181818182,1.0592939805619555e-05,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-yutaiching-49dcd94e56,荊宇泰,Yu-Tai Ching,nycu-cs,1,False,148,107,0.722972972972973,1.0592939805619553e-05,AI & Machine Learning
+overall,ntu-cs-ie-katelin-92cc65958e,林靖茹,Ching-Ju Lin,ntu-cs-ie,1,False,168,141,0.8392857142857143,1.0592939805619553e-05,AI & Machine Learning
+overall,ntu-cs-ie-yjoyang-fee45b2738,歐陽彥正,Yen-Jen Oyang,ntu-cs-ie,1,False,148,122,0.8243243243243243,1.0592939805619553e-05,AI & Machine Learning
+overall,nycu-cs-yucheetseng-714071fcd3,曾煜棋,Yu-Chee Tseng,nycu-cs,1,False,204,136,0.6666666666666666,9.357096828297276e-06,AI & Machine Learning
+overall,ntu-cs-ie-hhchen-7401af7bf1,陳信希,Hsin-Hsi Chen,ntu-cs-ie | ntu-ds,2,True,82,54,0.6585365853658537,9.079662690531045e-06,"Data, Databases & Knowledge Discovery"
+overall,nccu-mb-詹育儒-b0e506f68d,詹育儒,: Yu-Ju Chan,nccu-mb,1,False,50,43,0.86,7.944704854214666e-06,Asset Pricing & Financial Markets
+overall,ntu-econ-廖珮如-cff0efe03d,廖珮如,Pei-Ju Liao,ntu-econ,1,False,19,4,0.21052631578947367,7.944704854214666e-06,Economics & Policy
+overall,ntu-econ-蔡宜展-c83bdc5cdc,蔡宜展,Yi-Chan Tsai,ntu-econ,1,False,19,4,0.21052631578947367,7.944704854214666e-06,Economics & Policy
+overall,ntu-cs-ie-hmtsai-001886954a,蔡欣穆,HM Tsai,ntu-cs-ie,1,False,129,106,0.8217054263565892,7.061959870413036e-06,AI & Machine Learning
+overall,nycu-cs-chunifan-25975207ac,范俊逸,Chun-I FAN,nycu-cs,1,False,129,84,0.6511627906976745,7.061959870413036e-06,AI & Machine Learning
+overall,nccu-fin-顏錫銘-e86d3d4b8c,顏錫銘,: SIMON H . YEN,nccu-fin,1,False,77,58,0.7532467532467533,7.061959870413036e-06,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-dtlee-ddd84693f6,李德財,Der-Tsai Lee,ntu-cs-ie,1,False,74,61,0.8243243243243243,6.355763883371733e-06,"Systems, Software & Architecture"
+overall,ntu-cs-ie-winstonhsu-206405b911,徐宏民,Winston H. Hsu,ntu-cs-ie,1,False,213,169,0.7934272300469484,5.2523326536196955e-06,AI & Machine Learning
+overall,nthu-cs-梁雅鈞-9f3d7465e1,梁雅鈞,Ya-Chun Liang,nthu-cs,1,False,78,59,0.7564102564102564,4.539831345265523e-06,Applied Mathematics & Operations Research
+overall,nycu-cs-mongjenkao-a4b0d44ba8,高孟駿,Mong-Jen Kao,nycu-cs,1,False,78,61,0.782051282051282,4.539831345265523e-06,Applied Mathematics & Operations Research
+overall,nycu-cs-jenhuichuang-3cb2bcd4b1,莊仁輝,Jen-Hui Chuang,nycu-cs,1,False,83,60,0.7228915662650602,4.413724919008148e-06,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-im-李瑞庭-aa45881e08,李瑞庭,J. T. Lee,ntu-im,1,False,149,137,0.9194630872483222,3.851978111134384e-06,AI & Machine Learning
+overall,ntu-cs-ie-jlwu-0ea4251db7,吳家麟,Jia-Ling Wu,ntu-cs-ie,1,False,122,97,0.7950819672131147,3.530979935206519e-06,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-qf-謝佩芳-000b7cb509,謝佩芳,nan,nthu-qf,1,False,67,56,0.835820895522388,3.530979935206518e-06,Corporate Finance & Governance
+overall,ncku-cs-ie-朱威達-20f310a81a,朱威達,dept. CSIE,ncku-cs-ie,1,False,196,173,0.8826530612244898,3.5173992431480316e-06,"Vision, Multimedia & Human-Centered Computing"
+overall,nccu-fin-黃嘉威-f12b04b95e,黃嘉威,: CHIA-WEI HUANG,nccu-fin,1,False,54,37,0.6851851851851852,3.0265542301770156e-06,Corporate Finance & Governance
+overall,nthu-cs-郭昱廷-cb1da4e458,郭昱廷,Yu-Ting Kuo,nthu-cs,1,False,166,147,0.8855421686746988,2.6261663268098486e-06,AI & Machine Learning
+overall,ntu-cs-ie-tsungweike-987483f265,柯宗瑋,Tsung-Wei Ke,ntu-cs-ie,1,False,185,151,0.8162162162162162,2.295136957884237e-06,AI & Machine Learning
+overall,ntu-cs-ie-hsuchunhsiao-0666e32db0,蕭旭君,Hsu-Chun Hsiao,ntu-cs-ie,1,False,57,43,0.7543859649122807,2.118587961123911e-06,"Security, Privacy & Cryptography"
+overall,ncku-cs-ie-何建忠-d3f2f71892,何建忠,dept. CSIE,ncku-cs-ie,1,False,68,54,0.7941176470588235,1.765489967603259e-06,"Data, Databases & Knowledge Discovery"
+overall,nycu-cs-lipinchang-68fafb736a,張立平,Li-Pin Chang,nycu-cs,1,False,46,28,0.6086956521739131,1.5132771150885078e-06,"Systems, Software & Architecture"
+overall,ncku-cs-ie-黃敬群-48e27ae76f,黃敬群,dept. CSIE,ncku-cs-ie,1,False,46,37,0.8043478260869565,1.5132771150885078e-06,"Systems, Software & Architecture"
+overall,ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b,楊奕軒,Yi-Hsuan Yang,ntu-comm-engin-ds-network,1,False,178,165,0.9269662921348315,1.4123919740826072e-06,AI & Machine Learning
+overall,ntu-comm-engin-ds-network-簡翌-6a29f81209,簡翌,Eli Chien,ntu-comm-engin-ds-network,1,False,178,165,0.9269662921348315,1.4123919740826072e-06,AI & Machine Learning
+overall,ntu-ds-wutirong-522ceb7891,吳廸融,"Wu, Ti-Rong",ntu-ds,1,False,178,150,0.8426966292134831,1.4123919740826072e-06,AI & Machine Learning
+overall,nycu-cs-ichenwu-a745312e56,吳毅成,I-Chen Wu,nycu-cs,1,False,178,123,0.6910112359550562,1.4123919740826072e-06,AI & Machine Learning
+overall,ntu-cs-ie-shaoyuanlo-aef937e217,羅紹元,Shao-Yuan Lo,ntu-cs-ie,1,False,178,143,0.8033707865168539,1.4123919740826072e-06,AI & Machine Learning
+overall,ntu-ds-wangchuanju-ba03252081,王釧茹,"Wang, Chuan-Ju",ntu-ds,1,False,169,140,0.8284023668639053,1.4123919740826072e-06,AI & Machine Learning
+overall,nycu-cs-kuanwenchen-78bcb4ae61,陳冠文,Kuan-Wen Chen,nycu-cs,1,False,122,85,0.6967213114754098,1.2222622852637949e-06,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-ds-chenlingjyh-5fa406eb09,陳伶志,"Chen, Ling-Jyh",ntu-ds,1,False,113,95,0.8407079646017699,1.0592939805619555e-06,"Data, Databases & Knowledge Discovery"
+overall,ntu-ds-hsiupicheng-b36d32ffcb,修丕承,"Hsiu, Pi-Cheng",ntu-ds,1,False,178,150,0.8426966292134831,1.008851410059005e-06,AI & Machine Learning
+overall,nycu-cs-robertchsieh-bbf69924e6,謝志鴻,Robert C. Hsieh,nycu-cs,1,False,22,19,0.8636363636363636,0.0,Information Systems & Management
+overall,nthu-cs-張君天-43ab3fd7b9,張君天,Chun-Tien Chang,nthu-cs,1,False,31,27,0.8709677419354839,0.0,Biomedical & Health Informatics
+overall,nthu-cs-李家同-c1f2d67113,李家同,nan,nthu-cs,1,False,33,25,0.7575757575757576,0.0,"Systems, Software & Architecture"
+overall,nycu-cs-shianshyongtseng-d3bd119f88,曾憲雄,Shian-Shyong Tseng,nycu-cs,1,False,33,24,0.7272727272727273,0.0,"Systems, Software & Architecture"
+overall,nycu-info-mag-fin-葉銀華-cd82122651,葉銀華,Yin-Hua Yeh,nycu-info-mag-fin,1,False,17,17,1.0,0.0,Corporate Finance & Governance
+overall,nthu-cs-林瀚仚-8176500c13,林瀚仚,Han-Hsuan Lin,nthu-cs,1,False,31,21,0.6774193548387096,0.0,"Systems, Software & Architecture"
+overall,nycu-cs-sachiosemmoto-ef8589eda2,千本倖生,Sachio Semmoto,nycu-cs,1,False,22,19,0.8636363636363636,0.0,Information Systems & Management
+overall,nthu-cs-林沿妊-ab6c251917,林沿妊,nan,nthu-cs,1,False,31,27,0.8709677419354839,0.0,Biomedical & Health Informatics
+overall,nthu-cs-林永隆-971ac78e0f,林永隆,nan,nthu-cs,1,False,46,34,0.7391304347826086,0.0,"Robotics, Control & Smart Manufacturing"
+overall,ncku-cs-ie-楊中平-ec5a963969,楊中平,dept. CSIE,ncku-cs-ie,1,False,46,37,0.8043478260869565,0.0,"Systems, Software & Architecture"
+overall,nycu-cs-mingfengchang-1f41c91886,張明峰,Ming-Feng Chang,nycu-cs,1,False,48,31,0.6458333333333334,0.0,Networks & Communications
+overall,nthu-cs-楊舜仁-77d533ddf8,楊舜仁,nan,nthu-cs,1,False,48,41,0.8541666666666666,0.0,Networks & Communications
+overall,nycu-cs-minzhengshieh-6add7d4ed1,謝旻錚,Min-Zheng Shieh,nycu-cs,1,False,54,39,0.7222222222222222,0.0,Theory & Algorithms
+overall,nccu-fin-黃群仰-00dc9d3e9d,黃群仰,: CHUAN YANG HWANG,nccu-fin,1,False,58,41,0.7068965517241379,0.0,Asset Pricing & Financial Markets
+overall,nycu-cs-menghsuntsai-28ab46dd17,蔡孟勳,Meng-Hsun Tsai,nycu-cs,1,False,83,52,0.6265060240963856,0.0,Networks & Communications
+overall,nthu-cs-王俊堯-29ae2991f7,王俊堯,Chun-Yao Wang,nthu-cs,1,False,46,34,0.7391304347826086,0.0,"Robotics, Control & Smart Manufacturing"
+overall,nccu-fin-陳虹伶-5ed853cf6c,陳虹伶,nan,nccu-fin,1,False,17,12,0.7058823529411765,0.0,Corporate Finance & Governance
+overall,nccu-fin-陳明吉-8484a66d06,陳明吉,: MING-CHI CHEN,nccu-fin,1,False,26,21,0.8076923076923077,0.0,Asset Pricing & Financial Markets
+overall,nccu-fin-陳嬿如-01b3a0dea2,陳嬿如,: YENN-RU CHEN,nccu-fin,1,False,54,37,0.6851851851851852,0.0,Corporate Finance & Governance
+overall,nthu-cs-盧錦隆-6983c0f1dd,盧錦隆,Chin-Lung Lu,nthu-cs,1,False,54,39,0.7222222222222222,0.0,Theory & Algorithms
+overall,nccu-fin-車倫周-87b2cd6bb1,車倫周,: Yun Ju Cha,nccu-fin,1,False,54,37,0.6851851851851852,0.0,Corporate Finance & Governance
+overall,nccu-fin-湛可南-384e4580ac,湛可南,: KONAN CHAN,nccu-fin,1,False,70,51,0.7285714285714285,0.0,Asset Pricing & Financial Markets
+overall,nycu-cs-linghweichen-36cc189e4d,陳玲慧,Ling-Hwei Chen,nycu-cs,1,False,83,60,0.7228915662650602,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nccu-fin-林炯垚-2db34c9033,林炯垚,: JOUNG-YOL LIN,nccu-fin,1,False,58,41,0.7068965517241379,0.0,Asset Pricing & Financial Markets
+overall,nthu-cs-翁正明-fe545e34a2,翁正明,Cheng-Ming Weng,nthu-cs,1,False,66,54,0.8181818181818182,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-cs-許秋婷-e17039873f,許秋婷,Chiou-Ting Hsu,nthu-cs,1,False,166,147,0.8855421686746988,0.0,AI & Machine Learning
+overall,nthu-cs-張世杰-c7720e7bf2,張世杰,nan,nthu-cs,1,False,46,34,0.7391304347826086,0.0,"Robotics, Control & Smart Manufacturing"
+overall,nccu-mb-陳威光-119fc2a584,陳威光,: WEI-KUANG CHEN,nccu-mb,1,False,39,34,0.8717948717948718,0.0,Financial Engineering & Risk
+overall,nccu-fin-龔則立-a8ccf22859,龔則立,nan,nccu-fin,1,False,49,33,0.673469387755102,0.0,Corporate Finance & Governance
+overall,nycu-cs-wenpinghwang-3ec6c9d6ca,黃問泙,Wen-Ping Hwang,nycu-cs,1,False,50,37,0.74,0.0,Theory & Algorithms
+overall,ncku-stats-ds-yihauchen-1c07c2ff45,Yi-Hau Chen,Yi-Hau Chen,ncku-stats-ds,1,False,12,4,0.3333333333333333,0.0,Biomedical & Health Informatics
+overall,ncku-cs-ie-張燕光-eebd900158,張燕光,dept. CSIE,ncku-cs-ie,1,False,31,30,0.967741935483871,0.0,"Systems, Software & Architecture"
+overall,ncku-stats-ds-piocheng-2e27b06feb,Pi-O Cheng,Pi-O Cheng,ncku-stats-ds,1,False,45,20,0.4444444444444444,0.0,Statistics & Statistical Methods
+overall,ncku-stats-ds-chingtiliu-2cc20e2d15,Ching-Ti Liu,Ching-Ti Liu,ncku-stats-ds,1,False,31,24,0.7741935483870968,0.0,Biomedical & Health Informatics
+overall,ncku-stats-ds-chihchiehwu-f4240ef7d4,Chih-Chieh Wu,Chih-Chieh Wu,ncku-stats-ds,1,False,12,4,0.3333333333333333,0.0,Biomedical & Health Informatics
+overall,ncku-stats-ds-chichunhsia-826f072271,Chi-Chun Hsia,Chi-Chun Hsia,ncku-stats-ds,1,False,73,69,0.9452054794520548,0.0,"Data, Databases & Knowledge Discovery"
+overall,ncku-cs-ie-龔漢威-47872c532d,龔漢威,dept. CSIE,ncku-cs-ie,1,False,99,83,0.8383838383838383,0.0,AI & Machine Learning
+overall,ncku-cs-ie-黃崇明-d675ccbfbd,黃崇明,dept. CSIE,ncku-cs-ie,1,False,66,61,0.9242424242424242,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-stats-ds-余定宏-2852d11565,余定宏,Ting-Hung Yu,ncku-stats-ds,1,False,12,9,0.75,0.0,Statistics & Statistical Methods
+overall,nycu-cs-yuangchehhsueh-31a965b1a3,薛元澤,Yuang-Cheh Hsueh,nycu-cs,1,False,17,11,0.6470588235294118,0.0,Theory & Algorithms
+overall,nycu-cs-yawchungchen-fcbdbf6aa9,陳耀宗,Yaw-Chung Chen,nycu-cs,1,False,108,74,0.6851851851851852,0.0,Networks & Communications
+overall,ncku-cs-ie-許舒涵-947dd9545f,許舒涵,dept. CSIE,ncku-cs-ie,1,False,126,108,0.8571428571428571,0.0,AI & Machine Learning
+overall,ncku-cs-ie-李信杰-088db0920b,李信杰,dept. CSIE,ncku-cs-ie,1,False,99,83,0.8383838383838383,0.0,AI & Machine Learning
+overall,ncku-cs-ie-蘇銓清-dc0f36d8e4,蘇銓清,dept. CSIE,ncku-cs-ie,1,False,52,49,0.9423076923076923,0.0,Networks & Communications
+overall,ncku-cs-ie-蘇文鈺-96ba31979d,蘇文鈺,dept. CSIE,ncku-cs-ie,1,False,83,71,0.8554216867469879,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-yingdarlin-507b4b80a7,林盈達,Ying-Dar Lin,nycu-cs,1,False,99,64,0.6464646464646465,0.0,AI & Machine Learning
+overall,nycu-cs-tzuchienhsiao-e2f1ea5656,蕭子健,Tzu-Chien Hsiao,nycu-cs,1,False,45,38,0.8444444444444444,0.0,Statistics & Statistical Methods
+overall,ncku-stats-ds-戴齊賢-6fec31cf3d,戴齊賢,Chi-Shian Dai,ncku-stats-ds,1,False,38,20,0.5263157894736842,0.0,Statistics & Statistical Methods
+overall,nccu-mb-殷乃平-d68e64b186,殷乃平,: NORMAN YIN,nccu-mb,1,False,33,27,0.8181818181818182,0.0,Financial Engineering & Risk
+overall,nycu-cs-shyanmingyuan-33e899b080,袁賢銘,Shyan-Ming Yuan,nycu-cs,1,False,33,24,0.7272727272727273,0.0,"Systems, Software & Architecture"
+overall,nthu-cs-周百祥-cf9a8d7b4b,周百祥,Pai H. Chou,nthu-cs,1,False,46,39,0.8478260869565217,0.0,"Systems, Software & Architecture"
+overall,nccu-mb-江彌修-10fe15f5d0,江彌修,nan,nccu-mb,1,False,23,20,0.8695652173913043,0.0,Financial Engineering & Risk
+overall,nccu-mb-金帛春-6af918f80e,金帛春,: BAEK-CHUN KIM,nccu-mb,1,False,41,37,0.9024390243902439,0.0,Asset Pricing & Financial Markets
+overall,ncku-cs-ie-王士豪-783474df0e,王士豪,dept. CSIE,ncku-cs-ie,1,False,166,145,0.8734939759036144,0.0,AI & Machine Learning
+overall,nthu-cs-吳中浩-2da90a2f27,吳中浩,Wu Chung -Haw,nthu-cs,1,False,31,21,0.6774193548387096,0.0,"Systems, Software & Architecture"
+overall,nycu-cs-白培霖paipeilin-60cb86298c,"白培霖 Pai, Pei-Lin","白培霖 Pai, Pei-Lin",nycu-cs,1,False,121,82,0.6776859504132231,0.0,AI & Machine Learning
+overall,nthu-cs-chunglaungliu-81c34bb998,Chung Laung Liu,Chung Laung Liu,nthu-cs,1,False,50,35,0.7,0.0,Theory & Algorithms
+overall,nycu-cs-zenchungshih-17e118bf3c,施仁忠,Zen-Chung Shih,nycu-cs,1,False,86,59,0.686046511627907,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-stats-ds-李宗翰-1d5a48a614,李宗翰,Chung-Han Lee,ncku-stats-ds,1,False,21,3,0.14285714285714285,0.0,Statistics & Statistical Methods
+overall,ncku-stats-ds-鄭碧娥-4a76d96528,鄭碧娥,nan,ncku-stats-ds,1,False,45,20,0.4444444444444444,0.0,Statistics & Statistical Methods
+overall,nccu-mb-陳正暉-5d7134b1d1,陳正暉,: Zheng-Hui Chen,nccu-mb,1,False,29,26,0.896551724137931,0.0,Economics & Policy
+overall,nccu-mb-陳韋達-69b2d375bd,陳韋達,nan,nccu-mb,1,False,33,27,0.8181818181818182,0.0,Financial Engineering & Risk
+overall,nycu-cs-tingjungchang-8694406b3f,張庭榕,Ting-Jung Chang,nycu-cs,1,False,31,21,0.6774193548387096,0.0,"Systems, Software & Architecture"
+overall,nycu-cs-yushuenwang-9e79dea00b,王昱舜,Yu-Shuen Wang,nycu-cs,1,False,66,48,0.7272727272727273,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-yungjuchang-a04a034080,張永儒,Yung-Ju Chang,nycu-cs,1,False,31,18,0.5806451612903226,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ncku-stats-ds-楊明宗-97d04aab5b,楊明宗,Ming-Tzong Yang,ncku-stats-ds,1,False,38,20,0.5263157894736842,0.0,Statistics & Statistical Methods
+overall,ncku-stats-ds-hsiulihsi-c8baf98fee,Hsiu-Li Hsi,Hsiu-Li Hsi,ncku-stats-ds,1,False,27,26,0.9629629629629629,0.0,Financial Engineering & Risk
+overall,ntu-econ-王泓仁-6e89dae82f,王泓仁,Hung-Jen Wang,ntu-econ,1,False,29,19,0.6551724137931034,0.0,Economics & Policy
+overall,nycu-cs-kuoanhwang-41f3d7be96,黃國安,Kuo-An Hwang,nycu-cs,1,False,26,18,0.6923076923076923,0.0,"Systems, Software & Architecture"
+overall,ntu-fin-顏廣杰-074de26dd3,顏廣杰,Kuang-Chieh Yen,ntu-fin,1,False,50,42,0.84,0.0,Financial Engineering & Risk
+overall,ntu-fin-石百達-b922fdf1bd,石百達,Pai-Ta Shih,ntu-fin,1,False,27,22,0.8148148148148148,0.0,Financial Engineering & Risk
+overall,ntu-fin-莊文議-571404c55b,莊文議,Wen-I Chuang,ntu-fin,1,False,61,42,0.6885245901639344,0.0,Asset Pricing & Financial Markets
+overall,ntu-ds-huanghenhsen-b5b46283ba,黃瀚萱,"Huang, Hen-Hsen",ntu-ds,1,False,19,12,0.631578947368421,0.0,AI & Machine Learning
+overall,ntu-ds-chunhsiunghsia-1536b23bc4,夏俊雄,Chun-Hsiung Hsia,ntu-ds,1,False,11,6,0.5454545454545454,0.0,Applied Mathematics & Operations Research
+overall,ntu-fin-邱顯比-9fc73b83ef,邱顯比,Shean-Bii Chiu,ntu-fin,1,False,70,51,0.7285714285714285,0.0,Asset Pricing & Financial Markets
+overall,ntu-ds-chunhouhchen-0af0210f26,陳君厚,Chun-Houh Chen,ntu-ds,1,False,34,30,0.8823529411764706,0.0,Biomedical & Health Informatics
+overall,ntu-ds-chienmingchi-7c50de2827,紀建名,Chien-Ming Chi,ntu-ds,1,False,12,12,1.0,0.0,Statistics & Statistical Methods
+overall,ntu-ds-chenghsiangyun-dd0d28d44a,鄭湘筠,"Cheng, Hsiang-Yun",ntu-ds,1,False,31,26,0.8387096774193549,0.0,"Systems, Software & Architecture"
+overall,ntu-cs-ie-許舜欽-908ebaaeaa,許舜欽,Shun-Chin Hsu,ntu-cs-ie,1,False,99,82,0.8282828282828283,0.0,AI & Machine Learning
+overall,ntu-cs-ie-林一鵬-5c1481405f,林一鵬,I-Peng Lin,ntu-cs-ie,1,False,19,13,0.6842105263157895,0.0,AI & Machine Learning
+overall,ntu-fin-洪志清-04c9cc50a7,洪志清,Chih-Ching Hung,ntu-fin,1,False,56,39,0.6964285714285714,0.0,Asset Pricing & Financial Markets
+overall,ntu-cs-ie-劉睦雄-ba3d0c924c,劉睦雄,Mu-Shiung Liu,ntu-cs-ie,1,False,11,11,1.0,0.0,Applied Mathematics & Operations Research
+overall,ntu-im-吳玲玲-b1cc11729b,吳玲玲,Ling-Ling Wu,ntu-im,1,False,22,12,0.5454545454545454,0.0,Information Systems & Management
+overall,ntu-cs-ie-yjhsu-ef1c81cb62,許永真,Jane Yung-Jen Hsu,ntu-cs-ie,1,False,73,60,0.821917808219178,0.0,"Data, Databases & Knowledge Discovery"
+overall,ntu-cs-ie-terrencechou-51f1a6db3d,周存貹,Terrence Chou,ntu-cs-ie,1,False,43,37,0.8604651162790697,0.0,"Security, Privacy & Cryptography"
+overall,ntu-im-楊立偉-002d946f70,楊立偉,Willie Li-wei Yang,ntu-im,1,False,22,12,0.5454545454545454,0.0,Information Systems & Management
+overall,ntu-im-王春笙-478b704144,王春笙,Chun-Sheng Wang,ntu-im,1,False,73,64,0.8767123287671232,0.0,"Data, Databases & Knowledge Discovery"
+overall,ntu-im-畢南怡-4db729714a,畢南怡,Nanyi Bi,ntu-im,1,False,31,30,0.967741935483871,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-im-穆信成-cf38907306,穆信成,Shin-Cheng Mu,ntu-im,1,False,26,24,0.9230769230769231,0.0,"Systems, Software & Architecture"
+overall,ntu-im-翁崇雄-a45a797db7,翁崇雄,Chorng-Shyong Ong,ntu-im,1,False,22,12,0.5454545454545454,0.0,Information Systems & Management
+overall,ntu-fin-王衍智-97f457b74b,王衍智,Yan-Zhi Wang,ntu-fin,1,False,54,37,0.6851851851851852,0.0,Corporate Finance & Governance
+overall,ntu-fin-池祥麟-0a614738b2,池祥麟,Hsiang-Lin Chih,ntu-fin,1,False,33,28,0.8484848484848485,0.0,Financial Engineering & Risk
+overall,nthu-cs-闕志克-667b8d485c,闕志克,Tzi-Cker Chiueh,nthu-cs,1,False,43,36,0.8372093023255814,0.0,"Security, Privacy & Cryptography"
+overall,ntu-econ-黃景沂-8fe2cfab0f,黃景沂,Ching-I Huang,ntu-econ,1,False,10,1,0.1,0.0,Economics & Policy
+overall,ntu-econ-朴埻錄-9cec86c47b,朴埻錄,nan,ntu-econ,1,False,12,8,0.6666666666666666,0.0,Applied Mathematics & Operations Research
+overall,ntu-econ-朱玉琦-f9c58241bc,朱玉琦,Yu-Chi Chu,ntu-econ,1,False,19,4,0.21052631578947367,0.0,Economics & Policy
+overall,ntu-econ-張勝凱-af91a80773,張勝凱,Sheng-Kai Chang,ntu-econ,1,False,29,19,0.6551724137931034,0.0,Economics & Policy
+overall,ntu-econ-junrokpark-d50100b56e,Junrok Park,Junrok Park,ntu-econ,1,False,12,8,0.6666666666666666,0.0,Applied Mathematics & Operations Research
+overall,ntu-econ-陳南光-8b0f367291,陳南光,Nan-Kuang Chen,ntu-econ,1,False,19,4,0.21052631578947367,0.0,Economics & Policy
+overall,ntu-ds-yentsunghuang-f1bca29996,黃彥棕,Yen-Tsung Huang,ntu-ds,1,False,12,12,1.0,0.0,Biomedical & Health Informatics
+overall,ntu-ds-wangyute-7f585252dd,王有德,"Wang, Yu Te",ntu-ds,1,False,31,31,1.0,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-econ-陳虹如-4ec44ed550,陳虹如,Hung-Ju Chen,ntu-econ,1,False,19,4,0.21052631578947367,0.0,Economics & Policy
+overall,ntu-ds-waikitlam-60857c51d4,林偉傑,Wai-Kit Lam,ntu-ds,1,False,38,32,0.8421052631578947,0.0,Statistics & Statistical Methods
+overall,ntu-ds-tsojungyen-ab6f30a1f1,顏佐榕,Tso-Jung Yen,ntu-ds,1,False,43,36,0.8372093023255814,0.0,Statistics & Statistical Methods
+overall,ntu-fin-林軒馳-f0dadcf7f0,林軒馳,Hsuan-Chih Lin,ntu-fin,1,False,19,18,0.9473684210526315,0.0,Economics & Policy
+overall,ntu-ds-tinglichen-27e41ae34a,陳定立,Ting-Li Chen,ntu-ds,1,False,13,11,0.8461538461538461,0.0,Statistics & Statistical Methods
+overall,ntu-ds-mingyuehhuang-e0d8d52531,黃名鉞,Ming-Yueh Huang,ntu-ds,1,False,38,32,0.8421052631578947,0.0,Statistics & Statistical Methods
+overall,ntu-fin-姜堯民-f95a106036,姜堯民,Yao-Min Chiang,ntu-fin,1,False,54,37,0.6851851851851852,0.0,Corporate Finance & Governance
+overall,ntu-ds-maopeitsui-a962c4a38f,崔茂培,Mao-Pei Tsui,ntu-ds,1,False,11,6,0.5454545454545454,0.0,Applied Mathematics & Operations Research
+overall,ntu-ds-jiangjiehongroland-e6ba2046e1,江介宏,"Jiang, Jie-Hong Roland",ntu-ds,1,False,46,40,0.8695652173913043,0.0,"Robotics, Control & Smart Manufacturing"
+overall,ntu-fin-張景宏-44af4653d2,張景宏,Ching-Hung Chang,ntu-fin,1,False,17,9,0.5294117647058824,0.0,Corporate Finance & Governance
+overall,ntu-ds-jennnanwang-96b57e19a5,王振男,Jenn-Nan Wang,ntu-ds,1,False,11,6,0.5454545454545454,0.0,Applied Mathematics & Operations Research
+overall,ntu-fin-曾郁仁-f6b4b8a7f0,曾郁仁,Larry Y. Tzeng,ntu-fin,1,False,27,22,0.8148148148148148,0.0,Financial Engineering & Risk
+overall,ntu-ds-ikunchen-568f578c62,陳逸昆,I-Kun Chen,ntu-ds,1,False,11,6,0.5454545454545454,0.0,Applied Mathematics & Operations Research
+overall,ntu-cs-ie-shanyuanteng-a74b187adf,鄧善元,Shan-Yuan Teng,ntu-cs-ie,1,False,31,23,0.7419354838709677,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-im-蔡益坤-b2ae2b2f7c,蔡益坤,Yih-Kuen Tsay,ntu-im,1,False,65,59,0.9076923076923077,0.0,"Security, Privacy & Cryptography"
+overall,ntu-cs-ie-shangenhuang-161fb441cf,黃上恩,Shang-En Huang,ntu-cs-ie,1,False,54,44,0.8148148148148148,0.0,Theory & Algorithms
+overall,nthu-cs-黃慶育-97536649ca,黃慶育,Chin-Yu Huang,nthu-cs,1,False,26,22,0.8461538461538461,0.0,"Systems, Software & Architecture"
+overall,ntu-comm-engin-ds-network-李琳山-193d6b842c,李琳山,Lin-Shan Lee,ntu-comm-engin-ds-network | ntu-cs-ie,2,True,83,59,0.7108433734939759,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-comm-engin-ds-network-周俊廷-e6686de123,周俊廷,Chun-Ting Chou,ntu-comm-engin-ds-network,1,False,52,42,0.8076923076923077,0.0,Networks & Communications
+overall,ntu-comm-engin-ds-network-丁建均-e5141fb566,丁建均,Jian-Jiun Ding,ntu-comm-engin-ds-network,1,False,83,75,0.9036144578313253,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-qf-黃裕烈-945496ca2a,黃裕烈,nan,nthu-qf,1,False,29,23,0.7931034482758621,0.0,Economics & Policy
+overall,nycu-cs-harrywaihowong-b233b535e5,王偉豪,Harry Wai Ho Wong,nycu-cs,1,False,23,15,0.6521739130434783,0.0,"Security, Privacy & Cryptography"
+overall,nthu-qf-黃德源-436d6848bb,黃德源,nan,nthu-qf,1,False,49,43,0.8775510204081632,0.0,Corporate Finance & Governance
+overall,nthu-qf-謝宗翰-b308786865,謝宗翰,nan,nthu-qf,1,False,23,16,0.6956521739130435,0.0,Financial Engineering & Risk
+overall,nthu-qf-潘虹華-2cd399c3cc,潘虹華,nan,nthu-qf,1,False,49,43,0.8775510204081632,0.0,Corporate Finance & Governance
+overall,ntu-econ-林明仁-3459b553e9,林明仁,Ming-Jen Lin,ntu-econ,1,False,10,1,0.1,0.0,Economics & Policy
+overall,nthu-cs-黃婷婷-c521072c08,黃婷婷,Ting-Ting Hwang,nthu-cs,1,False,46,34,0.7391304347826086,0.0,"Robotics, Control & Smart Manufacturing"
+overall,ntu-im-陳仲儼-e8851126e5,陳仲儼,Jung-Yan Chen,ntu-im,1,False,26,24,0.9230769230769231,0.0,"Systems, Software & Architecture"
+overall,nycu-cs-jasonyibinglin-a81c69af89,林一平,Jason Yi-Bing Lin,nycu-cs,1,False,48,31,0.6458333333333334,0.0,Networks & Communications
+overall,nthu-cs-高榮駿-458af60731,高榮駿,Jung-Chun Kao,nthu-cs,1,False,52,43,0.8269230769230769,0.0,Networks & Communications
+overall,nthu-cs-顏子斌-46d093b11d,顏子斌,Tzu-Bin Yan,nthu-cs,1,False,43,36,0.8372093023255814,0.0,"Security, Privacy & Cryptography"
+overall,nycu-cs-jentzungchien-0e6e82e914,簡仁宗,Jen-Tzung Chien,nycu-cs,1,False,126,90,0.7142857142857143,0.0,AI & Machine Learning
+overall,nthu-cs-韓永楷-05d57868e3,韓永楷,Wing-Kai Hon,nthu-cs,1,False,50,35,0.7,0.0,Theory & Algorithms
+overall,nycu-cs-jinnmoonyang-a565e89514,楊進木,Jinn-Moon Yang,nycu-cs,1,False,31,23,0.7419354838709677,0.0,Biomedical & Health Informatics
+overall,nthu-cs-陳聿廣-13aceaf00c,陳聿廣,nan,nthu-cs,1,False,28,18,0.6428571428571429,0.0,"Robotics, Control & Smart Manufacturing"
+overall,nthu-cs-陳煥宗-7c43119c40,陳煥宗,nan,nthu-cs,1,False,83,71,0.8554216867469879,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-cs-陳文村-da14007351,陳文村,nan,nthu-cs,1,False,52,43,0.8269230769230769,0.0,Networks & Communications
+overall,ntu-comm-engin-ds-network-蔡志宏-22700a6730,蔡志宏,Zsehong Tsai,ntu-comm-engin-ds-network,1,False,52,42,0.8076923076923077,0.0,Networks & Communications
+overall,nycu-cs-chunyulin-eb97e98272,林峻宇,Chun-Yu Lin,nycu-cs,1,False,31,23,0.7419354838709677,0.0,Biomedical & Health Informatics
+overall,ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee,蘇炫榮,Hsuan-Jung Su,ntu-comm-engin-ds-network,1,False,83,75,0.9036144578313253,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-comm-engin-ds-network-鄭皓中-046d884ef1,鄭皓中,Hao-Chung Cheng,ntu-comm-engin-ds-network,1,False,126,115,0.9126984126984127,0.0,AI & Machine Learning
+overall,ntu-im-陳建錦-02f4784706,陳建錦,Chien Chin Chen,ntu-im,1,False,73,64,0.8767123287671232,0.0,"Data, Databases & Knowledge Discovery"
+overall,ntu-cs-ie-rfchang-4f18bf6937,張瑞峰,Ruey-Feng Chang,ntu-cs-ie,1,False,66,50,0.7575757575757576,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-im-陳靜枝-eab2ccfdb6,陳靜枝,Ching-Chin Chern,ntu-im,1,False,22,12,0.5454545454545454,0.0,Information Systems & Management
+overall,ntu-cs-ie-mouhyoung-51e697d410,歐陽明,Ming Ouhyoung,ntu-cs-ie,1,False,86,64,0.7441860465116279,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-im-魏資文-17ab818dbe,魏資文,Tzu-Wen Wei,ntu-im,1,False,22,12,0.5454545454545454,0.0,Information Systems & Management
+overall,ntu-cs-ie-lungpancheng-bd8ab20b0b,鄭龍磻,Lung-Pan Cheng,ntu-cs-ie,1,False,31,23,0.7419354838709677,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,ntu-im-黃明蕙-69aee8c193,黃明蕙,Ming-Hui Huang,ntu-im,1,False,99,93,0.9393939393939394,0.0,AI & Machine Learning
+overall,ntu-cs-ie-kwanliuma-aa49af3036,馬匡六,Kwan-Liu Ma,ntu-cs-ie,1,False,31,23,0.7419354838709677,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-changjiuchen-623e005323,陳昌居,Chang-Jiu Chen,nycu-cs,1,False,31,21,0.6774193548387096,0.0,"Systems, Software & Architecture"
+overall,nycu-cs-chaokaichiang-014eb10d77,蔣兆凱,Chao-Kai Chiang,nycu-cs,1,False,34,28,0.8235294117647058,0.0,Applied Mathematics & Operations Research
+overall,ntu-cs-ie-kaiminchung-1ecea18825,鐘楷閔,Kai-Min Chung,ntu-cs-ie,1,False,23,15,0.6521739130434783,0.0,"Security, Privacy & Cryptography"
+overall,nycu-cs-chengchunglin-d77196b666,林正中,Cheng-Chung Lin,nycu-cs,1,False,103,72,0.6990291262135923,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nycu-cs-chiahoanglee-c1b52dd580,李嘉晃,Chia-Hoang Lee,nycu-cs,1,False,99,64,0.6464646464646465,0.0,AI & Machine Learning
+overall,ntu-cs-ie-jlee-8d3dfca2d4,李允中,Jonathan Lee,ntu-cs-ie,1,False,26,19,0.7307692307692307,0.0,"Systems, Software & Architecture"
+overall,nycu-cs-chienchaotseng-d8137d52bf,曾建超,Chien-Chao Tseng,nycu-cs,1,False,52,34,0.6538461538461539,0.0,Networks & Communications
+overall,nycu-cs-chienchen-e28bfad248,陳健,Chien Chen,nycu-cs,1,False,52,34,0.6538461538461539,0.0,Networks & Communications
+overall,ntu-cs-ie-hilu-d3cc107f32,呂學一,Hsueh-I Lu,ntu-cs-ie,1,False,54,44,0.8148148148148148,0.0,Theory & Algorithms
+overall,ntu-cs-ie-cyliou-b8313079ec,劉長遠,Cheng-Yuan Liou,ntu-cs-ie,1,False,126,104,0.8253968253968254,0.0,AI & Machine Learning
+overall,ntu-cs-ie-csfuh-8bd0c9a460,傅楸善,Chiou-Shann Fuh,ntu-cs-ie,1,False,83,67,0.8072289156626506,0.0,"Vision, Multimedia & Human-Centered Computing"
+overall,nthu-qf-林哲群-8dd6d7cb57,林哲群,nan,nthu-qf,1,False,49,43,0.8775510204081632,0.0,Corporate Finance & Governance

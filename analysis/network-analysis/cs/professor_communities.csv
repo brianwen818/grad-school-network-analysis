@@ -1,0 +1,380 @@
+﻿node,professor_name,name_en,school_ids,dominant_l1,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+ncku-cs-ie-何建忠-d3f2f71892,何建忠,dept. CSIE,ncku-cs-ie,"Data, Databases & Knowledge Discovery",0,1,1,1
+ncku-cs-ie-吳宗憲-3e336d616f,吳宗憲,dept. CSIE,ncku-cs-ie,AI & Machine Learning,2,0,0,0
+ncku-cs-ie-吳明龍-2c420299df,吳明龍,dept. CSIE,ncku-cs-ie,AI & Machine Learning,2,0,0,0
+ncku-cs-ie-孫永年-d48186d8af,孫永年,dept. CSIE,ncku-cs-ie,Biomedical & Health Informatics,2,0,0,0
+ncku-cs-ie-張大緯-a732435fee,張大緯,dept. CSIE,ncku-cs-ie,Networks & Communications,0,1,1,1
+ncku-cs-ie-張燕光-eebd900158,張燕光,dept. CSIE,ncku-cs-ie,"Systems, Software & Architecture",0,1,5,1
+ncku-cs-ie-張瑞紘-ce33f2a33f,張瑞紘,dept. CSIE,ncku-cs-ie,"Data, Databases & Knowledge Discovery",1,3,3,3
+ncku-cs-ie-朱威達-20f310a81a,朱威達,dept. CSIE,ncku-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ncku-cs-ie-朱治平-67c971642a,朱治平,dept. CSIE,ncku-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ncku-cs-ie-李信杰-088db0920b,李信杰,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,2,7,2
+ncku-cs-ie-李同益-15ef8859be,李同益,dept. CSIE,ncku-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ncku-cs-ie-李家岩-10568c76d0,李家岩,dept. CSIE,ncku-cs-ie | ntu-im,Applied Mathematics & Operations Research,1,3,3,3
+ncku-cs-ie-李強-64dafeaed4,李強,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,2,7,2
+ncku-cs-ie-李政德-56478665e8,李政德,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,3,3,3
+ncku-cs-ie-梁勝富-e5094cf8db,梁勝富,dept. CSIE,ncku-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,1,0
+ncku-cs-ie-梁郁珮-7d902464dc,梁郁珮,dept. CSIE,ncku-cs-ie,"Data, Databases & Knowledge Discovery",0,1,1,1
+ncku-cs-ie-楊中平-ec5a963969,楊中平,dept. CSIE,ncku-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ncku-cs-ie-楊大和-2573461fc2,楊大和,dept. CSIE,ncku-cs-ie,Applied Mathematics & Operations Research,0,3,2,3
+ncku-cs-ie-洪昌鈺-66a7357cbf,洪昌鈺,dept. CSIE,ncku-cs-ie,AI & Machine Learning,2,0,0,0
+ncku-cs-ie-涂嘉恒-664695302c,涂嘉恒,dept. CSIE,ncku-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ncku-cs-ie-王士豪-783474df0e,王士豪,dept. CSIE,ncku-cs-ie,AI & Machine Learning,2,0,0,0
+ncku-cs-ie-盧文祥-1905e6a59a,盧文祥,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,3,3,3
+ncku-cs-ie-程芙茵-643e2a7add,程芙茵,dept. CSIE,ncku-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ncku-cs-ie-莊坤達-5600c1346e,莊坤達,dept. CSIE,ncku-cs-ie,"Data, Databases & Knowledge Discovery",1,3,3,3
+ncku-cs-ie-蔡佩璇-e67950ad08,蔡佩璇,dept. CSIE,ncku-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ncku-cs-ie-蔣榮先-0acf9a388a,蔣榮先,dept. CSIE,ncku-cs-ie,"Data, Databases & Knowledge Discovery",1,3,3,3
+ncku-cs-ie-蕭宏章-51709ab6b4,蕭宏章,dept. CSIE,ncku-cs-ie,"Systems, Software & Architecture",0,4,4,4
+ncku-cs-ie-藍崑展-7a14274076,藍崑展,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,2,2,2
+ncku-cs-ie-蘇文鈺-96ba31979d,蘇文鈺,dept. CSIE,ncku-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ncku-cs-ie-蘇銓清-dc0f36d8e4,蘇銓清,dept. CSIE,ncku-cs-ie,Networks & Communications,1,2,2,2
+ncku-cs-ie-許舒涵-947dd9545f,許舒涵,dept. CSIE,ncku-cs-ie,AI & Machine Learning,2,0,0,0
+ncku-cs-ie-詹慧伶-5b224dd080,詹慧伶,dept. CSIE,ncku-cs-ie,AI & Machine Learning,2,0,0,0
+ncku-cs-ie-謝孫源-de0f810cf9,謝孫源,dept. CSIE,ncku-cs-ie,AI & Machine Learning,0,4,4,4
+ncku-cs-ie-賀保羅-e1c2c5fbfe,賀保羅,dept. CSIE,ncku-cs-ie,AI & Machine Learning,0,4,4,4
+ncku-cs-ie-連震杰-f316933353,連震杰,dept. CSIE,ncku-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ncku-cs-ie-郭淑美-d7fac758d5,郭淑美,dept. CSIE,ncku-cs-ie,AI & Machine Learning,2,0,4,0
+ncku-cs-ie-郭紘睿-51fb9a8466,郭紘睿,dept. CSIE,ncku-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ncku-cs-ie-郭耀煌-b4f08bae71,郭耀煌,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,2,2,2
+ncku-cs-ie-郭軒安-ad75e1a6db,郭軒安,dept. CSIE,ncku-cs-ie,AI & Machine Learning,0,4,4,4
+ncku-cs-ie-鄭憲宗-66a30ac62c,鄭憲宗,dept. CSIE,ncku-cs-ie,Networks & Communications,1,2,2,2
+ncku-cs-ie-鄭芳田-7403af351c,鄭芳田,dept. CSIE,ncku-cs-ie,"Robotics, Control & Smart Manufacturing",0,1,5,1
+ncku-cs-ie-陳培殷-4e3ee76964,陳培殷,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,1,1,1
+ncku-cs-ie-陳奇業-b11a06448d,陳奇業,dept. CSIE,ncku-cs-ie,Theory & Algorithms,0,4,4,4
+ncku-cs-ie-陳怡君-1ef245e216,陳怡君,dept. CSIE,ncku-cs-ie,AI & Machine Learning,2,0,0,0
+ncku-cs-ie-陳朝鈞-4db96ee2d8,陳朝鈞,dept. CSIE,ncku-cs-ie,"Data, Databases & Knowledge Discovery",1,3,3,3
+ncku-cs-ie-陳響亮-2fc0990050,陳響亮,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,3,3,3
+ncku-cs-ie-黃宗立-8fb86fbadf,黃宗立,dept. CSIE,ncku-cs-ie,"Security, Privacy & Cryptography",1,2,8,2
+ncku-cs-ie-黃崇明-d675ccbfbd,黃崇明,dept. CSIE,ncku-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ncku-cs-ie-黃敬群-48e27ae76f,黃敬群,dept. CSIE,ncku-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ncku-cs-ie-龔漢威-47872c532d,龔漢威,dept. CSIE,ncku-cs-ie,AI & Machine Learning,1,2,7,2
+nthu-cs-chunglaungliu-81c34bb998,Chung Laung Liu,Chung Laung Liu,nthu-cs,Theory & Algorithms,0,4,4,4
+nthu-cs-wenlianhsu-baee37b511,Wen-Lian Hsu,Wen-Lian Hsu,nthu-cs,AI & Machine Learning,1,3,3,3
+nthu-cs-丁川康-09362c5c83,丁川康,Chuan-Kang Ting,nthu-cs,AI & Machine Learning,1,2,7,2
+nthu-cs-劉炯朗-714cd73f70,劉炯朗,nan,nthu-cs,"Robotics, Control & Smart Manufacturing",0,4,5,4
+nthu-cs-吳中浩-2da90a2f27,吳中浩,Wu Chung -Haw,nthu-cs,"Systems, Software & Architecture",0,1,5,1
+nthu-cs-吳尚鴻-69aaff2ef5,吳尚鴻,Shan-Hung Wu,nthu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nthu-cs-周志遠-5af43e1b90,周志遠,nan,nthu-cs,"Systems, Software & Architecture",0,1,1,1
+nthu-cs-周百祥-cf9a8d7b4b,周百祥,Pai H. Chou,nthu-cs,"Systems, Software & Architecture",0,1,1,1
+nthu-cs-唐傳義-7f081eb094,唐傳義,Chuan-Yi Tang,nthu-cs,Biomedical & Health Informatics,0,4,4,4
+nthu-cs-孫宏民-ae6348d2b8,孫宏民,Hung-Min Sun,nthu-cs,"Security, Privacy & Cryptography",1,2,8,2
+nthu-cs-張世杰-c7720e7bf2,張世杰,nan,nthu-cs,"Robotics, Control & Smart Manufacturing",0,1,5,1
+nthu-cs-張俊盛-260bd4fef4,張俊盛,Jason S. Chang,nthu-cs,AI & Machine Learning,1,3,3,3
+nthu-cs-張君天-43ab3fd7b9,張君天,Chun-Tien Chang,nthu-cs,Biomedical & Health Informatics,0,4,6,4
+nthu-cs-張峻銘-b2df996158,張峻銘,Tsun Ming Cheung,nthu-cs,Theory & Algorithms,0,4,4,4
+nthu-cs-張正尚-0173f59db1,張正尚,Cheng-Shang Chang,nthu-cs,Applied Mathematics & Operations Research,0,2,2,2
+nthu-cs-張真誠-f90f3dfae1,張真誠,Chin-Chen Chang,nthu-cs,"Security, Privacy & Cryptography",2,0,8,0
+nthu-cs-張隆紋-6579e42cba,張隆紋,Long-Wen Chang,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-張韻詩-a94b4eca78,張韻詩,nan,nthu-cs,"Systems, Software & Architecture",0,1,1,1
+nthu-cs-徐正炘-8b568ce001,徐正炘,Cheng-Hsin Hsu,nthu-cs,Networks & Communications,0,2,2,2
+nthu-cs-徐爵民-eade3af147,徐爵民,Jyuo-Min Shyu,nthu-cs,Applied Mathematics & Operations Research,0,1,5,1
+nthu-cs-朱宏國-642998a4aa,朱宏國,Hung-Kuo Chu,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-李哲榮-722a84d1c8,李哲榮,nan,nthu-cs,Applied Mathematics & Operations Research,0,1,1,1
+nthu-cs-李家同-c1f2d67113,李家同,nan,nthu-cs,"Systems, Software & Architecture",0,1,4,1
+nthu-cs-李政崑-965a47032e,李政崑,Jenq-Kuen Lee,nthu-cs,"Systems, Software & Architecture",0,1,1,1
+nthu-cs-李端興-72950bb080,李端興,Duan-Shin Lee,nthu-cs,AI & Machine Learning,1,3,3,3
+nthu-cs-林桂傑-3eab7348de,林桂傑,Kwei-Jay Lin,nthu-cs | ntu-cs-ie,Information Systems & Management,0,1,1,1
+nthu-cs-林永隆-971ac78e0f,林永隆,nan,nthu-cs,"Robotics, Control & Smart Manufacturing",0,1,5,1
+nthu-cs-林沿妊-ab6c251917,林沿妊,nan,nthu-cs,Biomedical & Health Informatics,0,4,6,4
+nthu-cs-林瀚仚-8176500c13,林瀚仚,Han-Hsuan Lin,nthu-cs,"Systems, Software & Architecture",0,1,5,1
+nthu-cs-林華君-4d8a5842a2,林華君,Hwa-Chun Lin,nthu-cs,Networks & Communications,1,2,2,2
+nthu-cs-梁雅鈞-9f3d7465e1,梁雅鈞,Ya-Chun Liang,nthu-cs,Applied Mathematics & Operations Research,0,4,4,4
+nthu-cs-楊熙年-e1cd89ea15,楊熙年,Shi-Nine Yang,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-楊舜仁-77d533ddf8,楊舜仁,nan,nthu-cs,Networks & Communications,1,2,2,2
+nthu-cs-沈之涯-d5bb9630d8,沈之涯,Chih-Ya Shen,nthu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nthu-cs-洪仕軒-a9fa041928,洪仕軒,Shih-Hsuan Hung,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-王俊堯-29ae2991f7,王俊堯,Chun-Yao Wang,nthu-cs,"Robotics, Control & Smart Manufacturing",0,1,5,1
+nthu-cs-王家祥-79b45fac37,王家祥,Jia-Shung Wang,nthu-cs,AI & Machine Learning,0,4,4,4
+nthu-cs-王廷基-66e8de998a,王廷基,Ting-Chi Wang,nthu-cs,"Robotics, Control & Smart Manufacturing",0,4,5,4
+nthu-cs-王炳豐-db84c4528b,王炳豐,Biing-Feng Wang,nthu-cs,"Systems, Software & Architecture",0,4,4,4
+nthu-cs-盧錦隆-6983c0f1dd,盧錦隆,Chin-Lung Lu,nthu-cs,Theory & Algorithms,0,4,4,4
+nthu-cs-石維寬-b54c54300e,石維寬,Wei-Kuan Shih,nthu-cs,"Systems, Software & Architecture",0,4,4,4
+nthu-cs-羅婈-fdd893b309,羅婈,Ling Lo,nthu-cs,AI & Machine Learning,2,0,0,0
+nthu-cs-翁正明-fe545e34a2,翁正明,Cheng-Ming Weng,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-胡敏君-d30f85d433,胡敏君,Min-Chun Hu,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-葉肩宇-1907b9cbf9,葉肩宇,nan,nthu-cs,"Security, Privacy & Cryptography",0,1,1,1
+nthu-cs-蔡仁松-13fcaf5bbe,蔡仁松,Ren-Song Tsay,nthu-cs,"Security, Privacy & Cryptography",1,2,2,2
+nthu-cs-蔡明哲-9d609636c8,蔡明哲,Ming-Jer Tsai,nthu-cs,Theory & Algorithms,0,4,4,4
+nthu-cs-蘇豐文-f06969cec0,蘇豐文,nan,nthu-cs,AI & Machine Learning,0,4,6,4
+nthu-cs-許健平-128c6ac6ab,許健平,Jang-Ping Sheu,nthu-cs,Networks & Communications,1,2,2,2
+nthu-cs-許秋婷-e17039873f,許秋婷,Chiou-Ting Hsu,nthu-cs,AI & Machine Learning,2,0,0,0
+nthu-cs-許聞廉-24d823b30b,許聞廉,nan,nthu-cs,Biomedical & Health Informatics,0,4,4,4
+nthu-cs-謝源-fe3951f144,謝源,Yuan Xie,nthu-cs,"Systems, Software & Architecture",0,1,5,1
+nthu-cs-賴尚宏-15f146b4f1,賴尚宏,Shang-Hong Lai,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-邱德泉-23a7d7b698,邱德泉,Te-Chuan Chiu,nthu-cs,Networks & Communications,1,2,2,2
+nthu-cs-邱瀞德-99539b19ee,邱瀞德,Ching-Te Chiu,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-郭昱廷-cb1da4e458,郭昱廷,Yu-Ting Kuo,nthu-cs,AI & Machine Learning,2,0,0,0
+nthu-cs-郭柏志-70f6925e3a,郭柏志,Po-Chih Kuo,nthu-cs,AI & Machine Learning,2,0,0,0
+nthu-cs-金仲達-87bd908f7e,金仲達,Chung-Ta King,nthu-cs,Networks & Communications,0,2,2,2
+nthu-cs-金陽和-83ed0dbb2c,金陽和,Y.H. Chin,nthu-cs,"Data, Databases & Knowledge Discovery",0,4,4,4
+nthu-cs-鍾葉青-fb3791172c,鍾葉青,Yeh-Ching Chung,nthu-cs,Networks & Communications,0,1,1,1
+nthu-cs-闕志克-667b8d485c,闕志克,Tzi-Cker Chiueh,nthu-cs,"Security, Privacy & Cryptography",1,2,8,2
+nthu-cs-陳宜欣-10568557fc,陳宜欣,Yi-Shin Chen,nthu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nthu-cs-陳文村-da14007351,陳文村,nan,nthu-cs,Networks & Communications,1,2,2,2
+nthu-cs-陳煥宗-7c43119c40,陳煥宗,nan,nthu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nthu-cs-陳耘志-1b3b5d7ab0,陳耘志,Yun-Chih Chen,nthu-cs,"Data, Databases & Knowledge Discovery",1,1,1,1
+nthu-cs-陳聿廣-13aceaf00c,陳聿廣,nan,nthu-cs,"Robotics, Control & Smart Manufacturing",0,1,5,1
+nthu-cs-陳良弼-2847ebc1d7,陳良弼,Arbee L.P Chen,nthu-cs,AI & Machine Learning,1,3,3,3
+nthu-cs-韓永楷-05d57868e3,韓永楷,Wing-Kai Hon,nthu-cs,Theory & Algorithms,0,4,4,4
+nthu-cs-顏子斌-46d093b11d,顏子斌,Tzu-Bin Yan,nthu-cs,"Security, Privacy & Cryptography",1,2,8,2
+nthu-cs-高宏宇-e0f4516945,高宏宇,Hung-Yu Kao,nthu-cs,AI & Machine Learning,1,3,3,3
+nthu-cs-高榮駿-458af60731,高榮駿,Jung-Chun Kao,nthu-cs,Networks & Communications,1,2,2,2
+nthu-cs-麥偉基-5269f158c4,麥偉基,Wai-Kei Mak,nthu-cs,Applied Mathematics & Operations Research,0,4,4,4
+nthu-cs-黃婷婷-c521072c08,黃婷婷,Ting-Ting Hwang,nthu-cs,"Robotics, Control & Smart Manufacturing",0,1,5,1
+nthu-cs-黃慶育-97536649ca,黃慶育,Chin-Yu Huang,nthu-cs,"Systems, Software & Architecture",0,1,1,1
+nthu-cs-黃稚存-6ad9444e87,黃稚存,Chih-Tsun Huang,nthu-cs,AI & Machine Learning,2,0,5,0
+nthu-cs-黃能富-478224d15b,黃能富,Nen-Fu Huang,nthu-cs,Networks & Communications,1,2,2,2
+ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,廖婉君,Wanjiun Liao,ntu-cs-ie,AI & Machine Learning,1,2,2,2
+ntu-comm-engin-ds-network-李宏毅-617adf302c,李宏毅,Hung-yi Lee,ntu-cs-ie,AI & Machine Learning,2,3,0,3
+ntu-comm-engin-ds-network-李琳山-193d6b842c,李琳山,Lin-Shan Lee,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-comm-engin-ds-network-葉丙成-281ee85757,葉丙成,Ping-Cheng Yeh,ntu-cs-ie,Networks & Communications,1,2,2,2
+ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,陳銘憲,Ming-Syan Chen,ntu-cs-ie,"Data, Databases & Knowledge Discovery",1,3,3,3
+ntu-cs-ie-acpang-9884f42033,逄愛君,Ai-Chun Pang,ntu-cs-ie,Networks & Communications,1,2,2,2
+ntu-cs-ie-borsungliang-d27fbde277,梁伯嵩,Bor-Sung Liang,ntu-cs-ie | nycu-cs,AI & Machine Learning,1,2,5,2
+ntu-cs-ie-bychen-c5555c9a2f,陳炳宇,Bing-Yu Chen,ntu-cs-ie | ntu-im,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-cfchou-e60f76bba3,周承復,Cheng-Fu Chou,ntu-cs-ie,AI & Machine Learning,2,0,0,0
+ntu-cs-ie-chunyilee-d91b936234,李濬屹,Chun-Yi Lee,ntu-cs-ie,"Systems, Software & Architecture",0,1,5,1
+ntu-cs-ie-chusongchen-19351beadd,陳祝嵩,Chu-Song Chen,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-cjlin-c23da9cccb,林智仁,CJ Lin,ntu-cs-ie,AI & Machine Learning,1,3,3,3
+ntu-cs-ie-clyang-d0981273f4,楊佳玲,Chia-Lin Yang,ntu-cs-ie,"Data, Databases & Knowledge Discovery",0,1,1,1
+ntu-cs-ie-csfuh-8bd0c9a460,傅楸善,Chiou-Shann Fuh,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-csshih-6714f0cdd0,施吉昇,Chi-Sheng Shih,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-cwhsueh-17fce3b74f,薛智文,Chih-Wen Hsueh,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-cwlin-9895f94a62,林忠緯,Chung-Wei Lin,ntu-cs-ie,"Security, Privacy & Cryptography",0,1,1,1
+ntu-cs-ie-cyliou-b8313079ec,劉長遠,Cheng-Yuan Liou,ntu-cs-ie,AI & Machine Learning,2,0,0,0
+ntu-cs-ie-dingyonghong-722d8f7585,洪鼎詠,Ding-Yong Hong,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-dtlee-ddd84693f6,李德財,Der-Tsai Lee,ntu-cs-ie,"Systems, Software & Architecture",0,4,4,4
+ntu-cs-ie-fangjingwu-0e7f46cd57,巫芳璟,Fang-Jing Wu,ntu-cs-ie,Networks & Communications,1,2,2,2
+ntu-cs-ie-fplai-2ea339a83a,賴飛羆,Feipei Lai,ntu-cs-ie,Biomedical & Health Informatics,1,2,8,2
+ntu-cs-ie-ghchen-6420c9bb16,陳健輝,Gen-Huey Chen,ntu-cs-ie,Networks & Communications,0,4,4,4
+ntu-cs-ie-hhchen-7401af7bf1,陳信希,Hsin-Hsi Chen,ntu-cs-ie,"Data, Databases & Knowledge Discovery",1,3,3,3
+ntu-cs-ie-hhchu-844927e4cf,朱浩華,Hao-Hua Chu,ntu-cs-ie,Networks & Communications,2,0,0,0
+ntu-cs-ie-hilu-d3cc107f32,呂學一,Hsueh-I Lu,ntu-cs-ie,Theory & Algorithms,0,4,4,4
+ntu-cs-ie-hmtsai-001886954a,蔡欣穆,HM Tsai,ntu-cs-ie,AI & Machine Learning,1,2,8,2
+ntu-cs-ie-hsuanchenghuang-4a05bef87b,黃宣誠,Hsuan-Cheng Huang,ntu-cs-ie,Biomedical & Health Informatics,0,3,3,3
+ntu-cs-ie-hsuchunhsiao-0666e32db0,蕭旭君,Hsu-Chun Hsiao,ntu-cs-ie,"Security, Privacy & Cryptography",1,2,8,2
+ntu-cs-ie-htlin-969f525d2d,林軒田,Hsuan-Tien Lin,ntu-cs-ie,AI & Machine Learning,1,3,3,3
+ntu-cs-ie-hwhon-8567f422b4,洪小文,Hsiao-Wuen Hon,ntu-cs-ie,AI & Machine Learning,1,3,3,3
+ntu-cs-ie-jiefanchang-fcddfe88b0,張傑帆,Jie-Fan Chang,ntu-cs-ie,AI & Machine Learning,2,0,0,0
+ntu-cs-ie-jiehhsiang-90a6272e7f,項潔,Jieh Hsiang,ntu-cs-ie,AI & Machine Learning,1,2,7,2
+ntu-cs-ie-jlee-8d3dfca2d4,李允中,Jonathan Lee,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-jlwu-0ea4251db7,吳家麟,Jia-Ling Wu,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-jsjang-bd821014e6,張智星,Jyh-Shing Roger Jang,ntu-cs-ie,AI & Machine Learning,1,3,3,3
+ntu-cs-ie-kaiminchung-1ecea18825,鐘楷閔,Kai-Min Chung,ntu-cs-ie,"Security, Privacy & Cryptography",1,2,8,2
+ntu-cs-ie-katelin-92cc65958e,林靖茹,Ching-Ju Lin,ntu-cs-ie,AI & Machine Learning,1,2,2,2
+ntu-cs-ie-kmchao-a077c2e3e5,趙坤茂,Kun-Mao Chao,ntu-cs-ie,Biomedical & Health Informatics,0,4,4,4
+ntu-cs-ie-kwanliuma-aa49af3036,馬匡六,Kwan-Liu Ma,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-lcfu-0a2a6d8908,傅立成,Li-Chen Fu,ntu-cs-ie,AI & Machine Learning,2,0,0,0
+ntu-cs-ie-lungpancheng-bd8ab20b0b,鄭龍磻,Lung-Pan Cheng,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-mikeychen-e0f3b8ad08,陳彥仰,Mike Yen-Yang Chen,ntu-cs-ie,Networks & Communications,2,2,0,2
+ntu-cs-ie-mouhyoung-51e697d410,歐陽明,Ming Ouhyoung,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-mslee-a3c2ec9374,李明穗,Ming-Sui Lee,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-pfliu-a4b8a4e929,劉邦鋒,Pangfeng Liu,ntu-cs-ie,AI & Machine Learning,0,4,4,4
+ntu-cs-ie-pjcheng-d0b6b668e5,鄭卜壬,Pu-Jen Cheng,ntu-cs-ie,"Data, Databases & Knowledge Discovery",1,3,3,3
+ntu-cs-ie-rfchang-4f18bf6937,張瑞峰,Ruey-Feng Chang,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-sdlin-d4d6f26c5f,林守德,Shou-De Lin,ntu-cs-ie,AI & Machine Learning,1,3,3,3
+ntu-cs-ie-shangenhuang-161fb441cf,黃上恩,Shang-En Huang,ntu-cs-ie,Theory & Algorithms,0,4,4,4
+ntu-cs-ie-shangtsechen-68ade9cf16,陳尚澤,Shang-Tse Chen,ntu-cs-ie,AI & Machine Learning,1,3,3,3
+ntu-cs-ie-shanyuanteng-a74b187adf,鄧善元,Shan-Yuan Teng,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-shaoyuanlo-aef937e217,羅紹元,Shao-Yuan Lo,ntu-cs-ie,AI & Machine Learning,1,2,7,2
+ntu-cs-ie-shengdewang-f22c6c99e2,王勝德,Sheng-De Wang,ntu-cs-ie,Networks & Communications,0,1,1,1
+ntu-cs-ie-shhung-41c464eeb6,洪士灝,Shih-Hao Hung,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-shihhsinwang-5c3f5f97c1,王士欣,Shih-Hsin Wang,ntu-cs-ie,AI & Machine Learning,1,2,7,2
+ntu-cs-ie-shihweili-fd4467548b,黎士瑋,Shih-Wei Li,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-shihweiliao-e37c5cad8a,廖世偉,Shih-wei Liao,ntu-cs-ie,"Data, Databases & Knowledge Discovery",0,3,3,3
+ntu-cs-ie-taiyihuang-35a9a87e4f,黃泰一,Tai-Yi Huang,ntu-cs-ie | nycu-cs,AI & Machine Learning,1,1,1,1
+ntu-cs-ie-terrencechou-51f1a6db3d,周存貹,Terrence Chou,ntu-cs-ie,"Security, Privacy & Cryptography",1,2,8,2
+ntu-cs-ie-tshsu-28e268a2d5,徐讚昇,Tsan-Sheng Hsu,ntu-cs-ie,Theory & Algorithms,0,4,4,4
+ntu-cs-ie-tsungweike-987483f265,柯宗瑋,Tsung-Wei Ke,ntu-cs-ie,AI & Machine Learning,2,0,0,0
+ntu-cs-ie-twkuo-d3cfd9197c,郭大維,Tei-Wei Kuo,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-wcchen-ce7e66d156,陳文進,Wen-Chin Chen,ntu-cs-ie,"Data, Databases & Knowledge Discovery",0,4,4,4
+ntu-cs-ie-wchsu-26f450013c,徐慰中,Wei-Chung Hsu,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-weichaochen-820145e009,陳維超,Wei-Chao Chen,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-wenhuangcheng-8221ffdc39,鄭文皇,Wen-Huang Cheng,ntu-cs-ie,AI & Machine Learning,2,0,0,0
+ntu-cs-ie-winstonhsu-206405b911,徐宏民,Winston H. Hsu,ntu-cs-ie,AI & Machine Learning,2,0,0,0
+ntu-cs-ie-wmyan-d6a9dcb9ff,顏文明,Wen-Ming Yan,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-yaowenchang-e8bf92777c,張耀文,Yao-Wen Chang,ntu-cs-ie,AI & Machine Learning,1,1,5,1
+ntu-cs-ie-ydlyuu-ca115abad3,呂育道,Yuh-Dauh Lyuu,ntu-cs-ie,"Systems, Software & Architecture",0,4,4,4
+ntu-cs-ie-yenhuanli-d344991808,李彥寰,Yen-Huan Li,ntu-cs-ie,Statistics & Statistical Methods,0,4,6,4
+ntu-cs-ie-yichiliao-7e93131d46,廖以圻,Yi-Chi Liao,ntu-cs-ie,AI & Machine Learning,1,2,7,2
+ntu-cs-ie-yipinghung-ed06deae8f,洪一平,Yi-Ping Hung,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-yjhsu-ef1c81cb62,許永真,Jane Yung-Jen Hsu,ntu-cs-ie,"Data, Databases & Knowledge Discovery",1,3,3,3
+ntu-cs-ie-yjoyang-fee45b2738,歐陽彥正,Yen-Jen Oyang,ntu-cs-ie,AI & Machine Learning,0,4,6,4
+ntu-cs-ie-yjtseng-dc282d14ca,曾宇鳳,Yufeng Jane Tseng,ntu-cs-ie,Biomedical & Health Informatics,0,4,6,4
+ntu-cs-ie-yuanhaochang-84d776f267,張原豪,Yuan-Hao Chang,ntu-cs-ie,"Systems, Software & Architecture",0,1,1,1
+ntu-cs-ie-yunnungchen-3195f50578,陳縕儂,Yun-Nung Chen,ntu-cs-ie,AI & Machine Learning,1,3,3,3
+ntu-cs-ie-yychuang-14a2c6366c,莊永裕,Yung-Yu Chuang,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-劉睦雄-ba3d0c924c,劉睦雄,Mu-Shiung Liu,ntu-cs-ie,Applied Mathematics & Operations Research,0,1,1,1
+ntu-cs-ie-林一鵬-5c1481405f,林一鵬,I-Peng Lin,ntu-cs-ie,AI & Machine Learning,1,3,3,3
+ntu-cs-ie-湯耀中-c089a7bc21,湯耀中,Gregory Y. Tang,ntu-cs-ie,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-cs-ie-許舜欽-908ebaaeaa,許舜欽,Shun-Chin Hsu,ntu-cs-ie,AI & Machine Learning,1,2,7,2
+ntu-cs-ie-陳俊良-323382e455,陳俊良,Chuen-Liang Chen,ntu-cs-ie,Biomedical & Health Informatics,0,1,1,1
+ntu-cs-ie-高成炎-438b507e91,高成炎,Cheng-Yan Kao,ntu-cs-ie,Biomedical & Health Informatics,0,1,1,1
+ntu-ds-kulunwei-57dc39df53,古倫維,"Ku, Lun-Wei",nycu-cs,AI & Machine Learning,1,3,3,3
+ntu-im-何承遠-cf78426b61,何承遠,Cheng-Yuan Ho,ntu-im,AI & Machine Learning,1,3,2,3
+ntu-im-劉若慧-6dfb552dd3,劉若慧,Olivia Liu Sheng,ntu-im,"Data, Databases & Knowledge Discovery",0,3,3,3
+ntu-im-吳玲玲-b1cc11729b,吳玲玲,Ling-Ling Wu,ntu-im,Information Systems & Management,1,3,2,3
+ntu-im-孔令傑-e559d7c758,孔令傑,Ling-Chieh Kung,ntu-im,Applied Mathematics & Operations Research,0,3,2,3
+ntu-im-孫雅麗-3feed1b304,孫雅麗,Yeali Sun,ntu-im,AI & Machine Learning,1,2,2,2
+ntu-im-彭志宏-82251610cf,彭志宏,Chih-Hung PENG,ntu-im,Information Systems & Management,1,3,3,3
+ntu-im-曹承礎-c4150b76bf,曹承礎,Seng-Cho Chou,ntu-im,Information Systems & Management,1,3,3,3
+ntu-im-李根逸-da82e4a379,李根逸,Ken-Yi Lee,ntu-im,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-im-李瑞庭-aa45881e08,李瑞庭,J. T. Lee,ntu-im,AI & Machine Learning,1,3,3,3
+ntu-im-林永松-dc984527a6,林永松,Yeong-Sung Lin,ntu-im,Networks & Communications,1,3,2,3
+ntu-im-楊立偉-002d946f70,楊立偉,Willie Li-wei Yang,ntu-im,Information Systems & Management,1,3,2,3
+ntu-im-王春笙-478b704144,王春笙,Chun-Sheng Wang,ntu-im,"Data, Databases & Knowledge Discovery",1,3,3,3
+ntu-im-畢南怡-4db729714a,畢南怡,Nanyi Bi,ntu-im,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+ntu-im-盧信銘-ac737946aa,盧信銘,Hsin-Min Lu,ntu-im,AI & Machine Learning,1,3,3,3
+ntu-im-穆信成-cf38907306,穆信成,Shin-Cheng Mu,ntu-im,"Systems, Software & Architecture",0,1,1,1
+ntu-im-翁崇雄-a45a797db7,翁崇雄,Chorng-Shyong Ong,ntu-im,Information Systems & Management,1,3,2,3
+ntu-im-莊裕澤-6aba42587c,莊裕澤,Yuh-Jzer Joung,ntu-im,Information Systems & Management,0,3,2,3
+ntu-im-蔡益坤-b2ae2b2f7c,蔡益坤,Yih-Kuen Tsay,ntu-im,"Security, Privacy & Cryptography",0,1,1,1
+ntu-im-蕭邱漢-887e21f502,蕭邱漢,Chiu-Han Hsiao,ntu-im,Networks & Communications,1,2,2,2
+ntu-im-陳仲儼-e8851126e5,陳仲儼,Jung-Yan Chen,ntu-im,"Systems, Software & Architecture",0,1,1,1
+ntu-im-陳建錦-02f4784706,陳建錦,Chien Chin Chen,ntu-im,"Data, Databases & Knowledge Discovery",1,3,3,3
+ntu-im-陳文賢-0756ac0f09,陳文賢,Wen-Hsien Chen,ntu-im,Information Systems & Management,0,3,2,3
+ntu-im-陳炘鈞-a14cb18eab,陳炘鈞,Hsin-Chun Chen,ntu-im,"Data, Databases & Knowledge Discovery",1,3,3,3
+ntu-im-陳靜枝-eab2ccfdb6,陳靜枝,Ching-Chin Chern,ntu-im,Information Systems & Management,1,3,2,3
+ntu-im-魏志平-1e1877736d,魏志平,Chih-Ping Wei,ntu-im,"Data, Databases & Knowledge Discovery",1,3,3,3
+ntu-im-魏資文-17ab818dbe,魏資文,Tzu-Wen Wei,ntu-im,Information Systems & Management,1,3,2,3
+ntu-im-黃意婷-dd1ec1a025,黃意婷,Yi-Ting Huang,ntu-im,AI & Machine Learning,1,3,8,3
+ntu-im-黃明蕙-69aee8c193,黃明蕙,Ming-Hui Huang,ntu-im,AI & Machine Learning,1,2,7,2
+nycu-cs-albertchen-b778265b06,陳逸萍,Albert Chen,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-anziyen-c5e4ec36a0,顏安孜,An-Zi Yen,nycu-cs,AI & Machine Learning,1,3,3,3
+nycu-cs-baoshuhpaullin-f45b49177f,林寶樹,Bao-Shuh Paul Lin,nycu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nycu-cs-changjiuchen-623e005323,陳昌居,Chang-Jiu Chen,nycu-cs,"Systems, Software & Architecture",0,1,5,1
+nycu-cs-chaokaichiang-014eb10d77,蔣兆凱,Chao-Kai Chiang,nycu-cs,Applied Mathematics & Operations Research,0,4,4,4
+nycu-cs-chencheng-ff117c41c9,陳正,Chen Cheng,nycu-cs,"Systems, Software & Architecture",0,1,5,1
+nycu-cs-chengchunglin-d77196b666,林正中,Cheng-Chung Lin,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-chengkuanlin-542e57dc09,林政寬,Cheng-Kuan Lin,nycu-cs,AI & Machine Learning,1,2,2,2
+nycu-cs-chiahoanglee-c1b52dd580,李嘉晃,Chia-Hoang Lee,nycu-cs,AI & Machine Learning,1,2,7,2
+nycu-cs-chiamuyu-baf01c6c43,游家牧,Chia-Mu Yu,nycu-cs,AI & Machine Learning,1,2,8,2
+nycu-cs-chienchaotseng-d8137d52bf,曾建超,Chien-Chao Tseng,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-chienchen-e28bfad248,陳健,Chien Chen,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-chihweiyi-09071093fb,易志偉,Chih-Wei Yi,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-chingchunhuang-4300ad3a0d,黃敬群,Ching-Chun Huang,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-chiyuli-f64e0331c5,李奇育,CHI-YU LI,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-chuentsaisun-1084a4d050,孫春在,Chuen-Tsai Sun,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-chulankao-a2f5f3a7bf,高竹嵐,Chu-Lan Kao,nycu-cs,Statistics & Statistical Methods,0,4,6,4
+nycu-cs-chunfengwu-749fae2324,吳俊峯,Chun-Feng Wu,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-chungpingchung-e03e9cf670,鍾崇斌,Chung-Ping Chung,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-chunifan-25975207ac,范俊逸,Chun-I FAN,nycu-cs,AI & Machine Learning,1,2,8,2
+nycu-cs-chunjentsai-31585fceca,蔡淳仁,Chun-Jen Tsai,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-chunronghuang-e31844e5ff,黃春融,Chun-Rong Huang,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-chunshuwei-bd7c6c6cbb,魏群樹,Chun-Shu Wei,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-chunyinghuang-8274c3d2d8,黃俊穎,Chun-Ying Huang,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-chunyulin-eb97e98272,林峻宇,Chun-Yu Lin,nycu-cs,Biomedical & Health Informatics,0,4,6,4
+nycu-cs-chyangoeichung-3589223c97,鍾乾癸,Chyan-Goei Chung,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-ciouyuanchen-19348dd8be,陳秋媛,CIOU-YUAN CHEN,nycu-cs,Theory & Algorithms,0,4,4,4
+nycu-cs-davidhungchangdu-fbf57e0d1d,杜宏章,David Hung-Chang Du,nycu-cs,"Data, Databases & Knowledge Discovery",0,1,1,1
+nycu-cs-denniswang-ad355464b4,王邦任,Dennis Wang,nycu-cs,Biomedical & Health Informatics,2,0,0,0
+nycu-cs-fandellin-355296aa1b,林寰鐸,Fandel Lin,nycu-cs,AI & Machine Learning,1,3,3,3
+nycu-cs-fengjianwang-d39029c5b2,王豐堅,Feng-Jian Wang,nycu-cs,Networks & Communications,0,1,1,1
+nycu-cs-fuhauhsu-7d03be9742,許富皓,Fu-Hau Hsu,nycu-cs,"Security, Privacy & Cryptography",0,1,1,1
+nycu-cs-guanhuahuang-c739eb01e5,黃冠華,GUAN-HUA HUANG,nycu-cs,Biomedical & Health Informatics,0,4,6,4
+nycu-cs-harrywaihowong-b233b535e5,王偉豪,Harry Wai Ho Wong,nycu-cs,"Security, Privacy & Cryptography",1,2,8,2
+nycu-cs-henryhorngshinglu-4a431c90e1,盧鴻興,Henry Horng-Shing Lu,nycu-cs,Applied Mathematics & Operations Research,0,4,6,4
+nycu-cs-hsiluchao-8cc2ec929a,趙禧綠,Hsi-Lu Chao,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-hsinchiafu-9c15fb612b,傅心家,Hsin-Chia Fu,nycu-cs,AI & Machine Learning,2,0,7,0
+nycu-cs-hsiuyingwang-b0710cdb64,王秀瑛,Hsiu-Ying Wang,nycu-cs,Statistics & Statistical Methods,0,4,6,4
+nycu-cs-hsufenghsiao-a993ebeba6,蕭旭峰,Hsu-Feng Hsiao,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-hueinianhong-bfb4677fda,洪慧念,HUEI-NIAN HONG,nycu-cs,Applied Mathematics & Operations Research,0,4,6,4
+nycu-cs-ichenlin-6ba082f1de,林奕成,I-Chen Lin,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-ichenwu-a745312e56,吳毅成,I-Chen Wu,nycu-cs,AI & Machine Learning,1,2,7,2
+nycu-cs-ihengmeng-d93e9ca59d,蒙以亨,I Heng Meng,nycu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nycu-cs-jasonyibinglin-a81c69af89,林一平,Jason Yi-Bing Lin,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-jeanjyhjiunshann-a5cae0db34,單智君,Jean Jyh-Jiun Shann,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-jenhuichuang-3cb2bcd4b1,莊仁輝,Jen-Hui Chuang,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-jenqnenghwang-d231fe3af3,黃正能,Jenq-Neng Hwang,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-jentzungchien-0e6e82e914,簡仁宗,Jen-Tzung Chien,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-jhihrongchen-063b4650df,陳志榮,JHIH-RONG CHEN,nycu-cs,Statistics & Statistical Methods,0,4,6,4
+nycu-cs-jimmyjmtan-32fa81395b,譚建民,Jimmy J.M. Tan,nycu-cs,Theory & Algorithms,0,4,4,4
+nycu-cs-jinnmoonyang-a565e89514,楊進木,Jinn-Moon Yang,nycu-cs,Biomedical & Health Informatics,0,4,6,4
+nycu-cs-jiunlonghuang-a091703505,黃俊龍,Jiun-Long Huang,nycu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nycu-cs-jongchuangtsay-8476cdaaab,蔡中川,Jong-Chuang Tsay,nycu-cs,"Systems, Software & Architecture",0,4,4,4
+nycu-cs-juihunghung-00f0b25000,洪瑞鴻,Jui-Hung Hung,nycu-cs,AI & Machine Learning,0,4,4,4
+nycu-cs-junghongchuang-dc2cbcbefa,莊榮宏,Jung-Hong Chuang,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-jyhchengchen-3ea270c995,陳志成,Jyh-Cheng Chen,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-kaichiangwu-34f06ed7b9,吳凱強,Kai-Chiang Wu,nycu-cs,AI & Machine Learning,1,1,5,1
+nycu-cs-kouyuanhuang-85a556603b,黃國源,Kou-Yuan Huang,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-kuanwenchen-78bcb4ae61,陳冠文,Kuan-Wen Chen,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-kuoanhwang-41f3d7be96,黃國安,Kuo-An Hwang,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-kuochenwang-4c84cd426d,王國禎,Kuo-Chen Wang,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-kuohuiyeh-60e6731211,葉國暉,Kuo-Hui Yeh,nycu-cs,"Security, Privacy & Cryptography",1,2,8,2
+nycu-cs-landavan-4c6441da0d,范倫達,Lan-Da Van,nycu-cs,AI & Machine Learning,2,4,4,4
+nycu-cs-lihsingyen-ede27140ba,嚴力行,Li-Hsing Yen,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-linghweichen-36cc189e4d,陳玲慧,Ling-Hwei Chen,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-lipinchang-68fafb736a,張立平,Li-Pin Chang,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-liweichan-cb049f6bb6,詹力韋,Liwei Chan,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-lopangyunting-3b16a3f0bf,丁羅邦芸,Lo Pang-Yun Ting,nycu-cs,AI & Machine Learning,1,3,3,3
+nycu-cs-mariacyuang-0b248f4f96,楊啟瑞,Maria C. Yuang,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-markliao-3ab99628be,廖弘源,Mark Liao,nycu-cs,AI & Machine Learning,2,0,7,0
+nycu-cs-menghsuntsai-28ab46dd17,蔡孟勳,Meng-Hsun Tsai,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-mingfengchang-1f41c91886,張明峰,Ming-Feng Chang,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-minzhengshieh-6add7d4ed1,謝旻錚,Min-Zheng Shieh,nycu-cs,Theory & Algorithms,0,4,4,4
+nycu-cs-mongjenkao-a4b0d44ba8,高孟駿,Mong-Jen Kao,nycu-cs,Applied Mathematics & Operations Research,0,4,4,4
+nycu-cs-philipsyu-32aa417b88,俞士綸,Philip S. Yu,nycu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nycu-cs-pingchunhsieh-65450d0a77,謝秉均,Ping-Chun Hsieh,nycu-cs,AI & Machine Learning,1,2,2,2
+nycu-cs-pokaiyang-cf78685bcf,楊博凱,Po-Kai Yang,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-robertchsieh-bbf69924e6,謝志鴻,Robert C. Hsieh,nycu-cs,Information Systems & Management,1,3,2,3
+nycu-cs-rongjayechen-92010fa6b3,陳榮傑,Rong-Jaye Chen,nycu-cs,Theory & Algorithms,0,4,4,4
+nycu-cs-rueichuanchang-4b1a14c4a7,張瑞川,Ruei-Chuan Chang,nycu-cs,Networks & Communications,0,1,1,1
+nycu-cs-sachiosemmoto-ef8589eda2,千本倖生,Sachio Semmoto,nycu-cs,Information Systems & Management,1,3,2,3
+nycu-cs-saikeungwong-f96a50c8c1,黃世強,Sai-Keung Wong,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-shenghsuanlin-e373817af9,林聖軒,Sheng-Hsuan Lin,nycu-cs,Statistics & Statistical Methods,0,4,6,4
+nycu-cs-shianshyongtseng-d3bd119f88,曾憲雄,Shian-Shyong Tseng,nycu-cs,"Systems, Software & Architecture",0,1,4,1
+nycu-cs-shiaolitsao-d45150ec07,曹孝櫟,Shiao-Li Tsao,nycu-cs,Networks & Communications,0,1,1,1
+nycu-cs-shiawshianyu-9f00080370,余孝先,Shiaw-Shian Yu,nycu-cs,Information Systems & Management,1,3,3,3
+nycu-cs-shichuntsai-2c8ef8afc5,蔡錫鈞,Shi-Chun Tsai,nycu-cs,Theory & Algorithms,0,4,4,4
+nycu-cs-shieyuanwang-c0a10157f3,王協源,Shie-Yuan Wang,nycu-cs,Networks & Communications,1,1,1,1
+nycu-cs-shihkunhuang-b8c345a5b6,黃世昆,Shih-Kun Huang,nycu-cs,"Security, Privacy & Cryptography",0,1,1,1
+nycu-cs-shiuhpyngshieh-cfcd6bedd1,謝續平,Shiuhpyng Shieh,nycu-cs,AI & Machine Learning,1,3,3,3
+nycu-cs-shuohanchen-e41f1e1a0b,陳碩漢,Shuo-Han Chen,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-shyanmingyuan-33e899b080,袁賢銘,Shyan-Ming Yuan,nycu-cs,"Systems, Software & Architecture",0,1,4,1
+nycu-cs-suhyinlee-86023df5c6,李素瑛,Suh-Yin Lee,nycu-cs,"Data, Databases & Knowledge Discovery",1,2,2,2
+nycu-cs-syho-4d3a7858ca,何信瑩,S.-Y. Ho,nycu-cs,Biomedical & Health Informatics,1,2,7,2
+nycu-cs-teshenglin-f7015f5fff,林得勝,Te-Sheng Lin,nycu-cs,AI & Machine Learning,1,3,3,3
+nycu-cs-tienfuchen-4c448823c1,陳添福,Tien-Fu Chen,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-tingjungchang-8694406b3f,張庭榕,Ting-Jung Chang,nycu-cs,"Systems, Software & Architecture",0,1,5,1
+nycu-cs-tingluhuang-7bb71e262e,黃廷祿,Ting-Lu Huang,nycu-cs,Networks & Communications,0,4,4,4
+nycu-cs-tsaipeiwang-5b213dba86,王才沛,Tsaipei Wang,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-tsungtaiyeh-aed61de71c,葉宗泰,Tsung-Tai Yeh,nycu-cs,AI & Machine Learning,1,2,5,2
+nycu-cs-tyneliang-16f83307e0,梁婷,Tyne Liang,nycu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nycu-cs-tzongyilee-a682aad84a,李宗夷,Tzong-Yi Lee,nycu-cs,AI & Machine Learning,0,3,3,3
+nycu-cs-tzuchienhsiao-e2f1ea5656,蕭子健,Tzu-Chien Hsiao,nycu-cs,Statistics & Statistical Methods,0,4,6,4
+nycu-cs-vincentstseng-9a223c9f3f,曾新穆,Vincent S. Tseng,nycu-cs,"Data, Databases & Knowledge Discovery",1,3,3,3
+nycu-cs-weichenchiu-3caf4c9228,邱維辰,Wei-Chen Chiu,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-weichingwang-636e5be695,王維菁,Wei-Ching Wang,nycu-cs,Biomedical & Health Informatics,0,4,6,4
+nycu-cs-wenchiehlin-8b8d7a58a8,林文杰,Wen-Chieh Lin,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-wenchihpeng-e0f2cd052a,彭文志,Wen-Chih Peng,nycu-cs,AI & Machine Learning,1,3,3,3
+nycu-cs-wengueytzeng-322bddcb23,曾文貴,Wen-Guey Tzeng,nycu-cs,"Security, Privacy & Cryptography",0,4,8,4
+nycu-cs-wenhsiangtsai-6d30bccf0e,蔡文祥,Wen-Hsiang Tsai,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-wenhsiaopeng-09b23b8ea5,彭文孝,Wen-Hsiao Peng,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-wennungtsai-e203bf6296,蔡文能,Wen-Nung Tsai,nycu-cs,Networks & Communications,1,2,2,2
+nycu-cs-wenpinghwang-3ec6c9d6ca,黃問泙,Wen-Ping Hwang,nycu-cs,Theory & Algorithms,0,4,4,4
+nycu-cs-wjtsai-821adecac2,蔡文錦,W. J. Tsai,nycu-cs,AI & Machine Learning,2,1,1,1
+nycu-cs-wuuyang-0962a60276,楊武,Wuu Yang,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-yawchungchen-fcbdbf6aa9,陳耀宗,Yaw-Chung Chen,nycu-cs,Networks & Communications,2,2,2,2
+nycu-cs-yenyulin-5a92a30687,林彥宇,Yen-Yu Lin,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-yihlangli-b43ed401d1,李毅郎,Yih-Lang Li,nycu-cs,"Systems, Software & Architecture",0,1,5,1
+nycu-cs-yijutseng-7702f61163,曾意儒,Yi-Ju Tseng,nycu-cs,AI & Machine Learning,1,3,3,3
+nycu-cs-yingdarlin-507b4b80a7,林盈達,Ying-Dar Lin,nycu-cs,AI & Machine Learning,1,2,7,2
+nycu-cs-yingpingchen-a268139c0e,陳穎平,Ying-Ping Chen,nycu-cs,AI & Machine Learning,0,4,4,4
+nycu-cs-yipingyou-26eb6eb15e,游逸平,Yi-Ping You,nycu-cs,"Systems, Software & Architecture",0,1,1,1
+nycu-cs-yitingchen-c0ac044810,陳奕廷,Yi-Ting Chen,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-yongshengchen-0447e10db7,陳永昇,Yong-Sheng Chen,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-yuangchehhsueh-31a965b1a3,薛元澤,Yuang-Cheh Hsueh,nycu-cs,Theory & Algorithms,0,4,4,4
+nycu-cs-yucheetseng-714071fcd3,曾煜棋,Yu-Chee Tseng,nycu-cs,AI & Machine Learning,1,2,2,2
+nycu-cs-yuchihchen-7ab9bc53da,陳昱芝,Yu-Chih Chen,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-yuchunyen-801e3b9f54,顏羽君,Yu-Chun Yen,nycu-cs,AI & Machine Learning,1,0,0,0
+nycu-cs-yuhjyhhu-4321b6e2c8,胡毓志,Yuh-Jyh Hu,nycu-cs,AI & Machine Learning,1,3,3,3
+nycu-cs-yulinwei-c6e4aed5d0,魏佑霖,Yu-Lin Wei,nycu-cs,AI & Machine Learning,1,2,2,2
+nycu-cs-yulunliu-3663ddf7cc,劉育綸,Yu-Lun Liu,nycu-cs,AI & Machine Learning,2,0,0,0
+nycu-cs-yungjuchang-a04a034080,張永儒,Yung-Ju Chang,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-yushuenwang-9e79dea00b,王昱舜,Yu-Shuen Wang,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-yusungwu-377df1bd69,吳育松,Yu-Sung Wu,nycu-cs,"Security, Privacy & Cryptography",0,1,1,1
+nycu-cs-yutaiching-49dcd94e56,荊宇泰,Yu-Tai Ching,nycu-cs,AI & Machine Learning,0,4,6,4
+nycu-cs-zenchen-ab4e753f4d,陳稔,Zen Chen,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-zenchungshih-17e118bf3c,施仁忠,Zen-Chung Shih,nycu-cs,"Vision, Multimedia & Human-Centered Computing",2,0,0,0
+nycu-cs-白培霖paipeilin-60cb86298c,"白培霖 Pai, Pei-Lin","白培霖 Pai, Pei-Lin",nycu-cs,AI & Machine Learning,1,2,7,2

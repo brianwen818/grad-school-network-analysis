@@ -1,0 +1,1732 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="source" attr.type="string"/>
+<key id="d12" for="node" attr.name="idf" attr.type="double"/>
+<key id="d11" for="node" attr.name="parent_l1" attr.type="string"/>
+<key id="d10" for="node" attr.name="parent_l2" attr.type="string"/>
+<key id="d9" for="node" attr.name="label" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ntu-ds-changronaldy-a78313ae63">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張佑榕</data>
+  <data key="d3">Chang, Ronald Y.</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-changronaldy-a78313ae63</data>
+</node>
+<node id="ntu-ds-changyaowen-7aab305c05">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張耀文</data>
+  <data key="d3">Chang, Yao-Wen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-changyaowen-7aab305c05</data>
+</node>
+<node id="ntu-ds-changyuanhao-1d8a41b51b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張原豪</data>
+  <data key="d3">Chang, Yuan-Hao</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-changyuanhao-1d8a41b51b</data>
+</node>
+<node id="ntu-ds-chenchusong-9acf325951">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳祝嵩</data>
+  <data key="d3">Chen, Chu-Song</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-chenchusong-9acf325951</data>
+</node>
+<node id="ntu-ds-chenghsiangyun-dd0d28d44a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭湘筠</data>
+  <data key="d3">Cheng, Hsiang-Yun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-chenghsiangyun-dd0d28d44a</data>
+</node>
+<node id="ntu-ds-chengpujen-ead86da3e9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭卜壬</data>
+  <data key="d3">Cheng, Pu-Jen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-chengpujen-ead86da3e9</data>
+</node>
+<node id="ntu-ds-chengwenhuang-7531301010">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭文皇</data>
+  <data key="d3">Cheng, Wen-Huang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-chengwenhuang-7531301010</data>
+</node>
+<node id="ntu-ds-chenhsinhsi-6c5257ce25">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳信希</data>
+  <data key="d3">Chen, Hsin-Hsi</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">chair</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-chenhsinhsi-6c5257ce25</data>
+</node>
+<node id="ntu-ds-chenjuncheng-090ef61af5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳駿丞</data>
+  <data key="d3">Chen, Jun-Cheng</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-chenjuncheng-090ef61af5</data>
+</node>
+<node id="ntu-ds-chenlingjyh-5fa406eb09">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳伶志</data>
+  <data key="d3">Chen, Ling-Jyh</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-chenlingjyh-5fa406eb09</data>
+</node>
+<node id="ntu-ds-chenmingsyan-8fa63ae675">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳銘憲</data>
+  <data key="d3">Chen, Ming-Syan</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">chair</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">3</data>
+  <data key="d9">ntu-ds-chenmingsyan-8fa63ae675</data>
+</node>
+<node id="ntu-ds-chenshangtse-47653327f1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳尚澤</data>
+  <data key="d3">Chen, Shang-Tse</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-chenshangtse-47653327f1</data>
+</node>
+<node id="ntu-ds-chenyufang-70dded9973">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳郁方</data>
+  <data key="d3">Chen, Yu-Fang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-chenyufang-70dded9973</data>
+</node>
+<node id="ntu-ds-chenyunnung-e290620faf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳縕儂</data>
+  <data key="d3">Chen, Yun-Nung</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-chenyunnung-e290620faf</data>
+</node>
+<node id="ntu-ds-chienmingchi-7c50de2827">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">紀建名</data>
+  <data key="d3">Chien-Ming Chi</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-chienmingchi-7c50de2827</data>
+</node>
+<node id="ntu-ds-chunhaoyang-8f0203e6f5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊鈞澔</data>
+  <data key="d3">Chun-Hao Yang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time | joint</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-chunhaoyang-8f0203e6f5</data>
+</node>
+<node id="ntu-ds-chunhouhchen-0af0210f26">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳君厚</data>
+  <data key="d3">Chun-Houh Chen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-chunhouhchen-0af0210f26</data>
+</node>
+<node id="ntu-ds-chunhsiunghsia-1536b23bc4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">夏俊雄</data>
+  <data key="d3">Chun-Hsiung Hsia</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-chunhsiunghsia-1536b23bc4</data>
+</node>
+<node id="ntu-ds-gaspardbernard-b86127ba99">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">柏嘉偲</data>
+  <data key="d3">Gaspard Bernard</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-gaspardbernard-b86127ba99</data>
+</node>
+<node id="ntu-ds-hongdingyong-97b7056823">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">洪鼎詠</data>
+  <data key="d3">Hong, Ding-Yong</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-hongdingyong-97b7056823</data>
+</node>
+<node id="ntu-ds-hsiehhungyun-d8718bc559">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝宏昀</data>
+  <data key="d3">Hsieh, Hung-Yun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-hsiehhungyun-d8718bc559</data>
+</node>
+<node id="ntu-ds-hsinchouyang-a5478bbe7e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊欣洲</data>
+  <data key="d3">Hsin-Chou Yang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-hsinchouyang-a5478bbe7e</data>
+</node>
+<node id="ntu-ds-hsiupicheng-b36d32ffcb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">修丕承</data>
+  <data key="d3">Hsiu, Pi-Cheng</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-hsiupicheng-b36d32ffcb</data>
+</node>
+<node id="ntu-ds-huanghenhsen-b5b46283ba">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃瀚萱</data>
+  <data key="d3">Huang, Hen-Hsen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-huanghenhsen-b5b46283ba</data>
+</node>
+<node id="ntu-ds-huangyennun-474cb98b48">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃彥男</data>
+  <data key="d3">Huang, Yen-Nun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-huangyennun-474cb98b48</data>
+</node>
+<node id="ntu-ds-hungshihhao-96d729e98f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">洪士灝</data>
+  <data key="d3">Hung, Shih-Hao</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-hungshihhao-96d729e98f</data>
+</node>
+<node id="ntu-ds-ikunchen-568f578c62">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳逸昆</data>
+  <data key="d3">I-Kun Chen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-ikunchen-568f578c62</data>
+</node>
+<node id="ntu-ds-jengdawyu-e116138060">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">余正道</data>
+  <data key="d3">Jeng-Daw Yu</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-jengdawyu-e116138060</data>
+</node>
+<node id="ntu-ds-jennnanwang-96b57e19a5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王振男</data>
+  <data key="d3">Jenn-Nan Wang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-jennnanwang-96b57e19a5</data>
+</node>
+<node id="ntu-ds-jiangjiehongroland-e6ba2046e1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">江介宏</data>
+  <data key="d3">Jiang, Jie-Hong Roland</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-jiangjiehongroland-e6ba2046e1</data>
+</node>
+<node id="ntu-ds-kulunwei-57dc39df53">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">古倫維</data>
+  <data key="d3">Ku, Lun-Wei</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-kulunwei-57dc39df53</data>
+</node>
+<node id="ntu-ds-leechunyi-1316e79287">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李濬屹</data>
+  <data key="d3">Lee, Chun-Yi</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">8</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-leechunyi-1316e79287</data>
+</node>
+<node id="ntu-ds-leeyuhjye-a5b58ea312">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李育杰</data>
+  <data key="d3">Lee, Yuh-Jye</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-leeyuhjye-a5b58ea312</data>
+</node>
+<node id="ntu-ds-liaowanjiun-bb42b0521f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">廖婉君</data>
+  <data key="d3">Liao, Wanjiun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">chair</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">3</data>
+  <data key="d9">ntu-ds-liaowanjiun-bb42b0521f</data>
+</node>
+<node id="ntu-ds-lienyunhsuan-dd216d994b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">連云暄</data>
+  <data key="d3">Lien, Yun-Hsuan</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-lienyunhsuan-dd216d994b</data>
+</node>
+<node id="ntu-ds-linche-f9f2c9629d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林澤</data>
+  <data key="d3">Lin, Che</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-linche-f9f2c9629d</data>
+</node>
+<node id="ntu-ds-linjenchun-7e473e6695">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林仁俊</data>
+  <data key="d3">Lin, Jen-Chun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-linjenchun-7e473e6695</data>
+</node>
+<node id="ntu-ds-linshoude-660534418a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林守德</data>
+  <data key="d3">Lin, Shou-De</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-linshoude-660534418a</data>
+</node>
+<node id="ntu-ds-lintsungnan-86da824817">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林宗男</data>
+  <data key="d3">Lin, Tsung-Nan</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-lintsungnan-86da824817</data>
+</node>
+<node id="ntu-ds-liutzuyu-02a716bf8c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉子毓</data>
+  <data key="d3">Liu, Tzu-Yu</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-liutzuyu-02a716bf8c</data>
+</node>
+<node id="ntu-ds-maopeitsui-a962c4a38f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">崔茂培</data>
+  <data key="d3">Mao-Pei Tsui</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-maopeitsui-a962c4a38f</data>
+</node>
+<node id="ntu-ds-maweiyun-d303532c6d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">馬偉雲</data>
+  <data key="d3">Ma, Wei-Yun</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-maweiyun-d303532c6d</data>
+</node>
+<node id="ntu-ds-mingyuehhuang-e0d8d52531">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃名鉞</data>
+  <data key="d3">Ming-Yueh Huang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-mingyuehhuang-e0d8d52531</data>
+</node>
+<node id="ntu-ds-sunshaohua-45e93fffca">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">孫紹華</data>
+  <data key="d3">Sun, Shao-Hua</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-sunshaohua-45e93fffca</data>
+</node>
+<node id="ntu-ds-taichialin-2475a3552a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林太家</data>
+  <data key="d3">Tai-Chia Lin</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-taichialin-2475a3552a</data>
+</node>
+<node id="ntu-ds-tinglichen-27e41ae34a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳定立</data>
+  <data key="d3">Ting-Li Chen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-tinglichen-27e41ae34a</data>
+</node>
+<node id="ntu-ds-tsaoyu-b589dcdd49">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">曹昱</data>
+  <data key="d3">Tsao, Yu</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-tsaoyu-b589dcdd49</data>
+</node>
+<node id="ntu-ds-tsojungyen-ab6f30a1f1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">顏佐榕</data>
+  <data key="d3">Tso-Jung Yen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-tsojungyen-ab6f30a1f1</data>
+</node>
+<node id="ntu-ds-waikitlam-60857c51d4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林偉傑</data>
+  <data key="d3">Wai-Kit Lam</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-waikitlam-60857c51d4</data>
+</node>
+<node id="ntu-ds-wangchienyao-f1c3a0bfd6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王建堯</data>
+  <data key="d3">Wang, Chien Yao</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-wangchienyao-f1c3a0bfd6</data>
+</node>
+<node id="ntu-ds-wangchihyu-3933d444d6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王志宇</data>
+  <data key="d3">Wang, Chih-Yu</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-wangchihyu-3933d444d6</data>
+</node>
+<node id="ntu-ds-wangchuanju-ba03252081">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王釧茹</data>
+  <data key="d3">Wang, Chuan-Ju</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-wangchuanju-ba03252081</data>
+</node>
+<node id="ntu-ds-wangyute-7f585252dd">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王有德</data>
+  <data key="d3">Wang, Yu Te</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-wangyute-7f585252dd</data>
+</node>
+<node id="ntu-ds-weichungwang-46d1252dcf">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王偉仲</data>
+  <data key="d3">Wei-Chung Wang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-weichungwang-46d1252dcf</data>
+</node>
+<node id="ntu-ds-wufangjing-301b084151">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">巫芳璟</data>
+  <data key="d3">Wu, Fang-Jing</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-wufangjing-301b084151</data>
+</node>
+<node id="ntu-ds-wupeiyuan-e3ad438290">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳沛遠</data>
+  <data key="d3">Wu, Pei-Yuan</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">ntu-ds-wupeiyuan-e3ad438290</data>
+</node>
+<node id="ntu-ds-wutirong-522ceb7891">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳廸融</data>
+  <data key="d3">Wu, Ti-Rong</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-wutirong-522ceb7891</data>
+</node>
+<node id="ntu-ds-yehmiyen-560d12ebe9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">葉彌妍</data>
+  <data key="d3">Yeh, Mi-Yen</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-yehmiyen-560d12ebe9</data>
+</node>
+<node id="ntu-ds-yentsunghuang-f1bca29996">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃彥棕</data>
+  <data key="d3">Yen-Tsung Huang</data>
+  <data key="d4">ntu-ds</data>
+  <data key="d5">nan</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">ntu-ds-yentsunghuang-f1bca29996</data>
+</node>
+<node id="Signal Processing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">3.35282379737794</data>
+  <data key="d9">Signal Processing</data>
+</node>
+<node id="Wireless Communications">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer &amp; Wireless Networks</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">4.207673247529104</data>
+  <data key="d9">Wireless Communications</data>
+</node>
+<node id="Automation and Control">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Robotics &amp; Automation</data>
+  <data key="d11">Robotics, Control &amp; Smart Manufacturing</data>
+  <data key="d12">3.481972421847367</data>
+  <data key="d9">Automation and Control</data>
+</node>
+<node id="Electronic Design Automation">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Architecture &amp; Hardware Design</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Electronic Design Automation</data>
+</node>
+<node id="Embedded Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Operating, Real-Time &amp; Embedded Systems</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.076736057707078</data>
+  <data key="d9">Embedded Systems</data>
+</node>
+<node id="Big Data Analytics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.2394044050093296</data>
+  <data key="d9">Big Data Analytics</data>
+</node>
+<node id="Computer Vision">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">2.584696120396371</data>
+  <data key="d9">Computer Vision</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">2.584696120396371</data>
+  <data key="d9">Deep Learning</data>
+</node>
+<node id="Image Processing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">2.865053949911875</data>
+  <data key="d9">Image Processing</data>
+</node>
+<node id="Machine Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">2.084746593909529</data>
+  <data key="d9">Machine Learning</data>
+</node>
+<node id="Multimedia Systems">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Graphics &amp; Multimedia Systems</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">2.5348100898864967</data>
+  <data key="d9">Multimedia Systems</data>
+</node>
+<node id="Computer Architecture">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer Architecture &amp; Hardware Design</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.529297384289471</data>
+  <data key="d9">Computer Architecture</data>
+</node>
+<node id="Databases">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Database &amp; Storage Systems</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.4369154642642346</data>
+  <data key="d9">Databases</data>
+</node>
+<node id="Information Retrieval">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Information Retrieval</data>
+</node>
+<node id="Web Mining">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">4.559873911072915</data>
+  <data key="d9">Web Mining</data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">1.9563404913341855</data>
+  <data key="d9">Artificial Intelligence</data>
+</node>
+<node id="Digital Transformation">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Digital Business &amp; E-Commerce</data>
+  <data key="d11">Information Systems &amp; Management</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Digital Transformation</data>
+</node>
+<node id="Financial Technology">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Banking &amp; Financial Technology</data>
+  <data key="d11">Financial Engineering &amp; Risk</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Financial Technology</data>
+</node>
+<node id="Natural Language Processing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Natural Language &amp; Speech Processing</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">3.4369154642642346</data>
+  <data key="d9">Natural Language Processing</data>
+</node>
+<node id="Information Security">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Information &amp; Systems Security</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">2.888946240904944</data>
+  <data key="d9">Information Security</data>
+</node>
+<node id="Internet of Things">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.138388573955514</data>
+  <data key="d9">Internet of Things</data>
+</node>
+<node id="Data Mining">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">2.888946240904944</data>
+  <data key="d9">Data Mining</data>
+</node>
+<node id="Game Theory">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Game Theory &amp; Mechanism Design</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Game Theory</data>
+</node>
+<node id="Formal Methods">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Formal Methods</data>
+</node>
+<node id="Model Checking">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Model Checking</data>
+</node>
+<node id="Software Verification">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Software Verification</data>
+</node>
+<node id="Time Series Analysis">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Time Series &amp; Change Point Analysis</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">4.113850056846357</data>
+  <data key="d9">Time Series Analysis</data>
+</node>
+<node id="Bayesian Statistics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Bayesian &amp; Computational Statistics</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">4.311544559635462</data>
+  <data key="d9">Bayesian Statistics</data>
+</node>
+<node id="Medical Imaging">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Medical Informatics &amp; Imaging</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">4.311544559635462</data>
+  <data key="d9">Medical Imaging</data>
+</node>
+<node id="Statistics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Statistical Theory &amp; Inference</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">3.076736057707078</data>
+  <data key="d9">Statistics</data>
+</node>
+<node id="Smart Healthcare">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Medical Informatics &amp; Imaging</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">3.809621071810065</data>
+  <data key="d9">Smart Healthcare</data>
+</node>
+<node id="Partial Differential Equations">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mathematical Analysis &amp; Scientific Computing</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Partial Differential Equations</data>
+</node>
+<node id="Causal Inference">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Statistical Theory &amp; Inference</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Causal Inference</data>
+</node>
+<node id="Multivariate Analysis">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Applied &amp; Industrial Statistics</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Multivariate Analysis</data>
+</node>
+<node id="Compilers">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Software Engineering, Languages &amp; Verification</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Compilers</data>
+</node>
+<node id="Parallel Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Parallel &amp; Distributed Computing</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">3.3939246223330755</data>
+  <data key="d9">Parallel Computing</data>
+</node>
+<node id="Mobile Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.631721040273988</data>
+  <data key="d9">Mobile Computing</data>
+</node>
+<node id="Optimization">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Optimization &amp; Operations Research</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">3.047404284098312</data>
+  <data key="d9">Optimization</data>
+</node>
+<node id="Algebraic Geometry">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mathematical Analysis &amp; Scientific Computing</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Algebraic Geometry</data>
+</node>
+<node id="Computational Linguistics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Natural Language &amp; Speech Processing</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Computational Linguistics</data>
+</node>
+<node id="Digital Twins">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Operating, Real-Time &amp; Embedded Systems</data>
+  <data key="d11">Systems, Software &amp; Architecture</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Digital Twins</data>
+</node>
+<node id="Reinforcement Learning">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Machine Learning &amp; Deep Learning</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Reinforcement Learning</data>
+</node>
+<node id="Robotics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Robotics &amp; Automation</data>
+  <data key="d11">Robotics, Control &amp; Smart Manufacturing</data>
+  <data key="d12">3.746558565700614</data>
+  <data key="d9">Robotics</data>
+</node>
+<node id="Data Science">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">3.949763333410993</data>
+  <data key="d9">Data Science</data>
+</node>
+<node id="Blockchain">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Cryptography, Blockchain &amp; Privacy</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Blockchain</data>
+</node>
+<node id="Computer Networks">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer &amp; Wireless Networks</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.047404284098312</data>
+  <data key="d9">Computer Networks</data>
+</node>
+<node id="Wireless Networks">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Computer &amp; Wireless Networks</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">3.3134584673541485</data>
+  <data key="d9">Wireless Networks</data>
+</node>
+<node id="Generative AI">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">4.559873911072915</data>
+  <data key="d9">Generative AI</data>
+</node>
+<node id="Systems Biology">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Bioinformatics &amp; Systems Biology</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Systems Biology</data>
+</node>
+<node id="Social Network Analysis">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Social &amp; Web Network Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">4.207673247529104</data>
+  <data key="d9">Social Network Analysis</data>
+</node>
+<node id="Network Security">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Information &amp; Systems Security</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Network Security</data>
+</node>
+<node id="Bioinformatics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Bioinformatics &amp; Systems Biology</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">3.107042794704757</data>
+  <data key="d9">Bioinformatics</data>
+</node>
+<node id="Differential Geometry">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mathematical Analysis &amp; Scientific Computing</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">6.496774990185863</data>
+  <data key="d9">Differential Geometry</data>
+</node>
+<node id="Scientific Modeling">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Data Mining &amp; Big Data Analytics</data>
+  <data key="d11">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d12">5.805134968916488</data>
+  <data key="d9">Scientific Modeling</data>
+</node>
+<node id="Statistical Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Bayesian &amp; Computational Statistics</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Statistical Computing</data>
+</node>
+<node id="Speech Recognition">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Natural Language &amp; Speech Processing</data>
+  <data key="d11">AI &amp; Machine Learning</data>
+  <data key="d12">4.712528704308591</data>
+  <data key="d9">Speech Recognition</data>
+</node>
+<node id="Probability Theory">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Statistical Theory &amp; Inference</data>
+  <data key="d11">Statistics &amp; Statistical Methods</data>
+  <data key="d12">5.1149953094204985</data>
+  <data key="d9">Probability Theory</data>
+</node>
+<node id="Brain-Computer Interfaces">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">5.401174751987744</data>
+  <data key="d9">Brain-Computer Interfaces</data>
+</node>
+<node id="Human-Computer Interaction">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d11">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d12">3.4369154642642346</data>
+  <data key="d9">Human-Computer Interaction</data>
+</node>
+<node id="Scientific Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mathematical Analysis &amp; Scientific Computing</data>
+  <data key="d11">Applied Mathematics &amp; Operations Research</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Scientific Computing</data>
+</node>
+<node id="Pervasive Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d11">Networks &amp; Communications</data>
+  <data key="d12">4.427836170705175</data>
+  <data key="d9">Pervasive Computing</data>
+</node>
+<node id="Privacy-Preserving Computing">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Cryptography, Blockchain &amp; Privacy</data>
+  <data key="d11">Security, Privacy &amp; Cryptography</data>
+  <data key="d12">4.893352133481524</data>
+  <data key="d9">Privacy-Preserving Computing</data>
+</node>
+<node id="Biostatistics">
+  <data key="d0">1</data>
+  <data key="d1">keyword</data>
+  <data key="d10">Biostatistics &amp; Survival Analysis</data>
+  <data key="d11">Biomedical &amp; Health Informatics</data>
+  <data key="d12">4.028323461124307</data>
+  <data key="d9">Biostatistics</data>
+</node>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="Signal Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-changronaldy-a78313ae63" target="Wireless Communications">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-changyaowen-7aab305c05" target="Automation and Control">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-changyaowen-7aab305c05" target="Electronic Design Automation">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-changyuanhao-1d8a41b51b" target="Embedded Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="Big Data Analytics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="Computer Vision">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="Deep Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="Image Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenchusong-9acf325951" target="Multimedia Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenghsiangyun-dd0d28d44a" target="Computer Architecture">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="Databases">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="Information Retrieval">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="Multimedia Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengpujen-ead86da3e9" target="Web Mining">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="Computer Vision">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="Digital Transformation">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="Financial Technology">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chengwenhuang-7531301010" target="Multimedia Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="Information Retrieval">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="Natural Language Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenhsinhsi-6c5257ce25" target="Web Mining">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="Computer Vision">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="Deep Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenjuncheng-090ef61af5" target="Information Security">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="Big Data Analytics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenlingjyh-5fa406eb09" target="Internet of Things">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="Data Mining">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenmingsyan-8fa63ae675" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="Data Mining">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="Game Theory">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="Information Security">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenshangtse-47653327f1" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenyufang-70dded9973" target="Formal Methods">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenyufang-70dded9973" target="Model Checking">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenyufang-70dded9973" target="Software Verification">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chenyunnung-e290620faf" target="Natural Language Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chienmingchi-7c50de2827" target="Time Series Analysis">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="Bayesian Statistics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="Computer Vision">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="Deep Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="Medical Imaging">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chunhaoyang-8f0203e6f5" target="Statistics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chunhouhchen-0af0210f26" target="Smart Healthcare">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-chunhsiunghsia-1536b23bc4" target="Partial Differential Equations">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-gaspardbernard-b86127ba99" target="Causal Inference">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-gaspardbernard-b86127ba99" target="Multivariate Analysis">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-gaspardbernard-b86127ba99" target="Statistics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hongdingyong-97b7056823" target="Compilers">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hongdingyong-97b7056823" target="Parallel Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hsiehhungyun-d8718bc559" target="Information Security">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hsinchouyang-a5478bbe7e" target="Smart Healthcare">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hsiupicheng-b36d32ffcb" target="Deep Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-huanghenhsen-b5b46283ba" target="Natural Language Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-huangyennun-474cb98b48" target="Mobile Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-huangyennun-474cb98b48" target="Multimedia Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="Computer Architecture">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="Embedded Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="Optimization">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-hungshihhao-96d729e98f" target="Parallel Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-ikunchen-568f578c62" target="Partial Differential Equations">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-jengdawyu-e116138060" target="Algebraic Geometry">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-jennnanwang-96b57e19a5" target="Partial Differential Equations">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-jiangjiehongroland-e6ba2046e1" target="Automation and Control">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-jiangjiehongroland-e6ba2046e1" target="Electronic Design Automation">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="Computational Linguistics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-kulunwei-57dc39df53" target="Natural Language Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="Automation and Control">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="Computer Architecture">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="Computer Vision">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="Digital Twins">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="Electronic Design Automation">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="Parallel Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="Reinforcement Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leechunyi-1316e79287" target="Robotics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="Data Mining">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="Data Science">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-leeyuhjye-a5b58ea312" target="Optimization">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="Blockchain">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="Computer Networks">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="Internet of Things">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="Multimedia Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-liaowanjiun-bb42b0521f" target="Wireless Networks">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="Financial Technology">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="Generative AI">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-lienyunhsuan-dd216d994b" target="Reinforcement Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="Data Science">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="Deep Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="Financial Technology">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="Optimization">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linche-f9f2c9629d" target="Systems Biology">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linjenchun-7e473e6695" target="Multimedia Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="Data Mining">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="Natural Language Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-linshoude-660534418a" target="Social Network Analysis">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="Deep Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="Information Security">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-lintsungnan-86da824817" target="Network Security">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="Bioinformatics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-liutzuyu-02a716bf8c" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-maopeitsui-a962c4a38f" target="Differential Geometry">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-maopeitsui-a962c4a38f" target="Partial Differential Equations">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="Deep Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-maweiyun-d303532c6d" target="Natural Language Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-mingyuehhuang-e0d8d52531" target="Causal Inference">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="Reinforcement Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-sunshaohua-45e93fffca" target="Robotics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-taichialin-2475a3552a" target="Partial Differential Equations">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-taichialin-2475a3552a" target="Scientific Modeling">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-tinglichen-27e41ae34a" target="Statistical Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-tsaoyu-b589dcdd49" target="Signal Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-tsaoyu-b589dcdd49" target="Speech Recognition">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-tsojungyen-ab6f30a1f1" target="Bayesian Statistics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-tsojungyen-ab6f30a1f1" target="Statistics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-waikitlam-60857c51d4" target="Probability Theory">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="Computer Vision">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="Deep Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="Multimedia Systems">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchienyao-f1c3a0bfd6" target="Signal Processing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchihyu-3933d444d6" target="Data Science">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchihyu-3933d444d6" target="Internet of Things">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchihyu-3933d444d6" target="Wireless Communications">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchuanju-ba03252081" target="Data Mining">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangchuanju-ba03252081" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangyute-7f585252dd" target="Brain-Computer Interfaces">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wangyute-7f585252dd" target="Human-Computer Interaction">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-weichungwang-46d1252dcf" target="Data Science">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-weichungwang-46d1252dcf" target="Optimization">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-weichungwang-46d1252dcf" target="Scientific Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-weichungwang-46d1252dcf" target="Smart Healthcare">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wufangjing-301b084151" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wufangjing-301b084151" target="Internet of Things">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wufangjing-301b084151" target="Mobile Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wufangjing-301b084151" target="Pervasive Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wufangjing-301b084151" target="Privacy-Preserving Computing">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wufangjing-301b084151" target="Wireless Networks">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wupeiyuan-e3ad438290" target="Computer Vision">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wupeiyuan-e3ad438290" target="Information Security">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wupeiyuan-e3ad438290" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wupeiyuan-e3ad438290" target="Reinforcement Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wupeiyuan-e3ad438290" target="Statistics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wutirong-522ceb7891" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-wutirong-522ceb7891" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-yehmiyen-560d12ebe9" target="Artificial Intelligence">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-yehmiyen-560d12ebe9" target="Big Data Analytics">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-yehmiyen-560d12ebe9" target="Data Mining">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-yehmiyen-560d12ebe9" target="Machine Learning">
+  <data key="d13">ntu-ds</data>
+</edge>
+<edge source="ntu-ds-yentsunghuang-f1bca29996" target="Biostatistics">
+  <data key="d13">ntu-ds</data>
+</edge>
+</graph></graphml>

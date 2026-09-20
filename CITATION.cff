@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset or analysis, please cite it as below."
+title: "研究所師資社會網路分析 (grad-school-social-network)"
+abstract: >-
+  A social-network analysis of the faculty of 14 graduate programmes in
+  Taiwan (computer science, data science, finance and economics). Faculty
+  names, titles, education and research fields were collected from public
+  departmental web pages, standardised, and modelled as a professor–research
+  field bipartite network in order to compare research clusters across
+  departments and schools.
+type: dataset
+authors:
+  - family-names: "温"
+    given-names: "亮達"
+    alias: "Liang-Ta Wen"
+    email: "148547924+brianwen818@users.noreply.github.com"
+repository-code: "https://github.com/brianwen818/grad-school-network-analysis"
+url: "https://github.com/brianwen818/grad-school-network-analysis"
+version: "1.0.0"
+date-released: "2026-09-20"
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+keywords:
+  - social network analysis
+  - bibliometrics
+  - higher education
+  - Taiwan
+  - faculty research fields
+  - web scraping
+  - networkx

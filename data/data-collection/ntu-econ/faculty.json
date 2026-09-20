@@ -1,0 +1,2603 @@
+[
+  {
+    "faculty_id": "ntu-econ-joonkyohong-abba80fbe9",
+    "school_id": "ntu-econ",
+    "name_zh": "",
+    "name_en": "Joonkyo Hong",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [],
+    "education_en": [
+      "Ph.D. in Economics, Pennsylvania State University, 2023."
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [
+      "Empirical Industrial Organization, Applied Microeconomics"
+    ],
+    "research_fields_zh": [],
+    "research_fields_en": [
+      "Empirical Industrial Organization, Applied Microeconomics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9555"
+    ],
+    "personal_urls": [
+      "https://joonkyo-hong.github.io/"
+    ],
+    "emails": [
+      "2432aaca30fd1524@redacted.invalid"
+    ],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-junrokpark-d50100b56e",
+    "school_id": "ntu-econ",
+    "name_zh": "",
+    "name_en": "Junrok Park",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [],
+    "education_en": [
+      "Ph.D. in Economics, UCLA, 2022."
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [
+      "Economic Theory, Mechanism Design, Information Design"
+    ],
+    "research_fields_zh": [],
+    "research_fields_en": [
+      "Economic Theory, Mechanism Design, Information Design"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9550"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/parkjunrok/home"
+    ],
+    "emails": [
+      "0c8553022a7a2824@redacted.invalid"
+    ],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-minchunghsu-e5268d9c19",
+    "school_id": "ntu-econ",
+    "name_zh": "",
+    "name_en": "Minchung Hsu",
+    "role_groups": [],
+    "titles_zh": [],
+    "titles_en": [],
+    "education_zh": [],
+    "education_en": [
+      "Ph.D. in Economics, University of California, Los Angeles"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9604"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-shinyichou-46d12d7782",
+    "school_id": "ntu-econ",
+    "name_zh": "",
+    "name_en": "Shin-Yi Chou",
+    "role_groups": [],
+    "titles_zh": [],
+    "titles_en": [],
+    "education_zh": [],
+    "education_en": [
+      "Ph.D. in Economics, Duke University"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9604"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-sungminpark-469370a4d3",
+    "school_id": "ntu-econ",
+    "name_zh": "",
+    "name_en": "Sungmin Park",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [],
+    "education_en": [
+      "Ph.D. in Economics, The Ohio State University, 2025."
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [
+      "Microeconomic Theory, Labor Economics, Financial Economics"
+    ],
+    "research_fields_zh": [],
+    "research_fields_en": [
+      "Microeconomic Theory, Labor Economics, Financial Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/16539"
+    ],
+    "personal_urls": [
+      "https://www.sungminparkecon.com//",
+      "https://www.sungminparkecon.com/"
+    ],
+    "emails": [
+      "4ef3a5beaca61a4a@redacted.invalid",
+      "1e8884c0a1d211bf@redacted.invalid"
+    ],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-toshiakikomatsu-2c1f940cc4",
+    "school_id": "ntu-econ",
+    "name_zh": "",
+    "name_en": "Toshiaki Komatsu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [],
+    "education_en": [
+      "Ph.D. in Economics, University of Chicago, 2024."
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [
+      "International Trade, Macroeconomics, Labor Economics"
+    ],
+    "research_fields_zh": [],
+    "research_fields_en": [
+      "International Trade, Macroeconomics, Labor Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/16534"
+    ],
+    "personal_urls": [
+      "https://www.toshi-komatsu.com/"
+    ],
+    "emails": [
+      "1e8884c0a1d211bf@redacted.invalid"
+    ],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-wuchungshu-c466fdfb12",
+    "school_id": "ntu-econ",
+    "name_zh": "",
+    "name_en": "Wu, Chung-Shu",
+    "role_groups": [],
+    "titles_zh": [],
+    "titles_en": [],
+    "education_zh": [],
+    "education_en": [
+      "Ph.D. in Economics, Northwestern University (1984)"
+    ],
+    "research_interests_zh": [],
+    "research_interests_en": [],
+    "research_fields_zh": [],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9600"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.econ.sinica.edu.tw/members/e3058274-ad4b-451b-b4ee-41929e37bcb5?page_id=47"
+    ],
+    "emails": [],
+    "merge_status": "en_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-何泰寬-3f8b4902cb",
+    "school_id": "ntu-econ",
+    "name_zh": "何泰寬",
+    "name_en": "Tai-kuang Ho",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "德國波昂大學博士 (2003)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Bonn, 2003."
+    ],
+    "research_interests_zh": [
+      "銀行與貨幣危機、國際金融、應用時間序列計量經濟學、動態隨機一般均衡模型(DSGE Modeling)"
+    ],
+    "research_interests_en": [
+      "Banking and Currency Crises, International Finance, Applied Time Series Econometrics, DSGE Modeling"
+    ],
+    "research_fields_zh": [
+      "銀行與貨幣危機、國際金融、應用時間序列計量經濟學、動態隨機一般均衡模型(DSGE Modeling)"
+    ],
+    "research_fields_en": [
+      "Banking and Currency Crises, International Finance, Applied Time Series Econometrics, DSGE Modeling"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5787"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9465"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~taikuangho/"
+    ],
+    "emails": [
+      "4503fc9c78e764e3@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-劉育辰-40b649c520",
+    "school_id": "ntu-econ",
+    "name_zh": "劉育辰",
+    "name_en": "Yu-Chen Liu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國聖路易華盛頓大學經濟學博士 (2025)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, Washington University in St. Louis, 2025."
+    ],
+    "research_interests_zh": [
+      "總體經濟學、國際經濟學、貨幣經濟學"
+    ],
+    "research_interests_en": [
+      "Macroeconomics, International Trade, Monetary Economics"
+    ],
+    "research_fields_zh": [
+      "總體經濟學、國際經濟學、貨幣經濟學"
+    ],
+    "research_fields_en": [
+      "Macroeconomics, International Trade, Monetary Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/16544"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/16545"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/yuchenliu/home"
+    ],
+    "emails": [
+      "740f0510f6467c84@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-吳儀玲-9ff31e9638",
+    "school_id": "ntu-econ",
+    "name_zh": "吳儀玲",
+    "name_en": "YiLin Wu",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國芝加哥大學博士(2001)"
+    ],
+    "education_en": [
+      "Ph.D. in Finance, University of Chicago, 2001."
+    ],
+    "research_interests_zh": [
+      "公司理財、股票私募、公司治理、資本市場及市場微結構"
+    ],
+    "research_interests_en": [
+      "Corporate finance, Private Placement, Corporate Governance, Market Microstructure and Investments"
+    ],
+    "research_fields_zh": [
+      "公司理財、股票私募、公司治理、資本市場及市場微結構"
+    ],
+    "research_fields_en": [
+      "Corporate finance, Private Placement, Corporate Governance, Market Microstructure and Investments"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5798"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9480"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~yilinwu/"
+    ],
+    "emails": [
+      "e2f74bc76538b958@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-和田健司-cd35fc2b2a",
+    "school_id": "ntu-econ",
+    "name_zh": "和田健司",
+    "name_en": "Kenji Wada",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國紐約大學經濟學博士 (2024)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, New York University, 2024."
+    ],
+    "research_interests_zh": [
+      "總體經濟學、金融經濟學、時間序列計量"
+    ],
+    "research_interests_en": [
+      "Macroeconomics, Asset Pricing, and Time-Series Econometrics."
+    ],
+    "research_fields_zh": [
+      "總體經濟學、金融經濟學、時間序列計量"
+    ],
+    "research_fields_en": [
+      "Macroeconomics, Asset Pricing, and Time-Series Econometrics."
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/14034"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/14066"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/nyu.edu/kenji-wada/about"
+    ],
+    "emails": [
+      "e304ac97f68dc98d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-小松利明-e63776cdd7",
+    "school_id": "ntu-econ",
+    "name_zh": "小松利明",
+    "name_en": "",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國芝加哥大學經濟學博士(2024)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "國際貿易理論、總體經濟學、勞動經濟學"
+    ],
+    "research_interests_en": [],
+    "research_fields_zh": [
+      "國際貿易理論、總體經濟學、勞動經濟學"
+    ],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/16532"
+    ],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.toshi-komatsu.com/"
+    ],
+    "emails": [
+      "1e8884c0a1d211bf@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-廖珮如-cff0efe03d",
+    "school_id": "ntu-econ",
+    "name_zh": "廖珮如",
+    "name_en": "Pei-Ju Liao",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "副主任",
+      "教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國加州大學洛杉磯分校博士 (2009)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "經濟成長與發展、總體與貨幣"
+    ],
+    "research_interests_en": [
+      "Economic Growth and Development, Macroeconomics and Monetary Economics"
+    ],
+    "research_fields_zh": [
+      "經濟成長與發展、總體與貨幣"
+    ],
+    "research_fields_en": [
+      "Economic Growth and Development, Macroeconomics and Monetary Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5950"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9524"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~pjliaoteach/"
+    ],
+    "emails": [
+      "c81c198ccea317c4@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-張勝凱-af91a80773",
+    "school_id": "ntu-econ",
+    "name_zh": "張勝凱",
+    "name_en": "Sheng-Kai Chang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國威斯康辛大學麥迪遜校區博士(2002)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Wisconsin-Madison, 2002."
+    ],
+    "research_interests_zh": [
+      "計量經濟學"
+    ],
+    "research_interests_en": [
+      "Econometrics"
+    ],
+    "research_fields_zh": [
+      "計量經濟學"
+    ],
+    "research_fields_en": [
+      "Econometrics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5801"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9484"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~schang/"
+    ],
+    "emails": [
+      "5516370ac1ba3f60@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-朱玉琦-f9c58241bc",
+    "school_id": "ntu-econ",
+    "name_zh": "朱玉琦",
+    "name_en": "Yu-Chi Chu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國威斯康辛大學麥迪遜校區博士 (2020)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Wisconsin-Madison, 2020."
+    ],
+    "research_interests_zh": [
+      "總體經濟學、跨世代財富傳遞、貨幣搜尋模型"
+    ],
+    "research_interests_en": [
+      "Macroeconomics , Fa mily Economics and M onetary economics"
+    ],
+    "research_fields_zh": [
+      "總體經濟學、跨世代財富傳遞、貨幣搜尋模型"
+    ],
+    "research_fields_en": [
+      "Macroeconomics , Fa mily Economics and M onetary economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5758"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9545"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/yuchichu0803/"
+    ],
+    "emails": [
+      "c747a142337d2e6e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-朴埻錄-9cec86c47b",
+    "school_id": "ntu-econ",
+    "name_zh": "朴埻錄",
+    "name_en": "",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國加州大學洛杉磯分校博士 (2022)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "經濟理論、機制設計、訊息設計"
+    ],
+    "research_interests_en": [],
+    "research_fields_zh": [
+      "經濟理論、機制設計、訊息設計"
+    ],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5998"
+    ],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://sites.google.com/view/parkjunrok/home"
+    ],
+    "emails": [
+      "0c8553022a7a2824@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-朴聖民-100e67fe5b",
+    "school_id": "ntu-econ",
+    "name_zh": "朴聖民",
+    "name_en": "",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國俄亥俄州立大學經濟學博士(2025)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "個體經濟理論、勞動經濟學、財務經濟學"
+    ],
+    "research_interests_en": [],
+    "research_fields_zh": [
+      "個體經濟理論、勞動經濟學、財務經濟學"
+    ],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/16538"
+    ],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.sungminparkecon.com/"
+    ],
+    "emails": [
+      "4ef3a5beaca61a4a@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-李佳穗-80343e797f",
+    "school_id": "ntu-econ",
+    "name_zh": "李佳穗",
+    "name_en": "Chia-Sui Lee",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "荷蘭萊登大學博士 (2017)"
+    ],
+    "education_en": [
+      "Ph.D. in Literary Studies, Leiden University, 2017"
+    ],
+    "research_interests_zh": [
+      "學術寫作、英美文學、文化研究"
+    ],
+    "research_interests_en": [
+      "Academic Writing, English Literature, Cultural Studies"
+    ],
+    "research_fields_zh": [
+      "學術寫作、英美文學、文化研究"
+    ],
+    "research_fields_en": [
+      "Academic Writing, English Literature, Cultural Studies"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/6006"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9553"
+    ],
+    "personal_urls": [
+      "https://taiwan.academia.edu/ChiasuiTracyLee"
+    ],
+    "emails": [
+      "ba93c75ae75e1a1b@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-李宗穎-b1fed3d112",
+    "school_id": "ntu-econ",
+    "name_zh": "李宗穎",
+    "name_en": "Chung-Ying Lee",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國杜克大學博士(2014)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "實證產業組織、應用計量經濟學、健康經濟學、行銷學、定價策略"
+    ],
+    "research_interests_en": [
+      "Empirical Industrial Organization, Applied Econometrics, Health Economics, Marketing, Pricing Strategy."
+    ],
+    "research_fields_zh": [
+      "實證產業組織、應用計量經濟學、健康經濟學、行銷學、定價策略"
+    ],
+    "research_fields_en": [
+      "Empirical Industrial Organization, Applied Econometrics, Health Economics, Marketing, Pricing Strategy."
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5956"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9523"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/chungyinglee/"
+    ],
+    "emails": [
+      "455d0ac8ff021fdb@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-李怡庭-876e01e588",
+    "school_id": "ntu-econ",
+    "name_zh": "李怡庭",
+    "name_en": "Yiting Li",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國賓夕法尼亞大學博士(1995)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "貨幣理論、銀行與金融市場"
+    ],
+    "research_interests_en": [
+      "Monetary Theory, Banking and Financial Markets"
+    ],
+    "research_fields_zh": [
+      "貨幣理論、銀行與金融市場"
+    ],
+    "research_fields_en": [
+      "Monetary Theory, Banking and Financial Markets"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5804"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9486"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~yitingli/"
+    ],
+    "emails": [
+      "61190f871bd7ac99@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-林明仁-3459b553e9",
+    "school_id": "ntu-econ",
+    "name_zh": "林明仁",
+    "name_en": "Ming-Jen Lin",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國芝加哥大學博士(2002)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Chicago, 2002."
+    ],
+    "research_interests_zh": [
+      "應用個體經濟學(勞動、法律、健康)"
+    ],
+    "research_interests_en": [
+      "Applied Microeconomic Theory(Labor, Law and Health)"
+    ],
+    "research_fields_zh": [
+      "應用個體經濟學(勞動、法律、健康)"
+    ],
+    "research_fields_en": [
+      "Applied Microeconomic Theory(Labor, Law and Health)"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5807"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9488"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~mjlin/"
+    ],
+    "emails": [
+      "699c4eeaf613b293@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-梁卓誠-81139af4f8",
+    "school_id": "ntu-econ",
+    "name_zh": "梁卓誠",
+    "name_en": "Cheuk Shing Leung",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "加拿大麥基爾大學經濟學博士 (2019)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, McGill University, 2019."
+    ],
+    "research_interests_zh": [
+      "總體經濟學、公共經濟學、計算經濟學、都市經濟學、房地產經濟學"
+    ],
+    "research_interests_en": [
+      "Macroeconomics, Public Economics, Computational Economic"
+    ],
+    "research_fields_zh": [
+      "總體經濟學、公共經濟學、計算經濟學、都市經濟學、房地產經濟學"
+    ],
+    "research_fields_en": [
+      "Macroeconomics, Public Economics, Computational Economic"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/6012"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9554"
+    ],
+    "personal_urls": [
+      "https://www.david-cheuk-shing-leung.com/"
+    ],
+    "emails": [
+      "abc24928c136ef7f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-楊睿中-6c2f0e88ae",
+    "school_id": "ntu-econ",
+    "name_zh": "楊睿中",
+    "name_en": "Jui-Chung Yang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國德州農工大學博士(2014)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, Texas A&M University, 2014."
+    ],
+    "research_interests_zh": [
+      "非參數計量經濟學、機器學習、氣候變遷"
+    ],
+    "research_interests_en": [
+      "Nonparametric econometrics, Machine learning, Environmental economics"
+    ],
+    "research_fields_zh": [
+      "非參數計量經濟學、機器學習、氣候變遷"
+    ],
+    "research_fields_en": [
+      "Nonparametric econometrics, Machine learning, Environmental economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5959"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9534"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/juichungyang/"
+    ],
+    "emails": [
+      "83207fb7800546dd@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-樊家忠-0d4e667fb7",
+    "school_id": "ntu-econ",
+    "name_zh": "樊家忠",
+    "name_en": "Elliott Fan",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "加拿大多倫多大學博士(2006)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Toronto, 2006."
+    ],
+    "research_interests_zh": [
+      "家庭經濟學,勞動經濟學,發展經濟學"
+    ],
+    "research_interests_en": [
+      "Family Economics, Labor Economics, Development Economics"
+    ],
+    "research_fields_zh": [
+      "家庭經濟學,勞動經濟學,發展經濟學"
+    ],
+    "research_fields_en": [
+      "Family Economics, Labor Economics, Development Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5812"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9467"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/elliottfan/home"
+    ],
+    "emails": [
+      "f3da9a19ed13680e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-江淳芳-727bf49f84",
+    "school_id": "ntu-econ",
+    "name_zh": "江淳芳",
+    "name_en": "Chun-Fang Chiang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國布朗大學博士(2008)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, Brown University, 2008."
+    ],
+    "research_interests_zh": [
+      "政治經濟學 應用個體經濟學"
+    ],
+    "research_interests_en": [
+      "Political Economics, Applied Microeconomics."
+    ],
+    "research_fields_zh": [
+      "政治經濟學 應用個體經濟學"
+    ],
+    "research_fields_en": [
+      "Political Economics, Applied Microeconomics."
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5962"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9490"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~chunfang/"
+    ],
+    "emails": [
+      "c71f518d62027d56@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-洪俊教-348bf31cd5",
+    "school_id": "ntu-econ",
+    "name_zh": "洪俊教",
+    "name_en": "",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國賓夕法尼亞州立大學經濟學博士 (2023)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "實證產業組織、應用個體經濟學"
+    ],
+    "research_interests_en": [],
+    "research_fields_zh": [
+      "實證產業組織、應用個體經濟學"
+    ],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/8395"
+    ],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://joonkyo-hong.github.io/"
+    ],
+    "emails": [
+      "2432aaca30fd1524@redacted.invalid",
+      "0c8553022a7a2824@redacted.invalid"
+    ],
+    "merge_status": "zh_only",
+    "merge_method": "",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-王建強-992a85075e",
+    "school_id": "ntu-econ",
+    "name_zh": "王建強",
+    "name_en": "Chien-Chiang Wang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國華盛頓聖路易大學博士 (2017)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, Washington University in St. Louis, 2017."
+    ],
+    "research_interests_zh": [
+      "貨幣經濟學、總體經濟學、銀行與財務經濟學"
+    ],
+    "research_interests_en": [
+      "Monetary Economics, Macroeconomics, Banking and Finance"
+    ],
+    "research_fields_zh": [
+      "貨幣經濟學、總體經濟學、銀行與財務經濟學"
+    ],
+    "research_fields_en": [
+      "Monetary Economics, Macroeconomics, Banking and Finance"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/6015"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9565"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/chienchiangwang/"
+    ],
+    "emails": [
+      "5617ab5f0b39c7ec@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-王泓仁-6e89dae82f",
+    "school_id": "ntu-econ",
+    "name_zh": "王泓仁",
+    "name_en": "Hung-Jen Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國密西根大學博士(1998)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "應用計量、貨幣政策"
+    ],
+    "research_interests_en": [
+      "Applied Econometrics, Monetary Policy"
+    ],
+    "research_fields_zh": [
+      "應用計量、貨幣政策"
+    ],
+    "research_fields_en": [
+      "Applied Econometrics, Monetary Policy"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5815"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9492"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~wangh/"
+    ],
+    "emails": [
+      "ceeda3910cd79807@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-王道一-6484b93714",
+    "school_id": "ntu-econ",
+    "name_zh": "王道一",
+    "name_en": "Joseph Tao-yi Wang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國加州大學洛杉磯分校博士(2005)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, UCLA, 2005."
+    ],
+    "research_interests_zh": [
+      "經濟理論、實驗經濟學、神經經濟學"
+    ],
+    "research_interests_en": [
+      "Economic Theory, Experimental Economics, Neuroeconomics"
+    ],
+    "research_fields_zh": [
+      "經濟理論、實驗經濟學、神經經濟學"
+    ],
+    "research_fields_en": [
+      "Economic Theory, Experimental Economics, Neuroeconomics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5993"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9462"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~josephw/"
+    ],
+    "emails": [
+      "009ced1c708923ff@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-羅珮瑜-24610cd413",
+    "school_id": "ntu-econ",
+    "name_zh": "羅珮瑜",
+    "name_en": "Pei-Yu Lo",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國耶魯大學博士(2006)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, Yale University (2006)"
+    ],
+    "research_interests_zh": [
+      "賽局理論、資訊經濟、政治經濟、產業組織"
+    ],
+    "research_interests_en": [
+      "Game Theory, Economics of Information, Political Economy, Industrial Organization"
+    ],
+    "research_fields_zh": [
+      "賽局理論、資訊經濟、政治經濟、產業組織"
+    ],
+    "research_fields_en": [
+      "Game Theory, Economics of Information, Political Economy, Industrial Organization"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5965"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9533"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/melodylo/home"
+    ],
+    "emails": [
+      "ef44596665fed44e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-蔡宜展-c83bdc5cdc",
+    "school_id": "ntu-econ",
+    "name_zh": "蔡宜展",
+    "name_en": "Yi-Chan Tsai",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "副主任",
+      "副教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國俄亥俄州立大學博士(2010)"
+    ],
+    "education_en": [
+      "Ph.D., Economics, The Ohio State University, 2010."
+    ],
+    "research_interests_zh": [
+      "總體經濟學、貨幣經濟學、計算經濟學"
+    ],
+    "research_interests_en": [
+      "Macroeconomics, Monetary Economics, Computational Economics"
+    ],
+    "research_fields_zh": [
+      "總體經濟學、貨幣經濟學、計算經濟學"
+    ],
+    "research_fields_en": [
+      "Macroeconomics, Monetary Economics, Computational Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5968"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9532"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/yichantsai/"
+    ],
+    "emails": [
+      "a789a0d684f7164f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-蔡崇聖-b5b6a97658",
+    "school_id": "ntu-econ",
+    "name_zh": "蔡崇聖",
+    "name_en": "Tsung-Sheng Tsai",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國威斯康辛大學麥迪遜校區經濟學博士(2002)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Wisconsin-Madison, 2002."
+    ],
+    "research_interests_zh": [
+      "公共經濟、政治經濟、產業組織"
+    ],
+    "research_interests_en": [
+      "Public Economics, Political Economy, Industrial Organization"
+    ],
+    "research_fields_zh": [
+      "公共經濟、政治經濟、產業組織"
+    ],
+    "research_fields_en": [
+      "Public Economics, Political Economy, Industrial Organization"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5819"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9494"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~tstsai/"
+    ],
+    "emails": [
+      "1a82407ca4cfae84@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-蘇軒立-87d57366a0",
+    "school_id": "ntu-econ",
+    "name_zh": "蘇軒立",
+    "name_en": "Hsuan-Li Su",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國威斯康辛大學麥迪遜校區博士(2015)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Wisconsin-Madison, 2015."
+    ],
+    "research_interests_zh": [
+      "總體經濟學,財務經濟學,網路"
+    ],
+    "research_interests_en": [
+      "Macroeconomics, Financial Economics, Networks"
+    ],
+    "research_fields_zh": [
+      "總體經濟學,財務經濟學,網路"
+    ],
+    "research_fields_en": [
+      "Macroeconomics, Financial Economics, Networks"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/6021"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9540"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/hsuanlisu/"
+    ],
+    "emails": [
+      "b9009e0f131cde0d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-許軒銘-45dfd20a6e",
+    "school_id": "ntu-econ",
+    "name_zh": "許軒銘",
+    "name_en": "Shanon Hsuan-Ming Hsu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國芝加哥大學經濟學博士(2024)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Chicago, 2024."
+    ],
+    "research_interests_zh": [
+      "都市經濟學、發展經濟學、經濟史、政治經濟學"
+    ],
+    "research_interests_en": [
+      "Urban Economics, Development Economics, Economic History, Political Economy"
+    ],
+    "research_fields_zh": [
+      "都市經濟學、發展經濟學、經濟史、政治經濟學"
+    ],
+    "research_fields_en": [
+      "Urban Economics, Development Economics, Economic History, Political Economy"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5949"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9525"
+    ],
+    "personal_urls": [
+      "https://shanonhmhsu.com/"
+    ],
+    "emails": [
+      "0efcb22fdddd165b@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-謝志昇-c7296b64a4",
+    "school_id": "ntu-econ",
+    "name_zh": "謝志昇",
+    "name_en": "Chih-Sheng Hsieh",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "系主任",
+      "教授"
+    ],
+    "titles_en": [],
+    "education_zh": [
+      "美國俄亥俄州立大學經濟學博士 (2013)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, The Ohio State University, 2013."
+    ],
+    "research_interests_zh": [
+      "應用計量經濟學、勞動經濟學、健康經濟學、社會網路"
+    ],
+    "research_interests_en": [
+      "Applied Econometrics, Labor Economics, Health Economics, and Social Networks"
+    ],
+    "research_fields_zh": [
+      "應用計量經濟學、勞動經濟學、健康經濟學、社會網路"
+    ],
+    "research_fields_en": [
+      "Applied Econometrics, Labor Economics, Health Economics, and Social Networks"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5822"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9496"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/chihshenghsieh/"
+    ],
+    "emails": [
+      "15ee551b282011c6@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-賴建宇-2ecdf98d19",
+    "school_id": "ntu-econ",
+    "name_zh": "賴建宇",
+    "name_en": "Chien-Yu Lai",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國芝加哥大學經濟學博士 (2021)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Chicago, 2021."
+    ],
+    "research_interests_zh": [
+      "應用個體理論、產業經濟學、實驗經濟學"
+    ],
+    "research_interests_en": [
+      "Applied Microeconomic Theory, Industrial Economics, Experimental Economics"
+    ],
+    "research_fields_zh": [
+      "應用個體理論、產業經濟學、實驗經濟學"
+    ],
+    "research_fields_en": [
+      "Applied Microeconomic Theory, Industrial Economics, Experimental Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/8396"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9566"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/chienyulai"
+    ],
+    "emails": [
+      "3be2556445ded2fd@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-郭漢豪-7977d0a5be",
+    "school_id": "ntu-econ",
+    "name_zh": "郭漢豪",
+    "name_en": "Kwok Hon Ho",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國威斯康辛大學麥迪遜分校博士 (2012)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Wisconsin-Madison, 2012."
+    ],
+    "research_interests_zh": [
+      "計量經濟學、經濟學之數學及統計方法、社會互動、社會網絡、總體經濟"
+    ],
+    "research_interests_en": [
+      "Mathematical and Statistical Methods for Economics, Social Interactions, Social networks, Macroeconomics"
+    ],
+    "research_fields_zh": [
+      "計量經濟學、經濟學之數學及統計方法、社會互動、社會網絡、總體經濟"
+    ],
+    "research_fields_en": [
+      "Mathematical and Statistical Methods for Economics, Social Interactions, Social networks, Macroeconomics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/6024"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9567"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/honhokwok/"
+    ],
+    "emails": [
+      "16378dfcb6bf1c7d@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-陳儀-b6cd95972c",
+    "school_id": "ntu-econ",
+    "name_zh": "陳儀",
+    "name_en": "Josie I Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國布朗大學博士 (2015)"
+    ],
+    "education_en": [
+      "Ph.D., in Economics, Brown University, 2015."
+    ],
+    "research_interests_zh": [
+      "行為經濟學、實驗經濟學"
+    ],
+    "research_interests_en": [
+      "Behavioral Economics and Experimental Economics"
+    ],
+    "research_fields_zh": [
+      "行為經濟學、實驗經濟學"
+    ],
+    "research_fields_en": [
+      "Behavioral Economics and Experimental Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5971"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9539"
+    ],
+    "personal_urls": [
+      "https://josiechen.weebly.com/"
+    ],
+    "emails": [
+      "521e535dd3599e79@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-陳冠銘-e3634202cf",
+    "school_id": "ntu-econ",
+    "name_zh": "陳冠銘",
+    "name_en": "Kuan-Ming Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國芝加哥大學博士(2021)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Chicago, 2021."
+    ],
+    "research_interests_zh": [
+      "勞動經濟學、應用計量經濟學"
+    ],
+    "research_interests_en": [
+      "Labor Economics, Applied Econometrics"
+    ],
+    "research_fields_zh": [
+      "勞動經濟學、應用計量經濟學"
+    ],
+    "research_fields_en": [
+      "Labor Economics, Applied Econometrics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/6027"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9574"
+    ],
+    "personal_urls": [
+      "https://kuanmingchen.github.io/"
+    ],
+    "emails": [
+      "b04b8775161b1d62@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-陳南光-8b0f367291",
+    "school_id": "ntu-econ",
+    "name_zh": "陳南光",
+    "name_en": "Nan-Kuang Chen",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國明尼蘇達大學博士(1997)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Minnesota, 1997."
+    ],
+    "research_interests_zh": [
+      "總體與貨幣經濟學"
+    ],
+    "research_interests_en": [
+      "Macro & Monetary Economics"
+    ],
+    "research_fields_zh": [
+      "總體與貨幣經濟學"
+    ],
+    "research_fields_en": [
+      "Macro & Monetary Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5825"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9498"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~nankuang/"
+    ],
+    "emails": [
+      "4a22a2989265df65@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-陳慶池-440d91818f",
+    "school_id": "ntu-econ",
+    "name_zh": "陳慶池",
+    "name_en": "Hing Chi Jimmy Chan",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國加州大學柏克萊分校博士 (1998)"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "賽局理論、機制設計與政治經濟學"
+    ],
+    "research_interests_en": [
+      "Game Theory, Mechanism Design and Political Economics"
+    ],
+    "research_fields_zh": [
+      "賽局理論、機制設計與政治經濟學"
+    ],
+    "research_fields_en": [
+      "Game Theory, Mechanism Design and Political Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5828"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9500"
+    ],
+    "personal_urls": [
+      "https://jimmyhingchan.weebly.com/"
+    ],
+    "emails": [
+      "387b8fa5a69c5194@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-陳旭昇-a9164bcf1e",
+    "school_id": "ntu-econ",
+    "name_zh": "陳旭昇",
+    "name_en": "Shiu-Sheng Chen",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國威斯康辛大學麥迪遜校區博士(2004)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Wisconsin-Madison, 2004."
+    ],
+    "research_interests_zh": [
+      "總體與貨幣經濟學、 國際金融"
+    ],
+    "research_interests_en": [
+      "Macro and Monetary Economics, International Finance"
+    ],
+    "research_fields_zh": [
+      "總體與貨幣經濟學、 國際金融"
+    ],
+    "research_fields_en": [
+      "Macro and Monetary Economics, International Finance"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5831"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9504"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~sschen/"
+    ],
+    "emails": [
+      "6f1b9152b3349826@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-陳由常-b2ab5a0144",
+    "school_id": "ntu-econ",
+    "name_zh": "陳由常",
+    "name_en": "Yu-Chang Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國加州大學聖地牙哥分校博士(2022)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, UCSD, 2022."
+    ],
+    "research_interests_zh": [
+      "計量經濟學、公共經濟學、勞動經濟學"
+    ],
+    "research_interests_en": [
+      "Econometrics, Public Economics and Labor Economics"
+    ],
+    "research_fields_zh": [
+      "計量經濟學、公共經濟學、勞動經濟學"
+    ],
+    "research_fields_en": [
+      "Econometrics, Public Economics and Labor Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/6032"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9573"
+    ],
+    "personal_urls": [
+      "https://yu-chang-chen.github.io/"
+    ],
+    "emails": [
+      "5b04e521cfd277a9@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-陳虹如-4ec44ed550",
+    "school_id": "ntu-econ",
+    "name_zh": "陳虹如",
+    "name_en": "Hung-Ju Chen",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國加州大學洛杉磯分校博士(2002)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of California, Los Angeles, 2002."
+    ],
+    "research_interests_zh": [
+      "經濟發展、總體經濟"
+    ],
+    "research_interests_en": [
+      "Economic Development, Macroeconomics"
+    ],
+    "research_fields_zh": [
+      "經濟發展、總體經濟"
+    ],
+    "research_fields_en": [
+      "Economic Development, Macroeconomics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5924"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9503"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/view/hung-juchen/home/",
+      "https://sites.google.com/view/hung-juchen/home"
+    ],
+    "emails": [
+      "aad1524a3e9a7de5@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-馮勃翰-3891fb6c24",
+    "school_id": "ntu-econ",
+    "name_zh": "馮勃翰",
+    "name_en": "Po Han Fong",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國羅徹斯特大學博士(2005)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Rochester, 2005."
+    ],
+    "research_interests_zh": [
+      "政治經濟學、賽局理論、產業組織"
+    ],
+    "research_interests_en": [
+      "Political Economy, Game Theory, Industrial Organization, Institutions and Economic Performance"
+    ],
+    "research_fields_zh": [
+      "政治經濟學、賽局理論、產業組織"
+    ],
+    "research_fields_en": [
+      "Political Economy, Game Theory, Industrial Organization, Institutions and Economic Performance"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5981"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9538"
+    ],
+    "personal_urls": [
+      "https://sites.google.com/site/pohanfong/"
+    ],
+    "emails": [
+      "78aa10f78a226ac8@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-駱明慶-49f94e80de",
+    "school_id": "ntu-econ",
+    "name_zh": "駱明慶",
+    "name_en": "Ming-Ching Luoh",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國密西根大學博士(1999)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, University of Michigan, 1999."
+    ],
+    "research_interests_zh": [
+      "應用計量經濟學、勞動經濟學、家庭經濟學"
+    ],
+    "research_interests_en": [
+      "Applied Econometrics, Labor Economics, Family Economics"
+    ],
+    "research_fields_zh": [
+      "應用計量經濟學、勞動經濟學、家庭經濟學"
+    ],
+    "research_fields_en": [
+      "Applied Econometrics, Labor Economics, Family Economics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5928"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9502"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~luohm/"
+    ],
+    "emails": [
+      "2de501094f473a06@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-高恩琵-a49ecd70d7",
+    "school_id": "ntu-econ",
+    "name_zh": "高恩琵",
+    "name_en": "Ko Eunbi",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國賓夕法尼亞州立大學博士 (2019)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, Pennsylvania State University, 2019."
+    ],
+    "research_interests_zh": [
+      "總體經濟學、勞動經濟學"
+    ],
+    "research_interests_en": [],
+    "research_fields_zh": [
+      "總體經濟學、勞動經濟學"
+    ],
+    "research_fields_en": [],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/6035"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9572"
+    ],
+    "personal_urls": [
+      "https://eunbiko.weebly.com/"
+    ],
+    "emails": [
+      "6d71056fd89699d4@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-黃景沂-8fe2cfab0f",
+    "school_id": "ntu-econ",
+    "name_zh": "黃景沂",
+    "name_en": "Ching-I Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國西北大學博士(2006)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, Northwestern University, 2006."
+    ],
+    "research_interests_zh": [
+      "產業組織、個體計量"
+    ],
+    "research_interests_en": [
+      "Industrial Organization, Microeconometrics"
+    ],
+    "research_fields_zh": [
+      "產業組織、個體計量"
+    ],
+    "research_fields_en": [
+      "Industrial Organization, Microeconometrics"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5933"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9511"
+    ],
+    "personal_urls": [
+      "http://homepage.ntu.edu.tw/~chingihuang/"
+    ],
+    "emails": [
+      "22660da7eab9062e@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  },
+  {
+    "faculty_id": "ntu-econ-黃貞穎-f613aff21b",
+    "school_id": "ntu-econ",
+    "name_zh": "黃貞穎",
+    "name_en": "Chen-Ying Huang",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國哈佛大學博士(1999)"
+    ],
+    "education_en": [
+      "Ph.D. in Economics, The Harvard University, 1999."
+    ],
+    "research_interests_zh": [
+      "個體理論及其實驗上的應用"
+    ],
+    "research_interests_en": [
+      "Microeconomic theory and its experimental applications"
+    ],
+    "research_fields_zh": [
+      "個體理論及其實驗上的應用"
+    ],
+    "research_fields_en": [
+      "Microeconomic theory and its experimental applications"
+    ],
+    "research_field_summaries_zh": [],
+    "research_field_summaries_en": [],
+    "listing_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5537"
+    ],
+    "listing_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9654",
+      "https://econ.ntu.edu.tw/en/archives/9686"
+    ],
+    "profile_urls_zh": [
+      "https://econ.ntu.edu.tw/archives/5939"
+    ],
+    "profile_urls_en": [
+      "https://econ.ntu.edu.tw/en/archives/9510"
+    ],
+    "personal_urls": [
+      "https://chenyinghuang.weebly.com/"
+    ],
+    "emails": [
+      "131c71fafa3c9c88@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T16:18:41+08:00"
+  }
+]

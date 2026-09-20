@@ -1,0 +1,2341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="s_exp" attr.type="long"/>
+<key id="d17" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d16" for="edge" attr.name="n_shared_keywords" attr.type="long"/>
+<key id="d15" for="edge" attr.name="s_inf" attr.type="double"/>
+<key id="d14" for="edge" attr.name="s_exp" attr.type="double"/>
+<key id="d13" for="edge" attr.name="w_cos" attr.type="double"/>
+<key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="primary_role" attr.type="string"/>
+<key id="d9" for="node" attr.name="dominant_l1" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ntu-fin-何耕宇-d2b3346e2a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">何耕宇</data>
+  <data key="d3">Keng-Yu Ho</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Warwick</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-劉博瑀-e3648c529a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉博瑀</data>
+  <data key="d3">Po-Yu Liu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Hong Kong</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-fin-吳瑞萱-1b792bb68d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳瑞萱</data>
+  <data key="d3">Ruei-Shian Wu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">4</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-fin-呂育道-595ae04f68">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">呂育道</data>
+  <data key="d3">Yun-Dauh Lyuu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">joint</data>
+  <data key="d6">4</data>
+  <data key="d7">Harvard University</data>
+  <data key="d8">2</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">joint</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-fin-姜堯民-f95a106036">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">姜堯民</data>
+  <data key="d3">Yao-Min Chiang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Iowa</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-fin-廖咸興-3f10a438b5">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">廖咸興</data>
+  <data key="d3">Hsien-Hsing Liao</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Rutgers University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-fin-張晏誠-e89d9c3220">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張晏誠</data>
+  <data key="d3">Yen-Cheng Chang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">6</data>
+  <data key="d7">University of Washington</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-張景宏-44af4653d2">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張景宏</data>
+  <data key="d3">Ching-Hung Chang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">Arizona State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-fin-張森林-1b507984fb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張森林</data>
+  <data key="d3">San-Lin Chung</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">Lancaster University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-fin-曾郁仁-f6b4b8a7f0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">曾郁仁</data>
+  <data key="d3">Larry Y. Tzeng</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-fin-李賢源-f154346550">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李賢源</data>
+  <data key="d3">Shyan-Yuan Lee</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Columbia University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-林則君-5dcca23591">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林則君</data>
+  <data key="d3">Tse-Chun Lin</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">chair</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Amsterdam</data>
+  <data key="d8">2</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">chair</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林姿婷</data>
+  <data key="d3">Tzu-Ting Lin</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-fin-林岳祥-60b88640bb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林岳祥</data>
+  <data key="d3">Yueh-Hsiang Lin</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-林軒馳-f0dadcf7f0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林軒馳</data>
+  <data key="d3">Hsuan-Chih Lin</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-fin-池祥麟-0a614738b2">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">池祥麟</data>
+  <data key="d3">Hsiang-Lin Chih</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">洪志清</data>
+  <data key="d3">Chih-Ching Hung</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Baruch College</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-王衍智-97f457b74b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王衍智</data>
+  <data key="d3">Yan-Zhi Wang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-fin-石百達-b922fdf1bd">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">石百達</data>
+  <data key="d3">Pai-Ta Shih</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Texas at Austin</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">3</data>
+</node>
+<node id="ntu-fin-管中閔-7ca9563996">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">管中閔</data>
+  <data key="d3">Chung-Ming Kuan</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">chair</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, San Diego</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">chair</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">胡星陽</data>
+  <data key="d3">Shing-Yang Hu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Rochester</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-fin-莊文議-571404c55b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">莊文議</data>
+  <data key="d3">Wen-I Chuang</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Houston</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-蔡易達-f68700fe00">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡易達</data>
+  <data key="d3">Yi-Da Tsai</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University at Buffalo</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蕭湛東</data>
+  <data key="d3">Lawrence Hsiao</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Northwestern University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">賴淑青</data>
+  <data key="d3">Sandy Lai</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Georgia Institute of Technology</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">邱顯比</data>
+  <data key="d3">Shean-Bii Chiu</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Washington</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-fin-陳宜廷-dc86876d95">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳宜廷</data>
+  <data key="d3">Yi-Ting Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">nan</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">nan</data>
+  <data key="d11">4</data>
+</node>
+<node id="ntu-fin-陳彥行-8829488460">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳彥行</data>
+  <data key="d3">Yan-Shing Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳明賢</data>
+  <data key="d3">Ming-Shen Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Michigan State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-fin-陳業寧-736c019d65">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳業寧</data>
+  <data key="d3">Yehning Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">Applied Mathematics &amp; Operations Research</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳聖賢</data>
+  <data key="d3">Sheng-Syan Chen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">chair</data>
+  <data key="d6">3</data>
+  <data key="d7">University at Buffalo</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">chair</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">顏廣杰</data>
+  <data key="d3">Kuang-Chieh Yen</data>
+  <data key="d4">ntu-fin</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">2</data>
+</node>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-廖咸興-3f10a438b5">
+  <data key="d12">4.473511426837345</data>
+  <data key="d13">0.11849936943094679</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22353804530392665</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.10833798442314092</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-管中閔-7ca9563996">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.0876440745285068</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.10518133200688595</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.09068003444023567</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-陳宜廷-dc86876d95">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.10820692699341501</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.06489358817891434</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.08482504116825555</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-姜堯民-f95a106036">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.05569085146491541</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.11886933132894062</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-吳瑞萱-1b792bb68d">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.06718750614277624</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-張晏誠-e89d9c3220">
+  <data key="d12">6.548286520007729</data>
+  <data key="d13">0.11903193786138061</data>
+  <data key="d14">6.548286520007729</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.15271170510706664</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">6.548286520007729</data>
+  <data key="d13">0.1930952755387468</data>
+  <data key="d14">6.548286520007729</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.15271170510706664</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">4.829538120363272</data>
+  <data key="d13">0.13167766714254822</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20705913797089592</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">4.473511426837345</data>
+  <data key="d13">0.12820425455588053</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22353804530392665</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">4.473511426837345</data>
+  <data key="d13">0.12820425455588053</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22353804530392665</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.03856560149612044</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.08507950381752358</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-林則君-5dcca23591">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.09591911280055315</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.14393114780791172</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-何耕宇-d2b3346e2a" target="ntu-fin-劉博瑀-e3648c529a">
+  <data key="d12">4.829538120363272</data>
+  <data key="d13">0.0984998296081893</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20705913797089592</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">1.9153656254920444</data>
+  <data key="d13">0.025585468457410575</data>
+  <data key="d18">0</data>
+  <data key="d15">4.7884140637301105</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5220935296586555</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">4.934354761210303</data>
+  <data key="d13">0.08884337877688452</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.7884140637301105</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20266074256783254</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-姜堯民-f95a106036">
+  <data key="d12">5.47547949981774</data>
+  <data key="d13">0.06472568159376628</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18263240690304594</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-吳瑞萱-1b792bb68d">
+  <data key="d12">4.934354761210303</data>
+  <data key="d13">0.070370317244842</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.7884140637301105</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20266074256783254</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.039077251683041714</data>
+  <data key="d18">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-張晏誠-e89d9c3220">
+  <data key="d12">6.744903745855316</data>
+  <data key="d13">0.07856764833079394</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">9.314786525342644</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1482600846030592</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">4.829538120363272</data>
+  <data key="d13">0.09126026806120575</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20705913797089592</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">6.799799615086921</data>
+  <data key="d13">0.12487691716392506</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">9.452026198421656</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14706315724087954</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">4.884433989594877</data>
+  <data key="d13">0.08970162258281525</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.663612134691546</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20473201237446587</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.04158473667603206</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.02471338737730725</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">8.824124104634747</data>
+  <data key="d13">0.1541737018394588</data>
+  <data key="d14">8.824124104634747</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1133256953485915</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.05452015926480663</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.04731610437308389</data>
+  <data key="d18">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-廖咸興-3f10a438b5">
+  <data key="d12">4.884433989594877</data>
+  <data key="d13">0.08291133355768043</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.663612134691546</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20473201237446587</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.06942452529866797</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-林則君-5dcca23591">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.031532568327056046</data>
+  <data key="d18">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.03457744177778479</data>
+  <data key="d18">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">5.198649224321461</data>
+  <data key="d13">0.10006283616732688</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1923576600093695</data>
+</edge>
+<edge source="ntu-fin-劉博瑀-e3648c529a" target="ntu-fin-張景宏-44af4653d2">
+  <data key="d12">1.9153656254920444</data>
+  <data key="d13">0.055438521474698396</data>
+  <data key="d18">0</data>
+  <data key="d15">4.7884140637301105</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5220935296586555</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">4.731682002553854</data>
+  <data key="d13">0.09324127547184448</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21134133685659032</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-李賢源-f154346550">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.0290775299618982</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-林則君-5dcca23591">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.07506149852362286</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-廖咸興-3f10a438b5">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.055918858348478866</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">6.968752469129251</data>
+  <data key="d13">0.1748652437610712</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1434977070042137</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">10.918515802540245</data>
+  <data key="d13">0.21451387773792</data>
+  <data key="d14">10.918515802540245</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.09158753974302489</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-池祥麟-0a614738b2">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.12474642672835815</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">4.816899964373264</data>
+  <data key="d13">0.101168896063237</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.494777071637514</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20760240141921069</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">9.477653690917425</data>
+  <data key="d13">0.14245258406044656</data>
+  <data key="d14">7.912341269199782</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10551134622678973</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-張景宏-44af4653d2">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.12474642672835813</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">8.843115466892517</data>
+  <data key="d13">0.1288973741493324</data>
+  <data key="d14">8.843115466892517</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11308231852720582</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-姜堯民-f95a106036">
+  <data key="d12">5.04524572920913</data>
+  <data key="d13">0.06507795374693037</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">5.065641483727178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1982064013672443</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.09302119126773092</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-張晏誠-e89d9c3220">
+  <data key="d12">10.918515802540245</data>
+  <data key="d13">0.13878057899560434</data>
+  <data key="d14">10.918515802540245</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.09158753974302489</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">4.584301557435902</data>
+  <data key="d13">0.09452493992364606</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21813573724834137</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.05755689183010487</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">6.968752469129251</data>
+  <data key="d13">0.13964911349271228</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1434977070042137</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">6.968752469129251</data>
+  <data key="d13">0.13964911349271228</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1434977070042137</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d12">2.2553406043070443</data>
+  <data key="d13">0.03718685311271376</data>
+  <data key="d18">0</data>
+  <data key="d15">5.6383515107676105</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4433920083247253</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.026966797069284478</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-吳瑞萱-1b792bb68d" target="ntu-fin-張森林-1b507984fb">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.05657416665553772</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="ntu-fin-李賢源-f154346550">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.07721121492472563</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="ntu-fin-廖咸興-3f10a438b5">
+  <data key="d12">1.5996983317115419</data>
+  <data key="d13">0.03176491788770561</data>
+  <data key="d18">0</data>
+  <data key="d15">3.999245829278854</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6251178613970827</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="ntu-fin-石百達-b922fdf1bd">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.13373374716374517</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.06853322914938163</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="ntu-fin-曾郁仁-f6b4b8a7f0">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.07393954980119764</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">1.6666089414741743</data>
+  <data key="d13">0.032944994197045524</data>
+  <data key="d18">0</data>
+  <data key="d15">4.166522353685435</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6000207817890769</data>
+</edge>
+<edge source="ntu-fin-呂育道-595ae04f68" target="ntu-fin-張森林-1b507984fb">
+  <data key="d12">5.291598832552463</data>
+  <data key="d13">0.08125440280088408</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">4.7441855255484695</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18897880048054183</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">5.324841641015546</data>
+  <data key="d13">0.09270035922605827</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">5.764631263243218</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18779901214288158</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-張景宏-44af4653d2">
+  <data key="d12">2.026256593490871</data>
+  <data key="d13">0.053045288805692405</data>
+  <data key="d18">0</data>
+  <data key="d15">5.065641483727178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.49352091102992146</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">2.026256593490871</data>
+  <data key="d13">0.024480966076479593</data>
+  <data key="d18">0</data>
+  <data key="d15">5.065641483727178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.49352091102992146</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">5.04524572920913</data>
+  <data key="d13">0.08216170568972243</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">5.065641483727178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1982064013672443</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-張晏誠-e89d9c3220">
+  <data key="d12">7.190627943901056</data>
+  <data key="d13">0.07575778055363289</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">10.429097020456993</data>
+  <data key="d16">1</data>
+  <data key="d17">0.13906991264207733</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">5.04524572920913</data>
+  <data key="d13">0.08380323901979743</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">5.065641483727178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1982064013672443</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.05014643125785435</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.037611996125869906</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">2.1453822146919266</data>
+  <data key="d13">0.032790107567671194</data>
+  <data key="d18">0</data>
+  <data key="d15">5.363455536729816</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4661174093603635</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.05159767335092348</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.047708160307081235</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.049311650931569216</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-廖咸興-3f10a438b5">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.04635041562273561</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-姜堯民-f95a106036" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.06279214888184816</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07081002102118478</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-林則君-5dcca23591">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.03290084522197059</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.03607784333655034</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-石百達-b922fdf1bd">
+  <data key="d12">1.5996983317115419</data>
+  <data key="d13">0.06998492973519695</data>
+  <data key="d18">0</data>
+  <data key="d15">3.999245829278854</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6251178613970827</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07547123404347267</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.0901676033613085</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.0705982366931706</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.04077291123224465</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-張晏誠-e89d9c3220">
+  <data key="d12">4.473511426837345</data>
+  <data key="d13">0.06767903477360811</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22353804530392665</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.05400967491470712</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">3.426324448880982</data>
+  <data key="d13">0.07519895944847416</data>
+  <data key="d18">0</data>
+  <data key="d15">8.565811122202454</data>
+  <data key="d16">0</data>
+  <data key="d17">0.29185794133611437</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">4.473511426837345</data>
+  <data key="d13">0.10978987742789915</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22353804530392665</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">4.884433989594877</data>
+  <data key="d13">0.11083847582255457</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.663612134691546</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20473201237446587</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">6.765547701418873</data>
+  <data key="d13">0.16137142055531878</data>
+  <data key="d14">6.765547701418873</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14780769335057378</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">6.765547701418873</data>
+  <data key="d13">0.16137142055531878</data>
+  <data key="d14">6.765547701418873</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14780769335057378</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-曾郁仁-f6b4b8a7f0">
+  <data key="d12">1.963855889541711</data>
+  <data key="d13">0.04750199426824866</data>
+  <data key="d18">0</data>
+  <data key="d15">4.909639723854277</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5092023326789837</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.04936926831772538</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-廖咸興-3f10a438b5" target="ntu-fin-張森林-1b507984fb">
+  <data key="d12">1.5996983317115419</data>
+  <data key="d13">0.027272547115262016</data>
+  <data key="d18">0</data>
+  <data key="d15">3.999245829278854</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6251178613970827</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.04859180875846704</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-李賢源-f154346550">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.023750150778905733</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-林則君-5dcca23591">
+  <data key="d12">7.479060717700464</data>
+  <data key="d13">0.11609194161882902</data>
+  <data key="d14">7.479060717700464</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13370662944791056</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.06007264899900302</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">4.816899964373264</data>
+  <data key="d13">0.08263344715956976</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.494777071637514</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20760240141921069</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">6.968752469129251</data>
+  <data key="d13">0.14282767177121092</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1434977070042137</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">10.918515802540245</data>
+  <data key="d13">0.17521216372639797</data>
+  <data key="d14">10.918515802540245</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.09158753974302489</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">7.479060717700464</data>
+  <data key="d13">0.1438688397963272</data>
+  <data key="d14">7.479060717700464</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13370662944791056</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">4.584301557435902</data>
+  <data key="d13">0.05627966881625923</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21813573724834137</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-張景宏-44af4653d2">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.10189126957518273</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.047023906743096235</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">8.113598941725373</data>
+  <data key="d13">0.13664559240336893</data>
+  <data key="d14">6.548286520007729</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12324986817592785</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">4.829538120363272</data>
+  <data key="d13">0.07520561042851207</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20705913797089592</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">8.423274760248338</data>
+  <data key="d13">0.13787101439399102</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11871867278024273</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">8.423274760248338</data>
+  <data key="d13">0.13787101439399102</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11871867278024273</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.06668731494848655</data>
+  <data key="d14">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.0822039915003382</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-張晏誠-e89d9c3220" target="ntu-fin-張森林-1b507984fb">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.04620904836210676</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張景宏-44af4653d2" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.15749387632187703</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張景宏-44af4653d2" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.11684514180606764</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張景宏-44af4653d2" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.16064049365527797</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張景宏-44af4653d2" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">1.7979108286550056</data>
+  <data key="d13">0.07663873785234125</data>
+  <data key="d18">0</data>
+  <data key="d15">4.494777071637514</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5562011107903986</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.09122426977502583</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.07142557137658694</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.08561951428011542</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-石百達-b922fdf1bd">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.11482037930390576</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.02165515967496795</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.029707433009718894</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.07285260426313744</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d12">1.897674210219388</data>
+  <data key="d13">0.028799822276924486</data>
+  <data key="d18">0</data>
+  <data key="d15">4.7441855255484695</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5269608421797497</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-曾郁仁-f6b4b8a7f0">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.06348260879386393</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">1.6666089414741743</data>
+  <data key="d13">0.02828573049133282</data>
+  <data key="d18">0</data>
+  <data key="d15">4.166522353685435</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6000207817890769</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-李賢源-f154346550">
+  <data key="d12">3.4629866319370315</data>
+  <data key="d13">0.05921042223624389</data>
+  <data key="d18">0</data>
+  <data key="d15">8.657466579842579</data>
+  <data key="d16">0</data>
+  <data key="d17">0.288768079777613</data>
+</edge>
+<edge source="ntu-fin-張森林-1b507984fb" target="ntu-fin-林則君-5dcca23591">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.0690888705803924</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-曾郁仁-f6b4b8a7f0" target="ntu-fin-石百達-b922fdf1bd">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.16290469302587837</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="ntu-fin-曾郁仁-f6b4b8a7f0" target="ntu-fin-林姿婷-fdcec17cd0">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.12316676931512278</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.03671073414821765</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.04400602145784385</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.09542990472695616</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.037444188902716</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.07631124652366328</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-林則君-5dcca23591">
+  <data key="d12">5.442448168145349</data>
+  <data key="d13">0.12346410418096156</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18374084035434649</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.046886708093930925</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.09644748960347277</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="ntu-fin-李賢源-f154346550" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.06956339256754818</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">7.4064331307171765</data>
+  <data key="d13">0.18848582883978043</data>
+  <data key="d14">7.4064331307171765</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1350177585284117</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.12103457807392057</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.09476605202292998</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">7.479060717700464</data>
+  <data key="d13">0.21510366487855728</data>
+  <data key="d14">7.479060717700464</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13370662944791056</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.028731642586419186</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">5.0946098060071145</data>
+  <data key="d13">0.1282844707873085</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19628588607922204</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.04215372811136858</data>
+  <data key="d18">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.035595365242843076</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">5.40428562453008</data>
+  <data key="d13">0.13225477660695723</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18503833244138596</data>
+</edge>
+<edge source="ntu-fin-林則君-5dcca23591" target="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.12290625172484312</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.02604609582918195</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.035731098667656745</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.03303763275508613</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.034726121678375854</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-林岳祥-60b88640bb">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.034726121678375854</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.034148040996298375</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.04348321002755743</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.03404590827820134</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-石百達-b922fdf1bd">
+  <data key="d12">1.6666089414741743</data>
+  <data key="d13">0.07258489104733652</data>
+  <data key="d18">0</data>
+  <data key="d15">4.166522353685435</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6000207817890769</data>
+</edge>
+<edge source="ntu-fin-林姿婷-fdcec17cd0" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.036395904943831256</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-洪志清-04c9cc50a7">
+  <data key="d12">5.40428562453008</data>
+  <data key="d13">0.1638988977412306</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18503833244138596</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">6.765547701418873</data>
+  <data key="d13">0.1745874495220328</data>
+  <data key="d14">6.765547701418873</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14780769335057378</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">4.584301557435902</data>
+  <data key="d13">0.08872981776646219</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21813573724834137</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">6.038823848554989</data>
+  <data key="d13">0.16034392457587635</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">7.5495867820918265</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1655951597659678</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">4.884433989594877</data>
+  <data key="d13">0.11991594754621188</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.663612134691546</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20473201237446587</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07660923432505977</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.053412522556346084</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">6.968752469129251</data>
+  <data key="d13">0.2251803103113919</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1434977070042137</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.03903255378621741</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-王衍智-97f457b74b">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.08165219230634095</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-林岳祥-60b88640bb" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">6.968752469129251</data>
+  <data key="d13">0.17630869906016483</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1434977070042137</data>
+</edge>
+<edge source="ntu-fin-林軒馳-f0dadcf7f0" target="ntu-fin-管中閔-7ca9563996">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.1565369936521638</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="ntu-fin-池祥麟-0a614738b2" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">1.7126928668355959</data>
+  <data key="d13">0.05528885054969026</data>
+  <data key="d18">0</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5838758480074826</data>
+</edge>
+<edge source="ntu-fin-池祥麟-0a614738b2" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.11684514180606763</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ntu-fin-池祥麟-0a614738b2" target="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d12">2.2553406043070443</data>
+  <data key="d13">0.0609192915993711</data>
+  <data key="d18">0</data>
+  <data key="d15">5.6383515107676105</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4433920083247253</data>
+</edge>
+<edge source="ntu-fin-池祥麟-0a614738b2" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.12048733027385264</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.11744038187751385</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.0441121392941175</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.0356061585904292</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">5.0946098060071145</data>
+  <data key="d13">0.15897863123569717</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19628588607922204</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.05223969788001891</data>
+  <data key="d18">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="ntu-fin-蕭湛東-be0195ff06">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.15231358518773022</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.14999408296491695</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-洪志清-04c9cc50a7" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.1113070104475963</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.10224290118404003</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="ntu-fin-胡星陽-4994e4eee9">
+  <data key="d12">4.816899964373264</data>
+  <data key="d13">0.12772695797451789</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.494777071637514</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20760240141921069</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.061242681954837196</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">1.7979108286550056</data>
+  <data key="d13">0.035369594242006294</data>
+  <data key="d18">0</data>
+  <data key="d15">4.494777071637514</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5562011107903986</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.08401521387126594</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07768201609292781</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">4.816899964373264</data>
+  <data key="d13">0.13027885312937332</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.494777071637514</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20760240141921069</data>
+</edge>
+<edge source="ntu-fin-王衍智-97f457b74b" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.08029294017162983</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-管中閔-7ca9563996" target="ntu-fin-陳宜廷-dc86876d95">
+  <data key="d12">7.252238630801871</data>
+  <data key="d13">0.21940098221214316</data>
+  <data key="d14">7.252238630801871</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1378884577450027</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07510861677128715</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="ntu-fin-莊文議-571404c55b">
+  <data key="d12">6.968752469129251</data>
+  <data key="d13">0.22076949052714162</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1434977070042137</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">4.584301557435902</data>
+  <data key="d13">0.08699178287737253</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21813573724834137</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.07268510230215565</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">4.584301557435902</data>
+  <data key="d13">0.11933888278888344</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21813573724834137</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07266627382523264</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-胡星陽-4994e4eee9" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">6.968752469129251</data>
+  <data key="d13">0.17630869906016483</data>
+  <data key="d14">6.968752469129251</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1434977070042137</data>
+</edge>
+<edge source="ntu-fin-莊文議-571404c55b" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">4.584301557435902</data>
+  <data key="d13">0.15241883583659901</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21813573724834137</data>
+</edge>
+<edge source="ntu-fin-莊文議-571404c55b" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.09280888677849428</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-莊文議-571404c55b" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.09592823111834288</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-莊文議-571404c55b" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.09755216782620228</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-莊文議-571404c55b" target="ntu-fin-蔡易達-f68700fe00">
+  <data key="d12">4.584301557435902</data>
+  <data key="d13">0.11110533267665565</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21813573724834137</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">4.731682002553854</data>
+  <data key="d13">0.09005782888991985</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21134133685659032</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="ntu-fin-陳彥行-8829488460">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.06889036898654033</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.05843297010352829</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d12">2.2553406043070443</data>
+  <data key="d13">0.035917218395308495</data>
+  <data key="d18">0</data>
+  <data key="d15">5.6383515107676105</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4433920083247253</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">6.896124882145964</data>
+  <data key="d13">0.13733828398001582</data>
+  <data key="d14">6.896124882145964</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14500897490835693</data>
+</edge>
+<edge source="ntu-fin-蔡易達-f68700fe00" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.055591782605295084</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-蕭湛東-be0195ff06" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.13477442493940658</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-蕭湛東-be0195ff06" target="ntu-fin-賴淑青-e9105e48ac">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.1333524655175138</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-蕭湛東-be0195ff06" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.06325365502564288</data>
+  <data key="d18">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="ntu-fin-蕭湛東-be0195ff06" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.053412522556346084</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-賴淑青-e9105e48ac" target="ntu-fin-邱顯比-9fc73b83ef">
+  <data key="d12">4.829538120363272</data>
+  <data key="d13">0.12199959379527786</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20705913797089592</data>
+</edge>
+<edge source="ntu-fin-賴淑青-e9105e48ac" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">4.473511426837345</data>
+  <data key="d13">0.1187814708299148</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22353804530392665</data>
+</edge>
+<edge source="ntu-fin-賴淑青-e9105e48ac" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.0788263122462909</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-賴淑青-e9105e48ac" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.0974506919673396</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="ntu-fin-邱顯比-9fc73b83ef" target="ntu-fin-陳明賢-3e54e36dc3">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.04622421061200945</data>
+  <data key="d18">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="ntu-fin-邱顯比-9fc73b83ef" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">4.884433989594877</data>
+  <data key="d13">0.11991594754621188</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">4.663612134691546</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20473201237446587</data>
+</edge>
+<edge source="ntu-fin-邱顯比-9fc73b83ef" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07288426196052072</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-陳彥行-8829488460" target="ntu-fin-陳業寧-736c019d65">
+  <data key="d12">1.8654448538766184</data>
+  <data key="d13">0.03443163267609658</data>
+  <data key="d18">0</data>
+  <data key="d15">4.663612134691546</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5360651631817901</data>
+</edge>
+<edge source="ntu-fin-陳彥行-8829488460" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">3.949763333410993</data>
+  <data key="d13">0.07413729973436918</data>
+  <data key="d14">3.949763333410993</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2531797263752524</data>
+</edge>
+<edge source="ntu-fin-陳彥行-8829488460" target="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d12">2.4564903640994817</data>
+  <data key="d13">0.03793804085965597</data>
+  <data key="d18">0</data>
+  <data key="d15">6.141225910248704</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4070848453609088</data>
+</edge>
+<edge source="ntu-fin-陳明賢-3e54e36dc3" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.03903255378621741</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="ntu-fin-陳業寧-736c019d65" target="ntu-fin-陳聖賢-7059d0af03">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.07660923432505977</data>
+  <data key="d14">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="ntu-fin-陳業寧-736c019d65" target="ntu-fin-顏廣杰-074de26dd3">
+  <data key="d12">1.9734456359944805</data>
+  <data key="d13">0.04120395305268348</data>
+  <data key="d18">0</data>
+  <data key="d15">4.933614089986201</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5067279188038382</data>
+</edge>
+</graph></graphml>

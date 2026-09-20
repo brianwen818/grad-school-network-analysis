@@ -1,0 +1,1812 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d8" for="edge" attr.name="cosine" attr.type="double"/>
+<key id="d7" for="edge" attr.name="jaccard" attr.type="double"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d5" for="node" attr.name="community" attr.type="long"/>
+<key id="d4" for="node" attr.name="idf" attr.type="double"/>
+<key id="d3" for="node" attr.name="n_faculty_in_unit" attr.type="long"/>
+<key id="d2" for="node" attr.name="parent_l1" attr.type="string"/>
+<key id="d1" for="node" attr.name="parent_l2" attr.type="string"/>
+<key id="d0" for="node" attr.name="kind" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Algorithms">
+  <data key="d0">keyword</data>
+  <data key="d1">Algorithms &amp; Computational Complexity</data>
+  <data key="d2">Theory &amp; Algorithms</data>
+  <data key="d3">16</data>
+  <data key="d4">2.674852131692614</data>
+  <data key="d5">4</data>
+</node>
+<node id="Natural Language Processing">
+  <data key="d0">keyword</data>
+  <data key="d1">Natural Language &amp; Speech Processing</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">3</data>
+  <data key="d4">3.4369154642642346</data>
+  <data key="d5">2</data>
+</node>
+<node id="Operations Research">
+  <data key="d0">keyword</data>
+  <data key="d1">Optimization &amp; Operations Research</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">1</data>
+  <data key="d4">4.893352133481524</data>
+  <data key="d5">2</data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d0">keyword</data>
+  <data key="d1">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">8</data>
+  <data key="d4">1.9563404913341855</data>
+  <data key="d5">1</data>
+</node>
+<node id="Evolutionary Computation">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">1</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">1</data>
+</node>
+<node id="Machine Learning">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">7</data>
+  <data key="d4">2.084746593909529</data>
+  <data key="d5">2</data>
+</node>
+<node id="Software Engineering">
+  <data key="d0">keyword</data>
+  <data key="d1">Software Engineering, Languages &amp; Verification</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">4</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">1</data>
+</node>
+<node id="Automation and Control">
+  <data key="d0">keyword</data>
+  <data key="d1">Robotics &amp; Automation</data>
+  <data key="d2">Robotics, Control &amp; Smart Manufacturing</data>
+  <data key="d3">11</data>
+  <data key="d4">3.481972421847367</data>
+  <data key="d5">4</data>
+</node>
+<node id="Electronic Design Automation">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer Architecture &amp; Hardware Design</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">9</data>
+  <data key="d4">3.746558565700614</data>
+  <data key="d5">4</data>
+</node>
+<node id="Computer Architecture">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer Architecture &amp; Hardware Design</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">2</data>
+  <data key="d4">3.529297384289471</data>
+  <data key="d5">4</data>
+</node>
+<node id="Data Mining">
+  <data key="d0">keyword</data>
+  <data key="d1">Data Mining &amp; Big Data Analytics</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">4</data>
+  <data key="d4">2.888946240904944</data>
+  <data key="d5">2</data>
+</node>
+<node id="Databases">
+  <data key="d0">keyword</data>
+  <data key="d1">Database &amp; Storage Systems</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">5</data>
+  <data key="d4">3.4369154642642346</data>
+  <data key="d5">2</data>
+</node>
+<node id="Cloud Computing">
+  <data key="d0">keyword</data>
+  <data key="d1">Cloud &amp; Edge Computing</data>
+  <data key="d2">Networks &amp; Communications</data>
+  <data key="d3">3</data>
+  <data key="d4">3.8771357464277054</data>
+  <data key="d5">0</data>
+</node>
+<node id="Distributed Systems">
+  <data key="d0">keyword</data>
+  <data key="d1">Parallel &amp; Distributed Computing</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">4</data>
+  <data key="d4">3.8771357464277054</data>
+  <data key="d5">0</data>
+</node>
+<node id="High-Performance Computing">
+  <data key="d0">keyword</data>
+  <data key="d1">Parallel &amp; Distributed Computing</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">2</data>
+  <data key="d4">5.401174751987744</data>
+  <data key="d5">0</data>
+</node>
+<node id="Storage Systems">
+  <data key="d0">keyword</data>
+  <data key="d1">Database &amp; Storage Systems</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">2</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">0</data>
+</node>
+<node id="Embedded Systems">
+  <data key="d0">keyword</data>
+  <data key="d1">Operating, Real-Time &amp; Embedded Systems</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">4</data>
+  <data key="d4">3.076736057707078</data>
+  <data key="d5">0</data>
+</node>
+<node id="Bioinformatics">
+  <data key="d0">keyword</data>
+  <data key="d1">Bioinformatics &amp; Systems Biology</data>
+  <data key="d2">Biomedical &amp; Health Informatics</data>
+  <data key="d3">5</data>
+  <data key="d4">3.107042794704757</data>
+  <data key="d5">4</data>
+</node>
+<node id="Blockchain">
+  <data key="d0">keyword</data>
+  <data key="d1">Cryptography, Blockchain &amp; Privacy</data>
+  <data key="d2">Security, Privacy &amp; Cryptography</data>
+  <data key="d3">3</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">1</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">6</data>
+  <data key="d4">2.584696120396371</data>
+  <data key="d5">2</data>
+</node>
+<node id="Information Security">
+  <data key="d0">keyword</data>
+  <data key="d1">Information &amp; Systems Security</data>
+  <data key="d2">Security, Privacy &amp; Cryptography</data>
+  <data key="d3">7</data>
+  <data key="d4">2.888946240904944</data>
+  <data key="d5">1</data>
+</node>
+<node id="Information Retrieval">
+  <data key="d0">keyword</data>
+  <data key="d1">Data Mining &amp; Big Data Analytics</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">2</data>
+  <data key="d4">3.809621071810065</data>
+  <data key="d5">2</data>
+</node>
+<node id="Knowledge Management">
+  <data key="d0">keyword</data>
+  <data key="d1">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d2">Information Systems &amp; Management</data>
+  <data key="d3">2</data>
+  <data key="d4">4.712528704308591</data>
+  <data key="d5">2</data>
+</node>
+<node id="Machine Translation">
+  <data key="d0">keyword</data>
+  <data key="d1">Natural Language &amp; Speech Processing</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">1</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">2</data>
+</node>
+<node id="Discrete Mathematics">
+  <data key="d0">keyword</data>
+  <data key="d1">Discrete Mathematics &amp; Information Theory</data>
+  <data key="d2">Theory &amp; Algorithms</data>
+  <data key="d3">1</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">4</data>
+</node>
+<node id="Computer Networks">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer &amp; Wireless Networks</data>
+  <data key="d2">Networks &amp; Communications</data>
+  <data key="d3">5</data>
+  <data key="d4">3.047404284098312</data>
+  <data key="d5">0</data>
+</node>
+<node id="Parallel Computing">
+  <data key="d0">keyword</data>
+  <data key="d1">Parallel &amp; Distributed Computing</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">4</data>
+  <data key="d4">3.3939246223330755</data>
+  <data key="d5">0</data>
+</node>
+<node id="Queueing Theory">
+  <data key="d0">keyword</data>
+  <data key="d1">Optimization &amp; Operations Research</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">2</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">5</data>
+</node>
+<node id="Cryptography">
+  <data key="d0">keyword</data>
+  <data key="d1">Cryptography, Blockchain &amp; Privacy</data>
+  <data key="d2">Security, Privacy &amp; Cryptography</data>
+  <data key="d3">2</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">3</data>
+</node>
+<node id="Image Processing">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">4</data>
+  <data key="d4">2.865053949911875</data>
+  <data key="d5">3</data>
+</node>
+<node id="Multimedia Systems">
+  <data key="d0">keyword</data>
+  <data key="d1">Graphics &amp; Multimedia Systems</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">10</data>
+  <data key="d4">2.5348100898864967</data>
+  <data key="d5">3</data>
+</node>
+<node id="Network Security">
+  <data key="d0">keyword</data>
+  <data key="d1">Information &amp; Systems Security</data>
+  <data key="d2">Security, Privacy &amp; Cryptography</data>
+  <data key="d3">2</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">1</data>
+</node>
+<node id="Computer Vision">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">10</data>
+  <data key="d4">2.584696120396371</data>
+  <data key="d5">3</data>
+</node>
+<node id="Game Theory">
+  <data key="d0">keyword</data>
+  <data key="d1">Game Theory &amp; Mechanism Design</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">2</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">5</data>
+</node>
+<node id="Real-Time Systems">
+  <data key="d0">keyword</data>
+  <data key="d1">Operating, Real-Time &amp; Embedded Systems</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">2</data>
+  <data key="d4">4.559873911072915</data>
+  <data key="d5">0</data>
+</node>
+<node id="Optimization">
+  <data key="d0">keyword</data>
+  <data key="d1">Optimization &amp; Operations Research</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">3</data>
+  <data key="d4">3.047404284098312</data>
+  <data key="d5">4</data>
+</node>
+<node id="Computer Graphics">
+  <data key="d0">keyword</data>
+  <data key="d1">Graphics &amp; Multimedia Systems</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">5</data>
+  <data key="d4">3.529297384289471</data>
+  <data key="d5">3</data>
+</node>
+<node id="Digital Twins">
+  <data key="d0">keyword</data>
+  <data key="d1">Operating, Real-Time &amp; Embedded Systems</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">1</data>
+  <data key="d4">4.712528704308591</data>
+  <data key="d5">3</data>
+</node>
+<node id="Numerical Analysis">
+  <data key="d0">keyword</data>
+  <data key="d1">Mathematical Analysis &amp; Scientific Computing</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">1</data>
+  <data key="d4">5.401174751987744</data>
+  <data key="d5">0</data>
+</node>
+<node id="Scientific Computing">
+  <data key="d0">keyword</data>
+  <data key="d1">Mathematical Analysis &amp; Scientific Computing</data>
+  <data key="d2">Applied Mathematics &amp; Operations Research</data>
+  <data key="d3">1</data>
+  <data key="d4">4.893352133481524</data>
+  <data key="d5">0</data>
+</node>
+<node id="Compilers">
+  <data key="d0">keyword</data>
+  <data key="d1">Software Engineering, Languages &amp; Verification</data>
+  <data key="d2">Systems, Software &amp; Architecture</data>
+  <data key="d3">1</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">0</data>
+</node>
+<node id="Pervasive Computing">
+  <data key="d0">keyword</data>
+  <data key="d1">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d2">Networks &amp; Communications</data>
+  <data key="d3">3</data>
+  <data key="d4">4.427836170705175</data>
+  <data key="d5">0</data>
+</node>
+<node id="Data Science">
+  <data key="d0">keyword</data>
+  <data key="d1">Data Mining &amp; Big Data Analytics</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">1</data>
+  <data key="d4">3.949763333410993</data>
+  <data key="d5">5</data>
+</node>
+<node id="Reinforcement Learning">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">1</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">5</data>
+</node>
+<node id="Social Network Analysis">
+  <data key="d0">keyword</data>
+  <data key="d1">Social &amp; Web Network Analytics</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">2</data>
+  <data key="d4">4.207673247529104</data>
+  <data key="d5">5</data>
+</node>
+<node id="Wireless Networks">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer &amp; Wireless Networks</data>
+  <data key="d2">Networks &amp; Communications</data>
+  <data key="d3">6</data>
+  <data key="d4">3.3134584673541485</data>
+  <data key="d5">5</data>
+</node>
+<node id="Mobile Computing">
+  <data key="d0">keyword</data>
+  <data key="d1">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d2">Networks &amp; Communications</data>
+  <data key="d3">2</data>
+  <data key="d4">3.631721040273988</data>
+  <data key="d5">0</data>
+</node>
+<node id="Big Data Analytics">
+  <data key="d0">keyword</data>
+  <data key="d1">Data Mining &amp; Big Data Analytics</data>
+  <data key="d2">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d3">3</data>
+  <data key="d4">3.2394044050093296</data>
+  <data key="d5">2</data>
+</node>
+<node id="Information Visualization">
+  <data key="d0">keyword</data>
+  <data key="d1">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">1</data>
+  <data key="d4">5.401174751987744</data>
+  <data key="d5">3</data>
+</node>
+<node id="Neural Networks">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">1</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">0</data>
+</node>
+<node id="Graph Theory">
+  <data key="d0">keyword</data>
+  <data key="d1">Discrete Mathematics &amp; Information Theory</data>
+  <data key="d2">Theory &amp; Algorithms</data>
+  <data key="d3">2</data>
+  <data key="d4">4.113850056846357</data>
+  <data key="d5">4</data>
+</node>
+<node id="Generative AI">
+  <data key="d0">keyword</data>
+  <data key="d1">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">1</data>
+  <data key="d4">4.559873911072915</data>
+  <data key="d5">1</data>
+</node>
+<node id="Trustworthy AI">
+  <data key="d0">keyword</data>
+  <data key="d1">Artificial Intelligence &amp; Generative Models</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">1</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">1</data>
+</node>
+<node id="Augmented Reality">
+  <data key="d0">keyword</data>
+  <data key="d1">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">1</data>
+  <data key="d4">4.427836170705175</data>
+  <data key="d5">3</data>
+</node>
+<node id="Virtual Reality">
+  <data key="d0">keyword</data>
+  <data key="d1">Human-Computer Interaction &amp; Immersive Media</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">1</data>
+  <data key="d4">3.949763333410993</data>
+  <data key="d5">3</data>
+</node>
+<node id="Entrepreneurship">
+  <data key="d0">keyword</data>
+  <data key="d1">Innovation, Entrepreneurship &amp; Management</data>
+  <data key="d2">Information Systems &amp; Management</data>
+  <data key="d3">1</data>
+  <data key="d4">4.028323461124307</data>
+  <data key="d5">1</data>
+</node>
+<node id="Internet of Things">
+  <data key="d0">keyword</data>
+  <data key="d1">Mobile, IoT &amp; Pervasive Computing</data>
+  <data key="d2">Networks &amp; Communications</data>
+  <data key="d3">3</data>
+  <data key="d4">3.138388573955514</data>
+  <data key="d5">1</data>
+</node>
+<node id="Pattern Recognition">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">2</data>
+  <data key="d4">3.809621071810065</data>
+  <data key="d5">3</data>
+</node>
+<node id="Edge Computing">
+  <data key="d0">keyword</data>
+  <data key="d1">Cloud &amp; Edge Computing</data>
+  <data key="d2">Networks &amp; Communications</data>
+  <data key="d3">1</data>
+  <data key="d4">5.1149953094204985</data>
+  <data key="d5">1</data>
+</node>
+<node id="Signal Processing">
+  <data key="d0">keyword</data>
+  <data key="d1">Computer Vision, Image &amp; Signal Processing</data>
+  <data key="d2">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d3">1</data>
+  <data key="d4">3.35282379737794</data>
+  <data key="d5">3</data>
+</node>
+<node id="Smart Healthcare">
+  <data key="d0">keyword</data>
+  <data key="d1">Medical Informatics &amp; Imaging</data>
+  <data key="d2">Biomedical &amp; Health Informatics</data>
+  <data key="d3">1</data>
+  <data key="d4">3.809621071810065</data>
+  <data key="d5">1</data>
+</node>
+<node id="Medical Informatics">
+  <data key="d0">keyword</data>
+  <data key="d1">Medical Informatics &amp; Imaging</data>
+  <data key="d2">Biomedical &amp; Health Informatics</data>
+  <data key="d3">1</data>
+  <data key="d4">3.809621071810065</data>
+  <data key="d5">2</data>
+</node>
+<node id="Neuromorphic Computing">
+  <data key="d0">keyword</data>
+  <data key="d1">Machine Learning &amp; Deep Learning</data>
+  <data key="d2">AI &amp; Machine Learning</data>
+  <data key="d3">1</data>
+  <data key="d4">5.805134968916488</data>
+  <data key="d5">4</data>
+</node>
+<edge source="Algorithms" target="Automation and Control">
+  <data key="d6">3</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.22613350843332272</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Algorithms" target="Electronic Design Automation">
+  <data key="d6">2</data>
+  <data key="d7">0.08695652173913043</data>
+  <data key="d8">0.16666666666666666</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Algorithms" target="Bioinformatics">
+  <data key="d6">2</data>
+  <data key="d7">0.10526315789473684</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Algorithms" target="Discrete Mathematics">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Optimization">
+  <data key="d6">2</data>
+  <data key="d7">0.11764705882352941</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Algorithms" target="Computer Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.11180339887498948</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Multimedia Systems">
+  <data key="d6">3</data>
+  <data key="d7">0.13043478260869565</data>
+  <data key="d8">0.23717082451262844</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Algorithms" target="Neural Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Parallel Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.05263157894736842</data>
+  <data key="d8">0.125</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Graph Theory">
+  <data key="d6">2</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Algorithms" target="Real-Time Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.058823529411764705</data>
+  <data key="d8">0.17677669529663687</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.047619047619047616</data>
+  <data key="d8">0.10206207261596577</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.04</data>
+  <data key="d8">0.07905694150420949</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Signal Processing">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Databases">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.11180339887498948</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Algorithms" target="Software Engineering">
+  <data key="d6">1</data>
+  <data key="d7">0.05263157894736842</data>
+  <data key="d8">0.125</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Natural Language Processing" target="Operations Research">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Natural Language Processing" target="Artificial Intelligence">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.20412414523193154</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Natural Language Processing" target="Information Retrieval">
+  <data key="d6">2</data>
+  <data key="d7">0.6666666666666666</data>
+  <data key="d8">0.8164965809277261</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Natural Language Processing" target="Knowledge Management">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Natural Language Processing" target="Machine Translation">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Natural Language Processing" target="Data Mining">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Natural Language Processing" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Natural Language Processing" target="Machine Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.2182178902359924</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Evolutionary Computation">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Machine Learning">
+  <data key="d6">3</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4008918628686366</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Artificial Intelligence" target="Software Engineering">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.17677669529663687</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Information Retrieval">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Knowledge Management">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Machine Translation">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Vision">
+  <data key="d6">2</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Artificial Intelligence" target="Data Science">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Queueing Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Wireless Networks">
+  <data key="d6">2</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Artificial Intelligence" target="Generative AI">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Trustworthy AI">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Blockchain">
+  <data key="d6">2</data>
+  <data key="d7">0.2222222222222222</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Artificial Intelligence" target="Entrepreneurship">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Information Security">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.1336306209562122</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Internet of Things">
+  <data key="d6">3</data>
+  <data key="d7">0.375</data>
+  <data key="d8">0.6123724356957946</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Artificial Intelligence" target="Edge Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Image Processing">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.17677669529663687</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Smart Healthcare">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Artificial Intelligence" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Evolutionary Computation" target="Machine Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.3779644730092272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Evolutionary Computation" target="Software Engineering">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Software Engineering">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.1889822365046136</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Data Mining">
+  <data key="d6">2</data>
+  <data key="d7">0.2222222222222222</data>
+  <data key="d8">0.3779644730092272</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Machine Learning" target="Databases">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.1690308509457033</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Computer Vision">
+  <data key="d6">2</data>
+  <data key="d7">0.13333333333333333</data>
+  <data key="d8">0.23904572186687872</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Machine Learning" target="Data Science">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.3779644730092272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Queueing Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.3779644730092272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.1543033499620919</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Bioinformatics">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.1690308509457033</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Knowledge Management">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Deep Learning">
+  <data key="d6">2</data>
+  <data key="d7">0.18181818181818182</data>
+  <data key="d8">0.3086066999241838</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Machine Learning" target="Image Processing">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.1889822365046136</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Smart Healthcare">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.3779644730092272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Machine Learning" target="Information Retrieval">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Software Engineering" target="Information Security">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.1889822365046136</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Software Engineering" target="Databases">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Automation and Control" target="Electronic Design Automation">
+  <data key="d6">9</data>
+  <data key="d7">0.8181818181818182</data>
+  <data key="d8">0.9045340337332909</data>
+  <data key="d9">0.1111111111111111</data>
+</edge>
+<edge source="Automation and Control" target="Optimization">
+  <data key="d6">2</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.3481553119113957</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Automation and Control" target="Computer Architecture">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.21320071635561041</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Automation and Control" target="Embedded Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.15075567228888181</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Automation and Control" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.05</data>
+  <data key="d8">0.09534625892455924</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Automation and Control" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.12309149097933272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Automation and Control" target="Neuromorphic Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.30151134457776363</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Electronic Design Automation" target="Optimization">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.19245008972987526</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Electronic Design Automation" target="Computer Architecture">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Electronic Design Automation" target="Embedded Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.16666666666666666</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Electronic Design Automation" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.05555555555555555</data>
+  <data key="d8">0.10540925533894598</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Electronic Design Automation" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.13608276348795434</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Electronic Design Automation" target="Neuromorphic Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.3333333333333333</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Architecture" target="Embedded Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Data Mining" target="Databases">
+  <data key="d6">2</data>
+  <data key="d7">0.2857142857142857</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Data Mining" target="Big Data Analytics">
+  <data key="d6">2</data>
+  <data key="d7">0.4</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Data Mining" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.15811388300841897</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Data Mining" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Data Mining" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.20412414523193154</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Data Mining" target="Information Retrieval">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Databases" target="Cryptography">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Databases" target="Image Processing">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Databases" target="Information Security">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.1690308509457033</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Databases" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.07142857142857142</data>
+  <data key="d8">0.1414213562373095</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Databases" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Databases" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2581988897471611</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Databases" target="Storage Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cloud Computing" target="Distributed Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cloud Computing" target="High-Performance Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cloud Computing" target="Storage Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cloud Computing" target="Mobile Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cloud Computing" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cloud Computing" target="Embedded Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cloud Computing" target="Parallel Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cloud Computing" target="Pervasive Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.3333333333333333</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Distributed Systems" target="High-Performance Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Distributed Systems" target="Storage Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Distributed Systems" target="Real-Time Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Distributed Systems" target="Computer Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Distributed Systems" target="Multimedia Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.07692307692307693</data>
+  <data key="d8">0.15811388300841897</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Distributed Systems" target="Pervasive Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="High-Performance Computing" target="Storage Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="High-Performance Computing" target="Numerical Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="High-Performance Computing" target="Scientific Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Embedded Systems" target="Compilers">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Embedded Systems" target="Pervasive Computing">
+  <data key="d6">2</data>
+  <data key="d7">0.4</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Embedded Systems" target="Parallel Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.25</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Bioinformatics" target="Knowledge Management">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Blockchain" target="Deep Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Blockchain" target="Information Security">
+  <data key="d6">2</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4364357804719848</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Blockchain" target="Entrepreneurship">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Blockchain" target="Internet of Things">
+  <data key="d6">2</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.6666666666666666</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Blockchain" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Blockchain" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Information Security">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.1543033499620919</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Pattern Recognition">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Computer Vision">
+  <data key="d6">2</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2581988897471611</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Deep Learning" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Medical Informatics">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Information Retrieval">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Deep Learning" target="Neuromorphic Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Security" target="Cryptography">
+  <data key="d6">2</data>
+  <data key="d7">0.2857142857142857</data>
+  <data key="d8">0.5345224838248488</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Information Security" target="Image Processing">
+  <data key="d6">2</data>
+  <data key="d7">0.2222222222222222</data>
+  <data key="d8">0.3779644730092272</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Information Security" target="Multimedia Systems">
+  <data key="d6">2</data>
+  <data key="d7">0.13333333333333333</data>
+  <data key="d8">0.23904572186687872</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Information Security" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Security" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.0625</data>
+  <data key="d8">0.11952286093343936</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Security" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.2672612419124244</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Security" target="Entrepreneurship">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.3779644730092272</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Security" target="Internet of Things">
+  <data key="d6">1</data>
+  <data key="d7">0.1111111111111111</data>
+  <data key="d8">0.2182178902359924</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Retrieval" target="Knowledge Management">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Information Retrieval" target="Machine Translation">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Knowledge Management" target="Machine Translation">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Networks" target="Parallel Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Networks" target="Queueing Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Networks" target="Multimedia Systems">
+  <data key="d6">2</data>
+  <data key="d7">0.15384615384615385</data>
+  <data key="d8">0.282842712474619</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Computer Networks" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.18257418583505536</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Networks" target="Neural Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Parallel Computing" target="Queueing Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Parallel Computing" target="Pervasive Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Queueing Theory" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Queueing Theory" target="Data Science">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Queueing Theory" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Queueing Theory" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Queueing Theory" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Queueing Theory" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cryptography" target="Image Processing">
+  <data key="d6">2</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Cryptography" target="Multimedia Systems">
+  <data key="d6">2</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Cryptography" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cryptography" target="Computer Vision">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Cryptography" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Image Processing" target="Multimedia Systems">
+  <data key="d6">3</data>
+  <data key="d7">0.2727272727272727</data>
+  <data key="d8">0.4743416490252569</data>
+  <data key="d9">0.3333333333333333</data>
+</edge>
+<edge source="Image Processing" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Image Processing" target="Computer Vision">
+  <data key="d6">2</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Image Processing" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Image Processing" target="Pattern Recognition">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.35355339059327373</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Image Processing" target="Smart Healthcare">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Network Security">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Computer Vision">
+  <data key="d6">4</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Multimedia Systems" target="Game Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Computer Graphics">
+  <data key="d6">2</data>
+  <data key="d7">0.15384615384615385</data>
+  <data key="d8">0.282842712474619</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Multimedia Systems" target="Neural Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Real-Time Systems">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Augmented Reality">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Virtual Reality">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Pattern Recognition">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Signal Processing">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.08333333333333333</data>
+  <data key="d8">0.18257418583505536</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Multimedia Systems" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Network Security" target="Internet of Things">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Network Security" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Game Theory">
+  <data key="d6">2</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Computer Vision" target="Computer Graphics">
+  <data key="d6">2</data>
+  <data key="d7">0.15384615384615385</data>
+  <data key="d8">0.282842712474619</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Computer Vision" target="Digital Twins">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Data Science">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.06666666666666667</data>
+  <data key="d8">0.12909944487358055</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Generative AI">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Trustworthy AI">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Augmented Reality">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Virtual Reality">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Pattern Recognition">
+  <data key="d6">1</data>
+  <data key="d7">0.09090909090909091</data>
+  <data key="d8">0.22360679774997896</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Signal Processing">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Vision" target="Neuromorphic Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.1</data>
+  <data key="d8">0.31622776601683794</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Game Theory" target="Data Science">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Game Theory" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Game Theory" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Game Theory" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Graphics" target="Digital Twins">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Graphics" target="Information Visualization">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Graphics" target="Augmented Reality">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Computer Graphics" target="Virtual Reality">
+  <data key="d6">1</data>
+  <data key="d7">0.2</data>
+  <data key="d8">0.4472135954999579</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Numerical Analysis" target="Scientific Computing">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Compilers" target="Pervasive Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Data Science" target="Reinforcement Learning">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Data Science" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Data Science" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Reinforcement Learning" target="Social Network Analysis">
+  <data key="d6">1</data>
+  <data key="d7">0.5</data>
+  <data key="d8">0.7071067811865475</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Reinforcement Learning" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.16666666666666666</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Social Network Analysis" target="Wireless Networks">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Social Network Analysis" target="Big Data Analytics">
+  <data key="d6">1</data>
+  <data key="d7">0.25</data>
+  <data key="d8">0.4082482904638631</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Wireless Networks" target="Graph Theory">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Wireless Networks" target="Mobile Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.14285714285714285</data>
+  <data key="d8">0.2886751345948129</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Wireless Networks" target="Internet of Things">
+  <data key="d6">1</data>
+  <data key="d7">0.125</data>
+  <data key="d8">0.23570226039551587</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Big Data Analytics" target="Medical Informatics">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Generative AI" target="Trustworthy AI">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Augmented Reality" target="Virtual Reality">
+  <data key="d6">1</data>
+  <data key="d7">1.0</data>
+  <data key="d8">1.0</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Entrepreneurship" target="Internet of Things">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Internet of Things" target="Edge Computing">
+  <data key="d6">1</data>
+  <data key="d7">0.3333333333333333</data>
+  <data key="d8">0.5773502691896258</data>
+  <data key="d9">1.0</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,1595 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="s_exp" attr.type="long"/>
+<key id="d17" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d16" for="edge" attr.name="n_shared_keywords" attr.type="long"/>
+<key id="d15" for="edge" attr.name="s_inf" attr.type="double"/>
+<key id="d14" for="edge" attr.name="s_exp" attr.type="double"/>
+<key id="d13" for="edge" attr.name="w_cos" attr.type="double"/>
+<key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="primary_role" attr.type="string"/>
+<key id="d9" for="node" attr.name="dominant_l1" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ntu-comm-engin-ds-network-丁建均-e5141fb566">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">丁建均</data>
+  <data key="d3">Jian-Jiun Ding</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-comm-engin-ds-network-劉子毓-3ebc338425">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉子毓</data>
+  <data key="d3">Tzu-Yu Liu</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Michigan</data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳沛遠</data>
+  <data key="d3">Pei-Yuan Wu</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Princeton University</data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-周俊廷-e6686de123">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">周俊廷</data>
+  <data key="d3">Chun-Ting Chou</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Michigan</data>
+  <data key="d8">1</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">孫紹華</data>
+  <data key="d3">Shao-Hua Sun</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Southern California</data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">廖婉君</data>
+  <data key="d3">Wanjiun Liao</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">6</data>
+  <data key="d7">University of Southern California</data>
+  <data key="d8">3</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-comm-engin-ds-network-李宏毅-617adf302c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李宏毅</data>
+  <data key="d3">Hung-yi Lee</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">3</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-李琳山-193d6b842c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李琳山</data>
+  <data key="d3">Lin-Shan Lee</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">faculty</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林宗男</data>
+  <data key="d3">Tsung-Nan Lin</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">Princeton University</data>
+  <data key="d8">2</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林澤</data>
+  <data key="d3">Che Lin</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">7</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊奕軒</data>
+  <data key="d3">Yi-Hsuan Yang</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-王奕翔-e163a124b7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王奕翔</data>
+  <data key="d3">I-Hsiang Wang</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of California, Berkeley</data>
+  <data key="d8">1</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王鈺強</data>
+  <data key="d3">Yu-Chiang Frank Wang</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">4</data>
+  <data key="d7">Carnegie Mellon University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">簡翌</data>
+  <data key="d3">Eli Chien</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-葉丙成-281ee85757">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">葉丙成</data>
+  <data key="d3">Ping-Cheng Yeh</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Michigan</data>
+  <data key="d8">2</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-comm-engin-ds-network-蔡志宏-22700a6730">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡志宏</data>
+  <data key="d3">Zsehong Tsai</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蘇炫榮</data>
+  <data key="d3">Hsuan-Jung Su</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Maryland, College Park</data>
+  <data key="d8">1</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝宏昀</data>
+  <data key="d3">Hung-Yun Hsieh</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Georgia Institute of Technology</data>
+  <data key="d8">2</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">貝蘇章</data>
+  <data key="d3">Soo-Chang Pei</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">faculty</data>
+  <data key="d6">4</data>
+  <data key="d7">University of California, Santa Barbara</data>
+  <data key="d8">1</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">faculty</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭士康</data>
+  <data key="d3">Shyh-Kang Jeng</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">faculty</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">faculty</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭皓中</data>
+  <data key="d3">Hao-Chung Cheng</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳宏銘</data>
+  <data key="d3">Homer H. Chen</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Illinois Urbana-Champaign</data>
+  <data key="d8">1</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">2</data>
+</node>
+<node id="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳銘憲</data>
+  <data key="d3">Ming-Syan Chen</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Michigan</data>
+  <data key="d8">3</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">魏宏宇</data>
+  <data key="d3">Hung-Yu Wei</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">Columbia University</data>
+  <data key="d8">1</data>
+  <data key="d9">Applied Mathematics &amp; Operations Research</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃寶儀</data>
+  <data key="d3">Polly Huang</data>
+  <data key="d4">ntu-comm-engin-ds-network</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Southern California</data>
+  <data key="d8">1</data>
+  <data key="d9">Networks &amp; Communications</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<edge source="ntu-comm-engin-ds-network-丁建均-e5141fb566" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.14905915010161874</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-丁建均-e5141fb566" target="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d12">6.2178777472898155</data>
+  <data key="d13">0.20864739416425376</data>
+  <data key="d14">6.2178777472898155</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16082657791653587</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-丁建均-e5141fb566" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.05753615904045856</data>
+  <data key="d18">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-丁建均-e5141fb566" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.07641791230971488</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-丁建均-e5141fb566" target="ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.2267465179022103</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-丁建均-e5141fb566" target="ntu-comm-engin-ds-network-李琳山-193d6b842c">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.2267465179022103</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-丁建均-e5141fb566" target="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6">
+  <data key="d12">6.2178777472898155</data>
+  <data key="d13">0.2069352044989338</data>
+  <data key="d14">6.2178777472898155</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16082657791653587</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.07579560866625733</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.18090370453918703</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">3.3890810468362726</data>
+  <data key="d13">0.13211725839655636</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">3.2608361323168586</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29506523632224907</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.06436088442750555</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">4.351738737025055</data>
+  <data key="d13">0.07913235424476567</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">3.2608361323168586</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22979320690644725</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f">
+  <data key="d12">3.7130914566234074</data>
+  <data key="d13">0.11417753953518427</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">4.070862156784695</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26931736308735443</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.062307502479678645</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-李宏毅-617adf302c">
+  <data key="d12">3.3890810468362726</data>
+  <data key="d13">0.10634895145502223</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">3.2608361323168586</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29506523632224907</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.11013518318938284</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.13191627746165188</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-劉子毓-3ebc338425" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07571879684587382</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d12">2.888946240904944</data>
+  <data key="d13">0.09104447383550504</data>
+  <data key="d14">2.888946240904944</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3461469742291765</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-李宏毅-617adf302c">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.05974432795116143</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d12">1.1714152052190523</data>
+  <data key="d13">0.028640502062279617</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9285380130476306</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8536682770930927</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.12047322522594443</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.06915058430831088</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.16521124731929104</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07422035389780468</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.05877791182843131</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.015419659919445087</data>
+  <data key="d18">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-吳沛遠-f245e25f4d" target="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.05854508706013831</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">3.3134584673541485</data>
+  <data key="d13">0.1374885433224009</data>
+  <data key="d14">3.3134584673541485</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.30179946718889056</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.04530895451806729</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-葉丙成-281ee85757">
+  <data key="d12">3.3134584673541485</data>
+  <data key="d13">0.18671696005377342</data>
+  <data key="d14">3.3134584673541485</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.30179946718889056</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d12">1.271059245108385</data>
+  <data key="d13">0.07317433470264414</data>
+  <data key="d18">0</data>
+  <data key="d15">3.1776481127709624</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7867453888152386</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-蔡志宏-22700a6730">
+  <data key="d12">1.271059245108385</data>
+  <data key="d13">0.1258792622104382</data>
+  <data key="d18">0</data>
+  <data key="d15">3.1776481127709624</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7867453888152386</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">1.271059245108385</data>
+  <data key="d13">0.06011929320369003</data>
+  <data key="d18">0</data>
+  <data key="d15">3.1776481127709624</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7867453888152386</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">3.3134584673541485</data>
+  <data key="d13">0.16437677048453295</data>
+  <data key="d14">3.3134584673541485</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.30179946718889056</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c">
+  <data key="d12">3.3134584673541485</data>
+  <data key="d13">0.13292621836480048</data>
+  <data key="d14">3.3134584673541485</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.30179946718889056</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-王奕翔-e163a124b7">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.06286969060790938</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-周俊廷-e6686de123" target="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d12">1.271059245108385</data>
+  <data key="d13">0.05676941544652915</data>
+  <data key="d18">0</data>
+  <data key="d15">3.1776481127709624</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7867453888152386</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f" target="ntu-comm-engin-ds-network-李宏毅-617adf302c">
+  <data key="d12">3.3754513329831672</data>
+  <data key="d13">0.09952523714622209</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29625667839690545</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f" target="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d12">1.6283448627138783</data>
+  <data key="d13">0.04096133675826941</data>
+  <data key="d18">0</data>
+  <data key="d15">4.070862156784695</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6141205237896299</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f" target="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.1239505619914811</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">5.831305159610143</data>
+  <data key="d13">0.19900606550679126</data>
+  <data key="d14">5.831305159610143</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.17148819563180875</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.16997990146054184</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">3.3754513329831672</data>
+  <data key="d13">0.12364016093366968</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">1</data>
+  <data key="d17">0.29625667839690545</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.0604744763009035</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-孫紹華-fe87e5f20f" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">1.2907047390736384</data>
+  <data key="d13">0.022053031098579392</data>
+  <data key="d18">0</data>
+  <data key="d15">3.2267618476840956</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7747705340554631</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-葉丙成-281ee85757">
+  <data key="d12">4.745798174580394</data>
+  <data key="d13">0.11778871463182232</data>
+  <data key="d14">3.3134584673541485</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21071271116336848</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.044378882641279295</data>
+  <data key="d14">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-蔡志宏-22700a6730">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.13292621836480048</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.019956125298193128</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6">
+  <data key="d12">1.19640117819447</data>
+  <data key="d13">0.02334205332645888</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9910029454861746</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8358400327799195</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d12">6.185792858053826</data>
+  <data key="d13">0.15684856236477637</data>
+  <data key="d14">6.185792858053826</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16166076410043578</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-王奕翔-e163a124b7">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.027690672551929654</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">6.932636637817257</data>
+  <data key="d13">0.14442377455042146</data>
+  <data key="d14">5.582214373984809</data>
+  <data key="d15">3.376055659581121</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1442452637060249</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">7.339376625516748</data>
+  <data key="d13">0.1603652507369112</data>
+  <data key="d14">5.848268557240646</data>
+  <data key="d15">3.727770170690256</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13625135362631596</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.06606377109127815</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.05994747332942081</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.09096048085758077</data>
+  <data key="d14">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.06764863656165894</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">8.895672841338957</data>
+  <data key="d13">0.16257582355245376</data>
+  <data key="d14">8.895672841338957</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.1124142060792652</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-廖婉君-f6bc7c181c" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">1.9563404913341855</data>
+  <data key="d13">0.05603833604772</data>
+  <data key="d14">1.9563404913341855</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.5111584636874841</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李宏毅-617adf302c" target="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d12">1.3043344529267435</data>
+  <data key="d13">0.03348288898579037</data>
+  <data key="d18">0</data>
+  <data key="d15">3.2608361323168586</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7666745271936506</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李宏毅-617adf302c" target="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.1264895723486233</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李宏毅-617adf302c" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07260391527172293</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李宏毅-617adf302c" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.17346177942366056</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李宏毅-617adf302c" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">4.6694427143059</data>
+  <data key="d13">0.17454161366007004</data>
+  <data key="d14">4.6694427143059</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21415831849404052</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李宏毅-617adf302c" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.06171323891080031</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李宏毅-617adf302c" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">2.584696120396371</data>
+  <data key="d13">0.045066839275261554</data>
+  <data key="d14">2.584696120396371</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.38689267651573944</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李琳山-193d6b842c" target="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.14677482634760958</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李琳山-193d6b842c" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.19606825511792217</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李琳山-193d6b842c" target="ntu-comm-engin-ds-network-林宗男-d804481822">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.14798924678133912</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李琳山-193d6b842c" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.07568146136321935</data>
+  <data key="d18">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李琳山-193d6b842c" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.10051799380384008</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-李琳山-193d6b842c" target="ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.2982560553232905</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.0706789089958839</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">1.271059245108385</data>
+  <data key="d13">0.030919780145121215</data>
+  <data key="d18">0</data>
+  <data key="d15">3.1776481127709624</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7867453888152386</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.0972855131513801</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b">
+  <data key="d12">1.1714152052190523</data>
+  <data key="d13">0.060637134635928</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9285380130476306</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8536682770930927</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">1.1714152052190523</data>
+  <data key="d13">0.03480518831459935</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9285380130476306</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8536682770930927</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.062005004620691834</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.14798924678133912</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">1.1714152052190523</data>
+  <data key="d13">0.08315488049963853</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9285380130476306</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8536682770930927</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">2.481859359598727</data>
+  <data key="d13">0.079147548035106</data>
+  <data key="d18">0</data>
+  <data key="d15">6.204648398996817</data>
+  <data key="d16">0</data>
+  <data key="d17">0.40292371770884006</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-葉丙成-281ee85757">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.03957855728929291</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">1.1714152052190523</data>
+  <data key="d13">0.029584367368557383</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9285380130476306</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8536682770930927</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-蔡志宏-22700a6730">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.14798924678133915</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-林澤-45fabc226a">
+  <data key="d12">6.08949795753093</data>
+  <data key="d13">0.09058482736918776</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">6.841685400382474</data>
+  <data key="d16">1</data>
+  <data key="d17">0.16421715007939072</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6">
+  <data key="d12">6.2178777472898155</data>
+  <data key="d13">0.13505911945050014</data>
+  <data key="d14">6.2178777472898155</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16082657791653587</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.08602699512383977</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林宗男-d804481822" target="ntu-comm-engin-ds-network-王奕翔-e163a124b7">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.02956495929531697</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">3.7622210270683545</data>
+  <data key="d13">0.08149261542459955</data>
+  <data key="d14">2.584696120396371</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26580043883791504</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.03264621522843491</data>
+  <data key="d18">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.015927824266596464</data>
+  <data key="d18">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">4.540961142065753</data>
+  <data key="d13">0.06275641241091713</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22021769592705315</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.10051799380384008</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-葉丙成-281ee85757">
+  <data key="d12">4.207673247529104</data>
+  <data key="d13">0.07897135446992398</data>
+  <data key="d14">4.207673247529104</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2376610400028652</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.027464036250740446</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-蔡志宏-22700a6730">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.04724542607203249</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.022564174373769515</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.049465923061903484</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.024677775898951766</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-王奕翔-e163a124b7">
+  <data key="d12">4.207673247529104</data>
+  <data key="d13">0.05899115683610261</data>
+  <data key="d14">4.207673247529104</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2376610400028652</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">4.704010175907379</data>
+  <data key="d13">0.0927084560707829</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">3.377965946323596</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21258457414095736</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.01873864382950866</data>
+  <data key="d18">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-林澤-45fabc226a" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">0.9285202363578305</data>
+  <data key="d13">0.04476946581307468</data>
+  <data key="d18">0</data>
+  <data key="d15">2.3213005908945763</data>
+  <data key="d16">0</data>
+  <data key="d17">1.0769824510476504</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.1464043221637013</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.34978215903077214</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b" target="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.304597266417455</data>
+  <data key="d14">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.24122212207877836</data>
+  <data key="d14">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王奕翔-e163a124b7" target="ntu-comm-engin-ds-network-葉丙成-281ee85757">
+  <data key="d12">4.207673247529104</data>
+  <data key="d13">0.1095788829210762</data>
+  <data key="d14">4.207673247529104</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2376610400028652</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王奕翔-e163a124b7" target="ntu-comm-engin-ds-network-蔡志宏-22700a6730">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.06555669516945278</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王奕翔-e163a124b7" target="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.03810848165211895</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王奕翔-e163a124b7" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.031309543042670036</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王奕翔-e163a124b7" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.03424232918549807</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王奕翔-e163a124b7" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">1.4935568579674408</data>
+  <data key="d13">0.028641078333652124</data>
+  <data key="d18">0</data>
+  <data key="d15">3.7338921449186016</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6695426388794364</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23" target="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6">
+  <data key="d12">1.2551788911219144</data>
+  <data key="d13">0.03969971051460307</data>
+  <data key="d18">0</data>
+  <data key="d15">3.1379472278047857</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7966991853298072</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.04975165402149714</data>
+  <data key="d18">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.09019581390619266</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23" target="ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee">
+  <data key="d12">1.1775249066719833</data>
+  <data key="d13">0.07568146136321935</data>
+  <data key="d18">0</data>
+  <data key="d15">2.943812266679958</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8492389369718568</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.2154914968177618</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-王鈺強-43bfbd0d23" target="ntu-comm-engin-ds-network-簡翌-6a29f81209">
+  <data key="d12">4.041087085243714</data>
+  <data key="d13">0.1486105417621936</data>
+  <data key="d14">4.041087085243714</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.24745816630667608</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-簡翌-6a29f81209" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.07142948421361006</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-簡翌-6a29f81209" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.17065588527334866</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-葉丙成-281ee85757" target="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.051015755144816516</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-葉丙成-281ee85757" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">3.3134584673541485</data>
+  <data key="d13">0.10169643828138145</data>
+  <data key="d14">3.3134584673541485</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.30179946718889056</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-葉丙成-281ee85757" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">4.745798174580394</data>
+  <data key="d13">0.12183148662292519</data>
+  <data key="d14">3.3134584673541485</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">1</data>
+  <data key="d17">0.21071271116336848</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-葉丙成-281ee85757" target="ntu-comm-engin-ds-network-蔡志宏-22700a6730">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.08776062870723737</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-葉丙成-281ee85757" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">1.432339707226246</data>
+  <data key="d13">0.0419140283819766</data>
+  <data key="d18">0</data>
+  <data key="d15">3.5808492680656148</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6981584012193026</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-蔡志宏-22700a6730" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.1374885433224009</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-蔡志宏-22700a6730" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.15672186948306027</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-蔡志宏-22700a6730" target="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.19075438052677698</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-蔡志宏-22700a6730" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">1.271059245108385</data>
+  <data key="d13">0.06856084533832871</data>
+  <data key="d18">0</data>
+  <data key="d15">3.1776481127709624</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7867453888152386</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.19606825511792217</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee" target="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6">
+  <data key="d12">3.35282379737794</data>
+  <data key="d13">0.14677482634760958</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2982560553232906</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">4.3978265479307606</data>
+  <data key="d13">0.13147470958193327</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">3.376055659581121</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22738504784153302</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">2.7621673133844875</data>
+  <data key="d13">0.08660938310165942</data>
+  <data key="d18">0</data>
+  <data key="d15">6.905418283461218</data>
+  <data key="d16">0</data>
+  <data key="d17">0.3620345498820267</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">3.047404284098312</data>
+  <data key="d13">0.0799228761766456</data>
+  <data key="d14">3.047404284098312</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.32814812436213636</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">1.19640117819447</data>
+  <data key="d13">0.027520607145058402</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9910029454861746</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8358400327799195</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">1.19640117819447</data>
+  <data key="d13">0.028864819818699417</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9910029454861746</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8358400327799195</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">4.54922497557241</data>
+  <data key="d13">0.13091706907916414</data>
+  <data key="d14">3.35282379737794</data>
+  <data key="d15">2.9910029454861746</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2198176624303295</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6" target="ntu-comm-engin-ds-network-鄭士康-08dd5999fd">
+  <data key="d12">1.19640117819447</data>
+  <data key="d13">0.03525586531534022</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9910029454861746</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8358400327799195</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">1.19640117819447</data>
+  <data key="d13">0.024143204775458074</data>
+  <data key="d18">0</data>
+  <data key="d15">2.9910029454861746</data>
+  <data key="d16">0</data>
+  <data key="d17">0.8358400327799195</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-鄭士康-08dd5999fd" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.06997048899024368</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-鄭士康-08dd5999fd" target="ntu-comm-engin-ds-network-鄭皓中-046d884ef1">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.20077191950524373</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-鄭士康-08dd5999fd" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.07975868809287333</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-鄭士康-08dd5999fd" target="ntu-comm-engin-ds-network-陳宏銘-9a7386a945">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.09978279902125953</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-鄭士康-08dd5999fd" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.08365441026216684</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-陳宏銘-9a7386a945" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.08169456313134203</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-陳宏銘-9a7386a945" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.06833122739411052</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-陳宏銘-9a7386a945" target="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f">
+  <data key="d12">2.5348100898864967</data>
+  <data key="d13">0.07789010955018456</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.39450687212815133</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">5.409897553401837</data>
+  <data key="d13">0.13936672293393243</data>
+  <data key="d14">2.5348100898864967</data>
+  <data key="d15">7.18771865878835</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18484638389708188</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-陳銘憲-189c35ea4f" target="ntu-comm-engin-ds-network-魏宏宇-c14d33111c">
+  <data key="d12">5.582214373984809</data>
+  <data key="d13">0.12028254954257804</data>
+  <data key="d14">5.582214373984809</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.17914037924812978</data>
+</edge>
+<edge source="ntu-comm-engin-ds-network-魏宏宇-c14d33111c" target="ntu-comm-engin-ds-network-黃寶儀-3684ae24b6">
+  <data key="d12">5.848268557240646</data>
+  <data key="d13">0.1321704174976877</data>
+  <data key="d14">5.848268557240646</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.17099077961491976</data>
+</edge>
+</graph></graphml>

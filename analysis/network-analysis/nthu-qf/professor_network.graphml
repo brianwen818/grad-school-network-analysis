@@ -1,0 +1,851 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="s_exp" attr.type="double"/>
+<key id="d17" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d16" for="edge" attr.name="n_shared_keywords" attr.type="long"/>
+<key id="d15" for="edge" attr.name="s_inf" attr.type="double"/>
+<key id="d14" for="edge" attr.name="s_exp" attr.type="long"/>
+<key id="d13" for="edge" attr.name="w_cos" attr.type="double"/>
+<key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="primary_role" attr.type="string"/>
+<key id="d9" for="node" attr.name="dominant_l1" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="nthu-qf-kangliu-cb7ae7428e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">劉鋼</data>
+  <data key="d3">Kang Liu</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">adjunct | full_time | practice</data>
+  <data key="d6">10</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nthu-qf-余士迪-fee4dd1609">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">余士迪</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Rochester</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nthu-qf-俞明德-5bc6444834">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">俞明德</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">chair | emeritus | full_time | joint</data>
+  <data key="d6">4</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">2</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nthu-qf-張焯然-be6ae873ff">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張焯然</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nthu-qf-曾祺峰-0159aadf46">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">曾祺峰</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Lancaster University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="nthu-qf-林哲群-8dd6d7cb57">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林哲群</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Texas at Arlington</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nthu-qf-潘虹華-2cd399c3cc">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">潘虹華</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nthu-qf-索樂晴-9b18bc7ea3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">索樂晴</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="nthu-qf-蔡子晧-d1c931b9aa">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡子晧</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nthu-qf-蔡怡純-bc1e0b3659">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蔡怡純</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">chair | full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Sun Yat-sen University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nthu-qf-許博炫-19a6a7d0a1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">許博炫</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">chair | full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Columbia University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝佩芳</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Central University</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nthu-qf-謝宗翰-b308786865">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">謝宗翰</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="nthu-qf-鍾經樊-def35bacad">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鍾經樊</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">chair | full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Wisconsin-Madison</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">韓傳祥</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">North Carolina State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="nthu-qf-黃德源-436d6848bb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃德源</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">Boston University</data>
+  <data key="d8">1</data>
+  <data key="d9">Corporate Finance &amp; Governance</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nthu-qf-黃裕烈-945496ca2a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃裕烈</data>
+  <data key="d3">nan</data>
+  <data key="d4">nthu-qf</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-蔡子晧-d1c931b9aa">
+  <data key="d12">1.5111832957606992</data>
+  <data key="d13">0.015401343487049154</data>
+  <data key="d14">0</data>
+  <data key="d15">3.7779582394017477</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6617330953864337</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">7.01552432038322</data>
+  <data key="d13">0.0852259745797724</data>
+  <data key="d18">7.01552432038322</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1425410210744413</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-林哲群-8dd6d7cb57">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.03550502647896977</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-張焯然-be6ae873ff">
+  <data key="d12">1.8105489846450133</data>
+  <data key="d13">0.01952702057762886</data>
+  <data key="d14">0</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5523186660404362</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-蔡怡純-bc1e0b3659">
+  <data key="d12">8.253383883376014</data>
+  <data key="d13">0.10080203478230214</data>
+  <data key="d18">8.253383883376014</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12116242430140715</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d12">3.013322857910353</data>
+  <data key="d13">0.044945232461317916</data>
+  <data key="d14">0</data>
+  <data key="d15">7.533307144775882</data>
+  <data key="d16">0</data>
+  <data key="d17">0.331859560742014</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-許博炫-19a6a7d0a1">
+  <data key="d12">4.954091439888346</data>
+  <data key="d13">0.05663176899326299</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">4.5392571648320805</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20185335941690605</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-黃德源-436d6848bb">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.03550502647896977</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.044274301243666145</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-黃裕烈-945496ca2a">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.07329339733076104</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-索樂晴-9b18bc7ea3">
+  <data key="d12">9.564820477500424</data>
+  <data key="d13">0.10750867254916391</data>
+  <data key="d18">7.754271492855411</data>
+  <data key="d15">4.526372461612533</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10454979289494518</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-余士迪-fee4dd1609">
+  <data key="d12">7.56622474466069</data>
+  <data key="d13">0.10217931436458737</data>
+  <data key="d18">7.56622474466069</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13216630932165702</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-潘虹華-2cd399c3cc">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.07329339733076103</data>
+  <data key="d18">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-俞明德-5bc6444834">
+  <data key="d12">4.5245061536710525</data>
+  <data key="d13">0.04703807386936721</data>
+  <data key="d14">0</data>
+  <data key="d15">11.31126538417763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.22101859651326347</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-謝宗翰-b308786865">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.07329339733076104</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-kangliu-cb7ae7428e" target="nthu-qf-曾祺峰-0159aadf46">
+  <data key="d12">7.01552432038322</data>
+  <data key="d13">0.0852259745797724</data>
+  <data key="d18">7.01552432038322</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1425410210744413</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-俞明德-5bc6444834">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.03822248563762107</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-曾祺峰-0159aadf46">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.09584569192622985</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.09584569192622985</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-林哲群-8dd6d7cb57">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.0892573281037161</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-潘虹華-2cd399c3cc">
+  <data key="d12">4.427836170705175</data>
+  <data key="d13">0.18425483550231087</data>
+  <data key="d18">4.427836170705175</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.22584394757332235</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-蔡怡純-bc1e0b3659">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.09636027007325028</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.0548376132811832</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-許博炫-19a6a7d0a1">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.0901896839005852</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-黃裕烈-945496ca2a">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1842548355023109</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-余士迪-fee4dd1609" target="nthu-qf-黃德源-436d6848bb">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.0892573281037161</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-黃德源-436d6848bb">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.1418448243349672</data>
+  <data key="d18">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.03427364925721904</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-索樂晴-9b18bc7ea3">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.03373543507491995</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-潘虹華-2cd399c3cc">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.04684988059570732</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-謝宗翰-b308786865">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.05673792973398689</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-蔡子晧-d1c931b9aa">
+  <data key="d12">7.14048318803369</data>
+  <data key="d13">0.14083730447395</data>
+  <data key="d18">7.14048318803369</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14004654498393615</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-曾祺峰-0159aadf46">
+  <data key="d12">4.944778920904158</data>
+  <data key="d13">0.11625385468566637</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2022335105362302</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">4.944778920904158</data>
+  <data key="d13">0.11625385468566637</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2022335105362302</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-林哲群-8dd6d7cb57">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.1418448243349672</data>
+  <data key="d18">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-張焯然-be6ae873ff">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.07083967145217772</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nthu-qf-俞明德-5bc6444834" target="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d12">6.896124882145964</data>
+  <data key="d13">0.19906354025708387</data>
+  <data key="d18">6.896124882145964</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14500897490835693</data>
+</edge>
+<edge source="nthu-qf-張焯然-be6ae873ff" target="nthu-qf-索樂晴-9b18bc7ea3">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.07964360866231007</data>
+  <data key="d18">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="nthu-qf-張焯然-be6ae873ff" target="nthu-qf-曾祺峰-0159aadf46">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.08277706685098969</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nthu-qf-張焯然-be6ae873ff" target="nthu-qf-蔡子晧-d1c931b9aa">
+  <data key="d12">5.357780511874786</data>
+  <data key="d13">0.10962822432467315</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">4.909639723854277</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1866444505861405</data>
+</edge>
+<edge source="nthu-qf-張焯然-be6ae873ff" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.08277706685098969</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.05231076837006069</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-蔡怡純-bc1e0b3659">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.08668143718093455</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-許博炫-19a6a7d0a1">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.08113065076980457</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.10012299950132596</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-黃裕烈-945496ca2a">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.165747500881182</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-索樂晴-9b18bc7ea3">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.09855072402223942</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-謝宗翰-b308786865">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.165747500881182</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-蔡子晧-d1c931b9aa">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.078221437186681</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nthu-qf-曾祺峰-0159aadf46" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">10.409448942716296</data>
+  <data key="d13">0.28597081766872884</data>
+  <data key="d18">10.409448942716296</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.09606656466668397</data>
+</edge>
+<edge source="nthu-qf-林哲群-8dd6d7cb57" target="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.20350407601860032</data>
+  <data key="d18">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nthu-qf-林哲群-8dd6d7cb57" target="nthu-qf-黃德源-436d6848bb">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.33123670044678266</data>
+  <data key="d18">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nthu-qf-林哲群-8dd6d7cb57" target="nthu-qf-潘虹華-2cd399c3cc">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.10940406135793201</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-潘虹華-2cd399c3cc" target="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.06721529464970996</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-潘虹華-2cd399c3cc" target="nthu-qf-黃德源-436d6848bb">
+  <data key="d12">1.4624685593392706</data>
+  <data key="d13">0.10940406135793201</data>
+  <data key="d14">0</data>
+  <data key="d15">3.6561713983481763</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6837753834870751</data>
+</edge>
+<edge source="nthu-qf-索樂晴-9b18bc7ea3" target="nthu-qf-蔡怡純-bc1e0b3659">
+  <data key="d12">1.7813042932397263</data>
+  <data key="d13">0.04552105708496605</data>
+  <data key="d14">0</data>
+  <data key="d15">4.453260733099316</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5613863974813993</data>
+</edge>
+<edge source="nthu-qf-索樂晴-9b18bc7ea3" target="nthu-qf-謝佩芳-000b7cb509">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.04840006377528891</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nthu-qf-索樂晴-9b18bc7ea3" target="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.09263789678935229</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-索樂晴-9b18bc7ea3" target="nthu-qf-謝宗翰-b308786865">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.15335637122538137</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-索樂晴-9b18bc7ea3" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.09855072402223942</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-蔡子晧-d1c931b9aa" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.078221437186681</data>
+  <data key="d18">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nthu-qf-蔡怡純-bc1e0b3659" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.08668143718093455</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-蔡怡純-bc1e0b3659" target="nthu-qf-許博炫-19a6a7d0a1">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.0815662265280955</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-蔡怡純-bc1e0b3659" target="nthu-qf-黃裕烈-945496ca2a">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.16663736917012242</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-許博炫-19a6a7d0a1" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.08113065076980457</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-許博炫-19a6a7d0a1" target="nthu-qf-黃裕烈-945496ca2a">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1559664749803407</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-謝佩芳-000b7cb509" target="nthu-qf-黃德源-436d6848bb">
+  <data key="d12">3.0189891357182583</data>
+  <data key="d13">0.20350407601860032</data>
+  <data key="d18">3.0189891357182583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.33123670044678266</data>
+</edge>
+<edge source="nthu-qf-謝佩芳-000b7cb509" target="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.0491722370313975</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nthu-qf-謝佩芳-000b7cb509" target="nthu-qf-謝宗翰-b308786865">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.08140163040744014</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nthu-qf-謝佩芳-000b7cb509" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.05231076837006069</data>
+  <data key="d14">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nthu-qf-謝宗翰-b308786865" target="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.1558030144584128</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-謝宗翰-b308786865" target="nthu-qf-鍾經樊-def35bacad">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.165747500881182</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nthu-qf-鍾經樊-def35bacad" target="nthu-qf-黃裕烈-945496ca2a">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.165747500881182</data>
+  <data key="d18">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nthu-qf-鍾經樊-def35bacad" target="nthu-qf-韓傳祥-b9870472b6">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.10012299950132596</data>
+  <data key="d18">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+</graph></graphml>

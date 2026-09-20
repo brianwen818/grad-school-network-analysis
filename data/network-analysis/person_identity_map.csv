@@ -1,0 +1,742 @@
+﻿faculty_id,person_id,school_id,professor_name,name_en,emails,n_records_in_person,n_schools_in_person,person_school_ids,status,match_note
+nccu-fin-吳啟銘-0eb39621fc,nccu-fin-吳啟銘-0eb39621fc,nccu-fin,吳啟銘,: CHI-MING WU,95418945d8503e53@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-周冠男-a15a6e7a1c,nccu-fin-周冠男-a15a6e7a1c,nccu-fin,周冠男,: ROBIN K. CHOU,607ae52bc1830461@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-周行一-b726d62ff6,nccu-fin-周行一-b726d62ff6,nccu-fin,周行一,: HSING-YI CHOW,d054657f7238f8bf@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-屠美亞-825b95159f,nccu-fin-屠美亞-825b95159f,nccu-fin,屠美亞,: MIA TWU,208f599806f6da05@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-岳夢蘭-8f45cf7ffd,nccu-fin-岳夢蘭-8f45cf7ffd,nccu-fin,岳夢蘭,: MENG-LAN YUEH,d399e75f5426bb72@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-張元晨-6d9fd8f19a,nccu-fin-張元晨-6d9fd8f19a,nccu-fin,張元晨,: YUAN-CHEN CHANG,36222f65dd828813@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-李志宏-3d451901f4,nccu-fin-李志宏-3d451901f4,nccu-fin,李志宏,: JIE-HAUN LEE,57e33c084db21ae1@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-林則君-199ef589b3,nccu-fin-林則君-199ef589b3,nccu-fin,林則君,,59cbf28cec6309de@redacted.invalid,2,2,nccu-fin | ntu-fin,merged_multi_record,email_or_singleton
+ntu-fin-林則君-5dcca23591,nccu-fin-林則君-199ef589b3,ntu-fin,林則君,Tse-Chun Lin,59cbf28cec6309de@redacted.invalid,2,2,nccu-fin | ntu-fin,merged_multi_record,email_or_singleton
+nccu-fin-林基煌-c8b22f6f53,nccu-fin-林基煌-c8b22f6f53,nccu-fin,林基煌,: CHI-HUANG LIN,ea554dee6f9ba2e4@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-林炯垚-2db34c9033,nccu-fin-林炯垚-2db34c9033,nccu-fin,林炯垚,: JOUNG-YOL LIN,1935aea974784a18@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-湛可南-384e4580ac,nccu-fin-湛可南-384e4580ac,nccu-fin,湛可南,: KONAN CHAN,73d674321189735c@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-盧敬植-91799a8b46,nccu-fin-盧敬植-91799a8b46,nccu-fin,盧敬植,: CHING-CHIH LU,f6dc75add8a6af34@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-謝沛霖-e1729f4ebf,nccu-fin-謝沛霖-e1729f4ebf,nccu-fin,謝沛霖,: Pei-Lin Hsieh,eeb6b724be636dee@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-車倫周-87b2cd6bb1,nccu-fin-車倫周-87b2cd6bb1,nccu-fin,車倫周,: Yun Ju Cha,8f9e553f6b1350f0@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-邱健嘉-961599f1d4,nccu-fin-邱健嘉-961599f1d4,nccu-fin,邱健嘉,: Jian-Jia Chiou,1e6f8a489eb0cd9f@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-陳嬿如-01b3a0dea2,nccu-fin-陳嬿如-01b3a0dea2,nccu-fin,陳嬿如,: YENN-RU CHEN,843166c029196bac@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-陳明吉-8484a66d06,nccu-fin-陳明吉-8484a66d06,nccu-fin,陳明吉,: MING-CHI CHEN,de4b7088f216d6e6@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-陳虹伶-5ed853cf6c,nccu-fin-陳虹伶-5ed853cf6c,nccu-fin,陳虹伶,,d95c3b6d44c0a6be@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-陳鴻毅-7cb1ac41d1,nccu-fin-陳鴻毅-7cb1ac41d1,nccu-fin,陳鴻毅,: HONG-YI CHEN,0c396c645e110b8b@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-顏錫銘-e86d3d4b8c,nccu-fin-顏錫銘-e86d3d4b8c,nccu-fin,顏錫銘,: SIMON H . YEN,b94172525cdf3d28@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-黃嘉威-f12b04b95e,nccu-fin-黃嘉威-f12b04b95e,nccu-fin,黃嘉威,: CHIA-WEI HUANG,2b95b1dc3dbc8219@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-黃群仰-00dc9d3e9d,nccu-fin-黃群仰-00dc9d3e9d,nccu-fin,黃群仰,: CHUAN YANG HWANG,12a7e6a92f0e10cf@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-fin-龔則立-a8ccf22859,nccu-fin-龔則立-a8ccf22859,nccu-fin,龔則立,,2d57ecf8016727b7@redacted.invalid,1,1,nccu-fin,unique,email_or_singleton
+nccu-mb-劉淑芳-e6aed109b7,nccu-mb-劉淑芳-e6aed109b7,nccu-mb,劉淑芳,,24189bcd5970e59b@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-呂桔誠-5062972a99,nccu-mb-呂桔誠-5062972a99,nccu-mb,呂桔誠,: JYE-CHERNG LYU,836dbc0a04ffab9c@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-廖四郎-dd4aa0acae,nccu-mb-廖四郎-dd4aa0acae,nccu-mb,廖四郎,: SZU-LANG LIAO,4ae31021a8baf14f@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-張興華-a1ad78b558,nccu-mb-張興華-a1ad78b558,nccu-mb,張興華,: HSING-HUA CHANG,33bb9b0d6fd24860@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-朱浩民-b36900208d,nccu-mb-朱浩民-b36900208d,nccu-mb,朱浩民,: HAU-MIN CHU,51af9ae512150017@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-李桐豪-54fed609f6,nccu-mb-李桐豪-54fed609f6,nccu-mb,李桐豪,: THOMAS LEE,49bede6025e710b9@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-林士貴-1dfbcb1d92,nccu-mb-林士貴-1dfbcb1d92,nccu-mb,林士貴,: SHIH-KUEI LIN,f5182c9a8b8f8843@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-林建秀-7e10d6c7e3,nccu-mb-林建秀-7e10d6c7e3,nccu-mb,林建秀,: CHIEN-HSIU LIN,85d6d4b4f6e372f4@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-林靖庭-0c65309b7a,nccu-mb-林靖庭-0c65309b7a,nccu-mb,林靖庭,: CHING-TING LIN,ae936c6514c6745a@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-楊曉文-bfe05b5d2b,nccu-mb-楊曉文-bfe05b5d2b,nccu-mb,楊曉文,: SHEAUWEN YANG,ecbe2ae88604f680@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-殷乃平-d68e64b186,nccu-mb-殷乃平-d68e64b186,nccu-mb,殷乃平,: NORMAN YIN,0ad5c8d0e70f42d3@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-江彌修-10fe15f5d0,nccu-mb-江彌修-10fe15f5d0,nccu-mb,江彌修,,0c766cddeccb1f66@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-江永裕-6d4512e3aa,nccu-mb-江永裕-6d4512e3aa,nccu-mb,江永裕,: YEONG-YUH CHIANG,fc71222c95e497df@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-羅秉政-7c7cc9688b,nccu-mb-羅秉政-7c7cc9688b,nccu-mb,羅秉政,,4fd6a4d74a070312@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-蔡明潔-4030866b38,nccu-mb-蔡明潔-4030866b38,nccu-mb,蔡明潔,: MING-CHIEH TSAI,2bed5f5d417ebe86@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-詹育儒-b0e506f68d,nccu-mb-詹育儒-b0e506f68d,nccu-mb,詹育儒,: Yu-Ju Chan,42c95f248716a619@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-趙世偉-bb0dcdcc7f,nccu-mb-趙世偉-bb0dcdcc7f,nccu-mb,趙世偉,: SHIH-WEI CHAO,409cb52e27a337f8@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-金帛春-6af918f80e,nccu-mb-金帛春-6af918f80e,nccu-mb,金帛春,: BAEK-CHUN KIM,0f9643ca006ffead@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-陳威光-119fc2a584,nccu-mb-陳威光-119fc2a584,nccu-mb,陳威光,: WEI-KUANG CHEN,e8bdea63de273d6d@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-陳正暉-5d7134b1d1,nccu-mb-陳正暉-5d7134b1d1,nccu-mb,陳正暉,: Zheng-Hui Chen,0a9b94858f261b19@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-陳韋達-69b2d375bd,nccu-mb-陳韋達-69b2d375bd,nccu-mb,陳韋達,,e7ca53f12d298eb4@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+nccu-mb-黃台心-e46c71fea9,nccu-mb-黃台心-e46c71fea9,nccu-mb,黃台心,: TAI-HSIN HUANG,1095979aa4ebed2a@redacted.invalid,1,1,nccu-mb,unique,email_or_singleton
+ncku-cs-ie-yulihuang-27504f85d3,ncku-cs-ie-yulihuang-27504f85d3,ncku-cs-ie,資訊系,Yu-Li Huang,e0700b287d6c80c4@redacted.invalid,1,1,ncku-cs-ie,name_collision_kept_separate,email_or_singleton
+ncku-cs-ie-何建忠-d3f2f71892,ncku-cs-ie-何建忠-d3f2f71892,ncku-cs-ie,何建忠,dept. CSIE,e456636298d95b8c@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-吳佳慶-fff3b4fe68,ncku-cs-ie-吳佳慶-fff3b4fe68,ncku-cs-ie,吳佳慶,dept. CSIE,b3b13664b4f4be08@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-吳宗憲-3e336d616f,ncku-cs-ie-吳宗憲-3e336d616f,ncku-cs-ie,吳宗憲,dept. CSIE,1d5bf3c01facdf57@redacted.invalid | e434b18f58631325@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-吳明龍-2c420299df,ncku-cs-ie-吳明龍-2c420299df,ncku-cs-ie,吳明龍,dept. CSIE,6fd7328807b9b5b0@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-孫永年-d48186d8af,ncku-cs-ie-孫永年-d48186d8af,ncku-cs-ie,孫永年,dept. CSIE,37de50610bcf8bee@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-張大緯-a732435fee,ncku-cs-ie-張大緯-a732435fee,ncku-cs-ie,張大緯,dept. CSIE,96e82126858049bb@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-張燕光-eebd900158,ncku-cs-ie-張燕光-eebd900158,ncku-cs-ie,張燕光,dept. CSIE,8ba1c1386be34d5a@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-張瑞紘-ce33f2a33f,ncku-cs-ie-張瑞紘-ce33f2a33f,ncku-cs-ie,張瑞紘,dept. CSIE,c75b34c168fb5ed2@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-曾繁勛-ea169d36f2,ncku-cs-ie-曾繁勛-ea169d36f2,ncku-cs-ie,曾繁勛,dept. CSIE,f7c712abc1ec066d@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-朱威達-20f310a81a,ncku-cs-ie-朱威達-20f310a81a,ncku-cs-ie,朱威達,dept. CSIE,e1f163d55e0fd808@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-朱治平-67c971642a,ncku-cs-ie-朱治平-67c971642a,ncku-cs-ie,朱治平,dept. CSIE,131d1760e5b58eac@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-李信杰-088db0920b,ncku-cs-ie-李信杰-088db0920b,ncku-cs-ie,李信杰,dept. CSIE,c02c45676a0148a0@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-李同益-15ef8859be,ncku-cs-ie-李同益-15ef8859be,ncku-cs-ie,李同益,dept. CSIE,44fb31a82bd46048@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-李家岩-10568c76d0,ncku-cs-ie-李家岩-10568c76d0,ncku-cs-ie,李家岩,dept. CSIE,aa4e1a3262b8f649@redacted.invalid,2,2,ncku-cs-ie | ntu-im,manually_confirmed_same_person,manual_review
+ntu-im-李家岩-6ba583b1b6,ncku-cs-ie-李家岩-10568c76d0,ntu-im,李家岩,Chia-Yen Lee,fe61d5f5312639df@redacted.invalid,2,2,ncku-cs-ie | ntu-im,manually_confirmed_same_person,manual_review
+ncku-cs-ie-李強-64dafeaed4,ncku-cs-ie-李強-64dafeaed4,ncku-cs-ie,李強,dept. CSIE,a73dbdac04f2ef7d@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-李政德-56478665e8,ncku-cs-ie-李政德-56478665e8,ncku-cs-ie,李政德,dept. CSIE,f522a412fdd1552e@redacted.invalid,2,2,ncku-cs-ie | ncku-stats-ds,merged_multi_record,email_or_singleton
+ncku-stats-ds-李政德-7a32c4c18a,ncku-cs-ie-李政德-56478665e8,ncku-stats-ds,李政德,Cheng-Te Li,f522a412fdd1552e@redacted.invalid,2,2,ncku-cs-ie | ncku-stats-ds,merged_multi_record,email_or_singleton
+ncku-cs-ie-林哲偉-14f71e9613,ncku-cs-ie-林哲偉-14f71e9613,ncku-cs-ie,林哲偉,dept. CSIE,371584ccb4979d9c@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-梁勝富-e5094cf8db,ncku-cs-ie-梁勝富-e5094cf8db,ncku-cs-ie,梁勝富,dept. CSIE,9dfa8b763815d00b@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-梁郁珮-7d902464dc,ncku-cs-ie-梁郁珮-7d902464dc,ncku-cs-ie,梁郁珮,dept. CSIE,3f4d14f91bfb7a21@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-楊中平-ec5a963969,ncku-cs-ie-楊中平-ec5a963969,ncku-cs-ie,楊中平,dept. CSIE,301be4674fb7ab7b@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-楊大和-2573461fc2,ncku-cs-ie-楊大和-2573461fc2,ncku-cs-ie,楊大和,dept. CSIE,cfdcd31e18958abb@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-洪昌鈺-66a7357cbf,ncku-cs-ie-洪昌鈺-66a7357cbf,ncku-cs-ie,洪昌鈺,dept. CSIE,1bad55ab48d283c0@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-涂嘉恒-664695302c,ncku-cs-ie-涂嘉恒-664695302c,ncku-cs-ie,涂嘉恒,dept. CSIE,62574bee77aafe97@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-王俞凱-66aa17199e,ncku-cs-ie-王俞凱-66aa17199e,ncku-cs-ie,王俞凱,dept. CSIE,0918287f079bbd83@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-王士豪-783474df0e,ncku-cs-ie-王士豪-783474df0e,ncku-cs-ie,王士豪,dept. CSIE,baf7d9c6d6a70f49@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-王宏鍇-608effe1d5,ncku-cs-ie-王宏鍇-608effe1d5,ncku-cs-ie,王宏鍇,dept. CSIE,ca38c72192848052@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-王清正-d01bf8bdf8,ncku-cs-ie-王清正-d01bf8bdf8,ncku-cs-ie,王清正,dept. CSIE,a0471bbb238a52c7@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-盧文祥-1905e6a59a,ncku-cs-ie-盧文祥-1905e6a59a,ncku-cs-ie,盧文祥,dept. CSIE,007313eca6fff642@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-程芙茵-643e2a7add,ncku-cs-ie-程芙茵-643e2a7add,ncku-cs-ie,程芙茵,dept. CSIE,22e2d410e1f2bb56@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-莊坤達-5600c1346e,ncku-cs-ie-莊坤達-5600c1346e,ncku-cs-ie,莊坤達,dept. CSIE,4f5c9f1992dfaa7a@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-蔡佩璇-e67950ad08,ncku-cs-ie-蔡佩璇-e67950ad08,ncku-cs-ie,蔡佩璇,dept. CSIE,b935cc90e1139cc5@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-蔣榮先-0acf9a388a,ncku-cs-ie-蔣榮先-0acf9a388a,ncku-cs-ie,蔣榮先,dept. CSIE,8539bb83f2e72a98@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-蕭宏章-51709ab6b4,ncku-cs-ie-蕭宏章-51709ab6b4,ncku-cs-ie,蕭宏章,dept. CSIE,40f8e4169d626909@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-薛元毓-28db7b8b38,ncku-cs-ie-薛元毓-28db7b8b38,ncku-cs-ie,薛元毓,dept. CSIE,5d5931eeb4c2adf2@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-藍崑展-7a14274076,ncku-cs-ie-藍崑展-7a14274076,ncku-cs-ie,藍崑展,dept. CSIE,5e3c000d12e274a4@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-蘇文鈺-96ba31979d,ncku-cs-ie-蘇文鈺-96ba31979d,ncku-cs-ie,蘇文鈺,dept. CSIE,993f76cc9614fc49@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-蘇銓清-dc0f36d8e4,ncku-cs-ie-蘇銓清-dc0f36d8e4,ncku-cs-ie,蘇銓清,dept. CSIE,b41e3f52b8bdf5d3@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-許舒涵-947dd9545f,ncku-cs-ie-許舒涵-947dd9545f,ncku-cs-ie,許舒涵,dept. CSIE,725f3f834bfe1d91@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-許靜芳-d875e4e333,ncku-cs-ie-許靜芳-d875e4e333,ncku-cs-ie,許靜芳,dept. CSIE,b399de76309b6838@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-詹慧伶-5b224dd080,ncku-cs-ie-詹慧伶-5b224dd080,ncku-cs-ie,詹慧伶,dept. CSIE,dfe79226584613df@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-謝孫源-de0f810cf9,ncku-cs-ie-謝孫源-de0f810cf9,ncku-cs-ie,謝孫源,dept. CSIE,979ddefedeb556a1@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-謝昀珊-45f0887479,ncku-cs-ie-謝昀珊-45f0887479,ncku-cs-ie,謝昀珊,dept. CSIE,ab17fd9539166044@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-賀保羅-e1c2c5fbfe,ncku-cs-ie-賀保羅-e1c2c5fbfe,ncku-cs-ie,賀保羅,dept. CSIE,1e78359c4a480e0b@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-資訊系-6a22bc7bf0,ncku-cs-ie-資訊系-6a22bc7bf0,ncku-cs-ie,資訊系,dept. CSIE,,1,1,ncku-cs-ie,name_collision_kept_separate,email_or_singleton
+ncku-cs-ie-連震杰-f316933353,ncku-cs-ie-連震杰-f316933353,ncku-cs-ie,連震杰,dept. CSIE,35ef43526b870785@redacted.invalid,2,2,ncku-cs-ie | ncku-stats-ds,manually_confirmed_same_person,manual_review
+ncku-stats-ds-連震杰-07850768ed,ncku-cs-ie-連震杰-f316933353,ncku-stats-ds,連震杰,Jenn-Jier James Lien,d0bbeb190f9a5ad2@redacted.invalid,2,2,ncku-cs-ie | ncku-stats-ds,manually_confirmed_same_person,manual_review
+ncku-cs-ie-郭淑美-d7fac758d5,ncku-cs-ie-郭淑美-d7fac758d5,ncku-cs-ie,郭淑美,dept. CSIE,32d9f8d5f5ce7ac2@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-郭紘睿-51fb9a8466,ncku-cs-ie-郭紘睿-51fb9a8466,ncku-cs-ie,郭紘睿,dept. CSIE,63a8957956e3da08@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-郭耀煌-b4f08bae71,ncku-cs-ie-郭耀煌-b4f08bae71,ncku-cs-ie,郭耀煌,dept. CSIE,d676b2dba34e8084@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-郭軒安-ad75e1a6db,ncku-cs-ie-郭軒安-ad75e1a6db,ncku-cs-ie,郭軒安,dept. CSIE,68e58e512354b03a@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-鄭憲宗-66a30ac62c,ncku-cs-ie-鄭憲宗-66a30ac62c,ncku-cs-ie,鄭憲宗,dept. CSIE,de143f5112fa45db@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-鄭芳田-7403af351c,ncku-cs-ie-鄭芳田-7403af351c,ncku-cs-ie,鄭芳田,dept. CSIE,d68e1ca90ba4e60c@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-陳培殷-4e3ee76964,ncku-cs-ie-陳培殷-4e3ee76964,ncku-cs-ie,陳培殷,dept. CSIE,44aa8f789266246f@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-陳奇業-b11a06448d,ncku-cs-ie-陳奇業-b11a06448d,ncku-cs-ie,陳奇業,dept. CSIE,ab853e529b601d4f@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-陳怡君-1ef245e216,ncku-cs-ie-陳怡君-1ef245e216,ncku-cs-ie,陳怡君,dept. CSIE,aae330eb21eb9d70@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-陳朝鈞-4db96ee2d8,ncku-cs-ie-陳朝鈞-4db96ee2d8,ncku-cs-ie,陳朝鈞,dept. CSIE,5f54f579fb578c1d@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-陳裕民-6302bf6c00,ncku-cs-ie-陳裕民-6302bf6c00,ncku-cs-ie,陳裕民,dept. CSIE,73febf433b9627e5@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-陳響亮-2fc0990050,ncku-cs-ie-陳響亮-2fc0990050,ncku-cs-ie,陳響亮,dept. CSIE,2e0a57d95b0fbf03@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-黃宗立-8fb86fbadf,ncku-cs-ie-黃宗立-8fb86fbadf,ncku-cs-ie,黃宗立,dept. CSIE,b848e33e408329bb@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-黃崇明-d675ccbfbd,ncku-cs-ie-黃崇明-d675ccbfbd,ncku-cs-ie,黃崇明,dept. CSIE,62bca96971307aac@redacted.invalid | 516acdf014d92749@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-cs-ie-黃敬群-48e27ae76f,ncku-cs-ie-黃敬群-48e27ae76f,ncku-cs-ie,黃敬群,dept. CSIE,5180beb7123a6bf2@redacted.invalid,1,1,ncku-cs-ie,name_collision_kept_separate,email_or_singleton
+ncku-cs-ie-龔漢威-47872c532d,ncku-cs-ie-龔漢威-47872c532d,ncku-cs-ie,龔漢威,dept. CSIE,4440c8062e05d8d3@redacted.invalid,1,1,ncku-cs-ie,unique,email_or_singleton
+ncku-stats-ds-chichunhsia-826f072271,ncku-stats-ds-chichunhsia-826f072271,ncku-stats-ds,Chi-Chun Hsia,Chi-Chun Hsia,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-chihchiehwu-f4240ef7d4,ncku-stats-ds-chihchiehwu-f4240ef7d4,ncku-stats-ds,Chih-Chieh Wu,Chih-Chieh Wu,fd7ff2929e312d00@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-chingtiliu-2cc20e2d15,ncku-stats-ds-chingtiliu-2cc20e2d15,ncku-stats-ds,Ching-Ti Liu,Ching-Ti Liu,e7dd55d774f25760@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-hsiulihsi-c8baf98fee,ncku-stats-ds-hsiulihsi-c8baf98fee,ncku-stats-ds,Hsiu-Li Hsi,Hsiu-Li Hsi,4c628f44c47127f1@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-liangchinglin-1a87e637fa,ncku-stats-ds-liangchinglin-1a87e637fa,ncku-stats-ds,林良靖,Liang-Ching Lin,b778a0958606d015@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-piocheng-2e27b06feb,ncku-stats-ds-piocheng-2e27b06feb,ncku-stats-ds,Pi-O Cheng,Pi-O Cheng,0321d133c17435d8@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-wengkeewong-5482e739e7,ncku-stats-ds-wengkeewong-5482e739e7,ncku-stats-ds,Weng Kee Wong,Weng Kee Wong,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-yihauchen-1c07c2ff45,ncku-stats-ds-yihauchen-1c07c2ff45,ncku-stats-ds,Yi-Hau Chen,Yi-Hau Chen,3ba7a08ec9c36547@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-任眉眉-233662b353,ncku-stats-ds-任眉眉-233662b353,ncku-stats-ds,任眉眉,Mei-Mei Zen,c4dce15c06b6b2c0@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-余定宏-2852d11565,ncku-stats-ds-余定宏-2852d11565,ncku-stats-ds,余定宏,Ting-Hung Yu,d03099622777bcfc@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-劉應興-4bbf14fe9c,ncku-stats-ds-劉應興-4bbf14fe9c,ncku-stats-ds,劉應興,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-吳宗正-35be6e6323,ncku-stats-ds-吳宗正-35be6e6323,ncku-stats-ds,吳宗正,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-吳致杰-e83801110c,ncku-stats-ds-吳致杰-e83801110c,ncku-stats-ds,吳致杰,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-吳鐵肩-55decc0a17,ncku-stats-ds-吳鐵肩-55decc0a17,ncku-stats-ds,吳鐵肩,Tiee-Jian Wu,b3f7c58821c2194b@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-呂金河-421da4de18,ncku-stats-ds-呂金河-421da4de18,ncku-stats-ds,呂金河,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-嵇允嬋-5dd8a77c5a,ncku-stats-ds-嵇允嬋-5dd8a77c5a,ncku-stats-ds,嵇允嬋,Yun-Chan Chi,7aeb69c7bfee0502@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-張欣民-2a561caa4d,ncku-stats-ds-張欣民-2a561caa4d,ncku-stats-ds,張欣民,Hsing-Ming Chang,94a6f652d2c28ccc@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-戴安順-b1f00ad732,ncku-stats-ds-戴安順-b1f00ad732,ncku-stats-ds,戴安順,An-Shun Tai,ff4ce1453fecce28@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-戴齊賢-6fec31cf3d,ncku-stats-ds-戴齊賢-6fec31cf3d,ncku-stats-ds,戴齊賢,Chi-Shian Dai,85e81fb5938c9f67@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-李俊毅-6ad50d7c53,ncku-stats-ds-李俊毅-6ad50d7c53,ncku-stats-ds,李俊毅,Chung-I Li,742b1b25a4bcdd56@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-李國榮-1200a0959b,ncku-stats-ds-李國榮-1200a0959b,ncku-stats-ds,李國榮,Kuo-Jung Lee,252935652877bf09@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-李宗翰-1d5a48a614,ncku-stats-ds-李宗翰-1d5a48a614,ncku-stats-ds,李宗翰,Chung-Han Lee,696f4f0098029f4d@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-李宜真-1ca5a58f06,ncku-stats-ds-李宜真-1ca5a58f06,ncku-stats-ds,李宜真,I-Chen Lee,e6a9746cd0c083b6@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-林宇凡-7d52b28bb8,ncku-stats-ds-林宇凡-7d52b28bb8,ncku-stats-ds,林宇凡,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-楊明宗-97d04aab5b,ncku-stats-ds-楊明宗-97d04aab5b,ncku-stats-ds,楊明宗,Ming-Tzong Yang,b08f113303392b82@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-楊欣洲-1132517e30,ncku-stats-ds-楊欣洲-1132517e30,ncku-stats-ds,楊欣洲,Hsin-Chou Yang,2ac8bc928ef6b831@redacted.invalid,2,2,ncku-stats-ds | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-hsinchouyang-a5478bbe7e,ncku-stats-ds-楊欣洲-1132517e30,ntu-ds,楊欣洲,Hsin-Chou Yang,2ac8bc928ef6b831@redacted.invalid,2,2,ncku-stats-ds | ntu-ds,merged_multi_record,email_or_singleton
+ncku-stats-ds-溫敏杰-99a3082790,ncku-stats-ds-溫敏杰-99a3082790,ncku-stats-ds,溫敏杰,Miin-Jye Wen,d0b28a9857aa8f3f@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-潘浙楠-852778d16a,ncku-stats-ds-潘浙楠-852778d16a,ncku-stats-ds,潘浙楠,Jeh-Nan Pan,3c02854623f1e055@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-王婉倫-fe18c219d3,ncku-stats-ds-王婉倫-fe18c219d3,ncku-stats-ds,王婉倫,Wan-Lun Wang,46dc68b49da01923@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-王義富-84941b85dc,ncku-stats-ds-王義富-84941b85dc,ncku-stats-ds,王義富,Yi-Fu Wang,a54f8032ac3f6cb1@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-石瑜-38ea37cc03,ncku-stats-ds-石瑜-38ea37cc03,ncku-stats-ds,石 瑜,Yu Shyr,65e5c50094a4fbd2@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-蘇佩芳-7c1f71e6de,ncku-stats-ds-蘇佩芳-7c1f71e6de,ncku-stats-ds,蘇佩芳,Pei-Fang Su,5cd010197efa2513@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-許志仲-042daaf5f7,ncku-stats-ds-許志仲-042daaf5f7,ncku-stats-ds,許志仲,Chih-Chung Hsu,7eb274809eb40a8b@redacted.invalid | e198864725655c6d@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-許秀麗-975216e01f,ncku-stats-ds-許秀麗-975216e01f,ncku-stats-ds,許秀麗,,e7c33499a8956d4f@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-詹世煌-86dc72a847,ncku-stats-ds-詹世煌-86dc72a847,ncku-stats-ds,詹世煌,Shih-Huang Chan,acf6e3b6edd86375@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-趙昌泰-c9b9a4a18b,ncku-stats-ds-趙昌泰-c9b9a4a18b,ncku-stats-ds,趙昌泰,Chang-Tai Chao,ce35390fb764c302@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-鄧浩陽-56bcccee94,ncku-stats-ds-鄧浩陽-56bcccee94,ncku-stats-ds,鄧浩陽,Hao Yang Teng,737c7844ed05a4a1@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-鄭碧娥-4a76d96528,ncku-stats-ds-鄭碧娥-4a76d96528,ncku-stats-ds,鄭碧娥,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-鄭順林-58732da4fc,ncku-stats-ds-鄭順林-58732da4fc,ncku-stats-ds,鄭順林,Shuen-Lin Jeng,b578f54b99b4fbb4@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-鍾淑美-1395b4142b,ncku-stats-ds-鍾淑美-1395b4142b,ncku-stats-ds,鍾淑美,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-陳瑞彬-f146defa8b,ncku-stats-ds-陳瑞彬-f146defa8b,ncku-stats-ds,陳瑞彬,Ray-Bing Chen,589d71aa4a62a0c7@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-陳能新-1422973faf,ncku-stats-ds-陳能新-1422973faf,ncku-stats-ds,陳能新,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-陳順宇-5b3c614736,ncku-stats-ds-陳順宇-5b3c614736,ncku-stats-ds,陳順宇,,,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-馬瀰嘉-acd5f760d8,ncku-stats-ds-馬瀰嘉-acd5f760d8,ncku-stats-ds,馬瀰嘉,Mi-Chia Ma,8153c87381eb331b@redacted.invalid,1,1,ncku-stats-ds,unique,email_or_singleton
+ncku-stats-ds-黃銘欽-8ccf2e88ad,ncku-stats-ds-黃銘欽-8ccf2e88ad,ncku-stats-ds,黃銘欽,,,1,1,ncku-stats-ds,unique,email_or_singleton
+nthu-cs-chengwenwu-0931c8d9b1,nthu-cs-chengwenwu-0931c8d9b1,nthu-cs,Cheng-Wen Wu,Cheng-Wen Wu,b1208663ebaf27dd@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-chunglaungliu-81c34bb998,nthu-cs-chunglaungliu-81c34bb998,nthu-cs,Chung Laung Liu,Chung Laung Liu,ea70ab8580d37736@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-wenlianhsu-baee37b511,nthu-cs-wenlianhsu-baee37b511,nthu-cs,Wen-Lian Hsu,Wen-Lian Hsu,5b03a1d337c47ea0@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-丁川康-09362c5c83,nthu-cs-丁川康-09362c5c83,nthu-cs,丁川康,Chuan-Kang Ting,9e98539e63c34a58@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-劉炯朗-714cd73f70,nthu-cs-劉炯朗-714cd73f70,nthu-cs,劉炯朗,,44fe718020149161@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-吳中浩-2da90a2f27,nthu-cs-吳中浩-2da90a2f27,nthu-cs,吳中浩,Wu Chung -Haw,dfe89117841b54c8@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-吳尚鴻-69aaff2ef5,nthu-cs-吳尚鴻-69aaff2ef5,nthu-cs,吳尚鴻,Shan-Hung Wu,ec8ebba8fd1a9b68@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-周志遠-5af43e1b90,nthu-cs-周志遠-5af43e1b90,nthu-cs,周志遠,,b5c1889dfd386079@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-周百祥-cf9a8d7b4b,nthu-cs-周百祥-cf9a8d7b4b,nthu-cs,周百祥,Pai H. Chou,df9ff87c69784a18@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-唐傳義-7f081eb094,nthu-cs-唐傳義-7f081eb094,nthu-cs,唐傳義,Chuan-Yi Tang,7bb71ea03a694a5c@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-孫宏民-ae6348d2b8,nthu-cs-孫宏民-ae6348d2b8,nthu-cs,孫宏民,Hung-Min Sun,855ee90c31ad2fe8@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-張世杰-c7720e7bf2,nthu-cs-張世杰-c7720e7bf2,nthu-cs,張世杰,,def06a5506663b04@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-張俊盛-260bd4fef4,nthu-cs-張俊盛-260bd4fef4,nthu-cs,張俊盛,Jason S. Chang,4d6688881329ee4f@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-張君天-43ab3fd7b9,nthu-cs-張君天-43ab3fd7b9,nthu-cs,張君天,Chun-Tien Chang,150217b1dc7d4bfd@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-張峻銘-b2df996158,nthu-cs-張峻銘-b2df996158,nthu-cs,張峻銘,Tsun Ming Cheung,cbcfcfc8e33b1606@redacted.invalid | 9178dcfefd46e2bf@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-張正尚-0173f59db1,nthu-cs-張正尚-0173f59db1,nthu-cs,張正尚,Cheng-Shang Chang,0e1e2d24c85d1c16@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-張真誠-f90f3dfae1,nthu-cs-張真誠-f90f3dfae1,nthu-cs,張真誠,Chin-Chen Chang,ef561278e0b2350e@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-張隆紋-6579e42cba,nthu-cs-張隆紋-6579e42cba,nthu-cs,張隆紋,Long-Wen Chang,603ccbb38ccdd42f@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-張韻詩-a94b4eca78,nthu-cs-張韻詩-a94b4eca78,nthu-cs,張韻詩,,70f20ab0fc01382a@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-徐正炘-8b568ce001,nthu-cs-徐正炘-8b568ce001,nthu-cs,徐正炘,Cheng-Hsin Hsu,9880a4be1052b941@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-徐爵民-eade3af147,nthu-cs-徐爵民-eade3af147,nthu-cs,徐爵民,Jyuo-Min Shyu,827e40db83586f55@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-朱宏國-642998a4aa,nthu-cs-朱宏國-642998a4aa,nthu-cs,朱宏國,Hung-Kuo Chu,ceeae9e3a9d7dc57@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-李哲榮-722a84d1c8,nthu-cs-李哲榮-722a84d1c8,nthu-cs,李哲榮,,119ee618960a104c@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-李家同-c1f2d67113,nthu-cs-李家同-c1f2d67113,nthu-cs,李家同,,e07f890a5a5b77da@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-李政崑-965a47032e,nthu-cs-李政崑-965a47032e,nthu-cs,李政崑,Jenq-Kuen Lee,2ce122c9ee16570c@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-李端興-72950bb080,nthu-cs-李端興-72950bb080,nthu-cs,李端興,Duan-Shin Lee,e718d980763a39b4@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-林文綺-074edb2d01,nthu-cs-林文綺-074edb2d01,nthu-cs,林文綺,,ac5da98963ddc889@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-林桂傑-3eab7348de,nthu-cs-林桂傑-3eab7348de,nthu-cs,林桂傑,Kwei-Jay Lin,33737bc77b90459f@redacted.invalid,2,2,nthu-cs | ntu-cs-ie,manually_confirmed_same_person,manual_review
+ntu-cs-ie-林桂傑-b717b8860b,nthu-cs-林桂傑-3eab7348de,ntu-cs-ie,林桂傑,Kwei-Jay Lin,b44cdefb1cf825d1@redacted.invalid,2,2,nthu-cs | ntu-cs-ie,manually_confirmed_same_person,manual_review
+nthu-cs-林永隆-971ac78e0f,nthu-cs-林永隆-971ac78e0f,nthu-cs,林永隆,,c13d64725fb9c676@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-林沿妊-ab6c251917,nthu-cs-林沿妊-ab6c251917,nthu-cs,林沿妊,,ade5de86ef6ad1a9@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-林瀚仚-8176500c13,nthu-cs-林瀚仚-8176500c13,nthu-cs,林瀚仚,Han-Hsuan Lin,67149d8254965a0e@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-林華君-4d8a5842a2,nthu-cs-林華君-4d8a5842a2,nthu-cs,林華君,Hwa-Chun Lin,3a17722ae0b87843@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-梁雅鈞-9f3d7465e1,nthu-cs-梁雅鈞-9f3d7465e1,nthu-cs,梁雅鈞,Ya-Chun Liang,32ffb2edb8fd5eed@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-楊熙年-e1cd89ea15,nthu-cs-楊熙年-e1cd89ea15,nthu-cs,楊熙年,Shi-Nine Yang,930f8d0ce20c38fb@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-楊舜仁-77d533ddf8,nthu-cs-楊舜仁-77d533ddf8,nthu-cs,楊舜仁,,6bda24ca2bb11d3e@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-沈之涯-d5bb9630d8,nthu-cs-沈之涯-d5bb9630d8,nthu-cs,沈之涯,Chih-Ya Shen,2677de0c68cac182@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-洪仕軒-a9fa041928,nthu-cs-洪仕軒-a9fa041928,nthu-cs,洪仕軒,Shih-Hsuan Hung,e60b95418130b666@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-王俊堯-29ae2991f7,nthu-cs-王俊堯-29ae2991f7,nthu-cs,王俊堯,Chun-Yao Wang,90013c3183baa989@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-王家祥-79b45fac37,nthu-cs-王家祥-79b45fac37,nthu-cs,王家祥,Jia-Shung Wang,984f3fd967565cca@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-王廷基-66e8de998a,nthu-cs-王廷基-66e8de998a,nthu-cs,王廷基,Ting-Chi Wang,610dd786a9aa40d9@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-王炳豐-db84c4528b,nthu-cs-王炳豐-db84c4528b,nthu-cs,王炳豐,Biing-Feng Wang,b638c2a6aa794319@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-盧錦隆-6983c0f1dd,nthu-cs-盧錦隆-6983c0f1dd,nthu-cs,盧錦隆,Chin-Lung Lu,37c0c172e2de2944@redacted.invalid | f209e17fd92c08c6@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-石維寬-b54c54300e,nthu-cs-石維寬-b54c54300e,nthu-cs,石維寬,Wei-Kuan Shih,b873cfb6cafe0609@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-羅婈-fdd893b309,nthu-cs-羅婈-fdd893b309,nthu-cs,羅婈,Ling Lo,0deb9680fee68b39@redacted.invalid | b96f3c16068ffc4d@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-翁正明-fe545e34a2,nthu-cs-翁正明-fe545e34a2,nthu-cs,翁正明,Cheng-Ming Weng,6ba02e721007024f@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-胡敏君-d30f85d433,nthu-cs-胡敏君-d30f85d433,nthu-cs,胡敏君,Min-Chun Hu,11eab7a2c2a12f3a@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-葉肩宇-1907b9cbf9,nthu-cs-葉肩宇-1907b9cbf9,nthu-cs,葉肩宇,,941b49e8e5b659d5@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-蔡仁松-13fcaf5bbe,nthu-cs-蔡仁松-13fcaf5bbe,nthu-cs,蔡仁松,Ren-Song Tsay,7bcc23ce93df386c@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-蔡明哲-9d609636c8,nthu-cs-蔡明哲-9d609636c8,nthu-cs,蔡明哲,Ming-Jer Tsai,49091e69226701db@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-蘇豐文-f06969cec0,nthu-cs-蘇豐文-f06969cec0,nthu-cs,蘇豐文,,df9dd7352e31b7cc@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-許健平-128c6ac6ab,nthu-cs-許健平-128c6ac6ab,nthu-cs,許健平,Jang-Ping Sheu,472467a2f1a63c71@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-許秋婷-e17039873f,nthu-cs-許秋婷-e17039873f,nthu-cs,許秋婷,Chiou-Ting Hsu,4a5903770db0f7ea@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-許聞廉-24d823b30b,nthu-cs-許聞廉-24d823b30b,nthu-cs,許聞廉,,bddc47c29a4bc25a@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-謝源-fe3951f144,nthu-cs-謝源-fe3951f144,nthu-cs,謝源,Yuan Xie,7f14b10980a81328@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-賴尚宏-15f146b4f1,nthu-cs-賴尚宏-15f146b4f1,nthu-cs,賴尚宏,Shang-Hong Lai,02b05a6555c26dfd@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-邱德泉-23a7d7b698,nthu-cs-邱德泉-23a7d7b698,nthu-cs,邱德泉,Te-Chuan Chiu,1f9e964f4e2f5c3c@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-邱瀞德-99539b19ee,nthu-cs-邱瀞德-99539b19ee,nthu-cs,邱瀞德,Ching-Te Chiu,7464b879daf8b036@redacted.invalid | 7ea28f812a9fc16d@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-郭昱廷-cb1da4e458,nthu-cs-郭昱廷-cb1da4e458,nthu-cs,郭昱廷,Yu-Ting Kuo,16963b8522a9ade0@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-郭柏志-70f6925e3a,nthu-cs-郭柏志-70f6925e3a,nthu-cs,郭柏志,Po-Chih Kuo,d68e85774de72f5a@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-郭詩芝-9e30a0d384,nthu-cs-郭詩芝-9e30a0d384,nthu-cs,郭詩芝,Shih Chih Kuo,48e2b81cd6ba94dc@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-金仲達-87bd908f7e,nthu-cs-金仲達-87bd908f7e,nthu-cs,金仲達,Chung-Ta King,cfa18d28653fcc08@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-金陽和-83ed0dbb2c,nthu-cs-金陽和-83ed0dbb2c,nthu-cs,金陽和,Y.H. Chin,31084f3e8b3fd2e5@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-鍾葉青-fb3791172c,nthu-cs-鍾葉青-fb3791172c,nthu-cs,鍾葉青,Yeh-Ching Chung,01803c2c283a1ab8@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-闕志克-667b8d485c,nthu-cs-闕志克-667b8d485c,nthu-cs,闕志克,Tzi-Cker Chiueh,0802e3632f93f1c4@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-陳宜欣-10568557fc,nthu-cs-陳宜欣-10568557fc,nthu-cs,陳宜欣,Yi-Shin Chen,bba80bf498fba4ad@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-陳文村-da14007351,nthu-cs-陳文村-da14007351,nthu-cs,陳文村,,fd510f31efcd96f2@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-陳朝欽-11b8fb7840,nthu-cs-陳朝欽-11b8fb7840,nthu-cs,陳朝欽,Chaur-Chin Chen,5f239d2f292f4282@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-陳煥宗-7c43119c40,nthu-cs-陳煥宗-7c43119c40,nthu-cs,陳煥宗,,b64434766723207c@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-陳耘志-1b3b5d7ab0,nthu-cs-陳耘志-1b3b5d7ab0,nthu-cs,陳耘志,Yun-Chih Chen,c7010b5984b510d1@redacted.invalid | d6078dac863fa628@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-陳聿廣-13aceaf00c,nthu-cs-陳聿廣-13aceaf00c,nthu-cs,陳聿廣,,698085bf67e4e52f@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-陳良弼-2847ebc1d7,nthu-cs-陳良弼-2847ebc1d7,nthu-cs,陳良弼,Arbee L.P Chen,323e79fae2533d4b@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-韓永楷-05d57868e3,nthu-cs-韓永楷-05d57868e3,nthu-cs,韓永楷,Wing-Kai Hon,075f3bbdb243b6fc@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-顏子斌-46d093b11d,nthu-cs-顏子斌-46d093b11d,nthu-cs,顏子斌,Tzu-Bin Yan,6e869df373a2feca@redacted.invalid | a9c5cfa00bfac192@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-高宏宇-e0f4516945,nthu-cs-高宏宇-e0f4516945,nthu-cs,高宏宇,Hung-Yu Kao,03d86d3adc743945@redacted.invalid | 993450d9b53d0d46@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-高榮駿-458af60731,nthu-cs-高榮駿-458af60731,nthu-cs,高榮駿,Jung-Chun Kao,60795defb5a1e8e1@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-麥偉基-5269f158c4,nthu-cs-麥偉基-5269f158c4,nthu-cs,麥偉基,Wai-Kei Mak,a7ab029f14967001@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-黃兆源兼任講師-2e374aa4b3,nthu-cs-黃兆源兼任講師-2e374aa4b3,nthu-cs,黃兆源 兼任講師,,95b9fc9b30362a8a@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-黃婷婷-c521072c08,nthu-cs-黃婷婷-c521072c08,nthu-cs,黃婷婷,Ting-Ting Hwang,cc74effd2cadc818@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-黃慶育-97536649ca,nthu-cs-黃慶育-97536649ca,nthu-cs,黃慶育,Chin-Yu Huang,1e7103cc4887b497@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-黃稚存-6ad9444e87,nthu-cs-黃稚存-6ad9444e87,nthu-cs,黃稚存,Chih-Tsun Huang,12228940d3e2d708@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-cs-黃能富-478224d15b,nthu-cs-黃能富-478224d15b,nthu-cs,黃能富,Nen-Fu Huang,9c032788107af6ae@redacted.invalid,1,1,nthu-cs,unique,email_or_singleton
+nthu-qf-fulltime-7231f70cb1,nthu-qf-fulltime-7231f70cb1,nthu-qf,專任教師,Full-Time,,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-kangliu-cb7ae7428e,nthu-qf-kangliu-cb7ae7428e,nthu-qf,劉鋼,Kang Liu,,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-余士迪-fee4dd1609,nthu-qf-余士迪-fee4dd1609,nthu-qf,余士迪,,7b7dc50b6f359c01@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-俞明德-5bc6444834,nthu-qf-俞明德-5bc6444834,nthu-qf,俞明德,,598cede55536beaa@redacted.invalid,2,2,nthu-qf | nycu-info-mag-fin,manually_confirmed_same_person,manual_review
+nycu-info-mag-fin-俞明德-560565dfd3,nthu-qf-俞明德-5bc6444834,nycu-info-mag-fin,俞明德,Min-Teh Yu,dae6a327bf077669@redacted.invalid,2,2,nthu-qf | nycu-info-mag-fin,manually_confirmed_same_person,manual_review
+nthu-qf-張焯然-be6ae873ff,nthu-qf-張焯然-be6ae873ff,nthu-qf,張焯然,,35a017a1b8c1d494@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-曾祺峰-0159aadf46,nthu-qf-曾祺峰-0159aadf46,nthu-qf,曾祺峰,,8f504bc25bbdfc00@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-林哲群-8dd6d7cb57,nthu-qf-林哲群-8dd6d7cb57,nthu-qf,林哲群,,d438b494a4c43965@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-潘虹華-2cd399c3cc,nthu-qf-潘虹華-2cd399c3cc,nthu-qf,潘虹華,,f5e2838d1b132adf@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-索樂晴-9b18bc7ea3,nthu-qf-索樂晴-9b18bc7ea3,nthu-qf,索樂晴,,01a64455c6b8d773@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-蔡子晧-d1c931b9aa,nthu-qf-蔡子晧-d1c931b9aa,nthu-qf,蔡子晧,,2af3fd6ea51795ad@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-蔡怡純-bc1e0b3659,nthu-qf-蔡怡純-bc1e0b3659,nthu-qf,蔡怡純,,d80451154da8d7d6@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-許博炫-19a6a7d0a1,nthu-qf-許博炫-19a6a7d0a1,nthu-qf,許博炫,,00c3aca3f19f03b7@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-謝佩芳-000b7cb509,nthu-qf-謝佩芳-000b7cb509,nthu-qf,謝佩芳,,72c45c08e98b68b1@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-謝宗翰-b308786865,nthu-qf-謝宗翰-b308786865,nthu-qf,謝宗翰,,8b4261b2a42a9c33@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-邱婉茜-1ac7d9d097,nthu-qf-邱婉茜-1ac7d9d097,nthu-qf,邱婉茜,,8af6d8c82357cd5a@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-鍾經樊-def35bacad,nthu-qf-鍾經樊-def35bacad,nthu-qf,鍾經樊,,74b31b5023d3c6a6@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-韓傳祥-b9870472b6,nthu-qf-韓傳祥-b9870472b6,nthu-qf,韓傳祥,,b29b605f80f6197e@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-黃德源-436d6848bb,nthu-qf-黃德源-436d6848bb,nthu-qf,黃德源,,13bbd53038220f4d@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+nthu-qf-黃裕烈-945496ca2a,nthu-qf-黃裕烈-945496ca2a,nthu-qf,黃裕烈,,db8882f0fff450ec@redacted.invalid,1,1,nthu-qf,unique,email_or_singleton
+ntu-comm-engin-ds-network-丁建均-e5141fb566,ntu-comm-engin-ds-network-丁建均-e5141fb566,ntu-comm-engin-ds-network,丁建均,Jian-Jiun Ding,4329dfd7c3f7f919@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-劉子毓-3ebc338425,ntu-comm-engin-ds-network-劉子毓-3ebc338425,ntu-comm-engin-ds-network,劉子毓,Tzu-Yu Liu,1eb4c1d71e85b6fb@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-liutzuyu-02a716bf8c,ntu-comm-engin-ds-network-劉子毓-3ebc338425,ntu-ds,劉子毓,"Liu, Tzu-Yu",1eb4c1d71e85b6fb@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,ntu-comm-engin-ds-network,吳沛遠,Pei-Yuan Wu,32bc4ca01a588820@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-wupeiyuan-e3ad438290,ntu-comm-engin-ds-network-吳沛遠-f245e25f4d,ntu-ds,吳沛遠,"Wu, Pei-Yuan",32bc4ca01a588820@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-comm-engin-ds-network-周俊廷-e6686de123,ntu-comm-engin-ds-network-周俊廷-e6686de123,ntu-comm-engin-ds-network,周俊廷,Chun-Ting Chou,0137d3a69a52cade@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,ntu-comm-engin-ds-network,孫紹華,Shao-Hua Sun,d88082384d665159@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-sunshaohua-45e93fffca,ntu-comm-engin-ds-network-孫紹華-fe87e5f20f,ntu-ds,孫紹華,"Sun, Shao-Hua",d88082384d665159@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,ntu-comm-engin-ds-network,廖婉君,Wanjiun Liao,d3ab333d6bf7d91f@redacted.invalid,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-wanjiunliao-48de453af9,ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,ntu-cs-ie,廖婉君,Wanjiun Liao,d3ab333d6bf7d91f@redacted.invalid,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-liaowanjiun-bb42b0521f,ntu-comm-engin-ds-network-廖婉君-f6bc7c181c,ntu-ds,廖婉君,"Liao, Wanjiun",,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-comm-engin-ds-network-李宏毅-617adf302c,ntu-comm-engin-ds-network-李宏毅-617adf302c,ntu-comm-engin-ds-network,李宏毅,Hung-yi Lee,2790b597d357b931@redacted.invalid,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-hungyilee-e3b7cae77a,ntu-comm-engin-ds-network-李宏毅-617adf302c,ntu-cs-ie,李宏毅,Hung-Yi Lee,2790b597d357b931@redacted.invalid,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-leehungyi-7e8b2f51e2,ntu-comm-engin-ds-network-李宏毅-617adf302c,ntu-ds,李宏毅,"Lee, Hung-Yi",2790b597d357b931@redacted.invalid,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-comm-engin-ds-network-李琳山-193d6b842c,ntu-comm-engin-ds-network-李琳山-193d6b842c,ntu-comm-engin-ds-network,李琳山,Lin-Shan Lee,cabe9be678982a2f@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-cs-ie,manually_confirmed_same_person,manual_review
+ntu-cs-ie-lslee-906cf8b461,ntu-comm-engin-ds-network-李琳山-193d6b842c,ntu-cs-ie,李琳山,Lin-shan Lee,a2f858e5e31ccf02@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-cs-ie,manually_confirmed_same_person,manual_review
+ntu-comm-engin-ds-network-林宗男-d804481822,ntu-comm-engin-ds-network-林宗男-d804481822,ntu-comm-engin-ds-network,林宗男,Tsung-Nan Lin,1afb304543a01708@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-lintsungnan-86da824817,ntu-comm-engin-ds-network-林宗男-d804481822,ntu-ds,林宗男,"Lin, Tsung-Nan",,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-comm-engin-ds-network-林澤-45fabc226a,ntu-comm-engin-ds-network-林澤-45fabc226a,ntu-comm-engin-ds-network,林澤,Che Lin,8d594b0cca83fd78@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-linche-f9f2c9629d,ntu-comm-engin-ds-network-林澤-45fabc226a,ntu-ds,林澤,"Lin, Che",8d594b0cca83fd78@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b,ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b,ntu-comm-engin-ds-network,楊奕軒,Yi-Hsuan Yang,c71206c942b3b55a@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-王奕翔-e163a124b7,ntu-comm-engin-ds-network-王奕翔-e163a124b7,ntu-comm-engin-ds-network,王奕翔,I-Hsiang Wang,cfa3718f8e912dc8@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-王鈺強-43bfbd0d23,ntu-comm-engin-ds-network-王鈺強-43bfbd0d23,ntu-comm-engin-ds-network,王鈺強,Yu-Chiang Frank Wang,d1fb113cd91daaf4@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-簡翌-6a29f81209,ntu-comm-engin-ds-network-簡翌-6a29f81209,ntu-comm-engin-ds-network,簡翌,Eli Chien,69ddfdb337223e60@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-葉丙成-281ee85757,ntu-comm-engin-ds-network-葉丙成-281ee85757,ntu-comm-engin-ds-network,葉丙成,Ping-Cheng Yeh,6fadc54b9c3e5abf@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-cs-ie,merged_multi_record,email_or_singleton
+ntu-cs-ie-pingchengyeh-fcde14beb3,ntu-comm-engin-ds-network-葉丙成-281ee85757,ntu-cs-ie,葉丙成,Ping-Cheng Yeh,6fadc54b9c3e5abf@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-cs-ie,merged_multi_record,email_or_singleton
+ntu-comm-engin-ds-network-蔡志宏-22700a6730,ntu-comm-engin-ds-network-蔡志宏-22700a6730,ntu-comm-engin-ds-network,蔡志宏,Zsehong Tsai,b74e4140bf50c030@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee,ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee,ntu-comm-engin-ds-network,蘇炫榮,Hsuan-Jung Su,d3ab9aa762adff43@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,ntu-comm-engin-ds-network,謝宏昀,Hung-Yun Hsieh,2c753dc973eec470@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-hsiehhungyun-d8718bc559,ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118,ntu-ds,謝宏昀,"Hsieh, Hung-Yun",2c753dc973eec470@redacted.invalid,2,2,ntu-comm-engin-ds-network | ntu-ds,merged_multi_record,email_or_singleton
+ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6,ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6,ntu-comm-engin-ds-network,貝蘇章,Soo-Chang Pei,a052b1b544f8bed9@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-鄭士康-08dd5999fd,ntu-comm-engin-ds-network-鄭士康-08dd5999fd,ntu-comm-engin-ds-network,鄭士康,Shyh-Kang Jeng,9be3b3b926cf6a27@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-鄭皓中-046d884ef1,ntu-comm-engin-ds-network-鄭皓中-046d884ef1,ntu-comm-engin-ds-network,鄭皓中,Hao-Chung Cheng,981bdd98d8fd6237@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-陳宏銘-9a7386a945,ntu-comm-engin-ds-network-陳宏銘-9a7386a945,ntu-comm-engin-ds-network,陳宏銘,Homer H. Chen,97a1fffaccc41225@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,ntu-comm-engin-ds-network,陳銘憲,Ming-Syan Chen,998f5bca9af71ba1@redacted.invalid,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-mingsyanchen-dae7972888,ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,ntu-cs-ie,陳銘憲,Ming-Syan Chen,998f5bca9af71ba1@redacted.invalid,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-chenmingsyan-8fa63ae675,ntu-comm-engin-ds-network-陳銘憲-189c35ea4f,ntu-ds,陳銘憲,"Chen, Ming-Syan",998f5bca9af71ba1@redacted.invalid,3,3,ntu-comm-engin-ds-network | ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-comm-engin-ds-network-魏宏宇-c14d33111c,ntu-comm-engin-ds-network-魏宏宇-c14d33111c,ntu-comm-engin-ds-network,魏宏宇,Hung-Yu Wei,30420dd660f7655f@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-comm-engin-ds-network-黃寶儀-3684ae24b6,ntu-comm-engin-ds-network-黃寶儀-3684ae24b6,ntu-comm-engin-ds-network,黃寶儀,Polly Huang,e2a24ccb10d941c8@redacted.invalid,1,1,ntu-comm-engin-ds-network,unique,email_or_singleton
+ntu-cs-ie-acpang-9884f42033,ntu-cs-ie-acpang-9884f42033,ntu-cs-ie,逄愛君,Ai-Chun Pang,585c1b6f108407a7@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-borsungliang-d27fbde277,ntu-cs-ie-borsungliang-d27fbde277,ntu-cs-ie,梁伯嵩,Bor-Sung Liang,c4d23c8319ca2238@redacted.invalid,2,2,ntu-cs-ie | nycu-cs,merged_multi_record,email_or_singleton
+nycu-cs-borsungliang-41c59be975,ntu-cs-ie-borsungliang-d27fbde277,nycu-cs,梁伯嵩,Bor-Sung Liang,,2,2,ntu-cs-ie | nycu-cs,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-bychen-c5555c9a2f,ntu-cs-ie-bychen-c5555c9a2f,ntu-cs-ie,陳炳宇,Bing-Yu Chen,c0ac987f7a72e26a@redacted.invalid,2,2,ntu-cs-ie | ntu-im,merged_multi_record,email_or_singleton
+ntu-im-陳炳宇-4670eb5fcd,ntu-cs-ie-bychen-c5555c9a2f,ntu-im,陳炳宇,Bing-Yu Chen,c0ac987f7a72e26a@redacted.invalid,2,2,ntu-cs-ie | ntu-im,merged_multi_record,email_or_singleton
+ntu-cs-ie-bywang-ec31f71e04,ntu-cs-ie-bywang-ec31f71e04,ntu-cs-ie,王柏堯,BY Wang,810f0934d852b5e6@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-cfchou-e60f76bba3,ntu-cs-ie-cfchou-e60f76bba3,ntu-cs-ie,周承復,Cheng-Fu Chou,00c9b9c82d54ab52@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-chunyilee-d91b936234,ntu-cs-ie-chunyilee-d91b936234,ntu-cs-ie,李濬屹,Chun-Yi Lee,eb871848f60bfed9@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-leechunyi-1316e79287,ntu-cs-ie-chunyilee-d91b936234,ntu-ds,李濬屹,"Lee, Chun-Yi",eb871848f60bfed9@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-chusongchen-19351beadd,ntu-cs-ie-chusongchen-19351beadd,ntu-cs-ie,陳祝嵩,Chu-Song Chen,5a30c192301c369e@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-chenchusong-9acf325951,ntu-cs-ie-chusongchen-19351beadd,ntu-ds,陳祝嵩,"Chen, Chu-Song",5a30c192301c369e@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-cjlin-c23da9cccb,ntu-cs-ie-cjlin-c23da9cccb,ntu-cs-ie,林智仁,CJ Lin,d04447b5cf963936@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-clyang-d0981273f4,ntu-cs-ie-clyang-d0981273f4,ntu-cs-ie,楊佳玲,Chia-Lin Yang,6aadd1ba0f787585@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-csfuh-8bd0c9a460,ntu-cs-ie-csfuh-8bd0c9a460,ntu-cs-ie,傅楸善,Chiou-Shann Fuh,40674b1bae7b97e6@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-csshih-6714f0cdd0,ntu-cs-ie-csshih-6714f0cdd0,ntu-cs-ie,施吉昇,Chi-Sheng Shih,e0c40becb3b25152@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-cwhsueh-17fce3b74f,ntu-cs-ie-cwhsueh-17fce3b74f,ntu-cs-ie,薛智文,Chih-Wen Hsueh,edf189271343326e@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-cwlin-9895f94a62,ntu-cs-ie-cwlin-9895f94a62,ntu-cs-ie,林忠緯,Chung-Wei Lin,ab0ef8d3a6500ce8@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-cyliou-b8313079ec,ntu-cs-ie-cyliou-b8313079ec,ntu-cs-ie,劉長遠,Cheng-Yuan Liou,43111f05dde67c71@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-dingyonghong-722d8f7585,ntu-cs-ie-dingyonghong-722d8f7585,ntu-cs-ie,洪鼎詠,Ding-Yong Hong,4eba5ac6d6b740df@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-hongdingyong-97b7056823,ntu-cs-ie-dingyonghong-722d8f7585,ntu-ds,洪鼎詠,"Hong, Ding-Yong",4eba5ac6d6b740df@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-dtlee-ddd84693f6,ntu-cs-ie-dtlee-ddd84693f6,ntu-cs-ie,李德財,Der-Tsai Lee,c980d6b5a9651d3f@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-fangjingwu-0e7f46cd57,ntu-cs-ie-fangjingwu-0e7f46cd57,ntu-cs-ie,巫芳璟,Fang-Jing Wu,f266dae41113448a@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-wufangjing-301b084151,ntu-cs-ie-fangjingwu-0e7f46cd57,ntu-ds,巫芳璟,"Wu, Fang-Jing",f266dae41113448a@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-fplai-2ea339a83a,ntu-cs-ie-fplai-2ea339a83a,ntu-cs-ie,賴飛羆,Feipei Lai,fcad5d44094dfb95@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-ghchen-6420c9bb16,ntu-cs-ie-ghchen-6420c9bb16,ntu-cs-ie,陳健輝,Gen-Huey Chen,713b14e2c47e78f1@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-hhchen-7401af7bf1,ntu-cs-ie-hhchen-7401af7bf1,ntu-cs-ie,陳信希,Hsin-Hsi Chen,1ad609eaf764310e@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-chenhsinhsi-6c5257ce25,ntu-cs-ie-hhchen-7401af7bf1,ntu-ds,陳信希,"Chen, Hsin-Hsi",,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-hhchu-844927e4cf,ntu-cs-ie-hhchu-844927e4cf,ntu-cs-ie,朱浩華,Hao-Hua Chu,9ca0ab956c06fe25@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-hilu-d3cc107f32,ntu-cs-ie-hilu-d3cc107f32,ntu-cs-ie,呂學一,Hsueh-I Lu,cbd48fbc1e75c8a8@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-hmtsai-001886954a,ntu-cs-ie-hmtsai-001886954a,ntu-cs-ie,蔡欣穆,HM Tsai,07674cc4b15623e1@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-hsuanchenghuang-4a05bef87b,ntu-cs-ie-hsuanchenghuang-4a05bef87b,ntu-cs-ie,黃宣誠,Hsuan-Cheng Huang,088e9163f50c7794@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-hsuchunhsiao-0666e32db0,ntu-cs-ie-hsuchunhsiao-0666e32db0,ntu-cs-ie,蕭旭君,Hsu-Chun Hsiao,17e7526cb2d4c3ec@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-htlin-969f525d2d,ntu-cs-ie-htlin-969f525d2d,ntu-cs-ie,林軒田,Hsuan-Tien Lin,70cb532d2b76f215@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-hwhon-8567f422b4,ntu-cs-ie-hwhon-8567f422b4,ntu-cs-ie,洪小文,Hsiao-Wuen Hon,a67a1418d1f66649@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-jiefanchang-fcddfe88b0,ntu-cs-ie-jiefanchang-fcddfe88b0,ntu-cs-ie,張傑帆,Jie-Fan Chang,82a0a35d43aa9cc2@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-jiehhsiang-90a6272e7f,ntu-cs-ie-jiehhsiang-90a6272e7f,ntu-cs-ie,項潔,Jieh Hsiang,75e6720ab78e6861@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-jlee-8d3dfca2d4,ntu-cs-ie-jlee-8d3dfca2d4,ntu-cs-ie,李允中,Jonathan Lee,7665c582d2afbc44@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-jlwu-0ea4251db7,ntu-cs-ie-jlwu-0ea4251db7,ntu-cs-ie,吳家麟,Jia-Ling Wu,58e42f3d7be51d99@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-jsjang-bd821014e6,ntu-cs-ie-jsjang-bd821014e6,ntu-cs-ie,張智星,Jyh-Shing Roger Jang,af2b9d6fe1d85ba4@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-kaiminchung-1ecea18825,ntu-cs-ie-kaiminchung-1ecea18825,ntu-cs-ie,鐘楷閔,Kai-Min Chung,e2ab613d4c36ef88@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-katelin-92cc65958e,ntu-cs-ie-katelin-92cc65958e,ntu-cs-ie,林靖茹,Ching-Ju Lin,0bea20b3a734cb65@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-kmchao-a077c2e3e5,ntu-cs-ie-kmchao-a077c2e3e5,ntu-cs-ie,趙坤茂,Kun-Mao Chao,4e8dc3d4fd42743d@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-kwanliuma-aa49af3036,ntu-cs-ie-kwanliuma-aa49af3036,ntu-cs-ie,馬匡六,Kwan-Liu Ma,1f6da592e937e1e7@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-lcfu-0a2a6d8908,ntu-cs-ie-lcfu-0a2a6d8908,ntu-cs-ie,傅立成,Li-Chen Fu,56c0f1c3888623de@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-lungpancheng-bd8ab20b0b,ntu-cs-ie-lungpancheng-bd8ab20b0b,ntu-cs-ie,鄭龍磻,Lung-Pan Cheng,9736b8b754864187@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-mikeychen-e0f3b8ad08,ntu-cs-ie-mikeychen-e0f3b8ad08,ntu-cs-ie,陳彥仰,Mike Yen-Yang Chen,c0b5118dd1b7d16f@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-mouhyoung-51e697d410,ntu-cs-ie-mouhyoung-51e697d410,ntu-cs-ie,歐陽明,Ming Ouhyoung,4e92025c67b5336b@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-mslee-a3c2ec9374,ntu-cs-ie-mslee-a3c2ec9374,ntu-cs-ie,李明穗,Ming-Sui Lee,fd28ca5c510e552f@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-pfliu-a4b8a4e929,ntu-cs-ie-pfliu-a4b8a4e929,ntu-cs-ie,劉邦鋒,Pangfeng Liu,e4fdf1133ac1560e@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-pjcheng-d0b6b668e5,ntu-cs-ie-pjcheng-d0b6b668e5,ntu-cs-ie,鄭卜壬,Pu-Jen Cheng,9371e0647ec744d3@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-chengpujen-ead86da3e9,ntu-cs-ie-pjcheng-d0b6b668e5,ntu-ds,鄭卜壬,"Cheng, Pu-Jen",,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-plin-79c1b50742,ntu-cs-ie-plin-79c1b50742,ntu-cs-ie,林風,Phone Lin,383cf4d928115dfc@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-rfchang-4f18bf6937,ntu-cs-ie-rfchang-4f18bf6937,ntu-cs-ie,張瑞峰,Ruey-Feng Chang,e79f9cf6527f1473@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-sdlin-d4d6f26c5f,ntu-cs-ie-sdlin-d4d6f26c5f,ntu-cs-ie,林守德,Shou-De Lin,29a2083623a2f21f@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-linshoude-660534418a,ntu-cs-ie-sdlin-d4d6f26c5f,ntu-ds,林守德,"Lin, Shou-De",,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-shangenhuang-161fb441cf,ntu-cs-ie-shangenhuang-161fb441cf,ntu-cs-ie,黃上恩,Shang-En Huang,4efdeea733641c62@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-shangtsechen-68ade9cf16,ntu-cs-ie-shangtsechen-68ade9cf16,ntu-cs-ie,陳尚澤,Shang-Tse Chen,f50361de6e336527@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-chenshangtse-47653327f1,ntu-cs-ie-shangtsechen-68ade9cf16,ntu-ds,陳尚澤,"Chen, Shang-Tse",f50361de6e336527@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-shanyuanteng-a74b187adf,ntu-cs-ie-shanyuanteng-a74b187adf,ntu-cs-ie,鄧善元,Shan-Yuan Teng,2d051a0624c70627@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-shaoyuanlo-aef937e217,ntu-cs-ie-shaoyuanlo-aef937e217,ntu-cs-ie,羅紹元,Shao-Yuan Lo,8652ef1209c410d4@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-shengdewang-f22c6c99e2,ntu-cs-ie-shengdewang-f22c6c99e2,ntu-cs-ie,王勝德,Sheng-De Wang,59b6dbe11be33e23@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-shhung-41c464eeb6,ntu-cs-ie-shhung-41c464eeb6,ntu-cs-ie,洪士灝,Shih-Hao Hung,b6a920635c9ad6e6@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-hungshihhao-96d729e98f,ntu-cs-ie-shhung-41c464eeb6,ntu-ds,洪士灝,"Hung, Shih-Hao",,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-shihhsinwang-5c3f5f97c1,ntu-cs-ie-shihhsinwang-5c3f5f97c1,ntu-cs-ie,王士欣,Shih-Hsin Wang,9cb59a314c000af1@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-shihweili-fd4467548b,ntu-cs-ie-shihweili-fd4467548b,ntu-cs-ie,黎士瑋,Shih-Wei Li,f370bd7927d10b02@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-shihweiliao-e37c5cad8a,ntu-cs-ie-shihweiliao-e37c5cad8a,ntu-cs-ie,廖世偉,Shih-wei Liao,38056adad5ff1f1c@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-taiyihuang-35a9a87e4f,ntu-cs-ie-taiyihuang-35a9a87e4f,ntu-cs-ie,黃泰一,Tai-Yi Huang,ac87e862f2f33a90@redacted.invalid,2,2,ntu-cs-ie | nycu-cs,merged_multi_record,email_or_singleton
+nycu-cs-taiyihuang-b598f32bda,ntu-cs-ie-taiyihuang-35a9a87e4f,nycu-cs,黃泰一,Tai-Yi Huang,,2,2,ntu-cs-ie | nycu-cs,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-terrencechou-51f1a6db3d,ntu-cs-ie-terrencechou-51f1a6db3d,ntu-cs-ie,周存貹,Terrence Chou,a45e1e2e026cd7c6@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-tshsu-28e268a2d5,ntu-cs-ie-tshsu-28e268a2d5,ntu-cs-ie,徐讚昇,Tsan-Sheng Hsu,cbcbe625ca0ea53a@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-tsungweike-987483f265,ntu-cs-ie-tsungweike-987483f265,ntu-cs-ie,柯宗瑋,Tsung-Wei Ke,81d1887345ed8abf@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-twkuo-d3cfd9197c,ntu-cs-ie-twkuo-d3cfd9197c,ntu-cs-ie,郭大維,Tei-Wei Kuo,87e615c49f2a7815@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-wcchen-ce7e66d156,ntu-cs-ie-wcchen-ce7e66d156,ntu-cs-ie,陳文進,Wen-Chin Chen,62c7b616f3ea96e5@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-wchsu-26f450013c,ntu-cs-ie-wchsu-26f450013c,ntu-cs-ie,徐慰中,Wei-Chung Hsu,ab65868da68e06be@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-weichaochen-820145e009,ntu-cs-ie-weichaochen-820145e009,ntu-cs-ie,陳維超,Wei-Chao Chen,6a0d6e5f378f8222@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-wenhuangcheng-8221ffdc39,ntu-cs-ie-wenhuangcheng-8221ffdc39,ntu-cs-ie,鄭文皇,Wen-Huang Cheng,2f8beda439a602d0@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-chengwenhuang-7531301010,ntu-cs-ie-wenhuangcheng-8221ffdc39,ntu-ds,鄭文皇,"Cheng, Wen-Huang",2f8beda439a602d0@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-cs-ie-winstonhsu-206405b911,ntu-cs-ie-winstonhsu-206405b911,ntu-cs-ie,徐宏民,Winston H. Hsu,376fcae7a7d46312@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-wmyan-d6a9dcb9ff,ntu-cs-ie-wmyan-d6a9dcb9ff,ntu-cs-ie,顏文明,Wen-Ming Yan,87c72862d37e9d00@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-yaowenchang-e8bf92777c,ntu-cs-ie-yaowenchang-e8bf92777c,ntu-cs-ie,張耀文,Yao-Wen Chang,c02431ec97a32b37@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-changyaowen-7aab305c05,ntu-cs-ie-yaowenchang-e8bf92777c,ntu-ds,張耀文,"Chang, Yao-Wen",,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-ydlyuu-ca115abad3,ntu-cs-ie-ydlyuu-ca115abad3,ntu-cs-ie,呂育道,Yuh-Dauh Lyuu,b3659e9186e5b7b1@redacted.invalid,2,2,ntu-cs-ie | ntu-fin,merged_multi_record,email_or_singleton
+ntu-fin-呂育道-595ae04f68,ntu-cs-ie-ydlyuu-ca115abad3,ntu-fin,呂育道,Yun-Dauh Lyuu,b3659e9186e5b7b1@redacted.invalid,2,2,ntu-cs-ie | ntu-fin,merged_multi_record,email_or_singleton
+ntu-cs-ie-yenhuanli-d344991808,ntu-cs-ie-yenhuanli-d344991808,ntu-cs-ie,李彥寰,Yen-Huan Li,877f133ed1d9c177@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-yichiliao-7e93131d46,ntu-cs-ie-yichiliao-7e93131d46,ntu-cs-ie,廖以圻,Yi-Chi Liao,efb00b0d7b3e865a@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-yilwunho-ce633fffa2,ntu-cs-ie-yilwunho-ce633fffa2,ntu-cs-ie,何奕倫,YI-LWUN HO,05f9629d055c4e75@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-yipinghung-ed06deae8f,ntu-cs-ie-yipinghung-ed06deae8f,ntu-cs-ie,洪一平,Yi-Ping Hung,bf7ecef4a97adfda@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-yjhsu-ef1c81cb62,ntu-cs-ie-yjhsu-ef1c81cb62,ntu-cs-ie,許永真,Jane Yung-Jen Hsu,f50d5df410847dad@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-yjoyang-fee45b2738,ntu-cs-ie-yjoyang-fee45b2738,ntu-cs-ie,歐陽彥正,Yen-Jen Oyang,ba4a2b10e37f15de@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-yjtseng-dc282d14ca,ntu-cs-ie-yjtseng-dc282d14ca,ntu-cs-ie,曾宇鳳,Yufeng Jane Tseng,2d772dd4ee5a2471@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-yuanhaochang-84d776f267,ntu-cs-ie-yuanhaochang-84d776f267,ntu-cs-ie,張原豪,Yuan-Hao Chang,74de8592482c49b8@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-changyuanhao-1d8a41b51b,ntu-cs-ie-yuanhaochang-84d776f267,ntu-ds,張原豪,"Chang, Yuan-Hao",,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-yunnungchen-3195f50578,ntu-cs-ie-yunnungchen-3195f50578,ntu-cs-ie,陳縕儂,Yun-Nung Chen,354551f31126fea2@redacted.invalid,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,email_or_singleton
+ntu-ds-chenyunnung-e290620faf,ntu-cs-ie-yunnungchen-3195f50578,ntu-ds,陳縕儂,"Chen, Yun-Nung",,2,2,ntu-cs-ie | ntu-ds,merged_multi_record,merged_by_name_no_email
+ntu-cs-ie-yychuang-14a2c6366c,ntu-cs-ie-yychuang-14a2c6366c,ntu-cs-ie,莊永裕,Yung-Yu Chuang,826ba477a3339ac7@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-劉睦雄-ba3d0c924c,ntu-cs-ie-劉睦雄-ba3d0c924c,ntu-cs-ie,劉睦雄,Mu-Shiung Liu,,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-林一鵬-5c1481405f,ntu-cs-ie-林一鵬-5c1481405f,ntu-cs-ie,林一鵬,I-Peng Lin,7bc831931d8424a1@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-湯耀中-c089a7bc21,ntu-cs-ie-湯耀中-c089a7bc21,ntu-cs-ie,湯耀中,Gregory Y. Tang,,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-許舜欽-908ebaaeaa,ntu-cs-ie-許舜欽-908ebaaeaa,ntu-cs-ie,許舜欽,Shun-Chin Hsu,fb6b9ca946c3741a@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-陳俊良-323382e455,ntu-cs-ie-陳俊良-323382e455,ntu-cs-ie,陳俊良,Chuen-Liang Chen,72cbdad5ef1525a0@redacted.invalid,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-cs-ie-高成炎-438b507e91,ntu-cs-ie-高成炎-438b507e91,ntu-cs-ie,高成炎,Cheng-Yan Kao,,1,1,ntu-cs-ie,unique,email_or_singleton
+ntu-ds-changronaldy-a78313ae63,ntu-ds-changronaldy-a78313ae63,ntu-ds,張佑榕,"Chang, Ronald Y.",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chenghsiangyun-dd0d28d44a,ntu-ds-chenghsiangyun-dd0d28d44a,ntu-ds,鄭湘筠,"Cheng, Hsiang-Yun",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chenjuncheng-090ef61af5,ntu-ds-chenjuncheng-090ef61af5,ntu-ds,陳駿丞,"Chen, Jun-Cheng",dc8c23cca5abcbdf@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chenlingjyh-5fa406eb09,ntu-ds-chenlingjyh-5fa406eb09,ntu-ds,陳伶志,"Chen, Ling-Jyh",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chenyufang-70dded9973,ntu-ds-chenyufang-70dded9973,ntu-ds,陳郁方,"Chen, Yu-Fang",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chienmingchi-7c50de2827,ntu-ds-chienmingchi-7c50de2827,ntu-ds,紀建名,Chien-Ming Chi,95dab6530f4068fa@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chintsangchiang-1f13653719,ntu-ds-chintsangchiang-1f13653719,ntu-ds,江金倉,Chin-Tsang Chiang,6e68a7ed5725911e@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chunhaoyang-8f0203e6f5,ntu-ds-chunhaoyang-8f0203e6f5,ntu-ds,楊鈞澔,Chun-Hao Yang,,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chunhouhchen-0af0210f26,ntu-ds-chunhouhchen-0af0210f26,ntu-ds,陳君厚,Chun-Houh Chen,97acaeb21924d1e5@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-chunhsiunghsia-1536b23bc4,ntu-ds-chunhsiunghsia-1536b23bc4,ntu-ds,夏俊雄,Chun-Hsiung Hsia,,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-frederickkinhingphoa-95c5a56acb,ntu-ds-frederickkinhingphoa-95c5a56acb,ntu-ds,潘建興,Frederick Kin Hing Phoa,67ac94093c4e8a51@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-gaspardbernard-b86127ba99,ntu-ds-gaspardbernard-b86127ba99,ntu-ds,柏嘉偲,Gaspard Bernard,dbbbccaac7ade37c@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-hsinwenchang-2ac5eaf140,ntu-ds-hsinwenchang-2ac5eaf140,ntu-ds,張馨文,Hsin-Wen Chang,158d50de81d0a32e@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-hsiupicheng-b36d32ffcb,ntu-ds-hsiupicheng-b36d32ffcb,ntu-ds,修丕承,"Hsiu, Pi-Cheng",a8978d8e2d56c889@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-huanghenhsen-b5b46283ba,ntu-ds-huanghenhsen-b5b46283ba,ntu-ds,黃瀚萱,"Huang, Hen-Hsen",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-huangyennun-474cb98b48,ntu-ds-huangyennun-474cb98b48,ntu-ds,黃彥男,"Huang, Yen-Nun",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-ikunchen-568f578c62,ntu-ds-ikunchen-568f578c62,ntu-ds,陳逸昆,I-Kun Chen,9785e010a09218a8@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-jengdawyu-e116138060,ntu-ds-jengdawyu-e116138060,ntu-ds,余正道,Jeng-Daw Yu,9dd1161347bd7226@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-jennnanwang-96b57e19a5,ntu-ds-jennnanwang-96b57e19a5,ntu-ds,王振男,Jenn-Nan Wang,,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-jhihhuangli-e48c60a9c2,ntu-ds-jhihhuangli-e48c60a9c2,ntu-ds,李志煌,Jhih-Huang Li,8626047951afc90d@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-jiangirishuiru-ab283ad3ea,ntu-ds-jiangirishuiru-ab283ad3ea,ntu-ds,江蕙如,"Jiang, Iris Hui-Ru",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-jiangjiehongroland-e6ba2046e1,ntu-ds-jiangjiehongroland-e6ba2046e1,ntu-ds,江介宏,"Jiang, Jie-Hong Roland",902f8491f8608ca7@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-kulunwei-57dc39df53,ntu-ds-kulunwei-57dc39df53,ntu-ds,古倫維,"Ku, Lun-Wei",9d97763ef7e2cfe0@redacted.invalid,2,2,ntu-ds | nycu-cs,merged_multi_record,email_or_singleton
+nycu-cs-lunweiku-1d74e592a7,ntu-ds-kulunwei-57dc39df53,nycu-cs,古倫維,Lun-Wei Ku,,2,2,ntu-ds | nycu-cs,merged_multi_record,merged_by_name_no_email
+ntu-ds-leeyuhjye-a5b58ea312,ntu-ds-leeyuhjye-a5b58ea312,ntu-ds,李育杰,"Lee, Yuh-Jye",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-lienyunhsuan-dd216d994b,ntu-ds-lienyunhsuan-dd216d994b,ntu-ds,連云暄,"Lien, Yun-Hsuan",2ab1408f1bb78789@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-linjenchun-7e473e6695,ntu-ds-linjenchun-7e473e6695,ntu-ds,林仁俊,"Lin, Jen-Chun",602aa1a0244b75ad@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-lintseyu-77ed214690,ntu-ds-lintseyu-77ed214690,ntu-ds,林澤佑,"Lin, Tse-Yu",ba783c73bc9fc358@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-maopeitsui-a962c4a38f,ntu-ds-maopeitsui-a962c4a38f,ntu-ds,崔茂培,Mao-Pei Tsui,,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-maweiyun-d303532c6d,ntu-ds-maweiyun-d303532c6d,ntu-ds,馬偉雲,"Ma, Wei-Yun",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-mingyuehhuang-e0d8d52531,ntu-ds-mingyuehhuang-e0d8d52531,ntu-ds,黃名鉞,Ming-Yueh Huang,74bef6fe8cf8805e@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-taichialin-2475a3552a,ntu-ds-taichialin-2475a3552a,ntu-ds,林太家,Tai-Chia Lin,,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-tinglichen-27e41ae34a,ntu-ds-tinglichen-27e41ae34a,ntu-ds,陳定立,Ting-Li Chen,,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-tsaoyu-b589dcdd49,ntu-ds-tsaoyu-b589dcdd49,ntu-ds,曹昱,"Tsao, Yu",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-tsojungyen-ab6f30a1f1,ntu-ds-tsojungyen-ab6f30a1f1,ntu-ds,顏佐榕,Tso-Jung Yen,,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-waikitlam-60857c51d4,ntu-ds-waikitlam-60857c51d4,ntu-ds,林偉傑,Wai-Kit Lam,027d042caf6facb1@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-wangchienyao-f1c3a0bfd6,ntu-ds-wangchienyao-f1c3a0bfd6,ntu-ds,王建堯,"Wang, Chien Yao",4689943d037b490a@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-wangchihyu-3933d444d6,ntu-ds-wangchihyu-3933d444d6,ntu-ds,王志宇,"Wang, Chih-Yu",d41e78b02413dd9e@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-wangchuanju-ba03252081,ntu-ds-wangchuanju-ba03252081,ntu-ds,王釧茹,"Wang, Chuan-Ju",b728cbfb81e09f1e@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-wangyute-7f585252dd,ntu-ds-wangyute-7f585252dd,ntu-ds,王有德,"Wang, Yu Te",32b3748fc7aeb458@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-weichungwang-46d1252dcf,ntu-ds-weichungwang-46d1252dcf,ntu-ds,王偉仲,Wei-Chung Wang,4f0315d4ee3482f2@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-wutirong-522ceb7891,ntu-ds-wutirong-522ceb7891,ntu-ds,吳廸融,"Wu, Ti-Rong",d2a086973279965f@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-wutzonglin-57f531b3cc,ntu-ds-wutzonglin-57f531b3cc,ntu-ds,吳宗霖,"Wu, Tzong-Lin",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-yangdenian-e6edbc63e2,ntu-ds-yangdenian-e6edbc63e2,ntu-ds,楊得年,"Yang, De-Nian",,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-yapinghsieh-d16fa3e4c8,ntu-ds-yapinghsieh-d16fa3e4c8,ntu-ds,謝亞平,Ya-Ping Hsieh,10fd3824aac24c49@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-yehmiyen-560d12ebe9,ntu-ds-yehmiyen-560d12ebe9,ntu-ds,葉彌妍,"Yeh, Mi-Yen",ab6302e66f7c8c47@redacted.invalid,1,1,ntu-ds,unique,email_or_singleton
+ntu-ds-yentsunghuang-f1bca29996,ntu-ds-yentsunghuang-f1bca29996,ntu-ds,黃彥棕,Yen-Tsung Huang,,1,1,ntu-ds,unique,email_or_singleton
+ntu-econ-joonkyohong-abba80fbe9,ntu-econ-joonkyohong-abba80fbe9,ntu-econ,Joonkyo Hong,Joonkyo Hong,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-junrokpark-d50100b56e,ntu-econ-junrokpark-d50100b56e,ntu-econ,Junrok Park,Junrok Park,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-minchunghsu-e5268d9c19,ntu-econ-minchunghsu-e5268d9c19,ntu-econ,Minchung Hsu,Minchung Hsu,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-shinyichou-46d12d7782,ntu-econ-shinyichou-46d12d7782,ntu-econ,Shin-Yi Chou,Shin-Yi Chou,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-sungminpark-469370a4d3,ntu-econ-sungminpark-469370a4d3,ntu-econ,Sungmin Park,Sungmin Park,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-toshiakikomatsu-2c1f940cc4,ntu-econ-toshiakikomatsu-2c1f940cc4,ntu-econ,Toshiaki Komatsu,Toshiaki Komatsu,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-wuchungshu-c466fdfb12,ntu-econ-wuchungshu-c466fdfb12,ntu-econ,"Wu, Chung-Shu","Wu, Chung-Shu",,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-何泰寬-3f8b4902cb,ntu-econ-何泰寬-3f8b4902cb,ntu-econ,何泰寬,Tai-kuang Ho,4503fc9c78e764e3@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-劉育辰-40b649c520,ntu-econ-劉育辰-40b649c520,ntu-econ,劉育辰,Yu-Chen Liu,740f0510f6467c84@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-吳儀玲-9ff31e9638,ntu-econ-吳儀玲-9ff31e9638,ntu-econ,吳儀玲,YiLin Wu,e2f74bc76538b958@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-和田健司-cd35fc2b2a,ntu-econ-和田健司-cd35fc2b2a,ntu-econ,和田健司,Kenji Wada,e304ac97f68dc98d@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-小松利明-e63776cdd7,ntu-econ-小松利明-e63776cdd7,ntu-econ,小松利明,,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-廖珮如-cff0efe03d,ntu-econ-廖珮如-cff0efe03d,ntu-econ,廖珮如,Pei-Ju Liao,c81c198ccea317c4@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-張勝凱-af91a80773,ntu-econ-張勝凱-af91a80773,ntu-econ,張勝凱,Sheng-Kai Chang,5516370ac1ba3f60@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-朱玉琦-f9c58241bc,ntu-econ-朱玉琦-f9c58241bc,ntu-econ,朱玉琦,Yu-Chi Chu,c747a142337d2e6e@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-朴埻錄-9cec86c47b,ntu-econ-朴埻錄-9cec86c47b,ntu-econ,朴埻錄,,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-朴聖民-100e67fe5b,ntu-econ-朴聖民-100e67fe5b,ntu-econ,朴聖民,,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-李佳穗-80343e797f,ntu-econ-李佳穗-80343e797f,ntu-econ,李佳穗,Chia-Sui Lee,ba93c75ae75e1a1b@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-李宗穎-b1fed3d112,ntu-econ-李宗穎-b1fed3d112,ntu-econ,李宗穎,Chung-Ying Lee,455d0ac8ff021fdb@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-李怡庭-876e01e588,ntu-econ-李怡庭-876e01e588,ntu-econ,李怡庭,Yiting Li,61190f871bd7ac99@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-林明仁-3459b553e9,ntu-econ-林明仁-3459b553e9,ntu-econ,林明仁,Ming-Jen Lin,699c4eeaf613b293@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-梁卓誠-81139af4f8,ntu-econ-梁卓誠-81139af4f8,ntu-econ,梁卓誠,Cheuk Shing Leung,abc24928c136ef7f@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-楊睿中-6c2f0e88ae,ntu-econ-楊睿中-6c2f0e88ae,ntu-econ,楊睿中,Jui-Chung Yang,83207fb7800546dd@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-樊家忠-0d4e667fb7,ntu-econ-樊家忠-0d4e667fb7,ntu-econ,樊家忠,Elliott Fan,f3da9a19ed13680e@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-江淳芳-727bf49f84,ntu-econ-江淳芳-727bf49f84,ntu-econ,江淳芳,Chun-Fang Chiang,c71f518d62027d56@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-洪俊教-348bf31cd5,ntu-econ-洪俊教-348bf31cd5,ntu-econ,洪俊教,,,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-王建強-992a85075e,ntu-econ-王建強-992a85075e,ntu-econ,王建強,Chien-Chiang Wang,5617ab5f0b39c7ec@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-王泓仁-6e89dae82f,ntu-econ-王泓仁-6e89dae82f,ntu-econ,王泓仁,Hung-Jen Wang,ceeda3910cd79807@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-王道一-6484b93714,ntu-econ-王道一-6484b93714,ntu-econ,王道一,Joseph Tao-yi Wang,009ced1c708923ff@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-羅珮瑜-24610cd413,ntu-econ-羅珮瑜-24610cd413,ntu-econ,羅珮瑜,Pei-Yu Lo,ef44596665fed44e@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-蔡宜展-c83bdc5cdc,ntu-econ-蔡宜展-c83bdc5cdc,ntu-econ,蔡宜展,Yi-Chan Tsai,a789a0d684f7164f@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-蔡崇聖-b5b6a97658,ntu-econ-蔡崇聖-b5b6a97658,ntu-econ,蔡崇聖,Tsung-Sheng Tsai,1a82407ca4cfae84@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-蘇軒立-87d57366a0,ntu-econ-蘇軒立-87d57366a0,ntu-econ,蘇軒立,Hsuan-Li Su,b9009e0f131cde0d@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-許軒銘-45dfd20a6e,ntu-econ-許軒銘-45dfd20a6e,ntu-econ,許軒銘,Shanon Hsuan-Ming Hsu,0efcb22fdddd165b@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-謝志昇-c7296b64a4,ntu-econ-謝志昇-c7296b64a4,ntu-econ,謝志昇,Chih-Sheng Hsieh,15ee551b282011c6@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-賴建宇-2ecdf98d19,ntu-econ-賴建宇-2ecdf98d19,ntu-econ,賴建宇,Chien-Yu Lai,3be2556445ded2fd@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-郭漢豪-7977d0a5be,ntu-econ-郭漢豪-7977d0a5be,ntu-econ,郭漢豪,Kwok Hon Ho,16378dfcb6bf1c7d@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-陳儀-b6cd95972c,ntu-econ-陳儀-b6cd95972c,ntu-econ,陳儀,Josie I Chen,521e535dd3599e79@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-陳冠銘-e3634202cf,ntu-econ-陳冠銘-e3634202cf,ntu-econ,陳冠銘,Kuan-Ming Chen,b04b8775161b1d62@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-陳南光-8b0f367291,ntu-econ-陳南光-8b0f367291,ntu-econ,陳南光,Nan-Kuang Chen,4a22a2989265df65@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-陳慶池-440d91818f,ntu-econ-陳慶池-440d91818f,ntu-econ,陳慶池,Hing Chi Jimmy Chan,387b8fa5a69c5194@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-陳旭昇-a9164bcf1e,ntu-econ-陳旭昇-a9164bcf1e,ntu-econ,陳旭昇,Shiu-Sheng Chen,6f1b9152b3349826@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-陳由常-b2ab5a0144,ntu-econ-陳由常-b2ab5a0144,ntu-econ,陳由常,Yu-Chang Chen,5b04e521cfd277a9@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-陳虹如-4ec44ed550,ntu-econ-陳虹如-4ec44ed550,ntu-econ,陳虹如,Hung-Ju Chen,aad1524a3e9a7de5@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-馮勃翰-3891fb6c24,ntu-econ-馮勃翰-3891fb6c24,ntu-econ,馮勃翰,Po Han Fong,78aa10f78a226ac8@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-駱明慶-49f94e80de,ntu-econ-駱明慶-49f94e80de,ntu-econ,駱明慶,Ming-Ching Luoh,2de501094f473a06@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-高恩琵-a49ecd70d7,ntu-econ-高恩琵-a49ecd70d7,ntu-econ,高恩琵,Ko Eunbi,6d71056fd89699d4@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-黃景沂-8fe2cfab0f,ntu-econ-黃景沂-8fe2cfab0f,ntu-econ,黃景沂,Ching-I Huang,22660da7eab9062e@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-econ-黃貞穎-f613aff21b,ntu-econ-黃貞穎-f613aff21b,ntu-econ,黃貞穎,Chen-Ying Huang,131c71fafa3c9c88@redacted.invalid,1,1,ntu-econ,unique,email_or_singleton
+ntu-fin-何耕宇-d2b3346e2a,ntu-fin-何耕宇-d2b3346e2a,ntu-fin,何耕宇,Keng-Yu Ho,00cf7e2608f13c12@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-劉博瑀-e3648c529a,ntu-fin-劉博瑀-e3648c529a,ntu-fin,劉博瑀,Po-Yu Liu,f0644159b8031fa2@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-劉憶如-f5ed4b5378,ntu-fin-劉憶如-f5ed4b5378,ntu-fin,劉憶如,Liu Christina Y.,d5449ea9fc77b23c@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-吳俊吉-e4ba018742,ntu-fin-吳俊吉-e4ba018742,ntu-fin,吳俊吉,Chun-Chi Wu,a90d8236980e18e2@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-吳瑞萱-1b792bb68d,ntu-fin-吳瑞萱-1b792bb68d,ntu-fin,吳瑞萱,Ruei-Shian Wu,6a8bfdf2a623557c@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-姜堯民-f95a106036,ntu-fin-姜堯民-f95a106036,ntu-fin,姜堯民,Yao-Min Chiang,e6c208bd56213c51@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-廖咸興-3f10a438b5,ntu-fin-廖咸興-3f10a438b5,ntu-fin,廖咸興,Hsien-Hsing Liao,2f37fd768664fedc@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-張晏誠-e89d9c3220,ntu-fin-張晏誠-e89d9c3220,ntu-fin,張晏誠,Yen-Cheng Chang,f11363469c05aa21@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-張景宏-44af4653d2,ntu-fin-張景宏-44af4653d2,ntu-fin,張景宏,Ching-Hung Chang,eb9b9fdb5becbdcd@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-張森林-1b507984fb,ntu-fin-張森林-1b507984fb,ntu-fin,張森林,San-Lin Chung,5aab993adcc307d4@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-曾郁仁-f6b4b8a7f0,ntu-fin-曾郁仁-f6b4b8a7f0,ntu-fin,曾郁仁,Larry Y. Tzeng,c426b00ea4287cfd@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-朱漢寶-ca16c2b7d1,ntu-fin-朱漢寶-ca16c2b7d1,ntu-fin,朱漢寶,Chu Herbert,09821b380e189673@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-李賢源-f154346550,ntu-fin-李賢源-f154346550,ntu-fin,李賢源,Shyan-Yuan Lee,860d8509ef87e4fd@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-林姿婷-fdcec17cd0,ntu-fin-林姿婷-fdcec17cd0,ntu-fin,林姿婷,Tzu-Ting Lin,e8db341bf1a0be9e@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-林岳祥-60b88640bb,ntu-fin-林岳祥-60b88640bb,ntu-fin,林岳祥,Yueh-Hsiang Lin,80f6bced0fca020f@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-林煜宗-79183f0b25,ntu-fin-林煜宗-79183f0b25,ntu-fin,林煜宗,Yu-Tsung Lin,,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-林軒馳-f0dadcf7f0,ntu-fin-林軒馳-f0dadcf7f0,ntu-fin,林軒馳,Hsuan-Chih Lin,4945bc25b45daa81@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-楊文斌-11f5aba456,ntu-fin-楊文斌-11f5aba456,ntu-fin,楊文斌,Wen-Bin Yang,87005a2a06ead536@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-池祥麟-0a614738b2,ntu-fin-池祥麟-0a614738b2,ntu-fin,池祥麟,Hsiang-Lin Chih,2c0bd0cb9157a50f@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-洪志清-04c9cc50a7,ntu-fin-洪志清-04c9cc50a7,ntu-fin,洪志清,Chih-Ching Hung,ae937e25df8f2ae5@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-王衍智-97f457b74b,ntu-fin-王衍智-97f457b74b,ntu-fin,王衍智,Yan-Zhi Wang,db1a13a849bd36f5@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-石百達-b922fdf1bd,ntu-fin-石百達-b922fdf1bd,ntu-fin,石百達,Pai-Ta Shih,fcc013ea2c95cf97@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-管中閔-7ca9563996,ntu-fin-管中閔-7ca9563996,ntu-fin,管中閔,Chung-Ming Kuan,5f124232aa4d4bd7@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-繆維中-d4d23a85c3,ntu-fin-繆維中-d4d23a85c3,ntu-fin,繆維中,Miao Wei-Chung,82d02a380b92d195@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-胡星陽-4994e4eee9,ntu-fin-胡星陽-4994e4eee9,ntu-fin,胡星陽,Shing-Yang Hu,86122f58880df1bc@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-莊文議-571404c55b,ntu-fin-莊文議-571404c55b,ntu-fin,莊文議,Wen-I Chuang,a8985e123f7ca490@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-蔡易達-f68700fe00,ntu-fin-蔡易達-f68700fe00,ntu-fin,蔡易達,Yi-Da Tsai,111982e3c2084cb8@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-蕭忠仁-55bf27feb6,ntu-fin-蕭忠仁-55bf27feb6,ntu-fin,蕭忠仁,Chung-Jen Hsiao,7ce1f134d58a90d1@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-蕭湛東-be0195ff06,ntu-fin-蕭湛東-be0195ff06,ntu-fin,蕭湛東,Lawrence Hsiao,e2a011c9434198d0@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-謝文銓-e016f9fcb3,ntu-fin-謝文銓-e016f9fcb3,ntu-fin,謝文銓,Edwin C. Shieh,4a9546e8cc06c3c4@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-賴淑青-e9105e48ac,ntu-fin-賴淑青-e9105e48ac,ntu-fin,賴淑青,Sandy Lai,7b6596922fbd5458@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-邱顯比-9fc73b83ef,ntu-fin-邱顯比-9fc73b83ef,ntu-fin,邱顯比,Shean-Bii Chiu,61d4528b7c25a617@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-陳俊元-de9f4c155c,ntu-fin-陳俊元-de9f4c155c,ntu-fin,陳俊元,CHUN YUAN CHEN,e0a2377d1555e731@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-陳嫦芬-2743e6d9ef,ntu-fin-陳嫦芬-2743e6d9ef,ntu-fin,陳嫦芬,Chang-Fen Chen,942dede2cce90dbf@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-陳宜廷-dc86876d95,ntu-fin-陳宜廷-dc86876d95,ntu-fin,陳宜廷,Yi-Ting Chen,29966375070a3a51@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-陳彥行-8829488460,ntu-fin-陳彥行-8829488460,ntu-fin,陳彥行,Yan-Shing Chen,5981c253f7081a87@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-陳明賢-3e54e36dc3,ntu-fin-陳明賢-3e54e36dc3,ntu-fin,陳明賢,Ming-Shen Chen,8cdba55f616b7b4d@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-陳業寧-736c019d65,ntu-fin-陳業寧-736c019d65,ntu-fin,陳業寧,Yehning Chen,13e8c63eb55e9229@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-陳聖賢-7059d0af03,ntu-fin-陳聖賢-7059d0af03,ntu-fin,陳聖賢,Sheng-Syan Chen,1a83ce0ef4e1e7fd@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-顏廣杰-074de26dd3,ntu-fin-顏廣杰-074de26dd3,ntu-fin,顏廣杰,Kuang-Chieh Yen,ec84d1cd230ff03f@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-fin-魏國強-24ad631d3e,ntu-fin-魏國強-24ad631d3e,ntu-fin,魏國強,K.C. Wei,28971b00b3572574@redacted.invalid,1,1,ntu-fin,unique,email_or_singleton
+ntu-im-何承遠-cf78426b61,ntu-im-何承遠-cf78426b61,ntu-im,何承遠,Cheng-Yuan Ho,9e428fd8a82db369@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-劉若慧-6dfb552dd3,ntu-im-劉若慧-6dfb552dd3,ntu-im,劉若慧,Olivia Liu Sheng,06290213ad282b37@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-吳玲玲-b1cc11729b,ntu-im-吳玲玲-b1cc11729b,ntu-im,吳玲玲,Ling-Ling Wu,8c600e331afb1f90@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-孔令傑-e559d7c758,ntu-im-孔令傑-e559d7c758,ntu-im,孔令傑,Ling-Chieh Kung,80b08e2e086c3478@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-孫雅麗-3feed1b304,ntu-im-孫雅麗-3feed1b304,ntu-im,孫雅麗,Yeali Sun,0df40f3a9f57c3ca@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-彭志宏-82251610cf,ntu-im-彭志宏-82251610cf,ntu-im,彭志宏,Chih-Hung PENG,b9de10181a1d64c5@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-曹承礎-c4150b76bf,ntu-im-曹承礎-c4150b76bf,ntu-im,曹承礎,Seng-Cho Chou,db005caa398c83a9@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-李根逸-da82e4a379,ntu-im-李根逸-da82e4a379,ntu-im,李根逸,Ken-Yi Lee,3eb86e980a89ffb1@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-李瑞庭-aa45881e08,ntu-im-李瑞庭-aa45881e08,ntu-im,李瑞庭,J. T. Lee,919f7562bebbbc5f@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-林永松-dc984527a6,ntu-im-林永松-dc984527a6,ntu-im,林永松,Yeong-Sung Lin,6441eb71a16fdcd4@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-楊立偉-002d946f70,ntu-im-楊立偉-002d946f70,ntu-im,楊立偉,Willie Li-wei Yang,10d5cc720ae58933@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-王春笙-478b704144,ntu-im-王春笙-478b704144,ntu-im,王春笙,Chun-Sheng Wang,81490cc47ab9688d@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-畢南怡-4db729714a,ntu-im-畢南怡-4db729714a,ntu-im,畢南怡,Nanyi Bi,88bf741435adaae7@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-盧信銘-ac737946aa,ntu-im-盧信銘-ac737946aa,ntu-im,盧信銘,Hsin-Min Lu,fd07a9a7953728d1@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-穆信成-cf38907306,ntu-im-穆信成-cf38907306,ntu-im,穆信成,Shin-Cheng Mu,3717f4b7310758fe@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-翁崇雄-a45a797db7,ntu-im-翁崇雄-a45a797db7,ntu-im,翁崇雄,Chorng-Shyong Ong,efaa4770c240a60d@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-莊裕澤-6aba42587c,ntu-im-莊裕澤-6aba42587c,ntu-im,莊裕澤,Yuh-Jzer Joung,983c6c7d1462e644@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-蔡益坤-b2ae2b2f7c,ntu-im-蔡益坤-b2ae2b2f7c,ntu-im,蔡益坤,Yih-Kuen Tsay,77918bce5c258235@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-蕭邱漢-887e21f502,ntu-im-蕭邱漢-887e21f502,ntu-im,蕭邱漢,Chiu-Han Hsiao,8c5adcfc1fbf1390@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-謝冠雄-602620e1cd,ntu-im-謝冠雄-602620e1cd,ntu-im,謝冠雄,K. Hsieh,a4d7913f746ca3db@redacted.invalid | ae93253aa98699de@redacted.invalid | ae93253aa98699de@redacted.invalid; a4d7913f746ca3db@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-陳仲儼-e8851126e5,ntu-im-陳仲儼-e8851126e5,ntu-im,陳仲儼,Jung-Yan Chen,affe83020e2e2b76@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-陳建錦-02f4784706,ntu-im-陳建錦-02f4784706,ntu-im,陳建錦,Chien Chin Chen,984f17ec6b8d6ee9@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-陳文賢-0756ac0f09,ntu-im-陳文賢-0756ac0f09,ntu-im,陳文賢,Wen-Hsien Chen,b907286df59817bf@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-陳炘鈞-a14cb18eab,ntu-im-陳炘鈞-a14cb18eab,ntu-im,陳炘鈞,Hsin-Chun Chen,1ca1de089ee9301a@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-陳靜枝-eab2ccfdb6,ntu-im-陳靜枝-eab2ccfdb6,ntu-im,陳靜枝,Ching-Chin Chern,646d8613083c5455@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-魏志平-1e1877736d,ntu-im-魏志平-1e1877736d,ntu-im,魏志平,Chih-Ping Wei,6ae514149a4896e2@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-魏資文-17ab818dbe,ntu-im-魏資文-17ab818dbe,ntu-im,魏資文,Tzu-Wen Wei,ea2c979a2ab58488@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-黃意婷-dd1ec1a025,ntu-im-黃意婷-dd1ec1a025,ntu-im,黃意婷,Yi-Ting Huang,866749bb85f1de02@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+ntu-im-黃明蕙-69aee8c193,ntu-im-黃明蕙-69aee8c193,ntu-im,黃明蕙,Ming-Hui Huang,49e3cb0802ce5dad@redacted.invalid,1,1,ntu-im,unique,email_or_singleton
+nycu-cs-albertchen-b778265b06,nycu-cs-albertchen-b778265b06,nycu-cs,陳逸萍,Albert Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-anziyen-c5e4ec36a0,nycu-cs-anziyen-c5e4ec36a0,nycu-cs,顏安孜,An-Zi Yen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-baoshuhpaullin-f45b49177f,nycu-cs-baoshuhpaullin-f45b49177f,nycu-cs,林寶樹,Bao-Shuh Paul Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-changjiuchen-623e005323,nycu-cs-changjiuchen-623e005323,nycu-cs,陳昌居,Chang-Jiu Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chaokaichiang-014eb10d77,nycu-cs-chaokaichiang-014eb10d77,nycu-cs,蔣兆凱,Chao-Kai Chiang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chencheng-ff117c41c9,nycu-cs-chencheng-ff117c41c9,nycu-cs,陳正,Chen Cheng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chengchunglin-d77196b666,nycu-cs-chengchunglin-d77196b666,nycu-cs,林正中,Cheng-Chung Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chengkuanlin-542e57dc09,nycu-cs-chengkuanlin-542e57dc09,nycu-cs,林政寬,Cheng-Kuan Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chentingwen-e320a00ead,nycu-cs-chentingwen-e320a00ead,nycu-cs,陳亭妏,Chen Ting-Wen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chiahoanglee-c1b52dd580,nycu-cs-chiahoanglee-c1b52dd580,nycu-cs,李嘉晃,Chia-Hoang Lee,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chiamuyu-baf01c6c43,nycu-cs-chiamuyu-baf01c6c43,nycu-cs,游家牧,Chia-Mu Yu,,2,2,nycu-cs | nycu-info-mag-fin,merged_multi_record,merged_by_name_no_email
+nycu-info-mag-fin-游家牧-160b56ff8f,nycu-cs-chiamuyu-baf01c6c43,nycu-info-mag-fin,游家牧,Chia-Mu Yu,9fe6b83743158a15@redacted.invalid,2,2,nycu-cs | nycu-info-mag-fin,merged_multi_record,email_or_singleton
+nycu-cs-chienchaotseng-d8137d52bf,nycu-cs-chienchaotseng-d8137d52bf,nycu-cs,曾建超,Chien-Chao Tseng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chienchen-e28bfad248,nycu-cs-chienchen-e28bfad248,nycu-cs,陳健,Chien Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chihhaolu-b525adb032,nycu-cs-chihhaolu-b525adb032,nycu-cs,陸志豪,Chih-Hao Lu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chihweiyi-09071093fb,nycu-cs-chihweiyi-09071093fb,nycu-cs,易志偉,Chih-Wei Yi,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chingchunhuang-4300ad3a0d,nycu-cs-chingchunhuang-4300ad3a0d,nycu-cs,黃敬群,Ching-Chun Huang,,1,1,nycu-cs,name_collision_kept_separate,email_or_singleton
+nycu-cs-chintienwu-069642d994,nycu-cs-chintienwu-069642d994,nycu-cs,吳金典,Chin-Tien Wu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chiyuli-f64e0331c5,nycu-cs-chiyuli-f64e0331c5,nycu-cs,李奇育,CHI-YU LI,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chuentsaisun-1084a4d050,nycu-cs-chuentsaisun-1084a4d050,nycu-cs,孫春在,Chuen-Tsai Sun,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chulankao-a2f5f3a7bf,nycu-cs-chulankao-a2f5f3a7bf,nycu-cs,高竹嵐,Chu-Lan Kao,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chunfengwu-749fae2324,nycu-cs-chunfengwu-749fae2324,nycu-cs,吳俊峯,Chun-Feng Wu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chungpingchung-e03e9cf670,nycu-cs-chungpingchung-e03e9cf670,nycu-cs,鍾崇斌,Chung-Ping Chung,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chunifan-25975207ac,nycu-cs-chunifan-25975207ac,nycu-cs,范俊逸,Chun-I FAN,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chunjentsai-31585fceca,nycu-cs-chunjentsai-31585fceca,nycu-cs,蔡淳仁,Chun-Jen Tsai,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chunronghuang-e31844e5ff,nycu-cs-chunronghuang-e31844e5ff,nycu-cs,黃春融,Chun-Rong Huang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chunshuwei-bd7c6c6cbb,nycu-cs-chunshuwei-bd7c6c6cbb,nycu-cs,魏群樹,Chun-Shu Wei,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chunyinghuang-8274c3d2d8,nycu-cs-chunyinghuang-8274c3d2d8,nycu-cs,黃俊穎,Chun-Ying Huang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chunyulin-eb97e98272,nycu-cs-chunyulin-eb97e98272,nycu-cs,林峻宇,Chun-Yu Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-chyangoeichung-3589223c97,nycu-cs-chyangoeichung-3589223c97,nycu-cs,鍾乾癸,Chyan-Goei Chung,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-ciouyuanchen-19348dd8be,nycu-cs-ciouyuanchen-19348dd8be,nycu-cs,陳秋媛,CIOU-YUAN CHEN,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-davidhungchangdu-fbf57e0d1d,nycu-cs-davidhungchangdu-fbf57e0d1d,nycu-cs,杜宏章,David Hung-Chang Du,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-denniswang-ad355464b4,nycu-cs-denniswang-ad355464b4,nycu-cs,王邦任,Dennis Wang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-erichwang-1a33c22d77,nycu-cs-erichwang-1a33c22d77,nycu-cs,黃兆祺,Eric Hwang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-fandellin-355296aa1b,nycu-cs-fandellin-355296aa1b,nycu-cs,林寰鐸,Fandel Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-fengjianwang-d39029c5b2,nycu-cs-fengjianwang-d39029c5b2,nycu-cs,王豐堅,Feng-Jian Wang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-fuchunjosephlin-7280532ef5,nycu-cs-fuchunjosephlin-7280532ef5,nycu-cs,林甫俊,Fuchun Joseph Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-fuhauhsu-7d03be9742,nycu-cs-fuhauhsu-7d03be9742,nycu-cs,許富皓,Fu-Hau Hsu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-guanhuahuang-c739eb01e5,nycu-cs-guanhuahuang-c739eb01e5,nycu-cs,黃冠華,GUAN-HUA HUANG,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-harrywaihowong-b233b535e5,nycu-cs-harrywaihowong-b233b535e5,nycu-cs,王偉豪,Harry Wai Ho Wong,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-henryhorngshinglu-4a431c90e1,nycu-cs-henryhorngshinglu-4a431c90e1,nycu-cs,盧鴻興,Henry Horng-Shing Lu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-hsijianlee-6f6d369533,nycu-cs-hsijianlee-6f6d369533,nycu-cs,李錫堅,Hsi-Jian Lee,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-hsiluchao-8cc2ec929a,nycu-cs-hsiluchao-8cc2ec929a,nycu-cs,趙禧綠,Hsi-Lu Chao,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-hsinchiafu-9c15fb612b,nycu-cs-hsinchiafu-9c15fb612b,nycu-cs,傅心家,Hsin-Chia Fu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-hsiuyingwang-b0710cdb64,nycu-cs-hsiuyingwang-b0710cdb64,nycu-cs,王秀瑛,Hsiu-Ying Wang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-hsufenghsiao-a993ebeba6,nycu-cs-hsufenghsiao-a993ebeba6,nycu-cs,蕭旭峰,Hsu-Feng Hsiao,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-hueinianhong-bfb4677fda,nycu-cs-hueinianhong-bfb4677fda,nycu-cs,洪慧念,HUEI-NIAN HONG,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-ichenlin-6ba082f1de,nycu-cs-ichenlin-6ba082f1de,nycu-cs,林奕成,I-Chen Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-ichenwu-a745312e56,nycu-cs-ichenwu-a745312e56,nycu-cs,吳毅成,I-Chen Wu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-ihengmeng-d93e9ca59d,nycu-cs-ihengmeng-d93e9ca59d,nycu-cs,蒙以亨,I Heng Meng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jasonyibinglin-a81c69af89,nycu-cs-jasonyibinglin-a81c69af89,nycu-cs,林一平,Jason Yi-Bing Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jeanjyhjiunshann-a5cae0db34,nycu-cs-jeanjyhjiunshann-a5cae0db34,nycu-cs,單智君,Jean Jyh-Jiun Shann,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jenhuichuang-3cb2bcd4b1,nycu-cs-jenhuichuang-3cb2bcd4b1,nycu-cs,莊仁輝,Jen-Hui Chuang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jenqnenghwang-d231fe3af3,nycu-cs-jenqnenghwang-d231fe3af3,nycu-cs,黃正能,Jenq-Neng Hwang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jentzungchien-0e6e82e914,nycu-cs-jentzungchien-0e6e82e914,nycu-cs,簡仁宗,Jen-Tzung Chien,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jhihrongchen-063b4650df,nycu-cs-jhihrongchen-063b4650df,nycu-cs,陳志榮,JHIH-RONG CHEN,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jhihweichu-d3d361607f,nycu-cs-jhihweichu-d3d361607f,nycu-cs,朱智瑋,Jhih-Wei Chu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jimmyjmtan-32fa81395b,nycu-cs-jimmyjmtan-32fa81395b,nycu-cs,譚建民,Jimmy J.M. Tan,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jinnmoonyang-a565e89514,nycu-cs-jinnmoonyang-a565e89514,nycu-cs,楊進木,Jinn-Moon Yang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jiunlonghuang-a091703505,nycu-cs-jiunlonghuang-a091703505,nycu-cs,黃俊龍,Jiun-Long Huang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jongchuangtsay-8476cdaaab,nycu-cs-jongchuangtsay-8476cdaaab,nycu-cs,蔡中川,Jong-Chuang Tsay,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-juihunghung-00f0b25000,nycu-cs-juihunghung-00f0b25000,nycu-cs,洪瑞鴻,Jui-Hung Hung,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-junghongchuang-dc2cbcbefa,nycu-cs-junghongchuang-dc2cbcbefa,nycu-cs,莊榮宏,Jung-Hong Chuang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-jyhchengchen-3ea270c995,nycu-cs-jyhchengchen-3ea270c995,nycu-cs,陳志成,Jyh-Cheng Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-kaichiangwu-34f06ed7b9,nycu-cs-kaichiangwu-34f06ed7b9,nycu-cs,吳凱強,Kai-Chiang Wu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-kouyuanhuang-85a556603b,nycu-cs-kouyuanhuang-85a556603b,nycu-cs,黃國源,Kou-Yuan Huang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-kuanwenchen-78bcb4ae61,nycu-cs-kuanwenchen-78bcb4ae61,nycu-cs,陳冠文,Kuan-Wen Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-kuoanhwang-41f3d7be96,nycu-cs-kuoanhwang-41f3d7be96,nycu-cs,黃國安,Kuo-An Hwang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-kuochenwang-4c84cd426d,nycu-cs-kuochenwang-4c84cd426d,nycu-cs,王國禎,Kuo-Chen Wang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-kuohuiyeh-60e6731211,nycu-cs-kuohuiyeh-60e6731211,nycu-cs,葉國暉,Kuo-Hui Yeh,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-landavan-4c6441da0d,nycu-cs-landavan-4c6441da0d,nycu-cs,范倫達,Lan-Da Van,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-lihsingyen-ede27140ba,nycu-cs-lihsingyen-ede27140ba,nycu-cs,嚴力行,Li-Hsing Yen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-linghweichen-36cc189e4d,nycu-cs-linghweichen-36cc189e4d,nycu-cs,陳玲慧,Ling-Hwei Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-lipinchang-68fafb736a,nycu-cs-lipinchang-68fafb736a,nycu-cs,張立平,Li-Pin Chang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-liweichan-cb049f6bb6,nycu-cs-liweichan-cb049f6bb6,nycu-cs,詹力韋,Liwei Chan,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-lopangyunting-3b16a3f0bf,nycu-cs-lopangyunting-3b16a3f0bf,nycu-cs,丁羅邦芸,Lo Pang-Yun Ting,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-mariacyuang-0b248f4f96,nycu-cs-mariacyuang-0b248f4f96,nycu-cs,楊啟瑞,Maria C. Yuang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-markliao-3ab99628be,nycu-cs-markliao-3ab99628be,nycu-cs,廖弘源,Mark Liao,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-menghsuntsai-28ab46dd17,nycu-cs-menghsuntsai-28ab46dd17,nycu-cs,蔡孟勳,Meng-Hsun Tsai,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-mingfengchang-1f41c91886,nycu-cs-mingfengchang-1f41c91886,nycu-cs,張明峰,Ming-Feng Chang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-minzhengshieh-6add7d4ed1,nycu-cs-minzhengshieh-6add7d4ed1,nycu-cs,謝旻錚,Min-Zheng Shieh,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-mongjenkao-a4b0d44ba8,nycu-cs-mongjenkao-a4b0d44ba8,nycu-cs,高孟駿,Mong-Jen Kao,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-philipsyu-32aa417b88,nycu-cs-philipsyu-32aa417b88,nycu-cs,俞士綸,Philip S. Yu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-pingchunhsieh-65450d0a77,nycu-cs-pingchunhsieh-65450d0a77,nycu-cs,謝秉均,Ping-Chun Hsieh,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-pokaiyang-cf78685bcf,nycu-cs-pokaiyang-cf78685bcf,nycu-cs,楊博凱,Po-Kai Yang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-robertchsieh-bbf69924e6,nycu-cs-robertchsieh-bbf69924e6,nycu-cs,謝志鴻,Robert C. Hsieh,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-rongjayechen-92010fa6b3,nycu-cs-rongjayechen-92010fa6b3,nycu-cs,陳榮傑,Rong-Jaye Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-rueichuanchang-4b1a14c4a7,nycu-cs-rueichuanchang-4b1a14c4a7,nycu-cs,張瑞川,Ruei-Chuan Chang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-sachiosemmoto-ef8589eda2,nycu-cs-sachiosemmoto-ef8589eda2,nycu-cs,千本倖生,Sachio Semmoto,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-saikeungwong-f96a50c8c1,nycu-cs-saikeungwong-f96a50c8c1,nycu-cs,黃世強,Sai-Keung Wong,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shenghsuanlin-e373817af9,nycu-cs-shenghsuanlin-e373817af9,nycu-cs,林聖軒,Sheng-Hsuan Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shianshyongtseng-d3bd119f88,nycu-cs-shianshyongtseng-d3bd119f88,nycu-cs,曾憲雄,Shian-Shyong Tseng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shiaolitsao-d45150ec07,nycu-cs-shiaolitsao-d45150ec07,nycu-cs,曹孝櫟,Shiao-Li Tsao,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shiawshianyu-9f00080370,nycu-cs-shiawshianyu-9f00080370,nycu-cs,余孝先,Shiaw-Shian Yu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shichuntsai-2c8ef8afc5,nycu-cs-shichuntsai-2c8ef8afc5,nycu-cs,蔡錫鈞,Shi-Chun Tsai,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shieyuanwang-c0a10157f3,nycu-cs-shieyuanwang-c0a10157f3,nycu-cs,王協源,Shie-Yuan Wang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shihkunhuang-b8c345a5b6,nycu-cs-shihkunhuang-b8c345a5b6,nycu-cs,黃世昆,Shih-Kun Huang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shiuhpyngshieh-cfcd6bedd1,nycu-cs-shiuhpyngshieh-cfcd6bedd1,nycu-cs,謝續平,Shiuhpyng Shieh,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shumingchang-8beef72454,nycu-cs-shumingchang-8beef72454,nycu-cs,張書銘,Shu-Ming Chang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shuohanchen-e41f1e1a0b,nycu-cs-shuohanchen-e41f1e1a0b,nycu-cs,陳碩漢,Shuo-Han Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-shyanmingyuan-33e899b080,nycu-cs-shyanmingyuan-33e899b080,nycu-cs,袁賢銘,Shyan-Ming Yuan,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-suhyinlee-86023df5c6,nycu-cs-suhyinlee-86023df5c6,nycu-cs,李素瑛,Suh-Yin Lee,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-syho-4d3a7858ca,nycu-cs-syho-4d3a7858ca,nycu-cs,何信瑩,S.-Y. Ho,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-terngyinhsu-68366ba264,nycu-cs-terngyinhsu-68366ba264,nycu-cs,許騰尹,Terng-Yin Hsu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-teshenglin-f7015f5fff,nycu-cs-teshenglin-f7015f5fff,nycu-cs,林得勝,Te-Sheng Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-tienfuchen-4c448823c1,nycu-cs-tienfuchen-4c448823c1,nycu-cs,陳添福,Tien-Fu Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-tingjungchang-8694406b3f,nycu-cs-tingjungchang-8694406b3f,nycu-cs,張庭榕,Ting-Jung Chang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-tingluhuang-7bb71e262e,nycu-cs-tingluhuang-7bb71e262e,nycu-cs,黃廷祿,Ting-Lu Huang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-tsaipeiwang-5b213dba86,nycu-cs-tsaipeiwang-5b213dba86,nycu-cs,王才沛,Tsaipei Wang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-tsungtaiyeh-aed61de71c,nycu-cs-tsungtaiyeh-aed61de71c,nycu-cs,葉宗泰,Tsung-Tai Yeh,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-tyneliang-16f83307e0,nycu-cs-tyneliang-16f83307e0,nycu-cs,梁婷,Tyne Liang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-tzongyilee-a682aad84a,nycu-cs-tzongyilee-a682aad84a,nycu-cs,李宗夷,Tzong-Yi Lee,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-tzuchienhsiao-e2f1ea5656,nycu-cs-tzuchienhsiao-e2f1ea5656,nycu-cs,蕭子健,Tzu-Chien Hsiao,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-vincentstseng-9a223c9f3f,nycu-cs-vincentstseng-9a223c9f3f,nycu-cs,曾新穆,Vincent S. Tseng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-weichenchiu-3caf4c9228,nycu-cs-weichenchiu-3caf4c9228,nycu-cs,邱維辰,Wei-Chen Chiu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-weichenglo-648b7cb736,nycu-cs-weichenglo-648b7cb736,nycu-cs,羅惟正,Wei-Cheng Lo,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-weichingwang-636e5be695,nycu-cs-weichingwang-636e5be695,nycu-cs,王維菁,Wei-Ching Wang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wenchiehlin-8b8d7a58a8,nycu-cs-wenchiehlin-8b8d7a58a8,nycu-cs,林文杰,Wen-Chieh Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wenchihpeng-e0f2cd052a,nycu-cs-wenchihpeng-e0f2cd052a,nycu-cs,彭文志,Wen-Chih Peng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wengueytzeng-322bddcb23,nycu-cs-wengueytzeng-322bddcb23,nycu-cs,曾文貴,Wen-Guey Tzeng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wenhsiangtsai-6d30bccf0e,nycu-cs-wenhsiangtsai-6d30bccf0e,nycu-cs,蔡文祥,Wen-Hsiang Tsai,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wenhsiaopeng-09b23b8ea5,nycu-cs-wenhsiaopeng-09b23b8ea5,nycu-cs,彭文孝,Wen-Hsiao Peng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wennungtsai-e203bf6296,nycu-cs-wennungtsai-e203bf6296,nycu-cs,蔡文能,Wen-Nung Tsai,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wenpinghwang-3ec6c9d6ca,nycu-cs-wenpinghwang-3ec6c9d6ca,nycu-cs,黃問泙,Wen-Ping Hwang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wjtsai-821adecac2,nycu-cs-wjtsai-821adecac2,nycu-cs,蔡文錦,W. J. Tsai,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-wuuyang-0962a60276,nycu-cs-wuuyang-0962a60276,nycu-cs,楊武,Wuu Yang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yawchungchen-fcbdbf6aa9,nycu-cs-yawchungchen-fcbdbf6aa9,nycu-cs,陳耀宗,Yaw-Chung Chen,,1,1,nycu-cs,manually_confirmed_different_person,manual_review
+nycu-cs-yenyulin-5a92a30687,nycu-cs-yenyulin-5a92a30687,nycu-cs,林彥宇,Yen-Yu Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yeongshinlin-cad7553a48,nycu-cs-yeongshinlin-cad7553a48,nycu-cs,林勇欣,Yeong-Shin Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yihlangli-b43ed401d1,nycu-cs-yihlangli-b43ed401d1,nycu-cs,李毅郎,Yih-Lang Li,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yijutseng-7702f61163,nycu-cs-yijutseng-7702f61163,nycu-cs,曾意儒,Yi-Ju Tseng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yingdarlin-507b4b80a7,nycu-cs-yingdarlin-507b4b80a7,nycu-cs,林盈達,Ying-Dar Lin,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yingpingchen-a268139c0e,nycu-cs-yingpingchen-a268139c0e,nycu-cs,陳穎平,Ying-Ping Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yipingyou-26eb6eb15e,nycu-cs-yipingyou-26eb6eb15e,nycu-cs,游逸平,Yi-Ping You,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yitingchen-c0ac044810,nycu-cs-yitingchen-c0ac044810,nycu-cs,陳奕廷,Yi-Ting Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yongshengchen-0447e10db7,nycu-cs-yongshengchen-0447e10db7,nycu-cs,陳永昇,Yong-Sheng Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yuangchehhsueh-31a965b1a3,nycu-cs-yuangchehhsueh-31a965b1a3,nycu-cs,薛元澤,Yuang-Cheh Hsueh,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yucheetseng-714071fcd3,nycu-cs-yucheetseng-714071fcd3,nycu-cs,曾煜棋,Yu-Chee Tseng,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yuchihchen-7ab9bc53da,nycu-cs-yuchihchen-7ab9bc53da,nycu-cs,陳昱芝,Yu-Chih Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yuchunyen-801e3b9f54,nycu-cs-yuchunyen-801e3b9f54,nycu-cs,顏羽君,Yu-Chun Yen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yuhjyhhu-4321b6e2c8,nycu-cs-yuhjyhhu-4321b6e2c8,nycu-cs,胡毓志,Yuh-Jyh Hu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yulinwei-c6e4aed5d0,nycu-cs-yulinwei-c6e4aed5d0,nycu-cs,魏佑霖,Yu-Lin Wei,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yulunliu-3663ddf7cc,nycu-cs-yulunliu-3663ddf7cc,nycu-cs,劉育綸,Yu-Lun Liu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yungjuchang-a04a034080,nycu-cs-yungjuchang-a04a034080,nycu-cs,張永儒,Yung-Ju Chang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yushuenwang-9e79dea00b,nycu-cs-yushuenwang-9e79dea00b,nycu-cs,王昱舜,Yu-Shuen Wang,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yusungwu-377df1bd69,nycu-cs-yusungwu-377df1bd69,nycu-cs,吳育松,Yu-Sung Wu,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-yutaiching-49dcd94e56,nycu-cs-yutaiching-49dcd94e56,nycu-cs,荊宇泰,Yu-Tai Ching,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-zenchen-ab4e753f4d,nycu-cs-zenchen-ab4e753f4d,nycu-cs,陳稔,Zen Chen,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-zenchungshih-17e118bf3c,nycu-cs-zenchungshih-17e118bf3c,nycu-cs,施仁忠,Zen-Chung Shih,,1,1,nycu-cs,unique,email_or_singleton
+nycu-cs-白培霖paipeilin-60cb86298c,nycu-cs-白培霖paipeilin-60cb86298c,nycu-cs,"白培霖 Pai, Pei-Lin","白培霖 Pai, Pei-Lin",,1,1,nycu-cs,unique,email_or_singleton
+nycu-info-mag-fin-劉宗聖-deef95a488,nycu-info-mag-fin-劉宗聖-deef95a488,nycu-info-mag-fin,劉宗聖,Tsung-Sheng Liu,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-吳偉臺-0572151c99,nycu-info-mag-fin-吳偉臺-0572151c99,nycu-info-mag-fin,吳偉臺,Richard Watanabe,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-徐熊健-9290fbce28,nycu-info-mag-fin-徐熊健-9290fbce28,nycu-info-mag-fin,徐熊健,Shyong Jian Shyu,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-戴天時-ba41515d9f,nycu-info-mag-fin-戴天時-ba41515d9f,nycu-info-mag-fin,戴天時,Tian-Shyr Dai,34c0f298006277ab@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-李正福-85865a27fe,nycu-info-mag-fin-李正福-85865a27fe,nycu-info-mag-fin,李正福,Cheng-Few Lee,ddb7ba7eac6a197f@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-李漢星-9c9e73434e,nycu-info-mag-fin-李漢星-9c9e73434e,nycu-info-mag-fin,李漢星,Han-Hsing Lee,4393a915df2f678a@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-林智勇-9f2fd3a531,nycu-info-mag-fin-林智勇-9f2fd3a531,nycu-info-mag-fin,林智勇,Chih-Yung Lin,1ab696bc7bc67e4a@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-林瑞嘉-9b5e92d792,nycu-info-mag-fin-林瑞嘉-9b5e92d792,nycu-info-mag-fin,林瑞嘉,Jui-Chia Lin,d64a4d24ef1567e4@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-林雲逸-5273e5d3ab,nycu-info-mag-fin-林雲逸-5273e5d3ab,nycu-info-mag-fin,林雲逸,Yun-Yi Lin,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-梁婉麗-9640195164,nycu-info-mag-fin-梁婉麗-9640195164,nycu-info-mag-fin,梁婉麗,Woan-lih Liang,aca44aea4bc3edf7@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-王國強-e09365b7b3,nycu-info-mag-fin-王國強-e09365b7b3,nycu-info-mag-fin,王國強,Kuo-Chiang Wang,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-王燈山-3927d837c1,nycu-info-mag-fin-王燈山-3927d837c1,nycu-info-mag-fin,王燈山,Ding-Shan Wang,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-葉銀華-cd82122651,nycu-info-mag-fin-葉銀華-cd82122651,nycu-info-mag-fin,葉銀華,Yin-Hua Yeh,ec236de5d9166b29@redacted.invalid | f92b55de95b1878b@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-蔡詩妤-e1db4b4746,nycu-info-mag-fin-蔡詩妤-e1db4b4746,nycu-info-mag-fin,蔡詩妤,Shih-Yu Tsai,2ed8bff808452289@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-謝文良-ec8ba7b6cf,nycu-info-mag-fin-謝文良-ec8ba7b6cf,nycu-info-mag-fin,謝文良,Wen-Liang Hsieh,f0cf1f13d5cada68@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-郭家豪-0efd529562,nycu-info-mag-fin-郭家豪-0efd529562,nycu-info-mag-fin,郭家豪,Jia-hau Guo,0fb5b6e1478edd62@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-鄧惠文-9b670d9d4e,nycu-info-mag-fin-鄧惠文-9b670d9d4e,nycu-info-mag-fin,鄧惠文,Huei-Wen Teng,ab885d29e90a4115@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-鄭仲傑-8c7481cca0,nycu-info-mag-fin-鄭仲傑-8c7481cca0,nycu-info-mag-fin,鄭仲傑,Chung-Chieh Cheng,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-鍾惠民-ae10d194fa,nycu-info-mag-fin-鍾惠民-ae10d194fa,nycu-info-mag-fin,鍾惠民,Huimin Chung,5523f69ef9330596@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-陳建榮-dae9b73834,nycu-info-mag-fin-陳建榮-dae9b73834,nycu-info-mag-fin,陳建榮,Jian-Rong Chen,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-陳玠甫-e90a086822,nycu-info-mag-fin-陳玠甫-e90a086822,nycu-info-mag-fin,陳玠甫,Jeff Chen,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-陳耀宗-5cb5b0b06f,nycu-info-mag-fin-陳耀宗-5cb5b0b06f,nycu-info-mag-fin,陳耀宗,Yao-Tsung Chen,7db936b3e5489c9d@redacted.invalid,1,1,nycu-info-mag-fin,manually_confirmed_different_person,manual_review
+nycu-info-mag-fin-魏寶生-fcdf98d036,nycu-info-mag-fin-魏寶生-fcdf98d036,nycu-info-mag-fin,魏寶生,Bao-Sheng Wei,,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-黃宜侯-dbc03aa22c,nycu-info-mag-fin-黃宜侯-dbc03aa22c,nycu-info-mag-fin,黃宜侯,Alex YiHou Huang,25b2c03d954d572e@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-黃思皓-2ee9d5c50c,nycu-info-mag-fin-黃思皓-2ee9d5c50c,nycu-info-mag-fin,黃思皓,Szu-Hao Huang,3fb6457cd344cf24@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton
+nycu-info-mag-fin-黃星華-06752d69a5,nycu-info-mag-fin-黃星華-06752d69a5,nycu-info-mag-fin,黃星華,Hsing-Hua Huang,e6259d64dbf60915@redacted.invalid,1,1,nycu-info-mag-fin,unique,email_or_singleton

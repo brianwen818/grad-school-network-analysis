@@ -1,0 +1,99 @@
+{
+  "unit": "nccu-mb",
+  "level": "school",
+  "school_ids": [
+    "nccu-mb"
+  ],
+  "deduplicated": false,
+  "lambda": 0.4,
+  "seed": 42,
+  "coverage": {
+    "n_records": 22,
+    "n_entities": 22,
+    "n_duplicate_records_removed": 0,
+    "n_in_network": 18,
+    "n_excluded_no_keywords": 4,
+    "coverage_pct": 81.8
+  },
+  "bipartite": {
+    "n_professors": 18,
+    "n_keywords": 23,
+    "n_edges": 44,
+    "density": 0.10628019323671498,
+    "n_connected_components": 3,
+    "lcc_n_nodes": 35,
+    "lcc_n_professors": 16,
+    "lcc_n_keywords": 19,
+    "lcc_node_share": 0.8536585365853658,
+    "lcc_professor_share": 0.8888888888888888,
+    "professor_degree_mean": 2.4444444444444446,
+    "professor_degree_max": 6,
+    "keyword_degree_mean": 1.9130434782608696,
+    "keyword_degree_max": 6
+  },
+  "keyword_network": {
+    "n_nodes": 19,
+    "n_edges": 41,
+    "density": 0.23976608187134502,
+    "mean_degree": 4.315789473684211,
+    "mean_weight": 1.146341463414634,
+    "avg_clustering": 0.6898989898989899,
+    "modularity_q_by_resolution": {
+      "0.7": 0.4202354006337711,
+      "1.0": 0.2885921231326392,
+      "1.3": 0.19644635581711178
+    },
+    "n_communities_by_resolution": {
+      "0.7": 3,
+      "1.0": 4,
+      "1.3": 4
+    },
+    "modularity_q": 0.2885921231326392,
+    "n_communities": 4,
+    "girvan_newman": {
+      "n_communities": 7,
+      "modularity_q": 0.22408329560887277
+    },
+    "taxonomy_alignment_nmi": 0.499570130485318,
+    "taxonomy_alignment_ari": 0.2859761686526123,
+    "pearson_degree_betweenness_r": 0.5888617591248875,
+    "pearson_degree_betweenness_p": 0.007986185797536426
+  },
+  "professor_network": {
+    "n_nodes": 16,
+    "n_edges": 49,
+    "density": 0.4083333333333333,
+    "mean_degree": 6.125,
+    "avg_clustering": 0.7931637806637807,
+    "modularity_q_by_resolution": {
+      "0.7": 0.41583132524663136,
+      "1.0": 0.226366503661758,
+      "1.3": 0.10921127654736715
+    },
+    "n_communities_by_resolution": {
+      "0.7": 2,
+      "1.0": 2,
+      "1.3": 3
+    },
+    "modularity_q": 0.226366503661758,
+    "n_communities": 2,
+    "assortativity_dominant_l1": 0.2730483927940657,
+    "assortativity_role_groups": -0.11048158640226594,
+    "assortativity_school": NaN,
+    "community_vs_dominant_l1_nmi": 0.48335281476415576,
+    "community_vs_dominant_l1_ari": 0.3882752761257434
+  },
+  "guardrails": {
+    "l1_too_broad": [
+      "Financial Engineering & Risk"
+    ],
+    "lambda_over_merging": []
+  },
+  "fonts": {
+    "cjk_font": "Microsoft JhengHei",
+    "detection": "msjh.ttc -> Microsoft JhengHei",
+    "fallback_to_name_en": false,
+    "n_professors_without_chinese_name": 0,
+    "professors_without_chinese_name": []
+  }
+}

@@ -1,0 +1,3327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="s_exp" attr.type="long"/>
+<key id="d17" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d16" for="edge" attr.name="n_shared_keywords" attr.type="long"/>
+<key id="d15" for="edge" attr.name="s_inf" attr.type="double"/>
+<key id="d14" for="edge" attr.name="s_exp" attr.type="double"/>
+<key id="d13" for="edge" attr.name="w_cos" attr.type="double"/>
+<key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="primary_role" attr.type="string"/>
+<key id="d9" for="node" attr.name="dominant_l1" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ncku-stats-ds-chichunhsia-826f072271">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Chi-Chun Hsia</data>
+  <data key="d3">Chi-Chun Hsia</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">2</data>
+</node>
+<node id="ncku-stats-ds-chihchiehwu-f4240ef7d4">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Chih-Chieh Wu</data>
+  <data key="d3">Chih-Chieh Wu</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-chingtiliu-2cc20e2d15">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Ching-Ti Liu</data>
+  <data key="d3">Ching-Ti Liu</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-hsiulihsi-c8baf98fee">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Hsiu-Li Hsi</data>
+  <data key="d3">Hsiu-Li Hsi</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-liangchinglin-1a87e637fa">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林良靖</data>
+  <data key="d3">Liang-Ching Lin</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">National Sun Yat-sen University</data>
+  <data key="d8">1</data>
+  <data key="d9">Applied Mathematics &amp; Operations Research</data>
+  <data key="d10">full_time</data>
+  <data key="d11">3</data>
+</node>
+<node id="ncku-stats-ds-piocheng-2e27b06feb">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Pi-O Cheng</data>
+  <data key="d3">Pi-O Cheng</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-wengkeewong-5482e739e7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Weng Kee Wong</data>
+  <data key="d3">Weng Kee Wong</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Minnesota</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-yihauchen-1c07c2ff45">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">Yi-Hau Chen</data>
+  <data key="d3">Yi-Hau Chen</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-任眉眉-233662b353">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">任眉眉</data>
+  <data key="d3">Mei-Mei Zen</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-余定宏-2852d11565">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">余定宏</data>
+  <data key="d3">Ting-Hung Yu</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">3</data>
+</node>
+<node id="ncku-stats-ds-吳致杰-e83801110c">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">吳致杰</data>
+  <data key="d3">nan</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">joint | visiting</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">joint</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-呂金河-421da4de18">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">呂金河</data>
+  <data key="d3">nan</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">3</data>
+</node>
+<node id="ncku-stats-ds-嵇允嬋-5dd8a77c5a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">嵇允嬋</data>
+  <data key="d3">Yun-Chan Chi</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct | emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-張欣民-2a561caa4d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">張欣民</data>
+  <data key="d3">Hsing-Ming Chang</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Manitoba</data>
+  <data key="d8">1</data>
+  <data key="d9">Data, Databases &amp; Knowledge Discovery</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">戴安順</data>
+  <data key="d3">An-Shun Tai</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">3</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-戴齊賢-6fec31cf3d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">戴齊賢</data>
+  <data key="d3">Chi-Shian Dai</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李俊毅</data>
+  <data key="d3">Chung-I Li</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">National Cheng Kung University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-李國榮-1200a0959b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李國榮</data>
+  <data key="d3">Kuo-Jung Lee</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of Minnesota</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-李宗翰-1d5a48a614">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李宗翰</data>
+  <data key="d3">Chung-Han Lee</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李宜真</data>
+  <data key="d3">I-Chen Lee</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-李政德-7a32c4c18a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李政德</data>
+  <data key="d3">Cheng-Te Li</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct | joint | visiting</data>
+  <data key="d6">9</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">2</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">joint</data>
+  <data key="d11">2</data>
+</node>
+<node id="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊明宗</data>
+  <data key="d3">Ming-Tzong Yang</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct | chair | emeritus | visiting</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">chair</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊欣洲</data>
+  <data key="d3">Hsin-Chou Yang</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct | joint | visiting</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">joint</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">溫敏杰</data>
+  <data key="d3">Miin-Jye Wen</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct | chair | emeritus | visiting</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Georgia</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">chair</data>
+  <data key="d11">3</data>
+</node>
+<node id="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">潘浙楠</data>
+  <data key="d3">Jeh-Nan Pan</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">4</data>
+  <data key="d7">Texas Tech University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王婉倫</data>
+  <data key="d3">Wan-Lun Wang</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">王義富</data>
+  <data key="d3">Yi-Fu Wang</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Central University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">石 瑜</data>
+  <data key="d3">Yu Shyr</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">chair | emeritus | visiting</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">chair</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">蘇佩芳</data>
+  <data key="d3">Pei-Fang Su</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">4</data>
+  <data key="d7">National Cheng Kung University</data>
+  <data key="d8">1</data>
+  <data key="d9">Biomedical &amp; Health Informatics</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="ncku-stats-ds-許志仲-042daaf5f7">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">許志仲</data>
+  <data key="d3">Chih-Chung Hsu</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">6</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">2</data>
+</node>
+<node id="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">許秀麗</data>
+  <data key="d3">nan</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct | emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">詹世煌</data>
+  <data key="d3">Shih-Huang Chan</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">3</data>
+  <data key="d7">The Ohio State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">3</data>
+</node>
+<node id="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">趙昌泰</data>
+  <data key="d3">Chang-Tai Chao</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Pennsylvania State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-連震杰-07850768ed">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">連震杰</data>
+  <data key="d3">Jenn-Jier James Lien</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct | joint | visiting</data>
+  <data key="d6">9</data>
+  <data key="d7"></data>
+  <data key="d8">2</data>
+  <data key="d9">Vision, Multimedia &amp; Human-Centered Computing</data>
+  <data key="d10">joint</data>
+  <data key="d11">2</data>
+</node>
+<node id="ncku-stats-ds-鄧浩陽-56bcccee94">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄧浩陽</data>
+  <data key="d3">Hao Yang Teng</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">2</data>
+</node>
+<node id="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭碧娥</data>
+  <data key="d3">nan</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">鄭順林</data>
+  <data key="d3">Shuen-Lin Jeng</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">8</data>
+  <data key="d7">Iowa State University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳瑞彬</data>
+  <data key="d3">Ray-Bing Chen</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">adjunct</data>
+  <data key="d6">2</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">0</data>
+</node>
+<node id="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">馬瀰嘉</data>
+  <data key="d3">Mi-Chia Ma</data>
+  <data key="d4">ncku-stats-ds</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">National Tsing Hua University</data>
+  <data key="d8">1</data>
+  <data key="d9">Statistics &amp; Statistical Methods</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<edge source="ncku-stats-ds-chichunhsia-826f072271" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">6.128350645914273</data>
+  <data key="d13">0.1331728838978553</data>
+  <data key="d14">6.128350645914273</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1631760416102647</data>
+</edge>
+<edge source="ncku-stats-ds-chichunhsia-826f072271" target="ncku-stats-ds-李政德-7a32c4c18a">
+  <data key="d12">4.517174153056745</data>
+  <data key="d13">0.09880749502954696</data>
+  <data key="d14">2.888946240904944</data>
+  <data key="d15">4.070569780379501</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2213773403718132</data>
+</edge>
+<edge source="ncku-stats-ds-chichunhsia-826f072271" target="ncku-stats-ds-張欣民-2a561caa4d">
+  <data key="d12">1.8350228999797265</data>
+  <data key="d13">0.04900519420607544</data>
+  <data key="d18">0</data>
+  <data key="d15">4.587557249949316</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5449523273039525</data>
+</edge>
+<edge source="ncku-stats-ds-chichunhsia-826f072271" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">3.2394044050093296</data>
+  <data key="d13">0.08640251525773551</data>
+  <data key="d14">3.2394044050093296</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.308698722040887</data>
+</edge>
+<edge source="ncku-stats-ds-chihchiehwu-f4240ef7d4" target="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.14166807360472422</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-chihchiehwu-f4240ef7d4" target="ncku-stats-ds-yihauchen-1c07c2ff45">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.15777447088528918</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-chihchiehwu-f4240ef7d4" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.11577073738678734</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-chihchiehwu-f4240ef7d4" target="ncku-stats-ds-wengkeewong-5482e739e7">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.13500406118173547</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-chihchiehwu-f4240ef7d4" target="ncku-stats-ds-嵇允嬋-5dd8a77c5a">
+  <data key="d12">1.7759281608374278</data>
+  <data key="d13">0.051230645236260856</data>
+  <data key="d18">0</data>
+  <data key="d15">4.439820402093569</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5630858398734193</data>
+</edge>
+<edge source="ncku-stats-ds-chihchiehwu-f4240ef7d4" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.10960775162161954</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-chihchiehwu-f4240ef7d4" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.14166807360472422</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-chihchiehwu-f4240ef7d4" target="ncku-stats-ds-吳致杰-e83801110c">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.19728166314346174</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-chingtiliu-2cc20e2d15" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.14166807360472425</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-chingtiliu-2cc20e2d15" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.10960775162161954</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-chingtiliu-2cc20e2d15" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.22869455907564148</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-chingtiliu-2cc20e2d15" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.09432130063086874</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-chingtiliu-2cc20e2d15" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.13127834825862378</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-chingtiliu-2cc20e2d15" target="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.14166807360472425</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-chingtiliu-2cc20e2d15" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.10587036226733094</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-hsiulihsi-c8baf98fee" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.11356028693201026</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ncku-stats-ds-liangchinglin-1a87e637fa" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.07114056169661938</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ncku-stats-ds-liangchinglin-1a87e637fa" target="ncku-stats-ds-余定宏-2852d11565">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.14728762356258274</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ncku-stats-ds-liangchinglin-1a87e637fa" target="ncku-stats-ds-鄧浩陽-56bcccee94">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.04667706090369079</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.09324421826316771</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.09761792850007495</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.03881323953691978</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.11788032395850744</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.179191137722924</data>
+  <data key="d13">0.1253352137755083</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19308034274241104</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-呂金河-421da4de18">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.0392446348996068</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.0802399083346933</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-wengkeewong-5482e739e7">
+  <data key="d12">5.179191137722924</data>
+  <data key="d13">0.11713967618326114</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19308034274241104</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-任眉眉-233662b353">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07000195098068335</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.11249509601188397</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.03683626445618496</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-嵇允嬋-5dd8a77c5a">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.09957934251261763</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">5.256396146310281</data>
+  <data key="d13">0.09228471974903958</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19024441312360912</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.0998810776916415</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.049138548254975024</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.09006479031642213</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-李國榮-1200a0959b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08686584565162894</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-戴齊賢-6fec31cf3d">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07845400240814514</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.11797130875480316</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.039998937382820725</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.16753102557228097</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">8.191731367127577</data>
+  <data key="d13">0.22991441236068852</data>
+  <data key="d14">8.191731367127577</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1220743155730031</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">5.040591947248789</data>
+  <data key="d13">0.09919572112780504</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.909639723854277</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1983893976075193</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-吳致杰-e83801110c">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.10168858610550734</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-piocheng-2e27b06feb" target="ncku-stats-ds-李宗翰-1d5a48a614">
+  <data key="d12">2.1796600886032027</data>
+  <data key="d13">0.06290304911047047</data>
+  <data key="d18">0</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4587871316397928</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.03726204298987609</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.13500406118173547</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-yihauchen-1c07c2ff45">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.08580407250702567</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-嵇允嬋-5dd8a77c5a">
+  <data key="d12">3.878383240853274</data>
+  <data key="d13">0.060845199883301254</data>
+  <data key="d18">0</data>
+  <data key="d15">9.695958102133185</data>
+  <data key="d16">0</data>
+  <data key="d17">0.25783939799100214</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.08136396106387785</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.0733675312871092</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-戴齊賢-6fec31cf3d">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.06322177581663235</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.09610041455313384</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">9.161458312682258</data>
+  <data key="d13">0.13556660247987962</data>
+  <data key="d14">7.105059518831386</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10915292804593067</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">2.1604699007950976</data>
+  <data key="d13">0.033122379933579</data>
+  <data key="d18">0</data>
+  <data key="d15">5.401174751987744</data>
+  <data key="d16">0</data>
+  <data key="d17">0.46286226882030584</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.07704476897500277</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.07952038080863819</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.179191137722924</data>
+  <data key="d13">0.11713967618326114</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19308034274241104</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.237205958502176</data>
+  <data key="d13">0.10213213402748682</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.401174751987744</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19094150734640897</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">5.094782283371062</data>
+  <data key="d13">0.08079576802825933</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.0451155641599605</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1962792410705979</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-吳致杰-e83801110c">
+  <data key="d12">7.105059518831386</data>
+  <data key="d13">0.18923491696227399</data>
+  <data key="d14">7.105059518831386</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14074477452997838</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-李宗翰-1d5a48a614">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.05208885105313898</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d12">5.580382890509172</data>
+  <data key="d13">0.10672909331648882</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">1</data>
+  <data key="d17">0.17919917317873446</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">6.08472225497518</data>
+  <data key="d13">0.09510128643360587</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.16434603883231463</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.09499328505543547</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">5.316541350173114</data>
+  <data key="d13">0.07521812294273512</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1880922077221197</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">5.401174751987744</data>
+  <data key="d13">0.10172680645916517</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18514490752812235</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-呂金河-421da4de18">
+  <data key="d12">5.401174751987744</data>
+  <data key="d13">0.08124439001082429</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18514490752812235</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-李國榮-1200a0959b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.0700004187337587</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.06536410027201237</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-wengkeewong-5482e739e7" target="ncku-stats-ds-任眉眉-233662b353">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.056410731330237086</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-yihauchen-1c07c2ff45" target="ncku-stats-ds-吳致杰-e83801110c">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.1253856364060129</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-yihauchen-1c07c2ff45" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.06966302632046945</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-yihauchen-1c07c2ff45" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">8.92167559460583</data>
+  <data key="d13">0.16296035402280623</data>
+  <data key="d14">8.92167559460583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11208656820077767</data>
+</edge>
+<edge source="ncku-stats-ds-yihauchen-1c07c2ff45" target="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.09003949624261331</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-yihauchen-1c07c2ff45" target="ncku-stats-ds-嵇允嬋-5dd8a77c5a">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.0897164270180373</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ncku-stats-ds-yihauchen-1c07c2ff45" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">8.92167559460583</data>
+  <data key="d13">0.19941377198992957</data>
+  <data key="d14">8.92167559460583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11208656820077767</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.04905886242053582</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">4.879768059516815</data>
+  <data key="d13">0.07016139815470505</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20492777275545715</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">7.38828061734254</data>
+  <data key="d13">0.1391437783981399</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13534948816815323</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.045799018002245374</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">7.38828061734254</data>
+  <data key="d13">0.11513754958107023</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13534948816815323</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07000195098068335</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.06035744079953624</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">7.38828061734254</data>
+  <data key="d13">0.11786481762701911</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13534948816815323</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-吳致杰-e83801110c">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08243309718651455</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.03850192911590301</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.09555880923712823</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.04378863015961432</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">1.8030320018097363</data>
+  <data key="d13">0.03416083200336188</data>
+  <data key="d18">0</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5546213261862694</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-李國榮-1200a0959b">
+  <data key="d12">7.38828061734254</data>
+  <data key="d13">0.16909532528870921</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13534948816815323</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">4.879768059516815</data>
+  <data key="d13">0.06250771402219034</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20492777275545715</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-戴齊賢-6fec31cf3d">
+  <data key="d12">5.256396146310281</data>
+  <data key="d13">0.10865315961650687</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19024441312360912</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">1.8030320018097363</data>
+  <data key="d13">0.027807027858402177</data>
+  <data key="d18">0</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5546213261862694</data>
+</edge>
+<edge source="ncku-stats-ds-任眉眉-233662b353" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.13580778179399186</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-余定宏-2852d11565" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">4.113850056846357</data>
+  <data key="d13">0.1174093210200635</data>
+  <data key="d14">4.113850056846357</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24308129518132987</data>
+</edge>
+<edge source="ncku-stats-ds-余定宏-2852d11565" target="ncku-stats-ds-鄧浩陽-56bcccee94">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.07703512450865165</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07126553311157723</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.0642615743123822</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08417298255668586</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">7.105059518831386</data>
+  <data key="d13">0.15363696169567403</data>
+  <data key="d14">7.105059518831386</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14074477452997838</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.06965076745850776</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.10168858610550734</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08767845366974639</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07130058815693815</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d12">5.580382890509172</data>
+  <data key="d13">0.15596340473733275</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">1</data>
+  <data key="d17">0.17919917317873446</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-嵇允嬋-5dd8a77c5a">
+  <data key="d12">1.7759281608374278</data>
+  <data key="d13">0.04071372903610969</data>
+  <data key="d18">0</data>
+  <data key="d15">4.439820402093569</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5630858398734193</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.09200466655337196</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.13881384825875612</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.06360971124443206</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-李國榮-1200a0959b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.10229173039427766</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.05725148322838474</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-戴齊賢-6fec31cf3d">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.09238608802440756</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.19728166314346174</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-吳致杰-e83801110c" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.11258565132667768</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.0317732335556937</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.025113481878474824</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.026291454033984404</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.0392446348996068</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.401174751987744</data>
+  <data key="d13">0.0869285567610483</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18514490752812235</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.06167774391765381</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-李宗翰-1d5a48a614">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.04298889334996237</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">6.814983784324437</data>
+  <data key="d13">0.09968188705958421</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14673549221058477</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.02652555382631607</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.026152610707626173</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">5.401174751987744</data>
+  <data key="d13">0.08395506418914919</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18514490752812235</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.021611028773993</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">5.401174751987744</data>
+  <data key="d13">0.06833969408391062</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18514490752812235</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-嵇允嬋-5dd8a77c5a">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.02722161037132769</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">6.768927498159464</data>
+  <data key="d13">0.08854840836668156</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14773389141365595</data>
+</edge>
+<edge source="ncku-stats-ds-呂金河-421da4de18" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.024257165984451698</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.034084414805525834</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.021934331068087426</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.027744824011936176</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">6.857208023023235</data>
+  <data key="d13">0.09355751301093784</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">4.909639723854277</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14583194744019384</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">6.894530714622179</data>
+  <data key="d13">0.08482187676080256</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.145042504180765</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.032248563046333945</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">8.670458875459607</data>
+  <data key="d13">0.1104363690606593</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">9.442766854945207</data>
+  <data key="d16">1</data>
+  <data key="d17">0.11533414947971732</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.08055773101330835</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.02668477577230417</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.09957934251261763</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.03529160528558335</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">1.963855889541711</data>
+  <data key="d13">0.026807390063542987</data>
+  <data key="d18">0</data>
+  <data key="d15">4.909639723854277</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5092023326789837</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-李宗翰-1d5a48a614">
+  <data key="d12">2.1796600886032027</data>
+  <data key="d13">0.043632009787683716</data>
+  <data key="d18">0</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4587871316397928</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">7.035831060413128</data>
+  <data key="d13">0.1073339900703338</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1421296207105465</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-戴安順-b1f00ad732">
+  <data key="d12">1.7759281608374278</data>
+  <data key="d13">0.029236551790503</data>
+  <data key="d18">0</data>
+  <data key="d15">4.439820402093569</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5630858398734193</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">9.786704266963048</data>
+  <data key="d13">0.13166308659830853</data>
+  <data key="d14">9.786704266963048</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1021794439396414</data>
+</edge>
+<edge source="ncku-stats-ds-嵇允嬋-5dd8a77c5a" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">2.1796600886032027</data>
+  <data key="d13">0.02654385534140822</data>
+  <data key="d18">0</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4587871316397928</data>
+</edge>
+<edge source="ncku-stats-ds-張欣民-2a561caa4d" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">1.8350228999797265</data>
+  <data key="d13">0.02462512800113545</data>
+  <data key="d18">0</data>
+  <data key="d15">4.587557249949316</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5449523273039525</data>
+</edge>
+<edge source="ncku-stats-ds-張欣民-2a561caa4d" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">1.8350228999797265</data>
+  <data key="d13">0.020062704563319142</data>
+  <data key="d18">0</data>
+  <data key="d15">4.587557249949316</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5449523273039525</data>
+</edge>
+<edge source="ncku-stats-ds-張欣民-2a561caa4d" target="ncku-stats-ds-許志仲-042daaf5f7">
+  <data key="d12">1.3215003533533807</data>
+  <data key="d13">0.024014643661894725</data>
+  <data key="d18">0</data>
+  <data key="d15">3.3037508833834517</data>
+  <data key="d16">0</data>
+  <data key="d17">0.7567156508603606</data>
+</edge>
+<edge source="ncku-stats-ds-張欣民-2a561caa4d" target="ncku-stats-ds-連震杰-07850768ed">
+  <data key="d12">3.809621071810065</data>
+  <data key="d13">0.04398484026390071</data>
+  <data key="d14">3.809621071810065</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2624932981916939</data>
+</edge>
+<edge source="ncku-stats-ds-張欣民-2a561caa4d" target="ncku-stats-ds-李政德-7a32c4c18a">
+  <data key="d12">6.513525752826391</data>
+  <data key="d13">0.07168280324391263</data>
+  <data key="d14">4.207673247529104</data>
+  <data key="d15">5.764631263243218</data>
+  <data key="d16">1</data>
+  <data key="d17">0.15352668246779766</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">4.659102224089622</data>
+  <data key="d13">0.06987931303064208</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2146336250854418</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-李國榮-1200a0959b">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.03705475094889054</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-戴齊賢-6fec31cf3d">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.04596962820799889</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.030491310424031928</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.07146445627996566</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">7.135366255829064</data>
+  <data key="d13">0.1432056810647789</data>
+  <data key="d14">7.135366255829064</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14014697552253527</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.03683626445618496</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.02582833946088526</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">8.68742568521393</data>
+  <data key="d13">0.13489764257032022</data>
+  <data key="d14">7.135366255829064</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">2</data>
+  <data key="d17">0.1151088983359027</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.025230698822145188</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">4.028323461124307</data>
+  <data key="d13">0.06606860295871944</data>
+  <data key="d14">4.028323461124307</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.24824223021080324</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">4.659102224089622</data>
+  <data key="d13">0.15094893735886247</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2146336250854418</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.03176115265421336</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">4.659102224089622</data>
+  <data key="d13">0.06225640066857154</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2146336250854418</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.05778462873054505</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.023042351507870554</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴安順-b1f00ad732" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">1.5520594293848655</data>
+  <data key="d13">0.025815640917509906</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8801485734621637</data>
+  <data key="d16">0</data>
+  <data key="d17">0.644305225088149</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-李國榮-1200a0959b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07891933568984257</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.0441702277029331</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.15220524414884928</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.05498224058846091</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-李俊毅-6ad50d7c53">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.04957859971249798</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.06494049754366034</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.05132880181625713</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.05373642890706866</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07845400240814514</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.06764501188178268</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.05500928598970497</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.10709660152297595</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-戴齊賢-6fec31cf3d" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.049075679289849176</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.10587036226733094</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.04660082685633691</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.09006479031642213</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">9.7101005130083</data>
+  <data key="d13">0.12075754499690132</data>
+  <data key="d14">7.789264762015669</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10298554568619894</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-李宗翰-1d5a48a614">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.038880466262563876</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">6.837108912909423</data>
+  <data key="d13">0.10037895071986218</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">9.400932138005864</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14626065091808899</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">13.034471839285969</data>
+  <data key="d13">0.15125477937326057</data>
+  <data key="d14">11.077130985893358</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">3</data>
+  <data key="d17">0.0767196409896713</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">11.730461046390946</data>
+  <data key="d13">0.1425077309601713</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">9.400932138005864</data>
+  <data key="d16">2</data>
+  <data key="d17">0.08524814123206735</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.059976299706305816</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">6.183778852411836</data>
+  <data key="d13">0.14972150403787188</data>
+  <data key="d14">6.183778852411836</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16171341567462003</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.07850060302083312</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">17.74700054359456</data>
+  <data key="d13">0.17721853518229835</data>
+  <data key="d14">15.78965969020195</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">4</data>
+  <data key="d17">0.05634754997294069</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">5.108221375845412</data>
+  <data key="d13">0.07099654474824232</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1957628549006453</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">10.102000744190557</data>
+  <data key="d13">0.11208003494078474</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">2</data>
+  <data key="d17">0.0989902916583211</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">9.890923942181232</data>
+  <data key="d13">0.12294583984699406</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10110278936989495</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">6.768927498159464</data>
+  <data key="d13">0.09997573608239924</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14773389141365595</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-李國榮-1200a0959b">
+  <data key="d12">4.879768059516815</data>
+  <data key="d13">0.08706370461718807</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20492777275545715</data>
+</edge>
+<edge source="ncku-stats-ds-李俊毅-6ad50d7c53" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">6.768927498159464</data>
+  <data key="d13">0.08138057287755601</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14773389141365595</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">7.38828061734254</data>
+  <data key="d13">0.1726643587555521</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13534948816815323</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.0568322792871449</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">7.38828061734254</data>
+  <data key="d13">0.14287488377825192</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13534948816815323</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.11857950610742826</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08686584565162894</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07489791445765025</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">4.879768059516815</data>
+  <data key="d13">0.07756620154466937</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20492777275545715</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.05433757681683675</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">1.8030320018097363</data>
+  <data key="d13">0.04239038367593641</data>
+  <data key="d18">0</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5546213261862694</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">1.8030320018097363</data>
+  <data key="d13">0.03450590956593551</data>
+  <data key="d18">0</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5546213261862694</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.1685247003310284</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.0608774400022467</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李國榮-1200a0959b" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">7.38828061734254</data>
+  <data key="d13">0.14625916724194268</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13534948816815323</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">2.1796600886032027</data>
+  <data key="d13">0.06290304911047047</data>
+  <data key="d18">0</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4587871316397928</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">2.092151626375278</data>
+  <data key="d13">0.042334748632150206</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2303790659381955</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4779768289225447</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.050927554196007405</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.04025300752517485</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-李宜真-1ca5a58f06">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.042141113773031126</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.04251633934899736</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.055733185328701584</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.034639119659943436</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">2.1796600886032027</data>
+  <data key="d13">0.04929121850382776</data>
+  <data key="d18">0</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4587871316397928</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">5.805134968916488</data>
+  <data key="d13">0.10479642376067226</data>
+  <data key="d14">5.805134968916488</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1722612833903924</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.043118102621622356</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.05382676678503806</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ncku-stats-ds-李宗翰-1d5a48a614" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.043815162446042555</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.09761792850007495</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.08508392931330898</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">9.30911636833517</data>
+  <data key="d13">0.12547972383197253</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10742158121489233</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.030145875005959027</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">1.9573408533926095</data>
+  <data key="d13">0.026002446087354907</data>
+  <data key="d18">0</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">0</data>
+  <data key="d17">0.510897219698207</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08074116620570156</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">12.863440324670126</data>
+  <data key="d13">0.15468654622338013</data>
+  <data key="d14">12.863440324670126</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.07773970063686242</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">3.859430795660609</data>
+  <data key="d13">0.06178350624270171</data>
+  <data key="d18">0</data>
+  <data key="d15">9.648576989151522</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2591055658063257</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">14.666472326479862</data>
+  <data key="d13">0.15873927493496642</data>
+  <data key="d14">12.863440324670126</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">3</data>
+  <data key="d17">0.06818272163474041</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-楊明宗-97d04aab5b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.11474900921636767</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">5.034076911099688</data>
+  <data key="d13">0.06782212100265989</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19864615055743184</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">12.281632750824064</data>
+  <data key="d13">0.19543430807227447</data>
+  <data key="d14">12.281632750824064</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.08142239882013266</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">9.927429044581212</data>
+  <data key="d13">0.12486105646149294</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10073101459696053</data>
+</edge>
+<edge source="ncku-stats-ds-李宜真-1ca5a58f06" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">3.859430795660609</data>
+  <data key="d13">0.050291974127313274</data>
+  <data key="d18">0</data>
+  <data key="d15">9.648576989151522</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2591055658063257</data>
+</edge>
+<edge source="ncku-stats-ds-李政德-7a32c4c18a" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">1.6282279121518006</data>
+  <data key="d13">0.017896768983995844</data>
+  <data key="d18">0</data>
+  <data key="d15">4.070569780379501</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6141646341625726</data>
+</edge>
+<edge source="ncku-stats-ds-李政德-7a32c4c18a" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">6.6019207469662735</data>
+  <data key="d13">0.05912085750085753</data>
+  <data key="d14">4.973692834814473</data>
+  <data key="d15">4.070569780379501</data>
+  <data key="d16">2</data>
+  <data key="d17">0.151471070060864</data>
+</edge>
+<edge source="ncku-stats-ds-李政德-7a32c4c18a" target="ncku-stats-ds-許志仲-042daaf5f7">
+  <data key="d12">4.6694427143059</data>
+  <data key="d13">0.06950184657699379</data>
+  <data key="d14">4.6694427143059</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.21415831849404052</data>
+</edge>
+<edge source="ncku-stats-ds-李政德-7a32c4c18a" target="ncku-stats-ds-連震杰-07850768ed">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.01971500721150727</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ncku-stats-ds-李政德-7a32c4c18a" target="ncku-stats-ds-鄧浩陽-56bcccee94">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.03208933935723904</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.16753102557228097</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.11746707389013199</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.1386742271995812</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.10960775162161954</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-楊欣洲-1132517e30">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.22869455907564146</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.14444945914228619</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.09432130063086873</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.10479642376067226</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊明宗-97d04aab5b" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.1174093210200635</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">6.183778852411836</data>
+  <data key="d13">0.13338886059162594</data>
+  <data key="d14">6.183778852411836</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16171341567462003</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.09328163962865492</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.07373820067299237</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-溫敏杰-99a3082790">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08261304883865903</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-石瑜-38ea37cc03">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.10066420216414887</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.11788032395850744</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.08265368565210868</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.09757573423275813</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">6.183778852411836</data>
+  <data key="d13">0.15500690727363553</data>
+  <data key="d14">6.183778852411836</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.16171341567462003</data>
+</edge>
+<edge source="ncku-stats-ds-楊欣洲-1132517e30" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">3.076736057707078</data>
+  <data key="d13">0.10163937683278423</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3250197551054298</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">6.713707285449246</data>
+  <data key="d13">0.10348039614223796</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14894900201671293</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">4.893352133481524</data>
+  <data key="d13">0.06651320043689057</data>
+  <data key="d14">4.893352133481524</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2043588878792828</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-潘浙楠-852778d16a">
+  <data key="d12">5.208648610709033</data>
+  <data key="d13">0.06408761335892417</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19198837831832044</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.03368296126018601</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">5.034076911099688</data>
+  <data key="d13">0.05574837384829088</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19864615055743184</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">5.034076911099688</data>
+  <data key="d13">0.08196306252497734</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19864615055743184</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">9.890923942181232</data>
+  <data key="d13">0.12728602026347324</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10110278936989495</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.027418039526183012</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.0998810776916415</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-鄧浩陽-56bcccee94">
+  <data key="d12">1.9547462166482021</data>
+  <data key="d13">0.03720829962054409</data>
+  <data key="d18">0</data>
+  <data key="d15">4.886865541620505</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5115753602606773</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.08705649346007402</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-溫敏杰-99a3082790" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">7.789264762015669</data>
+  <data key="d13">0.10742743172650947</data>
+  <data key="d14">7.789264762015669</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12838182171910467</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">2.1796600886032027</data>
+  <data key="d13">0.029986676752549516</data>
+  <data key="d18">0</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4587871316397928</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">2.1319125530019547</data>
+  <data key="d13">0.025865128991710357</data>
+  <data key="d18">0</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4690623912279591</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.03274591104077619</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">12.863440324670126</data>
+  <data key="d13">0.12714912598831463</data>
+  <data key="d14">12.863440324670126</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.07773970063686242</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">2.2398052924660354</data>
+  <data key="d13">0.026655277613554934</data>
+  <data key="d18">0</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4464673797154018</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">7.9700881911886015</data>
+  <data key="d13">0.115825809377991</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12546912606381927</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">10.102000744190557</data>
+  <data key="d13">0.11603663545149481</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">5.329781382504886</data>
+  <data key="d16">2</data>
+  <data key="d17">0.0989902916583211</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.256396146310281</data>
+  <data key="d13">0.09228471974903958</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.449150221508006</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19024441312360912</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.316541350173114</data>
+  <data key="d13">0.08048066911224164</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.599513231165089</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1880922077221197</data>
+</edge>
+<edge source="ncku-stats-ds-潘浙楠-852778d16a" target="ncku-stats-ds-王婉倫-fe18c219d3">
+  <data key="d12">5.168887684082357</data>
+  <data key="d13">0.06362967548692947</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.2303790659381955</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19346522136271413</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.094782283371062</data>
+  <data key="d13">0.08644854747707857</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.0451155641599605</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1962792410705979</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">9.7101005130083</data>
+  <data key="d13">0.10758448786958645</data>
+  <data key="d14">7.789264762015669</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10298554568619894</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">4.712528704308591</data>
+  <data key="d13">0.07267135583356538</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2122002989787024</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">6.730574929972575</data>
+  <data key="d13">0.11029826040461374</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.0451155641599605</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14857571758792895</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">6.730574929972575</data>
+  <data key="d13">0.08978314109862873</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.0451155641599605</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14857571758792895</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.040591947248789</data>
+  <data key="d13">0.09919572112780504</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.909639723854277</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1983893976075193</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-王義富-84941b85dc">
+  <data key="d12">9.30911636833517</data>
+  <data key="d13">0.15164230044727592</data>
+  <data key="d14">7.38828061734254</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10742158121489233</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">4.997571808699708</data>
+  <data key="d13">0.06434524559737824</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">1</data>
+  <data key="d17">0.20009717484383377</data>
+</edge>
+<edge source="ncku-stats-ds-王婉倫-fe18c219d3" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">1.9208357509926295</data>
+  <data key="d13">0.026121925131311712</data>
+  <data key="d18">0</data>
+  <data key="d15">4.802089377481574</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5206067200088453</data>
+</edge>
+<edge source="ncku-stats-ds-王義富-84941b85dc" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">3.859430795660609</data>
+  <data key="d13">0.06077787245462079</data>
+  <data key="d18">0</data>
+  <data key="d15">9.648576989151522</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2591055658063257</data>
+</edge>
+<edge source="ncku-stats-ds-王義富-84941b85dc" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.11797130875480316</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-王義富-84941b85dc" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">7.9700881911886015</data>
+  <data key="d13">0.12114350938796241</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.12546912606381927</data>
+</edge>
+<edge source="ncku-stats-ds-王義富-84941b85dc" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">1.9573408533926095</data>
+  <data key="d13">0.03142396732736563</data>
+  <data key="d18">0</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">0</data>
+  <data key="d17">0.510897219698207</data>
+</edge>
+<edge source="ncku-stats-ds-王義富-84941b85dc" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.10282396532399798</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-王義富-84941b85dc" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">9.773120192998338</data>
+  <data key="d13">0.12783176195240112</data>
+  <data key="d14">7.9700881911886015</data>
+  <data key="d15">4.507580004524341</data>
+  <data key="d16">2</data>
+  <data key="d17">0.10232146747938498</data>
+</edge>
+<edge source="ncku-stats-ds-王義富-84941b85dc" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.03643130296509996</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-王義富-84941b85dc" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">3.859430795660609</data>
+  <data key="d13">0.07466539397941102</data>
+  <data key="d18">0</data>
+  <data key="d15">9.648576989151522</data>
+  <data key="d16">0</data>
+  <data key="d17">0.2591055658063257</data>
+</edge>
+<edge source="ncku-stats-ds-石瑜-38ea37cc03" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.05778462873054505</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-石瑜-38ea37cc03" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">7.135366255829064</data>
+  <data key="d13">0.1107973894298067</data>
+  <data key="d14">7.135366255829064</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14014697552253527</data>
+</edge>
+<edge source="ncku-stats-ds-石瑜-38ea37cc03" target="ncku-stats-ds-蘇佩芳-7c1f71e6de">
+  <data key="d12">8.92167559460583</data>
+  <data key="d13">0.14632455617702458</data>
+  <data key="d14">8.92167559460583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11208656820077767</data>
+</edge>
+<edge source="ncku-stats-ds-石瑜-38ea37cc03" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">3.107042794704757</data>
+  <data key="d13">0.041517290631959476</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.3218494453002936</data>
+</edge>
+<edge source="ncku-stats-ds-蘇佩芳-7c1f71e6de" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">8.92167559460583</data>
+  <data key="d13">0.11321044467890748</data>
+  <data key="d14">8.92167559460583</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11208656820077767</data>
+</edge>
+<edge source="ncku-stats-ds-蘇佩芳-7c1f71e6de" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.03881323953691978</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-蘇佩芳-7c1f71e6de" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.03438919898015511</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-蘇佩芳-7c1f71e6de" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">2.001178581140655</data>
+  <data key="d13">0.030414294663138473</data>
+  <data key="d18">0</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4997055282442651</data>
+</edge>
+<edge source="ncku-stats-ds-蘇佩芳-7c1f71e6de" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.03321287635924545</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-蘇佩芳-7c1f71e6de" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">5.196745258401939</data>
+  <data key="d13">0.05674662130386385</data>
+  <data key="d14">3.2394044050093296</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19242813535707384</data>
+</edge>
+<edge source="ncku-stats-ds-蘇佩芳-7c1f71e6de" target="ncku-stats-ds-許秀麗-975216e01f">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.027035388894752776</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-許志仲-042daaf5f7" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.030827173601870587</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ncku-stats-ds-許志仲-042daaf5f7" target="ncku-stats-ds-連震杰-07850768ed">
+  <data key="d12">7.534496664217775</data>
+  <data key="d13">0.11765433390292301</data>
+  <data key="d14">7.534496664217775</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.13272286717560305</data>
+</edge>
+<edge source="ncku-stats-ds-許志仲-042daaf5f7" target="ncku-stats-ds-鄧浩陽-56bcccee94">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.05298717835134266</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ncku-stats-ds-許秀麗-975216e01f" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.039998937382820725</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-許秀麗-975216e01f" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.025596176182843825</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+<edge source="ncku-stats-ds-許秀麗-975216e01f" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">5.401174751987744</data>
+  <data key="d13">0.0885993692528653</data>
+  <data key="d14">5.401174751987744</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.18514490752812235</data>
+</edge>
+<edge source="ncku-stats-ds-許秀麗-975216e01f" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">6.768927498159464</data>
+  <data key="d13">0.07250302460016128</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14773389141365595</data>
+</edge>
+<edge source="ncku-stats-ds-許秀麗-975216e01f" target="ncku-stats-ds-詹世煌-86dc72a847">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.03134341483184733</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-許秀麗-975216e01f" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">6.872998605103689</data>
+  <data key="d13">0.10888626118807004</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.401174751987744</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14549690134629578</data>
+</edge>
+<edge source="ncku-stats-ds-詹世煌-86dc72a847" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.1149953094204985</data>
+  <data key="d13">0.11249509601188397</data>
+  <data key="d14">5.1149953094204985</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19550360059143332</data>
+</edge>
+<edge source="ncku-stats-ds-詹世煌-86dc72a847" target="ncku-stats-ds-趙昌泰-c9b9a4a18b">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.03986903734087377</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-詹世煌-86dc72a847" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.03850527046380793</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-詹世煌-86dc72a847" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">5.108221375845412</data>
+  <data key="d13">0.06325175712578311</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1957628549006453</data>
+</edge>
+<edge source="ncku-stats-ds-詹世煌-86dc72a847" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">5.108221375845412</data>
+  <data key="d13">0.0735028338063958</data>
+  <data key="d14">3.107042794704757</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1957628549006453</data>
+</edge>
+<edge source="ncku-stats-ds-趙昌泰-c9b9a4a18b" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.1604699007950976</data>
+  <data key="d13">0.043537600408976196</data>
+  <data key="d18">0</data>
+  <data key="d15">5.401174751987744</data>
+  <data key="d16">0</data>
+  <data key="d17">0.46286226882030584</data>
+</edge>
+<edge source="ncku-stats-ds-趙昌泰-c9b9a4a18b" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.06993722150998312</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-趙昌泰-c9b9a4a18b" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">5.1331348515579505</data>
+  <data key="d13">0.08127179707129335</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.1948127272940222</data>
+</edge>
+<edge source="ncku-stats-ds-趙昌泰-c9b9a4a18b" target="ncku-stats-ds-鄭碧娥-4a76d96528">
+  <data key="d12">5.179191137722924</data>
+  <data key="d13">0.1253352137755083</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19308034274241104</data>
+</edge>
+<edge source="ncku-stats-ds-連震杰-07850768ed" target="ncku-stats-ds-鄧浩陽-56bcccee94">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.03366535271338674</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ncku-stats-ds-連震杰-07850768ed" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.019586015046552878</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ncku-stats-ds-鄧浩陽-56bcccee94" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">2.084746593909529</data>
+  <data key="d13">0.03187938389989432</data>
+  <data key="d14">2.084746593909529</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.47967460549950974</data>
+</edge>
+<edge source="ncku-stats-ds-鄭碧娥-4a76d96528" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">2.1024550800158464</data>
+  <data key="d13">0.049138548254975024</data>
+  <data key="d18">0</data>
+  <data key="d15">5.2561377000396154</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4756344187826657</data>
+</edge>
+<edge source="ncku-stats-ds-鄭碧娥-4a76d96528" target="ncku-stats-ds-鄭順林-58732da4fc">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.0802399083346933</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-鄭碧娥-4a76d96528" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">5.077914638847734</data>
+  <data key="d13">0.09324421826316771</data>
+  <data key="d14">3.076736057707078</data>
+  <data key="d15">5.002946452851638</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19693123479265837</data>
+</edge>
+<edge source="ncku-stats-ds-鄭順林-58732da4fc" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">13.034471839285969</data>
+  <data key="d13">0.13475487578947626</data>
+  <data key="d14">11.077130985893358</data>
+  <data key="d15">4.893352133481524</data>
+  <data key="d16">3</data>
+  <data key="d17">0.0767196409896713</data>
+</edge>
+<edge source="ncku-stats-ds-鄭順林-58732da4fc" target="ncku-stats-ds-陳瑞彬-f146defa8b">
+  <data key="d12">6.768927498159464</data>
+  <data key="d13">0.08906970049851423</data>
+  <data key="d14">4.712528704308591</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">1</data>
+  <data key="d17">0.14773389141365595</data>
+</edge>
+<edge source="ncku-stats-ds-陳瑞彬-f146defa8b" target="ncku-stats-ds-馬瀰嘉-acd5f760d8">
+  <data key="d12">2.0563987938508723</data>
+  <data key="d13">0.03144480880743879</data>
+  <data key="d18">0</data>
+  <data key="d15">5.140996984627181</data>
+  <data key="d16">0</data>
+  <data key="d17">0.4862869998709593</data>
+</edge>
+</graph></graphml>

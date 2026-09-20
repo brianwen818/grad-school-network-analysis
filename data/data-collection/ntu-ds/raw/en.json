@@ -1,0 +1,1777 @@
+[
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "柏嘉偲",
+    "name_en": "Gaspard Bernard",
+    "titles": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Mathematical Statistics, Robust Statistics, Multivariate Analysis, Le Cam's Asymptotic Theory of Experiments, Semiparametric Inference, Dimension Reduction, Causal Inference."
+    ],
+    "emails": [
+      "dbbbccaac7ade37c@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "108"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "張原豪",
+    "name_en": "Chang, Yuan-Hao",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/~johnson/index_c.php"
+    ],
+    "stable_ids": [
+      "13"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳逸昆",
+    "name_en": "I-Kun Chen",
+    "titles": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "9785e010a09218a8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21618"
+    ],
+    "stable_ids": [
+      "60"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳祝嵩",
+    "name_en": "Chen, Chu-Song",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "5a30c192301c369e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://imp.iis.sinica.edu.tw/"
+    ],
+    "stable_ids": [
+      "57"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳伶志",
+    "name_en": "Chen, Ling-Jyh",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/pages/cclljj/index_zh.html"
+    ],
+    "stable_ids": [
+      "53"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "張耀文",
+    "name_en": "Chang, Yao-Wen",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943001&p=3"
+    ],
+    "stable_ids": [
+      "16"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "江金倉",
+    "name_en": "Chin-Tsang Chiang",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Bootstrapping Methods, Nonparametric Smoothing Methods, Recurrent Event Data Analysis"
+    ],
+    "emails": [
+      "6e68a7ed5725911e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21477",
+      "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21477"
+    ],
+    "stable_ids": [
+      "36"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳銘憲",
+    "name_en": "Chen, Ming-Syan",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "998f5bca9af71ba1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://arbor.ee.ntu.edu.tw/~mschen/"
+    ],
+    "stable_ids": [
+      "61"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳郁方",
+    "name_en": "Chen, Yu-Fang",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Software Verification, Model Checking, Automata Theory, Algorithmic Learning, Formal Methods"
+    ],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "110"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "張佑榕",
+    "name_en": "Chang, Ronald Y.",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/rchang/index_zh.html"
+    ],
+    "stable_ids": [
+      "12"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "張馨文",
+    "name_en": "Hsin-Wen Chang",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "158d50de81d0a32e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://scholar.google.com.tw/citations?user=_kWL_woAAAAJ&hl=en"
+    ],
+    "stable_ids": [
+      "103"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳信希",
+    "name_en": "Chen, Hsin-Hsi",
+    "titles": [
+      "Distinguished Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://nlg.csie.ntu.edu.tw/advisor.php"
+    ],
+    "stable_ids": [
+      "54"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳駿丞",
+    "name_en": "Chen, Jun-Cheng",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "dc8c23cca5abcbdf@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/pullpull/index_zh.html"
+    ],
+    "stable_ids": [
+      "62"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳君厚",
+    "name_en": "Chun-Houh Chen",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "97acaeb21924d1e5@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://gap.stat.sinica.edu.tw/",
+      "http://sites.stat.sinica.edu.tw/SH/"
+    ],
+    "stable_ids": [
+      "55"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳尚澤",
+    "name_en": "Chen, Shang-Tse",
+    "titles": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Machine learning, Security, Algorithmic Game Theory, and Data Mining"
+    ],
+    "emails": [
+      "f50361de6e336527@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.csie.ntu.edu.tw/~stchen/",
+      "https://www.csie.ntu.edu.tw/zh_tw/Research/TeachingLab/-57611568"
+    ],
+    "stable_ids": [
+      "85"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "夏俊雄",
+    "name_en": "Chun-Hsiung Hsia",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21478"
+    ],
+    "stable_ids": [
+      "8"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "洪鼎詠",
+    "name_en": "Hong, Ding-Yong",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Optimizing Compiler, Dynamic Binary Translation, Virtualization, Parallel Architecture and Parallel Computing"
+    ],
+    "emails": [
+      "4eba5ac6d6b740df@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/dyhong/index_zh.html",
+      "https://homepage.iis.sinica.edu.tw/pages/dyhong/index_en.html"
+    ],
+    "stable_ids": [
+      "105"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "謝宏昀",
+    "name_en": "Hsieh, Hung-Yun",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "2c753dc973eec470@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=942014&p=3",
+      "http://tonic.ee.ntu.edu.tw"
+    ],
+    "stable_ids": [
+      "2"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳定立",
+    "name_en": "Ting-Li Chen",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.stat.sinica.edu.tw/tlchen/"
+    ],
+    "stable_ids": [
+      "56"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "林偉傑",
+    "name_en": "Wai-Kit Lam",
+    "titles": [
+      "Assistant Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "027d042caf6facb1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://wk-lam.github.io/"
+    ],
+    "stable_ids": [
+      "24"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "黃瀚萱",
+    "name_en": "Huang, Hen-Hsen",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/hhhuang/contact_zh.html"
+    ],
+    "stable_ids": [
+      "69"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "陳縕儂",
+    "name_en": "Chen, Yun-Nung",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.csie.ntu.edu.tw/~yvchen/"
+    ],
+    "stable_ids": [
+      "59"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "李志煌",
+    "name_en": "Jhih-Huang Li",
+    "titles": [
+      "Assistant Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "8626047951afc90d@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://lijh.cadlag.space/"
+    ],
+    "stable_ids": [
+      "20"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "鄭卜壬",
+    "name_en": "Cheng, Pu-Jen",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.csie.ntu.edu.tw/~pjcheng/"
+    ],
+    "stable_ids": [
+      "50"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "紀建名",
+    "name_en": "Chien-Ming Chi",
+    "titles": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "High-dimensional Nonparametric Prediction, High-dimensional Nonparametric Inference, Time Series Analysis"
+    ],
+    "emails": [
+      "95dab6530f4068fa@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "107"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "古倫維",
+    "name_en": "Ku, Lun-Wei",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Natural Language Processing; Computational Linguistics; Sentiment (Opinion and Emotion) Analysis; Information Extraction and Retrieval; Chinese Language Processing; Topic Detection and Tracking; Artificial Intelligence; Computer Assisted Language Learning (CALL)"
+    ],
+    "emails": [
+      "9d97763ef7e2cfe0@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/lwku/index_zh.html",
+      "https://homepage.iis.sinica.edu.tw/pages/lwku/index_en.html"
+    ],
+    "stable_ids": [
+      "4"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "江蕙如",
+    "name_en": "Jiang, Iris Hui-Ru",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "100"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "鄭湘筠",
+    "name_en": "Cheng, Hsiang-Yun",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/hycheng/index_zh.html"
+    ],
+    "stable_ids": [
+      "51"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "黃名鉞",
+    "name_en": "Ming-Yueh Huang",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "74bef6fe8cf8805e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.stat.sinica.edu.tw/cht/index.php?act=researcher_manager&code=view&member=11"
+    ],
+    "stable_ids": [
+      "66"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "林太家",
+    "name_en": "Tai-Chia Lin",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/~tclin/"
+    ],
+    "stable_ids": [
+      "25"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "林仁俊",
+    "name_en": "Lin, Jen-Chun",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "602aa1a0244b75ad@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.google.com/site/jenchunlin/",
+      "https://homepage.iis.sinica.edu.tw/pages/jenchunlin/index_zh.html"
+    ],
+    "stable_ids": [
+      "23"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "鄭文皇",
+    "name_en": "Cheng, Wen-Huang",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Artificial intelligence, multimedia, computer vision, machine learning, digital transformation, financial technology"
+    ],
+    "emails": [
+      "2f8beda439a602d0@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.csie.ntu.edu.tw/~wenhuang/",
+      "https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php",
+      "http://www.cmlab.csie.ntu.edu.tw/"
+    ],
+    "stable_ids": [
+      "84"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "馬偉雲",
+    "name_en": "Ma, Wei-Yun",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.iis.sinica.edu.tw/pages/ma/contact_zh.html"
+    ],
+    "stable_ids": [
+      "64"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "洪士灝",
+    "name_en": "Hung, Shih-Hao",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.csie.ntu.edu.tw/~hungsh/"
+    ],
+    "stable_ids": [
+      "38"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "黃彥棕",
+    "name_en": "Yen-Tsung Huang",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.stat.sinica.edu.tw/cht/index.php?act=researcher_manager&code=view&member=13"
+    ],
+    "stable_ids": [
+      "67"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "江介宏",
+    "name_en": "Jiang, Jie-Hong Roland",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "邏輯、驗證、設計自動化"
+    ],
+    "emails": [
+      "902f8491f8608ca7@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://cc.ee.ntu.edu.tw/~jhjiang",
+      "https://alcom.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [
+      "99"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "修丕承",
+    "name_en": "Hsiu, Pi-Cheng",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "a8978d8e2d56c889@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/pchsiu/index_zh.html",
+      "https://emclab.citi.sinica.edu.tw/"
+    ],
+    "stable_ids": [
+      "80"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "崔茂培",
+    "name_en": "Mao-Pei Tsui",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21506"
+    ],
+    "stable_ids": [
+      "10"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "黃彥男",
+    "name_en": "Huang, Yen-Nun",
+    "titles": [
+      "Distinguished Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/yennunhuang/index_zh.html"
+    ],
+    "stable_ids": [
+      "68"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "王振男",
+    "name_en": "Jenn-Nan Wang",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/~jnwang/"
+    ],
+    "stable_ids": [
+      "43"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "李宏毅",
+    "name_en": "Lee, Hung-Yi",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "2790b597d357b931@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://speech.ee.ntu.edu.tw/~hylee/"
+    ],
+    "stable_ids": [
+      "18"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "謝亞平",
+    "name_en": "Ya-Ping Hsieh",
+    "titles": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Generative Models and Multi-agent Systems"
+    ],
+    "emails": [
+      "10fd3824aac24c49@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "109"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "李濬屹",
+    "name_en": "Lee, Chun-Yi",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "eb871848f60bfed9@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://elsalab.ai/",
+      "http://elsalab.ai/"
+    ],
+    "stable_ids": [
+      "97"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "吳廸融",
+    "name_en": "Wu, Ti-Rong",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "d2a086973279965f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.iis.sinica.edu.tw/pages/tirongwu"
+    ],
+    "stable_ids": [
+      "5"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "廖婉君",
+    "name_en": "Liao, Wanjiun",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://kiki.ee.ntu.edu.tw/#/advisor"
+    ],
+    "stable_ids": [
+      "11"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "李育杰",
+    "name_en": "Lee, Yuh-Jye",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://dsmilab.github.io/Yuh-Jye-Lee/"
+    ],
+    "stable_ids": [
+      "21"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "潘建興",
+    "name_en": "Frederick Kin Hing Phoa",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "67ac94093c4e8a51@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://staff.stat.sinica.edu.tw/fredphoa/"
+    ],
+    "stable_ids": [
+      "39"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "王建堯",
+    "name_en": "Wang, Chien Yao",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "4689943d037b490a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://iis.sinica.edu.tw/pages/kinyiu/index_zh.html"
+    ],
+    "stable_ids": [
+      "41"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "王偉仲",
+    "name_en": "Wei-Chung Wang",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "4f0315d4ee3482f2@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.wwang.info/ch",
+      "https://www.medalab.ai/"
+    ],
+    "stable_ids": [
+      "40"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "林守德",
+    "name_en": "Lin, Shou-De",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.csie.ntu.edu.tw/~sdlin/"
+    ],
+    "stable_ids": [
+      "26"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "楊欣洲",
+    "name_en": "Hsin-Chou Yang",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "2ac8bc928ef6b831@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://staff.stat.sinica.edu.tw/hsinchou/",
+      "https://sites.stat.sinica.edu.tw/SH/"
+    ],
+    "stable_ids": [
+      "34"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "連云暄",
+    "name_en": "Lien, Yun-Hsuan",
+    "titles": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "REINFORCEMENT LEARNING, GENERATIVE AI, FINTECH"
+    ],
+    "emails": [
+      "2ab1408f1bb78789@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://homepage.citi.sinica.edu.tw/pages/sophia.yh.lien/index_zh.html",
+      "https://homepage.citi.sinica.edu.tw/pages/sophia.yh.lien/contact_en.html"
+    ],
+    "stable_ids": [
+      "106"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "林澤",
+    "name_en": "Lin, Che",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "8d594b0cca83fd78@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.idssp.ee.ntu.edu.tw/che-lin",
+      "https://www.idssp.ee.ntu.edu.tw/idssp-home"
+    ],
+    "stable_ids": [
+      "29"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "楊得年",
+    "name_en": "Yang, De-Nian",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.iis.sinica.edu.tw/pages/dnyang/index_zh.html"
+    ],
+    "stable_ids": [
+      "33"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "巫芳璟",
+    "name_en": "Wu, Fang-Jing",
+    "titles": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Mobile Computing, Pervasive Intelligence, Wireless Networks, Internet of Smart Things, Distributed Intelligence and Artificial Intelligence, Privacy-preserving Techniques"
+    ],
+    "emails": [
+      "f266dae41113448a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.google.com/site/fangjingwu1/home"
+    ],
+    "stable_ids": [
+      "95"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "曹昱",
+    "name_en": "Tsao, Yu",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.citi.sinica.edu.tw/pages/yu.tsao/index_zh.html"
+    ],
+    "stable_ids": [
+      "17"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "林宗男",
+    "name_en": "Lin, Tsung-Nan",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?id=76"
+    ],
+    "stable_ids": [
+      "27"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "楊鈞澔",
+    "name_en": "Chun-Hao Yang",
+    "titles": [
+      "Assistant Professor (Joint Appointment Faculty)",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21728"
+    ],
+    "stable_ids": [
+      "35"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "顏佐榕",
+    "name_en": "Tso-Jung Yen",
+    "titles": [
+      "Associate Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://sites.stat.sinica.edu.tw/tjyen/"
+    ],
+    "stable_ids": [
+      "63"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "王志宇",
+    "name_en": "Wang, Chih-Yu",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "d41e78b02413dd9e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://tom.ky",
+      "http://snaclab.citi.sinica.edu.tw"
+    ],
+    "stable_ids": [
+      "42"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "余正道",
+    "name_en": "Jeng-Daw Yu",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Algebraic Geometry"
+    ],
+    "emails": [
+      "9dd1161347bd7226@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.math.ntu.edu.tw/entity_people/entity_people/21479",
+      "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21479"
+    ],
+    "stable_ids": [
+      "87"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "葉彌妍",
+    "name_en": "Yeh, Mi-Yen",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "ab6302e66f7c8c47@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://homepage.iis.sinica.edu.tw/pages/miyen/index_en.html"
+    ],
+    "stable_ids": [
+      "46"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "王釧茹",
+    "name_en": "Wang, Chuan-Ju",
+    "titles": [
+      "Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "b728cbfb81e09f1e@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.citi.sinica.edu.tw/pages/cjwang/index_zh.html"
+    ],
+    "stable_ids": [
+      "44"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "劉子毓",
+    "name_en": "Liu, Tzu-Yu",
+    "titles": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Artificial Intelligence, Machine Learning, Computational Biology, Bioinformatics"
+    ],
+    "emails": [
+      "1eb4c1d71e85b6fb@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?id=1090728",
+      "https://sites.google.com/view/joyliu-m2lab/"
+    ],
+    "stable_ids": [
+      "101"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "王有德",
+    "name_en": "Wang, Yu Te",
+    "titles": [
+      "Assistant Research Fellow",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [
+      "Brain-Computer Interface, Steady-State Visual Evoked Potential, Human Computer Interaction"
+    ],
+    "emails": [
+      "32b3748fc7aeb458@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://homepage.citi.sinica.edu.tw/pages/yutewang/index_zh.html"
+    ],
+    "stable_ids": [
+      "102"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "孫紹華",
+    "name_en": "Sun, Shao-Hua",
+    "titles": [
+      "Assistant Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "d88082384d665159@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://shaohua0116.github.io/"
+    ],
+    "stable_ids": [
+      "9"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "吳沛遠",
+    "name_en": "Wu, Pei-Yuan",
+    "titles": [
+      "Associate Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [
+      "32bc4ca01a588820@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/profile1.php?id=1060803"
+    ],
+    "stable_ids": [
+      "6"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "吳宗霖",
+    "name_en": "Wu, Tzong-Lin",
+    "titles": [
+      "Professor",
+      "核心師資"
+    ],
+    "education": [],
+    "research_interests": [],
+    "emails": [],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=core&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [
+      "104"
+    ],
+    "section": "核心師資"
+  },
+  {
+    "school_id": "ntu-ds",
+    "language": "en",
+    "name_zh": "林澤佑",
+    "name_en": "Lin, Tse-Yu",
+    "titles": [
+      "Project Assistant Professor",
+      "專案教師"
+    ],
+    "education": [],
+    "research_interests": [
+      "Geometric Reconstruction, HodgeRank"
+    ],
+    "emails": [
+      "ba783c73bc9fc358@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://ds.ntu.edu.tw/fn/getdata_faculty.php?type=pt&lang=en"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.cakeresume.com/006f39?locale=zh-TW"
+    ],
+    "stable_ids": [
+      "72"
+    ],
+    "section": "專案教師"
+  }
+]

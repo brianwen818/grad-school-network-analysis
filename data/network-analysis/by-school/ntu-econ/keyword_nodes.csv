@@ -1,0 +1,29 @@
+﻿keyword_en,parent_l2,parent_l1,n_faculty_in_unit,n_faculty_overall,idf
+Macroeconomics,Macroeconomics & Monetary Economics,Economics & Policy,13,16,3.746558565700614
+Econometrics,Econometrics,Economics & Policy,11,30,3.138388573955514
+Labor Economics,Applied & Policy Economics,Economics & Policy,10,11,4.113850056846357
+Industrial Organization,Microeconomics & Industrial Organization,Economics & Policy,7,7,4.559873911072915
+Monetary Economics,Macroeconomics & Monetary Economics,Economics & Policy,7,8,4.427836170705175
+Political Economy,Applied & Policy Economics,Economics & Policy,6,7,4.559873911072915
+Financial Economics,Asset Pricing & Investments,Asset Pricing & Financial Markets,5,7,4.559873911072915
+Microeconomics,Microeconomics & Industrial Organization,Economics & Policy,5,6,4.712528704308591
+Banking and Financial Institutions,Banking & Financial Technology,Financial Engineering & Risk,3,16,3.746558565700614
+Experimental Economics,Microeconomics & Industrial Organization,Economics & Policy,3,3,5.401174751987744
+Game Theory,Game Theory & Mechanism Design,Applied Mathematics & Operations Research,3,11,4.113850056846357
+Mechanism Design,Game Theory & Mechanism Design,Applied Mathematics & Operations Research,3,4,5.1149953094204985
+Public Economics,Applied & Policy Economics,Economics & Policy,3,3,5.401174751987744
+Development Economics,Applied & Policy Economics,Economics & Policy,2,2,5.805134968916488
+Financial Markets,Financial Markets & Microstructure,Asset Pricing & Financial Markets,2,14,3.8771357464277054
+Health Economics,Applied & Policy Economics,Economics & Policy,2,2,5.805134968916488
+International Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,2,14,3.8771357464277054
+Social Network Analysis,Social & Web Network Analytics,"Data, Databases & Knowledge Discovery",2,10,4.207673247529104
+Time Series Analysis,Time Series & Change Point Analysis,Statistics & Statistical Methods,2,11,4.113850056846357
+Asset Pricing,Asset Pricing & Investments,Asset Pricing & Financial Markets,1,20,3.529297384289471
+Corporate Finance,Corporate Finance & Valuation,Corporate Finance & Governance,1,34,3.0189891357182583
+Corporate Governance,Governance & Corporate Control,Corporate Finance & Governance,1,13,3.949763333410993
+Environmental Economics,Applied & Policy Economics,Economics & Policy,1,1,6.4967749901858625
+International Economics,Applied & Policy Economics,Economics & Policy,1,1,6.4967749901858625
+Investments,Asset Pricing & Investments,Asset Pricing & Financial Markets,1,16,3.746558565700614
+Machine Learning,Machine Learning & Deep Learning,AI & Machine Learning,1,94,2.084746593909529
+Market Microstructure,Financial Markets & Microstructure,Asset Pricing & Financial Markets,1,6,4.712528704308591
+Statistics,Statistical Theory & Inference,Statistics & Statistical Methods,1,32,3.076736057707078

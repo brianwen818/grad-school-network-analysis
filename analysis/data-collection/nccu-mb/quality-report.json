@@ -1,0 +1,26 @@
+{
+  "school_id": "nccu-mb",
+  "analyzed_at": "2026-09-09T09:25:47+08:00",
+  "faculty_count": 22,
+  "role_counts": {
+    "adjunct": 8,
+    "emeritus": 2,
+    "full_time": 17,
+    "project": 2
+  },
+  "merge_status_counts": {
+    "matched": 22
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 0.8182,
+    "education_zh": 0.9091,
+    "education_en": 0.9091,
+    "research_interests_zh": 0.9091,
+    "research_interests_en": 0.6818
+  },
+  "pages_visited": 96,
+  "warnings": [],
+  "errors": []
+}

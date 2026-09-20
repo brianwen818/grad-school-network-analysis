@@ -1,0 +1,273 @@
+﻿faculty_id,field,difference_type,zh_value,en_value
+ntu-ds-jengdawyu-e116138060,name,both_present_different,余正道,Jeng-Daw Yu
+ntu-ds-jengdawyu-e116138060,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-jengdawyu-e116138060,education,missing_both,,
+ntu-ds-jengdawyu-e116138060,research_interests,both_present_different,代數幾何,Algebraic Geometry
+ntu-ds-hsiupicheng-b36d32ffcb,name,both_present_different,修丕承,"Hsiu, Pi-Cheng"
+ntu-ds-hsiupicheng-b36d32ffcb,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-hsiupicheng-b36d32ffcb,education,missing_both,,
+ntu-ds-hsiupicheng-b36d32ffcb,research_interests,missing_en,"Artificial Intelligence of Things, Intermittent Deep Learning, TinyML",
+ntu-ds-liutzuyu-02a716bf8c,name,both_present_different,劉子毓,"Liu, Tzu-Yu"
+ntu-ds-liutzuyu-02a716bf8c,titles,both_present_different,副教授 | 核心師資,Associate Professor | 核心師資
+ntu-ds-liutzuyu-02a716bf8c,education,missing_both,,
+ntu-ds-liutzuyu-02a716bf8c,research_interests,both_present_different,人工智慧、機器學習、計算生物學、生物資訊學,"Artificial Intelligence, Machine Learning, Computational Biology, Bioinformatics"
+ntu-ds-kulunwei-57dc39df53,name,both_present_different,古倫維,"Ku, Lun-Wei"
+ntu-ds-kulunwei-57dc39df53,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-kulunwei-57dc39df53,education,missing_both,,
+ntu-ds-kulunwei-57dc39df53,research_interests,both_present_different,自然語言處理、計算語言學、主觀(意見與情感)分析、資訊的擷取與應用、中文語言處理、話題檢測與追踪、人工智慧、計算機輔助語言,Natural Language Processing; Computational Linguistics; Sentiment (Opinion and Emotion) Analysis; Information Extraction and Retrieval; Chinese Language Processing; Topic Detection and Tracking; Artificial Intelligence; Computer Assisted Language Learning (CALL)
+ntu-ds-wutzonglin-57f531b3cc,name,both_present_different,吳宗霖,"Wu, Tzong-Lin"
+ntu-ds-wutzonglin-57f531b3cc,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-wutzonglin-57f531b3cc,education,missing_both,,
+ntu-ds-wutzonglin-57f531b3cc,research_interests,missing_both,,
+ntu-ds-wutirong-522ceb7891,name,both_present_different,吳廸融,"Wu, Ti-Rong"
+ntu-ds-wutirong-522ceb7891,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-wutirong-522ceb7891,education,missing_both,,
+ntu-ds-wutirong-522ceb7891,research_interests,missing_en,電腦遊戲、強化式學習、機器學習、人工智慧,
+ntu-ds-wupeiyuan-e3ad438290,name,both_present_different,吳沛遠,"Wu, Pei-Yuan"
+ntu-ds-wupeiyuan-e3ad438290,titles,both_present_different,副教授 | 核心師資,Associate Professor | 核心師資
+ntu-ds-wupeiyuan-e3ad438290,education,missing_both,,
+ntu-ds-wupeiyuan-e3ad438290,research_interests,missing_en,機器學習、統計學習理論、資訊安全、電腦視覺、強化學習,
+ntu-ds-chunhsiunghsia-1536b23bc4,name,both_present_different,夏俊雄,Chun-Hsiung Hsia
+ntu-ds-chunhsiunghsia-1536b23bc4,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-chunhsiunghsia-1536b23bc4,education,missing_both,,
+ntu-ds-chunhsiunghsia-1536b23bc4,research_interests,missing_en,偏微分方程式、分歧理論,
+ntu-ds-sunshaohua-45e93fffca,name,both_present_different,孫紹華,"Sun, Shao-Hua"
+ntu-ds-sunshaohua-45e93fffca,titles,both_present_different,助理教授 | 核心師資,Assistant Professor | 核心師資
+ntu-ds-sunshaohua-45e93fffca,education,missing_both,,
+ntu-ds-sunshaohua-45e93fffca,research_interests,missing_en,"Artificial Intelligence, Machine Learning, Robot Learning, Reinforcement Learning, Program Synthesis (人工智慧、機器學習、機器人學習、強化學習、程式合成)",
+ntu-ds-maopeitsui-a962c4a38f,name,both_present_different,崔茂培,Mao-Pei Tsui
+ntu-ds-maopeitsui-a962c4a38f,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-maopeitsui-a962c4a38f,education,missing_both,,
+ntu-ds-maopeitsui-a962c4a38f,research_interests,missing_en,微分幾何、幾何分析、非線性偏微分方程,
+ntu-ds-wufangjing-301b084151,name,both_present_different,巫芳璟,"Wu, Fang-Jing"
+ntu-ds-wufangjing-301b084151,titles,both_present_different,副教授 | 核心師資,Associate Professor | 核心師資
+ntu-ds-wufangjing-301b084151,education,missing_both,,
+ntu-ds-wufangjing-301b084151,research_interests,both_present_different,行動計算、普適智慧、無線網路、智慧物聯網、分散式智慧與人工智慧、隱私保護技術,"Mobile Computing, Pervasive Intelligence, Wireless Networks, Internet of Smart Things, Distributed Intelligence and Artificial Intelligence, Privacy-preserving Techniques"
+ntu-ds-liaowanjiun-bb42b0521f,name,both_present_different,廖婉君,"Liao, Wanjiun"
+ntu-ds-liaowanjiun-bb42b0521f,titles,both_present_different,講座教授 | 核心師資,Professor | 核心師資
+ntu-ds-liaowanjiun-bb42b0521f,education,missing_both,,
+ntu-ds-liaowanjiun-bb42b0521f,research_interests,missing_en,無線網路、多媒體網路、區塊鏈(安全共識機制、隱私權保護、跨鍊技術)及數據分析、IoT技術,
+ntu-ds-changronaldy-a78313ae63,name,both_present_different,張佑榕,"Chang, Ronald Y."
+ntu-ds-changronaldy-a78313ae63,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-changronaldy-a78313ae63,education,missing_both,,
+ntu-ds-changronaldy-a78313ae63,research_interests,missing_en,無線通訊與網路、訊號處理與應用,
+ntu-ds-changyuanhao-1d8a41b51b,name,both_present_different,張原豪,"Chang, Yuan-Hao"
+ntu-ds-changyuanhao-1d8a41b51b,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-changyuanhao-1d8a41b51b,education,missing_both,,
+ntu-ds-changyuanhao-1d8a41b51b,research_interests,missing_en,內存/存儲系統、非易失性存儲器、操作系統、嵌入式系統,
+ntu-ds-changyaowen-7aab305c05,name,both_present_different,張耀文,"Chang, Yao-Wen"
+ntu-ds-changyaowen-7aab305c05,titles,both_present_different,特聘教授 | 核心師資,Professor | 核心師資
+ntu-ds-changyaowen-7aab305c05,education,missing_both,,
+ntu-ds-changyaowen-7aab305c05,research_interests,missing_en,"電子設計自動化, 積體電路實體設計, 積體電路可製造性設計",
+ntu-ds-hsinwenchang-2ac5eaf140,name,both_present_different,張馨文,Hsin-Wen Chang
+ntu-ds-hsinwenchang-2ac5eaf140,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-hsinwenchang-2ac5eaf140,education,missing_both,,
+ntu-ds-hsinwenchang-2ac5eaf140,research_interests,missing_both,,
+ntu-ds-tsaoyu-b589dcdd49,name,both_present_different,曹昱,"Tsao, Yu"
+ntu-ds-tsaoyu-b589dcdd49,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-tsaoyu-b589dcdd49,education,missing_both,,
+ntu-ds-tsaoyu-b589dcdd49,research_interests,missing_en,"語音辨識, 語音訊號處理, 生理訊號處理, 深層學習, 聲學模型",
+ntu-ds-leehungyi-7e8b2f51e2,name,both_present_different,李宏毅,"Lee, Hung-Yi"
+ntu-ds-leehungyi-7e8b2f51e2,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-leehungyi-7e8b2f51e2,education,missing_both,,
+ntu-ds-leehungyi-7e8b2f51e2,research_interests,missing_both,,
+ntu-ds-jhihhuangli-e48c60a9c2,name,both_present_different,李志煌,Jhih-Huang Li
+ntu-ds-jhihhuangli-e48c60a9c2,titles,both_present_different,助理教授 | 核心師資,Assistant Professor | 核心師資
+ntu-ds-jhihhuangli-e48c60a9c2,education,missing_both,,
+ntu-ds-jhihhuangli-e48c60a9c2,research_interests,missing_en,統計物理與機率,
+ntu-ds-leechunyi-1316e79287,name,both_present_different,李濬屹,"Lee, Chun-Yi"
+ntu-ds-leechunyi-1316e79287,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-leechunyi-1316e79287,education,missing_both,,
+ntu-ds-leechunyi-1316e79287,research_interests,missing_en,智慧型機器人、增強式學習、電腦視覺、虛實訓練及數位孿生、平行計算與計算機結構、電子電路設計自動化,
+ntu-ds-leeyuhjye-a5b58ea312,name,both_present_different,李育杰,"Lee, Yuh-Jye"
+ntu-ds-leeyuhjye-a5b58ea312,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-leeyuhjye-a5b58ea312,education,missing_both,,
+ntu-ds-leeyuhjye-a5b58ea312,research_interests,missing_en,IG數據和數據科學、數據挖掘、機器學習、數值最佳化、行動調查、訊息安全,
+ntu-ds-linjenchun-7e473e6695,name,both_present_different,林仁俊,"Lin, Jen-Chun"
+ntu-ds-linjenchun-7e473e6695,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-linjenchun-7e473e6695,education,missing_both,,
+ntu-ds-linjenchun-7e473e6695,research_interests,missing_en,Multimedia Content Understanding; Artificial Intelligence; Machine Learning; Affective Computing; 3D Virtual Humans,
+ntu-ds-waikitlam-60857c51d4,name,both_present_different,林偉傑,Wai-Kit Lam
+ntu-ds-waikitlam-60857c51d4,titles,both_present_different,助理教授 | 核心師資,Assistant Professor | 核心師資
+ntu-ds-waikitlam-60857c51d4,education,missing_both,,
+ntu-ds-waikitlam-60857c51d4,research_interests,missing_en,機率論,
+ntu-ds-taichialin-2475a3552a,name,both_present_different,林太家,Tai-Chia Lin
+ntu-ds-taichialin-2475a3552a,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-taichialin-2475a3552a,education,missing_both,,
+ntu-ds-taichialin-2475a3552a,research_interests,missing_en,數學建模、偏微分方程、變分學,
+ntu-ds-linshoude-660534418a,name,both_present_different,林守德,"Lin, Shou-De"
+ntu-ds-linshoude-660534418a,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-linshoude-660534418a,education,missing_both,,
+ntu-ds-linshoude-660534418a,research_interests,missing_en,機器發明、知識發現、自然語言處理、人工智慧、社群網路分析,
+ntu-ds-lintsungnan-86da824817,name,both_present_different,林宗男,"Lin, Tsung-Nan"
+ntu-ds-lintsungnan-86da824817,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-lintsungnan-86da824817,education,missing_both,,
+ntu-ds-lintsungnan-86da824817,research_interests,missing_en,行動網際網路、網路資訊安全、機器學習、深度學習、大數據網路安全,
+ntu-ds-linche-f9f2c9629d,name,both_present_different,林澤,"Lin, Che"
+ntu-ds-linche-f9f2c9629d,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-linche-f9f2c9629d,education,missing_both,,
+ntu-ds-linche-f9f2c9629d,research_interests,missing_en,"Deep Learning, Data Science, Medical AI, FinTech, Optimization Theory, and Systems Biology.",
+ntu-ds-lintseyu-77ed214690,name,both_present_different,林澤佑,"Lin, Tse-Yu"
+ntu-ds-lintseyu-77ed214690,titles,both_present_different,專案計畫助理教授 | 專案教師,Project Assistant Professor | 專案教師
+ntu-ds-lintseyu-77ed214690,education,missing_both,,
+ntu-ds-lintseyu-77ed214690,research_interests,both_present_different,幾何重建、HodgeRank,"Geometric Reconstruction, HodgeRank"
+ntu-ds-gaspardbernard-b86127ba99,name,both_present_different,柏嘉偲,Gaspard Bernard
+ntu-ds-gaspardbernard-b86127ba99,titles,both_present_different,助研究員 | 核心師資,Assistant Research Fellow | 核心師資
+ntu-ds-gaspardbernard-b86127ba99,education,missing_both,,
+ntu-ds-yangdenian-e6edbc63e2,name,both_present_different,楊得年,"Yang, De-Nian"
+ntu-ds-yangdenian-e6edbc63e2,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-yangdenian-e6edbc63e2,education,missing_both,,
+ntu-ds-yangdenian-e6edbc63e2,research_interests,missing_en,社交網絡和移動數據管理、網絡和移動應用程序,
+ntu-ds-hsinchouyang-a5478bbe7e,name,both_present_different,楊欣洲,Hsin-Chou Yang
+ntu-ds-hsinchouyang-a5478bbe7e,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-hsinchouyang-a5478bbe7e,education,missing_both,,
+ntu-ds-hsinchouyang-a5478bbe7e,research_interests,missing_en,精準醫療、智慧醫療、生醫大數據,
+ntu-ds-chunhaoyang-8f0203e6f5,name,both_present_different,楊鈞澔,Chun-Hao Yang
+ntu-ds-chunhaoyang-8f0203e6f5,titles,both_present_different,助理教授 | 核心師資,Assistant Professor (Joint Appointment Faculty) | 核心師資
+ntu-ds-chunhaoyang-8f0203e6f5,education,missing_both,,
+ntu-ds-chunhaoyang-8f0203e6f5,research_interests,missing_en,幾何統計、幾何與深度學習在醫學影像與電腦視覺上之應用、貝氏分析,
+ntu-ds-jiangjiehongroland-e6ba2046e1,name,both_present_different,江介宏,"Jiang, Jie-Hong Roland"
+ntu-ds-jiangjiehongroland-e6ba2046e1,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-jiangjiehongroland-e6ba2046e1,education,missing_both,,
+ntu-ds-jiangirishuiru-ab283ad3ea,name,both_present_different,江蕙如,"Jiang, Iris Hui-Ru"
+ntu-ds-jiangirishuiru-ab283ad3ea,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-jiangirishuiru-ab283ad3ea,education,missing_both,,
+ntu-ds-jiangirishuiru-ab283ad3ea,research_interests,missing_both,,
+ntu-ds-chintsangchiang-1f13653719,name,both_present_different,江金倉,Chin-Tsang Chiang
+ntu-ds-chintsangchiang-1f13653719,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-chintsangchiang-1f13653719,education,missing_both,,
+ntu-ds-chintsangchiang-1f13653719,research_interests,both_present_different,存活及遞迴性資料分析、半母數降維分析、接收器操作特徵曲線分析,"Bootstrapping Methods, Nonparametric Smoothing Methods, Recurrent Event Data Analysis"
+ntu-ds-hungshihhao-96d729e98f,name,both_present_different,洪士灝,"Hung, Shih-Hao"
+ntu-ds-hungshihhao-96d729e98f,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-hungshihhao-96d729e98f,education,missing_both,,
+ntu-ds-hungshihhao-96d729e98f,research_interests,missing_en,電腦應用與架構相互最佳化、計算機架構與平行處理、計算機效能評估與最佳化、嵌入式系統設計,
+ntu-ds-hongdingyong-97b7056823,name,both_present_different,洪鼎詠,"Hong, Ding-Yong"
+ntu-ds-hongdingyong-97b7056823,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-hongdingyong-97b7056823,education,missing_both,,
+ntu-ds-frederickkinhingphoa-95c5a56acb,name,both_present_different,潘建興,Frederick Kin Hing Phoa
+ntu-ds-frederickkinhingphoa-95c5a56acb,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-frederickkinhingphoa-95c5a56acb,education,missing_both,,
+ntu-ds-frederickkinhingphoa-95c5a56acb,research_interests,missing_en,https://staff.stat.sinica.edu.tw/fredphoa/research.html,
+ntu-ds-weichungwang-46d1252dcf,name,both_present_different,王偉仲,Wei-Chung Wang
+ntu-ds-weichungwang-46d1252dcf,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-weichungwang-46d1252dcf,education,missing_both,,
+ntu-ds-weichungwang-46d1252dcf,research_interests,missing_en,智慧醫療、資料科學計算、高效能科學計算、矩陣計算、數值最佳化,
+ntu-ds-wangchienyao-f1c3a0bfd6,name,both_present_different,王建堯,"Wang, Chien Yao"
+ntu-ds-wangchienyao-f1c3a0bfd6,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-wangchienyao-f1c3a0bfd6,education,missing_both,,
+ntu-ds-wangchienyao-f1c3a0bfd6,research_interests,missing_en,機器學習、深度學習、多媒體訊號處理、電腦視覺,
+ntu-ds-wangchihyu-3933d444d6,name,both_present_different,王志宇,"Wang, Chih-Yu"
+ntu-ds-wangchihyu-3933d444d6,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-wangchihyu-3933d444d6,education,missing_both,,
+ntu-ds-wangchihyu-3933d444d6,research_interests,missing_en,"Wireless Communication, Internet of Things, Edge Intelligence, Data Science",
+ntu-ds-jennnanwang-96b57e19a5,name,both_present_different,王振男,Jenn-Nan Wang
+ntu-ds-jennnanwang-96b57e19a5,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-jennnanwang-96b57e19a5,education,missing_both,,
+ntu-ds-jennnanwang-96b57e19a5,research_interests,missing_en,偏微分方程、反問題,
+ntu-ds-wangyute-7f585252dd,name,both_present_different,王有德,"Wang, Yu Te"
+ntu-ds-wangyute-7f585252dd,titles,both_present_different,助研究員 | 核心師資,Assistant Research Fellow | 核心師資
+ntu-ds-wangyute-7f585252dd,education,missing_both,,
+ntu-ds-wangyute-7f585252dd,research_interests,both_present_different,"腦機介面,人機互動,穩態視覺刺激電位","Brain-Computer Interface, Steady-State Visual Evoked Potential, Human Computer Interaction"
+ntu-ds-wangchuanju-ba03252081,name,both_present_different,王釧茹,"Wang, Chuan-Ju"
+ntu-ds-wangchuanju-ba03252081,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-wangchuanju-ba03252081,education,missing_both,,
+ntu-ds-wangchuanju-ba03252081,research_interests,missing_en,計量金融、財務資料分析、資料探勘、機器學習,
+ntu-ds-chienmingchi-7c50de2827,name,both_present_different,紀建名,Chien-Ming Chi
+ntu-ds-chienmingchi-7c50de2827,titles,both_present_different,助研究員 | 核心師資,Assistant Research Fellow | 核心師資
+ntu-ds-chienmingchi-7c50de2827,education,missing_both,,
+ntu-ds-chienmingchi-7c50de2827,research_interests,both_present_different,高維無母數預測(High-dimensional Nonparametric Prediction) 高維無母數推論(High-dimensional Nonparametric Inference) 時間序列分析(Time Series Analysis),"High-dimensional Nonparametric Prediction, High-dimensional Nonparametric Inference, Time Series Analysis"
+ntu-ds-yehmiyen-560d12ebe9,name,both_present_different,葉彌妍,"Yeh, Mi-Yen"
+ntu-ds-yehmiyen-560d12ebe9,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-yehmiyen-560d12ebe9,education,missing_both,,
+ntu-ds-yehmiyen-560d12ebe9,research_interests,missing_en,資料探勘、巨量資料分析、機器學習、人工智慧應用,
+ntu-ds-yapinghsieh-d16fa3e4c8,name,both_present_different,謝亞平,Ya-Ping Hsieh
+ntu-ds-yapinghsieh-d16fa3e4c8,titles,both_present_different,助研究員 | 核心師資,Assistant Research Fellow | 核心師資
+ntu-ds-yapinghsieh-d16fa3e4c8,education,missing_both,,
+ntu-ds-yapinghsieh-d16fa3e4c8,research_interests,both_present_different,生成模型與多Agent系統(Generative Models and Multi-agent Systems),Generative Models and Multi-agent Systems
+ntu-ds-hsiehhungyun-d8718bc559,name,both_present_different,謝宏昀,"Hsieh, Hung-Yun"
+ntu-ds-hsiehhungyun-d8718bc559,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-hsiehhungyun-d8718bc559,education,missing_both,,
+ntu-ds-hsiehhungyun-d8718bc559,research_interests,missing_en,網路科學、資訊安全與隱私、假新聞與假帳號偵測、人工智慧幻覺偵測與研究,
+ntu-ds-lienyunhsuan-dd216d994b,name,both_present_different,連云暄,"Lien, Yun-Hsuan"
+ntu-ds-lienyunhsuan-dd216d994b,titles,both_present_different,助研究員 | 核心師資,Assistant Research Fellow | 核心師資
+ntu-ds-lienyunhsuan-dd216d994b,education,missing_both,,
+ntu-ds-lienyunhsuan-dd216d994b,research_interests,both_present_different,強化學習、生成式人工智慧、金融科技,"REINFORCEMENT LEARNING, GENERATIVE AI, FINTECH"
+ntu-ds-chengpujen-ead86da3e9,name,both_present_different,鄭卜壬,"Cheng, Pu-Jen"
+ntu-ds-chengpujen-ead86da3e9,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-chengpujen-ead86da3e9,education,missing_both,,
+ntu-ds-chengpujen-ead86da3e9,research_interests,missing_en,網路探勘、資訊檢索、多媒體資料庫,
+ntu-ds-chengwenhuang-7531301010,name,both_present_different,鄭文皇,"Cheng, Wen-Huang"
+ntu-ds-chengwenhuang-7531301010,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-chengwenhuang-7531301010,education,missing_both,,
+ntu-ds-chengwenhuang-7531301010,research_interests,both_present_different,人工智慧、多媒體 、電腦視覺、機器學習、數位轉型 、金融科技,"Artificial intelligence, multimedia, computer vision, machine learning, digital transformation, financial technology"
+ntu-ds-chenghsiangyun-dd0d28d44a,name,both_present_different,鄭湘筠,"Cheng, Hsiang-Yun"
+ntu-ds-chenghsiangyun-dd0d28d44a,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-chenghsiangyun-dd0d28d44a,education,missing_both,,
+ntu-ds-chenghsiangyun-dd0d28d44a,research_interests,missing_en,計算機架構,
+ntu-ds-chenlingjyh-5fa406eb09,name,both_present_different,陳伶志,"Chen, Ling-Jyh"
+ntu-ds-chenlingjyh-5fa406eb09,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-chenlingjyh-5fa406eb09,education,missing_both,,
+ntu-ds-chenlingjyh-5fa406eb09,research_interests,missing_en,物聯網、大數據分析,
+ntu-ds-chenhsinhsi-6c5257ce25,name,both_present_different,陳信希,"Chen, Hsin-Hsi"
+ntu-ds-chenhsinhsi-6c5257ce25,titles,both_present_different,特聘教授 | 核心師資,Distinguished Professor | 核心師資
+ntu-ds-chenhsinhsi-6c5257ce25,education,missing_both,,
+ntu-ds-chenhsinhsi-6c5257ce25,research_interests,missing_en,自然語言處理、資訊檢索與擷取、網路探勘,
+ntu-ds-chunhouhchen-0af0210f26,name,both_present_different,陳君厚,Chun-Houh Chen
+ntu-ds-chunhouhchen-0af0210f26,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-chunhouhchen-0af0210f26,education,missing_both,,
+ntu-ds-chunhouhchen-0af0210f26,research_interests,missing_en,資料視覺化、矩陣視覺化、多變量統計分析、健康大數據、智慧醫療,
+ntu-ds-tinglichen-27e41ae34a,name,both_present_different,陳定立,Ting-Li Chen
+ntu-ds-tinglichen-27e41ae34a,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-tinglichen-27e41ae34a,education,missing_both,,
+ntu-ds-tinglichen-27e41ae34a,research_interests,missing_en,統計計算,
+ntu-ds-chenshangtse-47653327f1,name,both_present_different,陳尚澤,"Chen, Shang-Tse"
+ntu-ds-chenshangtse-47653327f1,titles,both_present_different,副教授 | 核心師資,Associate Professor | 核心師資
+ntu-ds-chenshangtse-47653327f1,education,missing_both,,
+ntu-ds-chenshangtse-47653327f1,research_interests,both_present_different,"機器學習, 資料探勘, 資訊安全, 賽局理論","Machine learning, Security, Algorithmic Game Theory, and Data Mining"
+ntu-ds-chenchusong-9acf325951,name,both_present_different,陳祝嵩,"Chen, Chu-Song"
+ntu-ds-chenchusong-9acf325951,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-chenchusong-9acf325951,education,missing_both,,
+ntu-ds-chenchusong-9acf325951,research_interests,missing_en,深度學習、電腦視覺、機器學習、影像處理、多媒體處理、大數據分析,
+ntu-ds-chenyunnung-e290620faf,name,both_present_different,陳縕儂,"Chen, Yun-Nung"
+ntu-ds-chenyunnung-e290620faf,titles,both_present_different,教授 | 核心師資,Professor | 核心師資
+ntu-ds-chenyunnung-e290620faf,education,missing_both,,
+ntu-ds-chenyunnung-e290620faf,research_interests,missing_en,語言理解、對話系統、機器智慧、自然語言處理,
+ntu-ds-ikunchen-568f578c62,name,both_present_different,陳逸昆,I-Kun Chen
+ntu-ds-ikunchen-568f578c62,titles,both_present_different,副教授 | 核心師資,Associate Professor | 核心師資
+ntu-ds-ikunchen-568f578c62,education,missing_both,,
+ntu-ds-ikunchen-568f578c62,research_interests,missing_en,偏微分方程,
+ntu-ds-chenyufang-70dded9973,name,both_present_different,陳郁方,"Chen, Yu-Fang"
+ntu-ds-chenyufang-70dded9973,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-chenyufang-70dded9973,education,missing_both,,
+ntu-ds-chenmingsyan-8fa63ae675,name,both_present_different,陳銘憲,"Chen, Ming-Syan"
+ntu-ds-chenmingsyan-8fa63ae675,titles,both_present_different,講座教授 | 核心師資,Professor | 核心師資
+ntu-ds-chenmingsyan-8fa63ae675,education,missing_both,,
+ntu-ds-chenmingsyan-8fa63ae675,research_interests,missing_en,Data Mining and Machine Learning,
+ntu-ds-chenjuncheng-090ef61af5,name,both_present_different,陳駿丞,"Chen, Jun-Cheng"
+ntu-ds-chenjuncheng-090ef61af5,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-chenjuncheng-090ef61af5,education,missing_both,,
+ntu-ds-chenjuncheng-090ef61af5,research_interests,missing_en,"從事深度學習於電腦視覺相關研究。詳細內容包含人臉辨識、動作識別、物體偵測和追蹤、深偽圖片生成和檢測、對抗樣本、深度生成模型(VAE, GAN, Glow, DDPM, etc)或其他電腦視覺與人工智慧安全(AI Security)相關研究。",
+ntu-ds-tsojungyen-ab6f30a1f1,name,both_present_different,顏佐榕,Tso-Jung Yen
+ntu-ds-tsojungyen-ab6f30a1f1,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-tsojungyen-ab6f30a1f1,education,missing_both,,
+ntu-ds-tsojungyen-ab6f30a1f1,research_interests,missing_en,貝氏統計,
+ntu-ds-maweiyun-d303532c6d,name,both_present_different,馬偉雲,"Ma, Wei-Yun"
+ntu-ds-maweiyun-d303532c6d,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-maweiyun-d303532c6d,education,missing_both,,
+ntu-ds-maweiyun-d303532c6d,research_interests,missing_en,自然語言處理、機器學習、深度學習、知識表現與推理、自然語言理解、問題系統,
+ntu-ds-mingyuehhuang-e0d8d52531,name,both_present_different,黃名鉞,Ming-Yueh Huang
+ntu-ds-mingyuehhuang-e0d8d52531,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-mingyuehhuang-e0d8d52531,education,missing_both,,
+ntu-ds-mingyuehhuang-e0d8d52531,research_interests,missing_en,"Causal inference, sufficient dimension reduction, semiparametric modeling, survival and recurrent event data analysis, variable selection",
+ntu-ds-yentsunghuang-f1bca29996,name,both_present_different,黃彥棕,Yen-Tsung Huang
+ntu-ds-yentsunghuang-f1bca29996,titles,both_present_different,研究員 | 核心師資,Research Fellow | 核心師資
+ntu-ds-yentsunghuang-f1bca29996,education,missing_both,,
+ntu-ds-yentsunghuang-f1bca29996,research_interests,missing_en,生物統計、統計遺傳學,
+ntu-ds-huangyennun-474cb98b48,name,both_present_different,黃彥男,"Huang, Yen-Nun"
+ntu-ds-huangyennun-474cb98b48,titles,both_present_different,特聘研究員 | 核心師資,Distinguished Research Fellow | 核心師資
+ntu-ds-huangyennun-474cb98b48,education,missing_both,,
+ntu-ds-huangyennun-474cb98b48,research_interests,missing_en,行動通訊、多媒體系統,
+ntu-ds-huanghenhsen-b5b46283ba,name,both_present_different,黃瀚萱,"Huang, Hen-Hsen"
+ntu-ds-huanghenhsen-b5b46283ba,titles,both_present_different,副研究員 | 核心師資,Associate Research Fellow | 核心師資
+ntu-ds-huanghenhsen-b5b46283ba,education,missing_both,,
+ntu-ds-huanghenhsen-b5b46283ba,research_interests,missing_en,自然語言處理、知識庫組織與應用、醫學文件處理,

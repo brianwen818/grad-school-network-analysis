@@ -1,0 +1,30 @@
+{
+  "school_id": "nthu-cs",
+  "analyzed_at": "2026-09-09T09:28:57+08:00",
+  "faculty_count": 81,
+  "role_counts": {
+    "adjunct": 12,
+    "chair": 8,
+    "emeritus": 20,
+    "full_time": 45,
+    "joint": 11,
+    "practice": 3
+  },
+  "merge_status_counts": {
+    "en_only": 3,
+    "matched": 61,
+    "zh_only": 17
+  },
+  "bilingual_match_rate": 0.7531,
+  "field_completion_rates": {
+    "name_zh": 0.963,
+    "name_en": 0.7901,
+    "education_zh": 0.963,
+    "education_en": 0.7901,
+    "research_interests_zh": 0.963,
+    "research_interests_en": 0.7901
+  },
+  "pages_visited": 14,
+  "warnings": [],
+  "errors": []
+}

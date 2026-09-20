@@ -1,0 +1,171 @@
+﻿keyword_en,parent_l2,parent_l1,faculty_count,source,note
+Artificial Intelligence,Artificial Intelligence & Generative Models,AI & Machine Learning,109,explicit,umbrella term written verbatim by faculty
+Generative AI,Artificial Intelligence & Generative Models,AI & Machine Learning,7,inferred,parent levels assigned by curated taxonomy
+Trustworthy AI,Artificial Intelligence & Generative Models,AI & Machine Learning,4,inferred,parent levels assigned by curated taxonomy
+Machine Learning,Machine Learning & Deep Learning,AI & Machine Learning,94,explicit,umbrella term written verbatim by faculty
+Deep Learning,Machine Learning & Deep Learning,AI & Machine Learning,54,explicit,umbrella term written verbatim by faculty
+Reinforcement Learning,Machine Learning & Deep Learning,AI & Machine Learning,12,inferred,parent levels assigned by curated taxonomy
+Neural Networks,Machine Learning & Deep Learning,AI & Machine Learning,11,inferred,parent levels assigned by curated taxonomy
+Evolutionary Computation,Machine Learning & Deep Learning,AI & Machine Learning,4,inferred,parent levels assigned by curated taxonomy
+Fuzzy Systems,Machine Learning & Deep Learning,AI & Machine Learning,2,inferred,parent levels assigned by curated taxonomy
+Neuromorphic Computing,Machine Learning & Deep Learning,AI & Machine Learning,2,inferred,parent levels assigned by curated taxonomy
+Federated Learning,Machine Learning & Deep Learning,AI & Machine Learning,1,inferred,parent levels assigned by curated taxonomy
+Natural Language Processing,Natural Language & Speech Processing,AI & Machine Learning,22,inferred,parent levels assigned by curated taxonomy
+Speech Recognition,Natural Language & Speech Processing,AI & Machine Learning,6,inferred,parent levels assigned by curated taxonomy
+Computational Linguistics,Natural Language & Speech Processing,AI & Machine Learning,2,inferred,parent levels assigned by curated taxonomy
+Machine Translation,Natural Language & Speech Processing,AI & Machine Learning,2,inferred,parent levels assigned by curated taxonomy
+Game Theory,Game Theory & Mechanism Design,Applied Mathematics & Operations Research,11,explicit,umbrella term written verbatim by faculty
+Mechanism Design,Game Theory & Mechanism Design,Applied Mathematics & Operations Research,4,explicit,umbrella term written verbatim by faculty
+Partial Differential Equations,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,5,inferred,parent levels assigned by curated taxonomy
+Scientific Computing,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,5,explicit,umbrella term written verbatim by faculty
+Numerical Analysis,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,3,inferred,parent levels assigned by curated taxonomy
+Algebraic Geometry,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,1,inferred,parent levels assigned by curated taxonomy
+Differential Geometry,Mathematical Analysis & Scientific Computing,Applied Mathematics & Operations Research,1,inferred,parent levels assigned by curated taxonomy
+Optimization,Optimization & Operations Research,Applied Mathematics & Operations Research,33,explicit,umbrella term written verbatim by faculty
+Operations Research,Optimization & Operations Research,Applied Mathematics & Operations Research,5,explicit,umbrella term written verbatim by faculty
+Queueing Theory,Optimization & Operations Research,Applied Mathematics & Operations Research,2,inferred,parent levels assigned by curated taxonomy
+Data Envelopment Analysis,Optimization & Operations Research,Applied Mathematics & Operations Research,1,inferred,parent levels assigned by curated taxonomy
+Asset Pricing,Asset Pricing & Investments,Asset Pricing & Financial Markets,20,explicit,umbrella term written verbatim by faculty
+Investments,Asset Pricing & Investments,Asset Pricing & Financial Markets,16,explicit,umbrella term written verbatim by faculty
+Financial Economics,Asset Pricing & Investments,Asset Pricing & Financial Markets,7,inferred,parent levels assigned by curated taxonomy
+Asset Management,Asset Pricing & Investments,Asset Pricing & Financial Markets,2,inferred,parent levels assigned by curated taxonomy
+Portfolio Management,Asset Pricing & Investments,Asset Pricing & Financial Markets,2,inferred,parent levels assigned by curated taxonomy
+International Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,14,explicit,umbrella term written verbatim by faculty
+Behavioral Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,13,inferred,parent levels assigned by curated taxonomy
+Real Estate Finance,Behavioral & International Finance,Asset Pricing & Financial Markets,4,inferred,parent levels assigned by curated taxonomy
+Financial Markets,Financial Markets & Microstructure,Asset Pricing & Financial Markets,14,explicit,umbrella term written verbatim by faculty
+Market Microstructure,Financial Markets & Microstructure,Asset Pricing & Financial Markets,6,inferred,parent levels assigned by curated taxonomy
+Bioinformatics,Bioinformatics & Systems Biology,Biomedical & Health Informatics,31,explicit,umbrella term written verbatim by faculty
+Systems Biology,Bioinformatics & Systems Biology,Biomedical & Health Informatics,5,explicit,umbrella term written verbatim by faculty
+Biostatistics,Biostatistics & Survival Analysis,Biomedical & Health Informatics,12,explicit,umbrella term written verbatim by faculty
+Survival Analysis,Biostatistics & Survival Analysis,Biomedical & Health Informatics,5,explicit,umbrella term written verbatim by faculty
+Medical Informatics,Medical Informatics & Imaging,Biomedical & Health Informatics,15,explicit,umbrella term written verbatim by faculty
+Smart Healthcare,Medical Informatics & Imaging,Biomedical & Health Informatics,15,inferred,parent levels assigned by curated taxonomy
+Medical Imaging,Medical Informatics & Imaging,Biomedical & Health Informatics,9,inferred,parent levels assigned by curated taxonomy
+Corporate Finance,Corporate Finance & Valuation,Corporate Finance & Governance,34,explicit,umbrella term written verbatim by faculty
+Financial Management,Corporate Finance & Valuation,Corporate Finance & Governance,11,inferred,parent levels assigned by curated taxonomy
+Accounting,Corporate Finance & Valuation,Corporate Finance & Governance,8,inferred,parent levels assigned by curated taxonomy
+Business Valuation,Corporate Finance & Valuation,Corporate Finance & Governance,1,inferred,parent levels assigned by curated taxonomy
+Initial Public Offerings,Corporate Finance & Valuation,Corporate Finance & Governance,1,inferred,parent levels assigned by curated taxonomy
+Corporate Governance,Governance & Corporate Control,Corporate Finance & Governance,13,inferred,parent levels assigned by curated taxonomy
+Mergers and Acquisitions,Governance & Corporate Control,Corporate Finance & Governance,4,inferred,parent levels assigned by curated taxonomy
+Institutional Investors,Governance & Corporate Control,Corporate Finance & Governance,2,inferred,parent levels assigned by curated taxonomy
+Special Purpose Acquisition Companies,Governance & Corporate Control,Corporate Finance & Governance,1,inferred,parent levels assigned by curated taxonomy
+Data Mining,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",39,explicit,umbrella term written verbatim by faculty
+Big Data Analytics,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",27,explicit,umbrella term written verbatim by faculty
+Information Retrieval,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",15,inferred,parent levels assigned by curated taxonomy
+Data Science,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",13,inferred,parent levels assigned by curated taxonomy
+Web Mining,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",7,inferred,parent levels assigned by curated taxonomy
+Recommender Systems,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",4,inferred,parent levels assigned by curated taxonomy
+Scientific Modeling,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",2,inferred,parent levels assigned by curated taxonomy
+Text Mining,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",2,inferred,parent levels assigned by curated taxonomy
+Business Data Analytics,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",1,inferred,parent levels assigned by curated taxonomy
+Spatial Clustering,Data Mining & Big Data Analytics,"Data, Databases & Knowledge Discovery",1,inferred,parent levels assigned by curated taxonomy
+Databases,Database & Storage Systems,"Data, Databases & Knowledge Discovery",22,explicit,umbrella term written verbatim by faculty
+Storage Systems,Database & Storage Systems,"Data, Databases & Knowledge Discovery",11,explicit,umbrella term written verbatim by faculty
+Social Network Analysis,Social & Web Network Analytics,"Data, Databases & Knowledge Discovery",10,inferred,parent levels assigned by curated taxonomy
+Social Media Analytics,Social & Web Network Analytics,"Data, Databases & Knowledge Discovery",6,inferred,parent levels assigned by curated taxonomy
+Labor Economics,Applied & Policy Economics,Economics & Policy,11,inferred,parent levels assigned by curated taxonomy
+Political Economy,Applied & Policy Economics,Economics & Policy,7,inferred,parent levels assigned by curated taxonomy
+Public Economics,Applied & Policy Economics,Economics & Policy,3,inferred,parent levels assigned by curated taxonomy
+Development Economics,Applied & Policy Economics,Economics & Policy,2,inferred,parent levels assigned by curated taxonomy
+Health Economics,Applied & Policy Economics,Economics & Policy,2,inferred,parent levels assigned by curated taxonomy
+Environmental Economics,Applied & Policy Economics,Economics & Policy,1,inferred,parent levels assigned by curated taxonomy
+International Economics,Applied & Policy Economics,Economics & Policy,1,inferred,parent levels assigned by curated taxonomy
+Econometrics,Econometrics,Economics & Policy,30,explicit,umbrella term written verbatim by faculty
+Macroeconomics,Macroeconomics & Monetary Economics,Economics & Policy,16,explicit,umbrella term written verbatim by faculty
+Monetary Economics,Macroeconomics & Monetary Economics,Economics & Policy,8,explicit,umbrella term written verbatim by faculty
+Industrial Organization,Microeconomics & Industrial Organization,Economics & Policy,7,explicit,umbrella term written verbatim by faculty
+Microeconomics,Microeconomics & Industrial Organization,Economics & Policy,6,explicit,umbrella term written verbatim by faculty
+Experimental Economics,Microeconomics & Industrial Organization,Economics & Policy,3,inferred,parent levels assigned by curated taxonomy
+Banking and Financial Institutions,Banking & Financial Technology,Financial Engineering & Risk,16,inferred,parent levels assigned by curated taxonomy
+Financial Technology,Banking & Financial Technology,Financial Engineering & Risk,15,explicit,umbrella term written verbatim by faculty
+Sustainable Finance,Banking & Financial Technology,Financial Engineering & Risk,5,inferred,parent levels assigned by curated taxonomy
+Personal Finance,Banking & Financial Technology,Financial Engineering & Risk,2,inferred,parent levels assigned by curated taxonomy
+Cryptocurrency,Banking & Financial Technology,Financial Engineering & Risk,1,inferred,parent levels assigned by curated taxonomy
+Financial Derivatives,Derivatives & Financial Engineering,Financial Engineering & Risk,14,inferred,parent levels assigned by curated taxonomy
+Financial Engineering,Derivatives & Financial Engineering,Financial Engineering & Risk,14,explicit,umbrella term written verbatim by faculty
+Interest Rate Modeling,Derivatives & Financial Engineering,Financial Engineering & Risk,2,inferred,parent levels assigned by curated taxonomy
+Risk Management,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,23,inferred,parent levels assigned by curated taxonomy
+Credit Risk,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,6,inferred,parent levels assigned by curated taxonomy
+Actuarial Science,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,4,explicit,umbrella term written verbatim by faculty
+Insurance,"Risk, Insurance & Actuarial Science",Financial Engineering & Risk,4,explicit,umbrella term written verbatim by faculty
+Digital Transformation,Digital Business & E-Commerce,Information Systems & Management,4,inferred,parent levels assigned by curated taxonomy
+E-Commerce,Digital Business & E-Commerce,Information Systems & Management,3,explicit,umbrella term written verbatim by faculty
+Service Science,Digital Business & E-Commerce,Information Systems & Management,1,inferred,parent levels assigned by curated taxonomy
+Entrepreneurship,"Innovation, Entrepreneurship & Management",Information Systems & Management,12,explicit,umbrella term written verbatim by faculty
+Knowledge Management,"Innovation, Entrepreneurship & Management",Information Systems & Management,6,inferred,parent levels assigned by curated taxonomy
+Innovation Management,"Innovation, Entrepreneurship & Management",Information Systems & Management,4,inferred,parent levels assigned by curated taxonomy
+Operations Management,"Innovation, Entrepreneurship & Management",Information Systems & Management,4,inferred,parent levels assigned by curated taxonomy
+Cloud Computing,Cloud & Edge Computing,Networks & Communications,14,inferred,parent levels assigned by curated taxonomy
+Edge Computing,Cloud & Edge Computing,Networks & Communications,4,explicit,umbrella term written verbatim by faculty
+Computer Networks,Computer & Wireless Networks,Networks & Communications,33,inferred,parent levels assigned by curated taxonomy
+Wireless Networks,Computer & Wireless Networks,Networks & Communications,25,explicit,umbrella term written verbatim by faculty
+Wireless Communications,Computer & Wireless Networks,Networks & Communications,10,inferred,parent levels assigned by curated taxonomy
+Internet of Things,"Mobile, IoT & Pervasive Computing",Networks & Communications,30,inferred,parent levels assigned by curated taxonomy
+Mobile Computing,"Mobile, IoT & Pervasive Computing",Networks & Communications,18,inferred,parent levels assigned by curated taxonomy
+Pervasive Computing,"Mobile, IoT & Pervasive Computing",Networks & Communications,8,explicit,umbrella term written verbatim by faculty
+Intelligent Transportation Systems,"Mobile, IoT & Pervasive Computing",Networks & Communications,2,inferred,parent levels assigned by curated taxonomy
+Automation and Control,Robotics & Automation,"Robotics, Control & Smart Manufacturing",21,inferred,parent levels assigned by curated taxonomy
+Robotics,Robotics & Automation,"Robotics, Control & Smart Manufacturing",16,explicit,umbrella term written verbatim by faculty
+Smart Manufacturing,Smart Manufacturing & Industrial Systems,"Robotics, Control & Smart Manufacturing",5,explicit,umbrella term written verbatim by faculty
+Blockchain,"Cryptography, Blockchain & Privacy","Security, Privacy & Cryptography",12,explicit,umbrella term written verbatim by faculty
+Cryptography,"Cryptography, Blockchain & Privacy","Security, Privacy & Cryptography",11,explicit,umbrella term written verbatim by faculty
+Privacy-Preserving Computing,"Cryptography, Blockchain & Privacy","Security, Privacy & Cryptography",5,inferred,parent levels assigned by curated taxonomy
+Information Security,Information & Systems Security,"Security, Privacy & Cryptography",39,inferred,parent levels assigned by curated taxonomy
+Network Security,Information & Systems Security,"Security, Privacy & Cryptography",12,inferred,parent levels assigned by curated taxonomy
+Systems Security,Information & Systems Security,"Security, Privacy & Cryptography",6,explicit,umbrella term written verbatim by faculty
+Malware Analysis,Information & Systems Security,"Security, Privacy & Cryptography",1,inferred,parent levels assigned by curated taxonomy
+Multivariate Analysis,Applied & Industrial Statistics,Statistics & Statistical Methods,6,inferred,parent levels assigned by curated taxonomy
+Industrial Statistics,Applied & Industrial Statistics,Statistics & Statistical Methods,5,explicit,umbrella term written verbatim by faculty
+Reliability Analysis,Applied & Industrial Statistics,Statistics & Statistical Methods,5,inferred,parent levels assigned by curated taxonomy
+Statistical Consulting,Applied & Industrial Statistics,Statistics & Statistical Methods,5,inferred,parent levels assigned by curated taxonomy
+Regression Analysis,Applied & Industrial Statistics,Statistics & Statistical Methods,4,inferred,parent levels assigned by curated taxonomy
+Experimental Design,Applied & Industrial Statistics,Statistics & Statistical Methods,3,inferred,parent levels assigned by curated taxonomy
+Survey Sampling,Applied & Industrial Statistics,Statistics & Statistical Methods,3,inferred,parent levels assigned by curated taxonomy
+Statistical Process Control,Applied & Industrial Statistics,Statistics & Statistical Methods,2,inferred,parent levels assigned by curated taxonomy
+Bayesian Statistics,Bayesian & Computational Statistics,Statistics & Statistical Methods,9,inferred,parent levels assigned by curated taxonomy
+Statistical Computing,Bayesian & Computational Statistics,Statistics & Statistical Methods,6,inferred,parent levels assigned by curated taxonomy
+Statistics,Statistical Theory & Inference,Statistics & Statistical Methods,32,explicit,umbrella term written verbatim by faculty
+Causal Inference,Statistical Theory & Inference,Statistics & Statistical Methods,5,inferred,parent levels assigned by curated taxonomy
+Probability Theory,Statistical Theory & Inference,Statistics & Statistical Methods,4,inferred,parent levels assigned by curated taxonomy
+High-Dimensional Statistics,Statistical Theory & Inference,Statistics & Statistical Methods,2,inferred,parent levels assigned by curated taxonomy
+Statistical Inference,Statistical Theory & Inference,Statistics & Statistical Methods,2,inferred,parent levels assigned by curated taxonomy
+Time Series Analysis,Time Series & Change Point Analysis,Statistics & Statistical Methods,11,inferred,parent levels assigned by curated taxonomy
+Change Point Analysis,Time Series & Change Point Analysis,Statistics & Statistical Methods,2,explicit,umbrella term written verbatim by faculty
+Computer Architecture,Computer Architecture & Hardware Design,"Systems, Software & Architecture",20,explicit,umbrella term written verbatim by faculty
+Electronic Design Automation,Computer Architecture & Hardware Design,"Systems, Software & Architecture",16,inferred,parent levels assigned by curated taxonomy
+Quantum Computing,Computer Architecture & Hardware Design,"Systems, Software & Architecture",3,inferred,parent levels assigned by curated taxonomy
+Embedded Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",32,explicit,umbrella term written verbatim by faculty
+Operating Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",15,inferred,parent levels assigned by curated taxonomy
+Real-Time Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",7,inferred,parent levels assigned by curated taxonomy
+Digital Twins,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",6,inferred,parent levels assigned by curated taxonomy
+Cyber-Physical Systems,"Operating, Real-Time & Embedded Systems","Systems, Software & Architecture",4,inferred,parent levels assigned by curated taxonomy
+Parallel Computing,Parallel & Distributed Computing,"Systems, Software & Architecture",23,inferred,parent levels assigned by curated taxonomy
+Distributed Systems,Parallel & Distributed Computing,"Systems, Software & Architecture",14,inferred,parent levels assigned by curated taxonomy
+High-Performance Computing,Parallel & Distributed Computing,"Systems, Software & Architecture",3,inferred,parent levels assigned by curated taxonomy
+Compilers,"Software Engineering, Languages & Verification","Systems, Software & Architecture",12,inferred,parent levels assigned by curated taxonomy
+Software Engineering,"Software Engineering, Languages & Verification","Systems, Software & Architecture",12,explicit,umbrella term written verbatim by faculty
+Programming Languages,"Software Engineering, Languages & Verification","Systems, Software & Architecture",3,inferred,parent levels assigned by curated taxonomy
+Formal Verification,"Software Engineering, Languages & Verification","Systems, Software & Architecture",2,inferred,parent levels assigned by curated taxonomy
+Model Checking,"Software Engineering, Languages & Verification","Systems, Software & Architecture",2,inferred,parent levels assigned by curated taxonomy
+Formal Methods,"Software Engineering, Languages & Verification","Systems, Software & Architecture",1,inferred,parent levels assigned by curated taxonomy
+Software Verification,"Software Engineering, Languages & Verification","Systems, Software & Architecture",1,inferred,parent levels assigned by curated taxonomy
+Algorithms,Algorithms & Computational Complexity,Theory & Algorithms,49,explicit,umbrella term written verbatim by faculty
+Theory of Computation,Algorithms & Computational Complexity,Theory & Algorithms,6,inferred,parent levels assigned by curated taxonomy
+Computational Complexity,Algorithms & Computational Complexity,Theory & Algorithms,2,explicit,umbrella term written verbatim by faculty
+Graph Theory,Discrete Mathematics & Information Theory,Theory & Algorithms,11,inferred,parent levels assigned by curated taxonomy
+Coding Theory,Discrete Mathematics & Information Theory,Theory & Algorithms,3,inferred,parent levels assigned by curated taxonomy
+Discrete Mathematics,Discrete Mathematics & Information Theory,Theory & Algorithms,2,explicit,umbrella term written verbatim by faculty
+Information Theory,Discrete Mathematics & Information Theory,Theory & Algorithms,2,explicit,umbrella term written verbatim by faculty
+Computer Vision,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",54,explicit,umbrella term written verbatim by faculty
+Image Processing,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",40,inferred,parent levels assigned by curated taxonomy
+Signal Processing,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",24,explicit,umbrella term written verbatim by faculty
+Pattern Recognition,"Computer Vision, Image & Signal Processing","Vision, Multimedia & Human-Centered Computing",15,inferred,parent levels assigned by curated taxonomy
+Multimedia Systems,Graphics & Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",57,explicit,umbrella term written verbatim by faculty
+Computer Graphics,Graphics & Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",20,inferred,parent levels assigned by curated taxonomy
+Human-Computer Interaction,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",22,explicit,umbrella term written verbatim by faculty
+Virtual Reality,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",13,inferred,parent levels assigned by curated taxonomy
+Augmented Reality,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",8,inferred,parent levels assigned by curated taxonomy
+Brain-Computer Interfaces,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",3,inferred,parent levels assigned by curated taxonomy
+Information Visualization,Human-Computer Interaction & Immersive Media,"Vision, Multimedia & Human-Centered Computing",3,inferred,parent levels assigned by curated taxonomy

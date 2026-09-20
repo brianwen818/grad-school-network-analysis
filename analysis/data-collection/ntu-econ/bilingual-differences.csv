@@ -1,0 +1,197 @@
+﻿faculty_id,field,difference_type,zh_value,en_value
+ntu-econ-joonkyohong-abba80fbe9,name,missing_zh,,Joonkyo Hong
+ntu-econ-joonkyohong-abba80fbe9,titles,missing_zh,,Assistant Professor
+ntu-econ-joonkyohong-abba80fbe9,education,missing_zh,,"Ph.D. in Economics, Pennsylvania State University, 2023."
+ntu-econ-joonkyohong-abba80fbe9,research_interests,missing_zh,,"Empirical Industrial Organization, Applied Microeconomics"
+ntu-econ-junrokpark-d50100b56e,name,missing_zh,,Junrok Park
+ntu-econ-junrokpark-d50100b56e,titles,missing_zh,,Assistant Professor
+ntu-econ-junrokpark-d50100b56e,education,missing_zh,,"Ph.D. in Economics, UCLA, 2022."
+ntu-econ-junrokpark-d50100b56e,research_interests,missing_zh,,"Economic Theory, Mechanism Design, Information Design"
+ntu-econ-minchunghsu-e5268d9c19,name,missing_zh,,Minchung Hsu
+ntu-econ-minchunghsu-e5268d9c19,titles,missing_both,,
+ntu-econ-minchunghsu-e5268d9c19,education,missing_zh,,"Ph.D. in Economics, University of California, Los Angeles"
+ntu-econ-minchunghsu-e5268d9c19,research_interests,missing_both,,
+ntu-econ-shinyichou-46d12d7782,name,missing_zh,,Shin-Yi Chou
+ntu-econ-shinyichou-46d12d7782,titles,missing_both,,
+ntu-econ-shinyichou-46d12d7782,education,missing_zh,,"Ph.D. in Economics, Duke University"
+ntu-econ-shinyichou-46d12d7782,research_interests,missing_both,,
+ntu-econ-sungminpark-469370a4d3,name,missing_zh,,Sungmin Park
+ntu-econ-sungminpark-469370a4d3,titles,missing_zh,,Assistant Professor
+ntu-econ-sungminpark-469370a4d3,education,missing_zh,,"Ph.D. in Economics, The Ohio State University, 2025."
+ntu-econ-sungminpark-469370a4d3,research_interests,missing_zh,,"Microeconomic Theory, Labor Economics, Financial Economics"
+ntu-econ-toshiakikomatsu-2c1f940cc4,name,missing_zh,,Toshiaki Komatsu
+ntu-econ-toshiakikomatsu-2c1f940cc4,titles,missing_zh,,Assistant Professor
+ntu-econ-toshiakikomatsu-2c1f940cc4,education,missing_zh,,"Ph.D. in Economics, University of Chicago, 2024."
+ntu-econ-toshiakikomatsu-2c1f940cc4,research_interests,missing_zh,,"International Trade, Macroeconomics, Labor Economics"
+ntu-econ-wuchungshu-c466fdfb12,name,missing_zh,,"Wu, Chung-Shu"
+ntu-econ-wuchungshu-c466fdfb12,titles,missing_both,,
+ntu-econ-wuchungshu-c466fdfb12,education,missing_zh,,"Ph.D. in Economics, Northwestern University (1984)"
+ntu-econ-wuchungshu-c466fdfb12,research_interests,missing_both,,
+ntu-econ-何泰寬-3f8b4902cb,name,both_present_different,何泰寬,Tai-kuang Ho
+ntu-econ-何泰寬-3f8b4902cb,titles,both_present_different,教授,Professor
+ntu-econ-何泰寬-3f8b4902cb,education,both_present_different,德國波昂大學博士 (2003),"Ph.D. in Economics, University of Bonn, 2003."
+ntu-econ-何泰寬-3f8b4902cb,research_interests,both_present_different,銀行與貨幣危機、國際金融、應用時間序列計量經濟學、動態隨機一般均衡模型(DSGE Modeling),"Banking and Currency Crises, International Finance, Applied Time Series Econometrics, DSGE Modeling"
+ntu-econ-劉育辰-40b649c520,name,both_present_different,劉育辰,Yu-Chen Liu
+ntu-econ-劉育辰-40b649c520,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-劉育辰-40b649c520,education,both_present_different,美國聖路易華盛頓大學經濟學博士 (2025),"Ph.D. in Economics, Washington University in St. Louis, 2025."
+ntu-econ-劉育辰-40b649c520,research_interests,both_present_different,總體經濟學、國際經濟學、貨幣經濟學,"Macroeconomics, International Trade, Monetary Economics"
+ntu-econ-吳儀玲-9ff31e9638,name,both_present_different,吳儀玲,YiLin Wu
+ntu-econ-吳儀玲-9ff31e9638,titles,both_present_different,教授,Professor
+ntu-econ-吳儀玲-9ff31e9638,education,both_present_different,美國芝加哥大學博士(2001),"Ph.D. in Finance, University of Chicago, 2001."
+ntu-econ-吳儀玲-9ff31e9638,research_interests,both_present_different,公司理財、股票私募、公司治理、資本市場及市場微結構,"Corporate finance, Private Placement, Corporate Governance, Market Microstructure and Investments"
+ntu-econ-和田健司-cd35fc2b2a,name,both_present_different,和田健司,Kenji Wada
+ntu-econ-和田健司-cd35fc2b2a,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-和田健司-cd35fc2b2a,education,both_present_different,美國紐約大學經濟學博士 (2024),"Ph.D. in Economics, New York University, 2024."
+ntu-econ-和田健司-cd35fc2b2a,research_interests,both_present_different,總體經濟學、金融經濟學、時間序列計量,"Macroeconomics, Asset Pricing, and Time-Series Econometrics."
+ntu-econ-小松利明-e63776cdd7,name,missing_en,小松利明,
+ntu-econ-小松利明-e63776cdd7,titles,missing_en,助理教授,
+ntu-econ-小松利明-e63776cdd7,education,missing_en,美國芝加哥大學經濟學博士(2024),
+ntu-econ-小松利明-e63776cdd7,research_interests,missing_en,國際貿易理論、總體經濟學、勞動經濟學,
+ntu-econ-廖珮如-cff0efe03d,name,both_present_different,廖珮如,Pei-Ju Liao
+ntu-econ-廖珮如-cff0efe03d,titles,missing_en,副主任 | 教授,
+ntu-econ-廖珮如-cff0efe03d,education,missing_en,美國加州大學洛杉磯分校博士 (2009),
+ntu-econ-廖珮如-cff0efe03d,research_interests,both_present_different,經濟成長與發展、總體與貨幣,"Economic Growth and Development, Macroeconomics and Monetary Economics"
+ntu-econ-張勝凱-af91a80773,name,both_present_different,張勝凱,Sheng-Kai Chang
+ntu-econ-張勝凱-af91a80773,titles,both_present_different,教授,Professor
+ntu-econ-張勝凱-af91a80773,education,both_present_different,美國威斯康辛大學麥迪遜校區博士(2002),"Ph.D. in Economics, University of Wisconsin-Madison, 2002."
+ntu-econ-張勝凱-af91a80773,research_interests,both_present_different,計量經濟學,Econometrics
+ntu-econ-朱玉琦-f9c58241bc,name,both_present_different,朱玉琦,Yu-Chi Chu
+ntu-econ-朱玉琦-f9c58241bc,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-朱玉琦-f9c58241bc,education,both_present_different,美國威斯康辛大學麥迪遜校區博士 (2020),"Ph.D. in Economics, University of Wisconsin-Madison, 2020."
+ntu-econ-朱玉琦-f9c58241bc,research_interests,both_present_different,總體經濟學、跨世代財富傳遞、貨幣搜尋模型,"Macroeconomics , Fa mily Economics and M onetary economics"
+ntu-econ-朴埻錄-9cec86c47b,name,missing_en,朴埻錄,
+ntu-econ-朴埻錄-9cec86c47b,titles,missing_en,助理教授,
+ntu-econ-朴埻錄-9cec86c47b,education,missing_en,美國加州大學洛杉磯分校博士 (2022),
+ntu-econ-朴埻錄-9cec86c47b,research_interests,missing_en,經濟理論、機制設計、訊息設計,
+ntu-econ-朴聖民-100e67fe5b,name,missing_en,朴聖民,
+ntu-econ-朴聖民-100e67fe5b,titles,missing_en,助理教授,
+ntu-econ-朴聖民-100e67fe5b,education,missing_en,美國俄亥俄州立大學經濟學博士(2025),
+ntu-econ-朴聖民-100e67fe5b,research_interests,missing_en,個體經濟理論、勞動經濟學、財務經濟學,
+ntu-econ-李佳穗-80343e797f,name,both_present_different,李佳穗,Chia-Sui Lee
+ntu-econ-李佳穗-80343e797f,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-李佳穗-80343e797f,education,both_present_different,荷蘭萊登大學博士 (2017),"Ph.D. in Literary Studies, Leiden University, 2017"
+ntu-econ-李佳穗-80343e797f,research_interests,both_present_different,學術寫作、英美文學、文化研究,"Academic Writing, English Literature, Cultural Studies"
+ntu-econ-李宗穎-b1fed3d112,name,both_present_different,李宗穎,Chung-Ying Lee
+ntu-econ-李宗穎-b1fed3d112,titles,both_present_different,副教授,Associate Professor
+ntu-econ-李宗穎-b1fed3d112,education,missing_en,美國杜克大學博士(2014),
+ntu-econ-李宗穎-b1fed3d112,research_interests,both_present_different,實證產業組織、應用計量經濟學、健康經濟學、行銷學、定價策略,"Empirical Industrial Organization, Applied Econometrics, Health Economics, Marketing, Pricing Strategy."
+ntu-econ-李怡庭-876e01e588,name,both_present_different,李怡庭,Yiting Li
+ntu-econ-李怡庭-876e01e588,titles,both_present_different,教授,Professor
+ntu-econ-李怡庭-876e01e588,education,missing_en,美國賓夕法尼亞大學博士(1995),
+ntu-econ-李怡庭-876e01e588,research_interests,both_present_different,貨幣理論、銀行與金融市場,"Monetary Theory, Banking and Financial Markets"
+ntu-econ-林明仁-3459b553e9,name,both_present_different,林明仁,Ming-Jen Lin
+ntu-econ-林明仁-3459b553e9,titles,both_present_different,教授,Professor
+ntu-econ-林明仁-3459b553e9,education,both_present_different,美國芝加哥大學博士(2002),"Ph.D. in Economics, University of Chicago, 2002."
+ntu-econ-林明仁-3459b553e9,research_interests,both_present_different,應用個體經濟學(勞動、法律、健康),"Applied Microeconomic Theory(Labor, Law and Health)"
+ntu-econ-梁卓誠-81139af4f8,name,both_present_different,梁卓誠,Cheuk Shing Leung
+ntu-econ-梁卓誠-81139af4f8,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-梁卓誠-81139af4f8,education,both_present_different,加拿大麥基爾大學經濟學博士 (2019),"Ph.D. in Economics, McGill University, 2019."
+ntu-econ-梁卓誠-81139af4f8,research_interests,both_present_different,總體經濟學、公共經濟學、計算經濟學、都市經濟學、房地產經濟學,"Macroeconomics, Public Economics, Computational Economic"
+ntu-econ-楊睿中-6c2f0e88ae,name,both_present_different,楊睿中,Jui-Chung Yang
+ntu-econ-楊睿中-6c2f0e88ae,titles,both_present_different,副教授,Associate Professor
+ntu-econ-楊睿中-6c2f0e88ae,education,both_present_different,美國德州農工大學博士(2014),"Ph.D. in Economics, Texas A&M University, 2014."
+ntu-econ-楊睿中-6c2f0e88ae,research_interests,both_present_different,非參數計量經濟學、機器學習、氣候變遷,"Nonparametric econometrics, Machine learning, Environmental economics"
+ntu-econ-樊家忠-0d4e667fb7,name,both_present_different,樊家忠,Elliott Fan
+ntu-econ-樊家忠-0d4e667fb7,titles,both_present_different,教授,Professor
+ntu-econ-樊家忠-0d4e667fb7,education,both_present_different,加拿大多倫多大學博士(2006),"Ph.D. in Economics, University of Toronto, 2006."
+ntu-econ-樊家忠-0d4e667fb7,research_interests,both_present_different,"家庭經濟學,勞動經濟學,發展經濟學","Family Economics, Labor Economics, Development Economics"
+ntu-econ-江淳芳-727bf49f84,name,both_present_different,江淳芳,Chun-Fang Chiang
+ntu-econ-江淳芳-727bf49f84,titles,both_present_different,教授,Professor
+ntu-econ-江淳芳-727bf49f84,education,both_present_different,美國布朗大學博士(2008),"Ph.D. in Economics, Brown University, 2008."
+ntu-econ-江淳芳-727bf49f84,research_interests,both_present_different,政治經濟學 應用個體經濟學,"Political Economics, Applied Microeconomics."
+ntu-econ-洪俊教-348bf31cd5,name,missing_en,洪俊教,
+ntu-econ-洪俊教-348bf31cd5,titles,missing_en,助理教授,
+ntu-econ-洪俊教-348bf31cd5,education,missing_en,美國賓夕法尼亞州立大學經濟學博士 (2023),
+ntu-econ-洪俊教-348bf31cd5,research_interests,missing_en,實證產業組織、應用個體經濟學,
+ntu-econ-王建強-992a85075e,name,both_present_different,王建強,Chien-Chiang Wang
+ntu-econ-王建強-992a85075e,titles,both_present_different,副教授,Associate Professor
+ntu-econ-王建強-992a85075e,education,both_present_different,美國華盛頓聖路易大學博士 (2017),"Ph.D. in Economics, Washington University in St. Louis, 2017."
+ntu-econ-王建強-992a85075e,research_interests,both_present_different,貨幣經濟學、總體經濟學、銀行與財務經濟學,"Monetary Economics, Macroeconomics, Banking and Finance"
+ntu-econ-王泓仁-6e89dae82f,name,both_present_different,王泓仁,Hung-Jen Wang
+ntu-econ-王泓仁-6e89dae82f,titles,both_present_different,教授,Professor
+ntu-econ-王泓仁-6e89dae82f,education,missing_en,美國密西根大學博士(1998),
+ntu-econ-王泓仁-6e89dae82f,research_interests,both_present_different,應用計量、貨幣政策,"Applied Econometrics, Monetary Policy"
+ntu-econ-王道一-6484b93714,name,both_present_different,王道一,Joseph Tao-yi Wang
+ntu-econ-王道一-6484b93714,titles,both_present_different,教授,Professor
+ntu-econ-王道一-6484b93714,education,both_present_different,美國加州大學洛杉磯分校博士(2005),"Ph.D. in Economics, UCLA, 2005."
+ntu-econ-王道一-6484b93714,research_interests,both_present_different,經濟理論、實驗經濟學、神經經濟學,"Economic Theory, Experimental Economics, Neuroeconomics"
+ntu-econ-羅珮瑜-24610cd413,name,both_present_different,羅珮瑜,Pei-Yu Lo
+ntu-econ-羅珮瑜-24610cd413,titles,both_present_different,副教授,Associate Professor
+ntu-econ-羅珮瑜-24610cd413,education,both_present_different,美國耶魯大學博士(2006),"Ph.D. in Economics, Yale University (2006)"
+ntu-econ-羅珮瑜-24610cd413,research_interests,both_present_different,賽局理論、資訊經濟、政治經濟、產業組織,"Game Theory, Economics of Information, Political Economy, Industrial Organization"
+ntu-econ-蔡宜展-c83bdc5cdc,name,both_present_different,蔡宜展,Yi-Chan Tsai
+ntu-econ-蔡宜展-c83bdc5cdc,titles,missing_en,副主任 | 副教授,
+ntu-econ-蔡宜展-c83bdc5cdc,education,both_present_different,美國俄亥俄州立大學博士(2010),"Ph.D., Economics, The Ohio State University, 2010."
+ntu-econ-蔡宜展-c83bdc5cdc,research_interests,both_present_different,總體經濟學、貨幣經濟學、計算經濟學,"Macroeconomics, Monetary Economics, Computational Economics"
+ntu-econ-蔡崇聖-b5b6a97658,name,both_present_different,蔡崇聖,Tsung-Sheng Tsai
+ntu-econ-蔡崇聖-b5b6a97658,titles,both_present_different,教授,Professor
+ntu-econ-蔡崇聖-b5b6a97658,education,both_present_different,美國威斯康辛大學麥迪遜校區經濟學博士(2002),"Ph.D. in Economics, University of Wisconsin-Madison, 2002."
+ntu-econ-蔡崇聖-b5b6a97658,research_interests,both_present_different,公共經濟、政治經濟、產業組織,"Public Economics, Political Economy, Industrial Organization"
+ntu-econ-蘇軒立-87d57366a0,name,both_present_different,蘇軒立,Hsuan-Li Su
+ntu-econ-蘇軒立-87d57366a0,titles,both_present_different,副教授,Associate Professor
+ntu-econ-蘇軒立-87d57366a0,education,both_present_different,美國威斯康辛大學麥迪遜校區博士(2015),"Ph.D. in Economics, University of Wisconsin-Madison, 2015."
+ntu-econ-蘇軒立-87d57366a0,research_interests,both_present_different,"總體經濟學,財務經濟學,網路","Macroeconomics, Financial Economics, Networks"
+ntu-econ-許軒銘-45dfd20a6e,name,both_present_different,許軒銘,Shanon Hsuan-Ming Hsu
+ntu-econ-許軒銘-45dfd20a6e,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-許軒銘-45dfd20a6e,education,both_present_different,美國芝加哥大學經濟學博士(2024),"Ph.D. in Economics, University of Chicago, 2024."
+ntu-econ-許軒銘-45dfd20a6e,research_interests,both_present_different,都市經濟學、發展經濟學、經濟史、政治經濟學,"Urban Economics, Development Economics, Economic History, Political Economy"
+ntu-econ-謝志昇-c7296b64a4,name,both_present_different,謝志昇,Chih-Sheng Hsieh
+ntu-econ-謝志昇-c7296b64a4,titles,missing_en,系主任 | 教授,
+ntu-econ-謝志昇-c7296b64a4,education,both_present_different,美國俄亥俄州立大學經濟學博士 (2013),"Ph.D. in Economics, The Ohio State University, 2013."
+ntu-econ-謝志昇-c7296b64a4,research_interests,both_present_different,應用計量經濟學、勞動經濟學、健康經濟學、社會網路,"Applied Econometrics, Labor Economics, Health Economics, and Social Networks"
+ntu-econ-賴建宇-2ecdf98d19,name,both_present_different,賴建宇,Chien-Yu Lai
+ntu-econ-賴建宇-2ecdf98d19,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-賴建宇-2ecdf98d19,education,both_present_different,美國芝加哥大學經濟學博士 (2021),"Ph.D. in Economics, University of Chicago, 2021."
+ntu-econ-賴建宇-2ecdf98d19,research_interests,both_present_different,應用個體理論、產業經濟學、實驗經濟學,"Applied Microeconomic Theory, Industrial Economics, Experimental Economics"
+ntu-econ-郭漢豪-7977d0a5be,name,both_present_different,郭漢豪,Kwok Hon Ho
+ntu-econ-郭漢豪-7977d0a5be,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-郭漢豪-7977d0a5be,education,both_present_different,美國威斯康辛大學麥迪遜分校博士 (2012),"Ph.D. in Economics, University of Wisconsin-Madison, 2012."
+ntu-econ-郭漢豪-7977d0a5be,research_interests,both_present_different,計量經濟學、經濟學之數學及統計方法、社會互動、社會網絡、總體經濟,"Mathematical and Statistical Methods for Economics, Social Interactions, Social networks, Macroeconomics"
+ntu-econ-陳儀-b6cd95972c,name,both_present_different,陳儀,Josie I Chen
+ntu-econ-陳儀-b6cd95972c,titles,both_present_different,副教授,Associate Professor
+ntu-econ-陳儀-b6cd95972c,education,both_present_different,美國布朗大學博士 (2015),"Ph.D., in Economics, Brown University, 2015."
+ntu-econ-陳儀-b6cd95972c,research_interests,both_present_different,行為經濟學、實驗經濟學,Behavioral Economics and Experimental Economics
+ntu-econ-陳冠銘-e3634202cf,name,both_present_different,陳冠銘,Kuan-Ming Chen
+ntu-econ-陳冠銘-e3634202cf,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-陳冠銘-e3634202cf,education,both_present_different,美國芝加哥大學博士(2021),"Ph.D. in Economics, University of Chicago, 2021."
+ntu-econ-陳冠銘-e3634202cf,research_interests,both_present_different,勞動經濟學、應用計量經濟學,"Labor Economics, Applied Econometrics"
+ntu-econ-陳南光-8b0f367291,name,both_present_different,陳南光,Nan-Kuang Chen
+ntu-econ-陳南光-8b0f367291,titles,both_present_different,教授,Professor
+ntu-econ-陳南光-8b0f367291,education,both_present_different,美國明尼蘇達大學博士(1997),"Ph.D. in Economics, University of Minnesota, 1997."
+ntu-econ-陳南光-8b0f367291,research_interests,both_present_different,總體與貨幣經濟學,Macro & Monetary Economics
+ntu-econ-陳慶池-440d91818f,name,both_present_different,陳慶池,Hing Chi Jimmy Chan
+ntu-econ-陳慶池-440d91818f,titles,both_present_different,教授,Professor
+ntu-econ-陳慶池-440d91818f,education,missing_en,美國加州大學柏克萊分校博士 (1998),
+ntu-econ-陳慶池-440d91818f,research_interests,both_present_different,賽局理論、機制設計與政治經濟學,"Game Theory, Mechanism Design and Political Economics"
+ntu-econ-陳旭昇-a9164bcf1e,name,both_present_different,陳旭昇,Shiu-Sheng Chen
+ntu-econ-陳旭昇-a9164bcf1e,titles,both_present_different,教授,Professor
+ntu-econ-陳旭昇-a9164bcf1e,education,both_present_different,美國威斯康辛大學麥迪遜校區博士(2004),"Ph.D. in Economics, University of Wisconsin-Madison, 2004."
+ntu-econ-陳旭昇-a9164bcf1e,research_interests,both_present_different,總體與貨幣經濟學、 國際金融,"Macro and Monetary Economics, International Finance"
+ntu-econ-陳由常-b2ab5a0144,name,both_present_different,陳由常,Yu-Chang Chen
+ntu-econ-陳由常-b2ab5a0144,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-陳由常-b2ab5a0144,education,both_present_different,美國加州大學聖地牙哥分校博士(2022),"Ph.D. in Economics, UCSD, 2022."
+ntu-econ-陳由常-b2ab5a0144,research_interests,both_present_different,計量經濟學、公共經濟學、勞動經濟學,"Econometrics, Public Economics and Labor Economics"
+ntu-econ-陳虹如-4ec44ed550,name,both_present_different,陳虹如,Hung-Ju Chen
+ntu-econ-陳虹如-4ec44ed550,titles,both_present_different,教授,Professor
+ntu-econ-陳虹如-4ec44ed550,education,both_present_different,美國加州大學洛杉磯分校博士(2002),"Ph.D. in Economics, University of California, Los Angeles, 2002."
+ntu-econ-陳虹如-4ec44ed550,research_interests,both_present_different,經濟發展、總體經濟,"Economic Development, Macroeconomics"
+ntu-econ-馮勃翰-3891fb6c24,name,both_present_different,馮勃翰,Po Han Fong
+ntu-econ-馮勃翰-3891fb6c24,titles,both_present_different,副教授,Associate Professor
+ntu-econ-馮勃翰-3891fb6c24,education,both_present_different,美國羅徹斯特大學博士(2005),"Ph.D. in Economics, University of Rochester, 2005."
+ntu-econ-馮勃翰-3891fb6c24,research_interests,both_present_different,政治經濟學、賽局理論、產業組織,"Political Economy, Game Theory, Industrial Organization, Institutions and Economic Performance"
+ntu-econ-駱明慶-49f94e80de,name,both_present_different,駱明慶,Ming-Ching Luoh
+ntu-econ-駱明慶-49f94e80de,titles,both_present_different,教授,Professor
+ntu-econ-駱明慶-49f94e80de,education,both_present_different,美國密西根大學博士(1999),"Ph.D. in Economics, University of Michigan, 1999."
+ntu-econ-駱明慶-49f94e80de,research_interests,both_present_different,應用計量經濟學、勞動經濟學、家庭經濟學,"Applied Econometrics, Labor Economics, Family Economics"
+ntu-econ-高恩琵-a49ecd70d7,name,both_present_different,高恩琵,Ko Eunbi
+ntu-econ-高恩琵-a49ecd70d7,titles,both_present_different,助理教授,Assistant Professor
+ntu-econ-高恩琵-a49ecd70d7,education,both_present_different,美國賓夕法尼亞州立大學博士 (2019),"Ph.D. in Economics, Pennsylvania State University, 2019."
+ntu-econ-高恩琵-a49ecd70d7,research_interests,missing_en,總體經濟學、勞動經濟學,
+ntu-econ-黃景沂-8fe2cfab0f,name,both_present_different,黃景沂,Ching-I Huang
+ntu-econ-黃景沂-8fe2cfab0f,titles,both_present_different,教授,Professor
+ntu-econ-黃景沂-8fe2cfab0f,education,both_present_different,美國西北大學博士(2006),"Ph.D. in Economics, Northwestern University, 2006."
+ntu-econ-黃景沂-8fe2cfab0f,research_interests,both_present_different,產業組織、個體計量,"Industrial Organization, Microeconometrics"
+ntu-econ-黃貞穎-f613aff21b,name,both_present_different,黃貞穎,Chen-Ying Huang
+ntu-econ-黃貞穎-f613aff21b,titles,both_present_different,教授,Professor
+ntu-econ-黃貞穎-f613aff21b,education,both_present_different,美國哈佛大學博士(1999),"Ph.D. in Economics, The Harvard University, 1999."
+ntu-econ-黃貞穎-f613aff21b,research_interests,both_present_different,個體理論及其實驗上的應用,Microeconomic theory and its experimental applications

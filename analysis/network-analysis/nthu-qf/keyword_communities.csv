@@ -1,0 +1,21 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Accounting,Corporate Finance & Governance,Corporate Finance & Valuation,0,0,0,0
+Asset Pricing,Asset Pricing & Financial Markets,Asset Pricing & Investments,1,1,1,1
+Banking and Financial Institutions,Financial Engineering & Risk,Banking & Financial Technology,1,1,1,1
+Behavioral Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,0,0,0
+Big Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Corporate Finance,Corporate Finance & Governance,Corporate Finance & Valuation,1,1,1,1
+Credit Risk,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",1,1,1,1
+Econometrics,Economics & Policy,Econometrics,0,2,2,2
+Entrepreneurship,Information Systems & Management,"Innovation, Entrepreneurship & Management",2,2,2,2
+Financial Derivatives,Financial Engineering & Risk,Derivatives & Financial Engineering,1,1,1,1
+Financial Engineering,Financial Engineering & Risk,Derivatives & Financial Engineering,0,2,3,2
+Financial Markets,Asset Pricing & Financial Markets,Financial Markets & Microstructure,2,2,2,2
+Financial Technology,Financial Engineering & Risk,Banking & Financial Technology,0,0,0,0
+Innovation Management,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,0,0,0
+Insurance,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",1,1,1,1
+International Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,0,0,0
+Portfolio Management,Asset Pricing & Financial Markets,Asset Pricing & Investments,0,0,0,0
+Probability Theory,Statistics & Statistical Methods,Statistical Theory & Inference,0,2,3,2
+Real Estate Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,0,0,0
+Risk Management,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",1,1,1,1

@@ -1,0 +1,23 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Asset Pricing,Asset Pricing & Financial Markets,Asset Pricing & Investments,2,2,1,2
+Banking and Financial Institutions,Financial Engineering & Risk,Banking & Financial Technology,0,0,4,0
+Behavioral Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,2,1,2
+Business Valuation,Corporate Finance & Governance,Corporate Finance & Valuation,0,1,0,1
+Corporate Finance,Corporate Finance & Governance,Corporate Finance & Valuation,0,0,3,0
+Corporate Governance,Corporate Finance & Governance,Governance & Corporate Control,0,0,3,0
+Credit Risk,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",1,3,2,3
+Econometrics,Economics & Policy,Econometrics,2,2,1,2
+Entrepreneurship,Information Systems & Management,"Innovation, Entrepreneurship & Management",0,1,0,1
+Financial Derivatives,Financial Engineering & Risk,Derivatives & Financial Engineering,2,2,1,2
+Financial Engineering,Financial Engineering & Risk,Derivatives & Financial Engineering,1,3,2,3
+Financial Management,Corporate Finance & Governance,Corporate Finance & Valuation,0,1,0,1
+Financial Markets,Asset Pricing & Financial Markets,Financial Markets & Microstructure,0,2,1,2
+Institutional Investors,Corporate Finance & Governance,Governance & Corporate Control,0,0,3,0
+Interest Rate Modeling,Financial Engineering & Risk,Derivatives & Financial Engineering,1,3,2,3
+International Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,1,0,1
+Investments,Asset Pricing & Financial Markets,Asset Pricing & Investments,0,0,4,0
+Market Microstructure,Asset Pricing & Financial Markets,Financial Markets & Microstructure,0,0,4,0
+Mergers and Acquisitions,Corporate Finance & Governance,Governance & Corporate Control,0,0,3,0
+Personal Finance,Financial Engineering & Risk,Banking & Financial Technology,0,1,0,1
+Portfolio Management,Asset Pricing & Financial Markets,Asset Pricing & Investments,0,1,0,1
+Risk Management,Financial Engineering & Risk,"Risk, Insurance & Actuarial Science",0,3,2,3

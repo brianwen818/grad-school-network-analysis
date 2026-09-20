@@ -1,0 +1,637 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d18" for="edge" attr.name="s_exp" attr.type="long"/>
+<key id="d17" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d16" for="edge" attr.name="n_shared_keywords" attr.type="long"/>
+<key id="d15" for="edge" attr.name="s_inf" attr.type="double"/>
+<key id="d14" for="edge" attr.name="s_exp" attr.type="double"/>
+<key id="d13" for="edge" attr.name="w_cos" attr.type="double"/>
+<key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="primary_role" attr.type="string"/>
+<key id="d9" for="node" attr.name="dominant_l1" attr.type="string"/>
+<key id="d8" for="node" attr.name="n_appointments" attr.type="long"/>
+<key id="d7" for="node" attr.name="phd_institution" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_keywords" attr.type="long"/>
+<key id="d5" for="node" attr.name="role_groups" attr.type="string"/>
+<key id="d4" for="node" attr.name="school_ids" attr.type="string"/>
+<key id="d3" for="node" attr.name="name_en" attr.type="string"/>
+<key id="d2" for="node" attr.name="professor_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="nccu-mb-廖四郎-dd4aa0acae">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">廖四郎</data>
+  <data key="d3">: SZU-LANG LIAO</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">adjunct | emeritus</data>
+  <data key="d6">4</data>
+  <data key="d7">University of Chicago</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">adjunct</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-朱浩民-b36900208d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">朱浩民</data>
+  <data key="d3">: HAU-MIN CHU</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">emeritus</data>
+  <data key="d6">2</data>
+  <data key="d7">Brown University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">emeritus</data>
+  <data key="d11">1</data>
+</node>
+<node id="nccu-mb-李桐豪-54fed609f6">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">李桐豪</data>
+  <data key="d3">: THOMAS LEE</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Ohio University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-林士貴-1dfbcb1d92">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林士貴</data>
+  <data key="d3">: SHIH-KUEI LIN</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">6</data>
+  <data key="d7">National Chengchi University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-林建秀-7e10d6c7e3">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林建秀</data>
+  <data key="d3">: CHIEN-HSIU LIN</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">University of California, Los Angeles</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nccu-mb-林靖庭-0c65309b7a">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">林靖庭</data>
+  <data key="d3">: CHING-TING LIN</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">5</data>
+  <data key="d7">University of Delaware</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-楊曉文-bfe05b5d2b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">楊曉文</data>
+  <data key="d3">: SHEAUWEN YANG</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">Heriot-Watt University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-殷乃平-d68e64b186">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">殷乃平</data>
+  <data key="d3">: NORMAN YIN</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-江彌修-10fe15f5d0">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">江彌修</data>
+  <data key="d3">nan</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">Imperial College London</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-羅秉政-7c7cc9688b">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">羅秉政</data>
+  <data key="d3">nan</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">3</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">AI &amp; Machine Learning</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nccu-mb-詹育儒-b0e506f68d">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">詹育儒</data>
+  <data key="d3">: Yu-Ju Chan</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">University of Hong Kong</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nccu-mb-金帛春-6af918f80e">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">金帛春</data>
+  <data key="d3">: BAEK-CHUN KIM</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">Nanyang Technological University</data>
+  <data key="d8">1</data>
+  <data key="d9">Asset Pricing &amp; Financial Markets</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nccu-mb-陳威光-119fc2a584">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳威光</data>
+  <data key="d3">: WEI-KUANG CHEN</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-陳正暉-5d7134b1d1">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳正暉</data>
+  <data key="d3">: Zheng-Hui Chen</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">adjunct | full_time | project</data>
+  <data key="d6">1</data>
+  <data key="d7">National Chengchi University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<node id="nccu-mb-陳韋達-69b2d375bd">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">陳韋達</data>
+  <data key="d3">nan</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">full_time</data>
+  <data key="d6">1</data>
+  <data key="d7">National Taiwan University</data>
+  <data key="d8">1</data>
+  <data key="d9">Financial Engineering &amp; Risk</data>
+  <data key="d10">full_time</data>
+  <data key="d11">0</data>
+</node>
+<node id="nccu-mb-黃台心-e46c71fea9">
+  <data key="d0">0</data>
+  <data key="d1">professor</data>
+  <data key="d2">黃台心</data>
+  <data key="d3">: TAI-HSIN HUANG</data>
+  <data key="d4">nccu-mb</data>
+  <data key="d5">adjunct | full_time</data>
+  <data key="d6">2</data>
+  <data key="d7">Stony Brook University</data>
+  <data key="d8">1</data>
+  <data key="d9">Economics &amp; Policy</data>
+  <data key="d10">full_time</data>
+  <data key="d11">1</data>
+</node>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-陳威光-119fc2a584">
+  <data key="d12">4.944778920904158</data>
+  <data key="d13">0.12867451504896016</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2022335105362302</data>
+</edge>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-江彌修-10fe15f5d0">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.1340865859109586</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-林士貴-1dfbcb1d92">
+  <data key="d12">11.017618934461396</data>
+  <data key="d13">0.15432931718688478</data>
+  <data key="d14">11.017618934461396</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.09076371273580318</data>
+</edge>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-林建秀-7e10d6c7e3">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.0850791445346344</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-楊曉文-bfe05b5d2b">
+  <data key="d12">5.106617489168672</data>
+  <data key="d13">0.08722357140152592</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19582434010791638</data>
+</edge>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-李桐豪-54fed609f6">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.07489025083837782</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-林靖庭-0c65309b7a">
+  <data key="d12">8.705795609751334</data>
+  <data key="d13">0.13136435693100115</data>
+  <data key="d14">7.14048318803369</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">2</data>
+  <data key="d17">0.11486600936046594</data>
+</edge>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-殷乃平-d68e64b186">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.1340865859109586</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-廖四郎-dd4aa0acae" target="nccu-mb-陳韋達-69b2d375bd">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.1340865859109586</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-朱浩民-b36900208d" target="nccu-mb-林靖庭-0c65309b7a">
+  <data key="d12">1.7097889224365201</data>
+  <data key="d13">0.03568716705136887</data>
+  <data key="d18">0</data>
+  <data key="d15">4.2744723060913</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5848675160293813</data>
+</edge>
+<edge source="nccu-mb-朱浩民-b36900208d" target="nccu-mb-羅秉政-7c7cc9688b">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.1151736618530338</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nccu-mb-朱浩民-b36900208d" target="nccu-mb-詹育儒-b0e506f68d">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.13715899850684543</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-楊曉文-bfe05b5d2b">
+  <data key="d12">1.7126928668355959</data>
+  <data key="d13">0.03252386270964987</data>
+  <data key="d18">0</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5838758480074826</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-林靖庭-0c65309b7a">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.06285266496875921</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-殷乃平-d68e64b186">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.14907589535472293</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-羅秉政-7c7cc9688b">
+  <data key="d12">1.7071826654491002</data>
+  <data key="d13">0.0407608992443305</data>
+  <data key="d18">0</data>
+  <data key="d15">4.26795666362275</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5857603994221291</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-詹育儒-b0e506f68d">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.041357594991325713</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-陳韋達-69b2d375bd">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.14907589535472293</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-金帛春-6af918f80e">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.06143835139175573</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-林士貴-1dfbcb1d92">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.058346566795914476</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-李桐豪-54fed609f6" target="nccu-mb-林建秀-7e10d6c7e3">
+  <data key="d12">1.4545222911190872</data>
+  <data key="d13">0.0354857985228328</data>
+  <data key="d18">0</data>
+  <data key="d15">3.6363057277977178</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6875109485125974</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-黃台心-e46c71fea9">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.06336239158342838</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-江彌修-10fe15f5d0">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.10446609343282758</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-林建秀-7e10d6c7e3">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.053654832441911875</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-楊曉文-bfe05b5d2b">
+  <data key="d12">10.22161279858917</data>
+  <data key="d13">0.13602225916798938</data>
+  <data key="d14">8.508919931753574</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">2</data>
+  <data key="d17">0.09783191945384824</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-陳正暉-5d7134b1d1">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.10446609343282758</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-林靖庭-0c65309b7a">
+  <data key="d12">7.14048318803369</data>
+  <data key="d13">0.08394342783235433</data>
+  <data key="d14">7.14048318803369</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.14004654498393615</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-殷乃平-d68e64b186">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.10446609343282758</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-陳韋達-69b2d375bd">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.10446609343282758</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-林士貴-1dfbcb1d92" target="nccu-mb-陳威光-119fc2a584">
+  <data key="d12">7.27106036876078</data>
+  <data key="d13">0.14741220168944713</data>
+  <data key="d14">7.27106036876078</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.13753152212796602</data>
+</edge>
+<edge source="nccu-mb-林建秀-7e10d6c7e3" target="nccu-mb-陳正暉-5d7134b1d1">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.16365405649993153</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nccu-mb-林建秀-7e10d6c7e3" target="nccu-mb-林靖庭-0c65309b7a">
+  <data key="d12">1.5653124217176435</data>
+  <data key="d13">0.02882780333919199</data>
+  <data key="d18">0</data>
+  <data key="d15">3.9132810542941088</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6388501018235601</data>
+</edge>
+<edge source="nccu-mb-林建秀-7e10d6c7e3" target="nccu-mb-詹育儒-b0e506f68d">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.11016471038185979</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="nccu-mb-林建秀-7e10d6c7e3" target="nccu-mb-金帛春-6af918f80e">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.16365405649993153</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="nccu-mb-林建秀-7e10d6c7e3" target="nccu-mb-黃台心-e46c71fea9">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.09926199086627896</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+<edge source="nccu-mb-林靖庭-0c65309b7a" target="nccu-mb-楊曉文-bfe05b5d2b">
+  <data key="d12">5.106617489168672</data>
+  <data key="d13">0.07320357255192105</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">1</data>
+  <data key="d17">0.19582434010791638</data>
+</edge>
+<edge source="nccu-mb-林靖庭-0c65309b7a" target="nccu-mb-羅秉政-7c7cc9688b">
+  <data key="d12">1.7097889224365201</data>
+  <data key="d13">0.030816448150034752</data>
+  <data key="d18">0</data>
+  <data key="d15">4.2744723060913</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5848675160293813</data>
+</edge>
+<edge source="nccu-mb-林靖庭-0c65309b7a" target="nccu-mb-殷乃平-d68e64b186">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11253399697183843</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-林靖庭-0c65309b7a" target="nccu-mb-詹育儒-b0e506f68d">
+  <data key="d12">1.7097889224365201</data>
+  <data key="d13">0.036698956148415264</data>
+  <data key="d18">0</data>
+  <data key="d15">4.2744723060913</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5848675160293813</data>
+</edge>
+<edge source="nccu-mb-林靖庭-0c65309b7a" target="nccu-mb-陳韋達-69b2d375bd">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.11253399697183843</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-林靖庭-0c65309b7a" target="nccu-mb-陳威光-119fc2a584">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.07412185249049635</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nccu-mb-楊曉文-bfe05b5d2b" target="nccu-mb-殷乃平-d68e64b186">
+  <data key="d12">1.7126928668355959</data>
+  <data key="d13">0.05823206175107201</data>
+  <data key="d18">0</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5838758480074826</data>
+</edge>
+<edge source="nccu-mb-楊曉文-bfe05b5d2b" target="nccu-mb-陳韋達-69b2d375bd">
+  <data key="d12">1.7126928668355959</data>
+  <data key="d13">0.05823206175107201</data>
+  <data key="d18">0</data>
+  <data key="d15">4.28173216708899</data>
+  <data key="d16">0</data>
+  <data key="d17">0.5838758480074826</data>
+</edge>
+<edge source="nccu-mb-楊曉文-bfe05b5d2b" target="nccu-mb-陳威光-119fc2a584">
+  <data key="d12">3.3939246223330755</data>
+  <data key="d13">0.0839030453513173</data>
+  <data key="d14">3.3939246223330755</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2946441395367741</data>
+</edge>
+<edge source="nccu-mb-殷乃平-d68e64b186" target="nccu-mb-陳韋達-69b2d375bd">
+  <data key="d12">3.746558565700614</data>
+  <data key="d13">0.26691161567709215</data>
+  <data key="d14">3.746558565700614</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.26691161567709215</data>
+</edge>
+<edge source="nccu-mb-江彌修-10fe15f5d0" target="nccu-mb-陳威光-119fc2a584">
+  <data key="d12">1.5508542985710823</data>
+  <data key="d13">0.07762834356056629</data>
+  <data key="d18">0</data>
+  <data key="d15">3.8771357464277054</data>
+  <data key="d16">0</data>
+  <data key="d17">0.6448058988657894</data>
+</edge>
+<edge source="nccu-mb-羅秉政-7c7cc9688b" target="nccu-mb-詹育儒-b0e506f68d">
+  <data key="d12">3.8771357464277054</data>
+  <data key="d13">0.11843902206394856</data>
+  <data key="d14">3.8771357464277054</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.25792235954631576</data>
+</edge>
+<edge source="nccu-mb-詹育儒-b0e506f68d" target="nccu-mb-金帛春-6af918f80e">
+  <data key="d12">3.529297384289471</data>
+  <data key="d13">0.19073371515246357</data>
+  <data key="d14">3.529297384289471</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.2833425158365687</data>
+</edge>
+<edge source="nccu-mb-陳正暉-5d7134b1d1" target="nccu-mb-黃台心-e46c71fea9">
+  <data key="d12">3.138388573955514</data>
+  <data key="d13">0.1932633453546142</data>
+  <data key="d14">3.138388573955514</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">0.31863485876117476</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,50 @@
+{
+  "school_id": "nthu-qf",
+  "started_from": {
+    "zh": "https://qf.site.nthu.edu.tw/p/412-1366-5738.php",
+    "en": "https://qf.site.nthu.edu.tw/p/412-1366-5738.php"
+  },
+  "note": "link一樣 中英文共用",
+  "collected_at": "2026-09-09T09:29:28+08:00",
+  "pages": [
+    "https://qf.site.nthu.edu.tw/p/412-1366-5738.php",
+    "https://qf.site.nthu.edu.tw/p/412-1366-3772.php",
+    "https://qf.site.nthu.edu.tw/p/412-1366-5739.php",
+    "https://qf.site.nthu.edu.tw/p/405-1366-229103,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16624,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16623,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16620,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16621,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16625,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-165135,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-220485,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16628,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16629,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16626,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-16636,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-42330,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-119580,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-184380,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-151734,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-195695,c5738.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-173929,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-292821,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-242052,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-65184,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-241904,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-119675,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-195693,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-208665,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-297414,c5739.php?Lang=zh-tw",
+    "https://qf.site.nthu.edu.tw/p/405-1366-297413,c5739.php?Lang=zh-tw"
+  ],
+  "counts": {
+    "zh_raw": 19,
+    "en_raw": 19,
+    "faculty": 19
+  },
+  "warnings": [],
+  "errors": [],
+  "validation_issues": [],
+  "success": true
+}

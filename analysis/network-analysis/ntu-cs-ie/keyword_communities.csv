@@ -1,0 +1,70 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Algorithms,Theory & Algorithms,Algorithms & Computational Complexity,2,3,2,3
+Artificial Intelligence,AI & Machine Learning,Artificial Intelligence & Generative Models,0,0,0,0
+Automation and Control,"Robotics, Control & Smart Manufacturing",Robotics & Automation,1,2,1,2
+Big Data Analytics,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,1,5,1
+Bioinformatics,Biomedical & Health Informatics,Bioinformatics & Systems Biology,3,5,3,5
+Blockchain,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",0,1,5,1
+Cloud Computing,Networks & Communications,Cloud & Edge Computing,2,3,2,3
+Compilers,"Systems, Software & Architecture","Software Engineering, Languages & Verification",1,2,1,2
+Computer Architecture,"Systems, Software & Architecture",Computer Architecture & Hardware Design,1,2,1,2
+Computer Graphics,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,0,1,4,1
+Computer Networks,Networks & Communications,Computer & Wireless Networks,0,0,0,0
+Computer Vision,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,1,4,1
+Cyber-Physical Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",3,4,3,4
+Data Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,0,0,0
+Data Science,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,3,5,3,5
+Databases,"Data, Databases & Knowledge Discovery",Database & Storage Systems,0,1,6,1
+Deep Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,1,4,1
+Digital Transformation,Information Systems & Management,Digital Business & E-Commerce,0,0,0,0
+Digital Twins,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,2,1,2
+Distributed Systems,"Systems, Software & Architecture",Parallel & Distributed Computing,2,3,2,3
+Electronic Design Automation,"Systems, Software & Architecture",Computer Architecture & Hardware Design,1,2,1,2
+Embedded Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,4,5,4
+Evolutionary Computation,AI & Machine Learning,Machine Learning & Deep Learning,1,2,1,2
+Financial Technology,Financial Engineering & Risk,Banking & Financial Technology,0,1,0,1
+Formal Verification,"Systems, Software & Architecture","Software Engineering, Languages & Verification",3,4,3,4
+Game Theory,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,3,0,0,0
+Graph Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,2,3,2,3
+High-Dimensional Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,0,0,0,0
+High-Performance Computing,"Systems, Software & Architecture",Parallel & Distributed Computing,1,2,1,2
+Human-Computer Interaction,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,1,4,1
+Image Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,1,4,1
+Information Retrieval,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,1,6,1
+Information Security,"Security, Privacy & Cryptography",Information & Systems Security,3,4,3,4
+Information Theory,Theory & Algorithms,Discrete Mathematics & Information Theory,0,0,0,0
+Internet of Things,Networks & Communications,"Mobile, IoT & Pervasive Computing",2,3,2,3
+Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,0,0,0
+Medical Imaging,Biomedical & Health Informatics,Medical Informatics & Imaging,0,1,4,1
+Medical Informatics,Biomedical & Health Informatics,Medical Informatics & Imaging,3,5,3,5
+Mobile Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",2,3,2,3
+Multimedia Systems,"Vision, Multimedia & Human-Centered Computing",Graphics & Multimedia Systems,0,1,6,1
+Natural Language Processing,AI & Machine Learning,Natural Language & Speech Processing,0,0,0,0
+Neural Networks,AI & Machine Learning,Machine Learning & Deep Learning,0,1,4,1
+Neuromorphic Computing,AI & Machine Learning,Machine Learning & Deep Learning,1,4,5,4
+Operating Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,4,5,4
+Optimization,Applied Mathematics & Operations Research,Optimization & Operations Research,1,2,1,2
+Parallel Computing,"Systems, Software & Architecture",Parallel & Distributed Computing,1,2,1,2
+Pattern Recognition,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,0,0,0
+Pervasive Computing,Networks & Communications,"Mobile, IoT & Pervasive Computing",2,3,2,3
+Privacy-Preserving Computing,"Security, Privacy & Cryptography","Cryptography, Blockchain & Privacy",2,3,2,3
+Programming Languages,"Systems, Software & Architecture","Software Engineering, Languages & Verification",0,0,0,0
+Quantum Computing,"Systems, Software & Architecture",Computer Architecture & Hardware Design,0,0,5,0
+Real-Time Systems,"Systems, Software & Architecture","Operating, Real-Time & Embedded Systems",1,4,5,4
+Reinforcement Learning,AI & Machine Learning,Machine Learning & Deep Learning,1,2,1,2
+Robotics,"Robotics, Control & Smart Manufacturing",Robotics & Automation,1,2,1,2
+Signal Processing,"Vision, Multimedia & Human-Centered Computing","Computer Vision, Image & Signal Processing",0,1,6,1
+Smart Healthcare,Biomedical & Health Informatics,Medical Informatics & Imaging,0,0,0,0
+Social Network Analysis,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,0,0,0,0
+Software Engineering,"Systems, Software & Architecture","Software Engineering, Languages & Verification",3,5,3,5
+Speech Recognition,AI & Machine Learning,Natural Language & Speech Processing,0,0,0,0
+Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,0,0,0,0
+Storage Systems,"Data, Databases & Knowledge Discovery",Database & Storage Systems,1,4,5,4
+Systems Biology,Biomedical & Health Informatics,Bioinformatics & Systems Biology,3,5,3,5
+Systems Security,"Security, Privacy & Cryptography",Information & Systems Security,3,4,3,4
+Theory of Computation,Theory & Algorithms,Algorithms & Computational Complexity,1,2,1,2
+Trustworthy AI,AI & Machine Learning,Artificial Intelligence & Generative Models,0,0,0,0
+Virtual Reality,"Vision, Multimedia & Human-Centered Computing",Human-Computer Interaction & Immersive Media,0,1,4,1
+Web Mining,"Data, Databases & Knowledge Discovery",Data Mining & Big Data Analytics,0,1,6,1
+Wireless Communications,Networks & Communications,Computer & Wireless Networks,2,3,2,3
+Wireless Networks,Networks & Communications,Computer & Wireless Networks,2,3,2,3

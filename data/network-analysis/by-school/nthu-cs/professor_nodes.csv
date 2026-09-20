@@ -1,0 +1,77 @@
+﻿node_id,professor_name,name_en,school_ids,role_groups,n_keywords,phd_institution,n_appointments
+nthu-cs-chunglaungliu-81c34bb998,Chung Laung Liu,Chung Laung Liu,nthu-cs,chair | emeritus,1,Massachusetts Institute of Technology,1
+nthu-cs-wenlianhsu-baee37b511,Wen-Lian Hsu,Wen-Lian Hsu,nthu-cs,joint,2,Cornell University,1
+nthu-cs-丁川康-09362c5c83,丁川康,Chuan-Kang Ting,nthu-cs,full_time,4,Paderborn University,1
+nthu-cs-劉炯朗-714cd73f70,劉炯朗,,nthu-cs,chair | emeritus,3,Massachusetts Institute of Technology,1
+nthu-cs-吳中浩-2da90a2f27,吳中浩,Wu Chung -Haw,nthu-cs,adjunct,1,"University of California, Irvine",1
+nthu-cs-吳尚鴻-69aaff2ef5,吳尚鴻,Shan-Hung Wu,nthu-cs,full_time,3,National Taiwan University,1
+nthu-cs-周志遠-5af43e1b90,周志遠,,nthu-cs,full_time,4,,1
+nthu-cs-周百祥-cf9a8d7b4b,周百祥,Pai H. Chou,nthu-cs,full_time,1,University of Washington,1
+nthu-cs-唐傳義-7f081eb094,唐傳義,Chuan-Yi Tang,nthu-cs,adjunct | emeritus | joint,2,National Chiao Tung University,1
+nthu-cs-孫宏民-ae6348d2b8,孫宏民,Hung-Min Sun,nthu-cs,full_time,3,National Chiao Tung University,1
+nthu-cs-張世杰-c7720e7bf2,張世杰,,nthu-cs,full_time,2,"University of California, Santa Barbara",1
+nthu-cs-張俊盛-260bd4fef4,張俊盛,Jason S. Chang,nthu-cs,emeritus,5,New York University,1
+nthu-cs-張君天-43ab3fd7b9,張君天,Chun-Tien Chang,nthu-cs,adjunct,1,National Tsing Hua University,1
+nthu-cs-張峻銘-b2df996158,張峻銘,Tsun Ming Cheung,nthu-cs,full_time,2,McGill University,1
+nthu-cs-張正尚-0173f59db1,張正尚,Cheng-Shang Chang,nthu-cs,joint,3,Columbia University,1
+nthu-cs-張真誠-f90f3dfae1,張真誠,Chin-Chen Chang,nthu-cs,joint,6,National Chiao Tung University,1
+nthu-cs-張隆紋-6579e42cba,張隆紋,Long-Wen Chang,nthu-cs,adjunct | emeritus,6,,1
+nthu-cs-張韻詩-a94b4eca78,張韻詩,,nthu-cs,chair | emeritus,2,Massachusetts Institute of Technology,1
+nthu-cs-徐正炘-8b568ce001,徐正炘,Cheng-Hsin Hsu,nthu-cs,full_time,3,Simon Fraser University,1
+nthu-cs-徐爵民-eade3af147,徐爵民,Jyuo-Min Shyu,nthu-cs,emeritus,3,"University of California, Berkeley",1
+nthu-cs-朱宏國-642998a4aa,朱宏國,Hung-Kuo Chu,nthu-cs,full_time,3,National Cheng Kung University,1
+nthu-cs-李哲榮-722a84d1c8,李哲榮,,nthu-cs,full_time,3,"University of Maryland, College Park",1
+nthu-cs-李家同-c1f2d67113,李家同,,nthu-cs,chair | emeritus,1,"University of California, Berkeley",1
+nthu-cs-李政崑-965a47032e,李政崑,Jenq-Kuen Lee,nthu-cs,full_time,3,Indiana University,1
+nthu-cs-李端興-72950bb080,李端興,Duan-Shin Lee,nthu-cs,full_time,9,Columbia University,1
+nthu-cs-林桂傑-3eab7348de,林桂傑,Kwei-Jay Lin,nthu-cs,joint,1,"University of Maryland, College Park",2
+nthu-cs-林永隆-971ac78e0f,林永隆,,nthu-cs,chair | emeritus,2,University of Illinois Urbana-Champaign,1
+nthu-cs-林沿妊-ab6c251917,林沿妊,,nthu-cs,adjunct,1,National Tsing Hua University,1
+nthu-cs-林瀚仚-8176500c13,林瀚仚,Han-Hsuan Lin,nthu-cs,full_time,1,Massachusetts Institute of Technology,1
+nthu-cs-林華君-4d8a5842a2,林華君,Hwa-Chun Lin,nthu-cs,emeritus,2,University of Southern California,1
+nthu-cs-梁雅鈞-9f3d7465e1,梁雅鈞,Ya-Chun Liang,nthu-cs,full_time,2,University of Liverpool,1
+nthu-cs-楊熙年-e1cd89ea15,楊熙年,Shi-Nine Yang,nthu-cs,emeritus,2,,1
+nthu-cs-楊舜仁-77d533ddf8,楊舜仁,,nthu-cs,full_time,1,National Chiao Tung University,1
+nthu-cs-沈之涯-d5bb9630d8,沈之涯,Chih-Ya Shen,nthu-cs,full_time,3,National Taiwan University,1
+nthu-cs-洪仕軒-a9fa041928,洪仕軒,Shih-Hsuan Hung,nthu-cs,full_time,2,Oregon State University,1
+nthu-cs-王俊堯-29ae2991f7,王俊堯,Chun-Yao Wang,nthu-cs,full_time,2,National Chiao Tung University,1
+nthu-cs-王家祥-79b45fac37,王家祥,Jia-Shung Wang,nthu-cs,emeritus,4,National Tsing Hua University,1
+nthu-cs-王廷基-66e8de998a,王廷基,Ting-Chi Wang,nthu-cs,full_time,3,University of Texas at Austin,1
+nthu-cs-王炳豐-db84c4528b,王炳豐,Biing-Feng Wang,nthu-cs,chair | full_time,2,National Taiwan University,1
+nthu-cs-盧錦隆-6983c0f1dd,盧錦隆,Chin-Lung Lu,nthu-cs,full_time,2,National Tsing Hua University,1
+nthu-cs-石維寬-b54c54300e,石維寬,Wei-Kuan Shih,nthu-cs,full_time,3,University of Illinois Urbana-Champaign,1
+nthu-cs-羅婈-fdd893b309,羅婈,Ling Lo,nthu-cs,full_time,4,National Yang Ming Chiao Tung University,1
+nthu-cs-翁正明-fe545e34a2,翁正明,Cheng-Ming Weng,nthu-cs,emeritus,1,University of Florida,1
+nthu-cs-胡敏君-d30f85d433,胡敏君,Min-Chun Hu,nthu-cs,full_time,5,National Taiwan University,1
+nthu-cs-葉肩宇-1907b9cbf9,葉肩宇,,nthu-cs,adjunct | practice,2,National Tsing Hua University,1
+nthu-cs-蔡仁松-13fcaf5bbe,蔡仁松,Ren-Song Tsay,nthu-cs,emeritus,5,"University of California, Berkeley",1
+nthu-cs-蔡明哲-9d609636c8,蔡明哲,Ming-Jer Tsai,nthu-cs,full_time,3,National Taiwan University,1
+nthu-cs-蘇豐文-f06969cec0,蘇豐文,,nthu-cs,emeritus | joint,3,Rutgers University,1
+nthu-cs-許健平-128c6ac6ab,許健平,Jang-Ping Sheu,nthu-cs,chair | full_time,3,National Tsing Hua University,1
+nthu-cs-許秋婷-e17039873f,許秋婷,Chiou-Ting Hsu,nthu-cs,full_time,2,National Taiwan University,1
+nthu-cs-許聞廉-24d823b30b,許聞廉,,nthu-cs,joint,2,Cornell University,1
+nthu-cs-謝源-fe3951f144,謝源,Yuan Xie,nthu-cs,joint,4,Princeton University,1
+nthu-cs-賴尚宏-15f146b4f1,賴尚宏,Shang-Hong Lai,nthu-cs,full_time,4,University of Florida,1
+nthu-cs-邱德泉-23a7d7b698,邱德泉,Te-Chuan Chiu,nthu-cs,full_time,3,National Taiwan University,1
+nthu-cs-邱瀞德-99539b19ee,邱瀞德,Ching-Te Chiu,nthu-cs,full_time,4,"University of Maryland, College Park",1
+nthu-cs-郭昱廷-cb1da4e458,郭昱廷,Yu-Ting Kuo,nthu-cs,adjunct | full_time | practice,3,,1
+nthu-cs-郭柏志-70f6925e3a,郭柏志,Po-Chih Kuo,nthu-cs,full_time,4,National Chiao Tung University,1
+nthu-cs-金仲達-87bd908f7e,金仲達,Chung-Ta King,nthu-cs,adjunct | emeritus,2,Michigan State University,1
+nthu-cs-金陽和-83ed0dbb2c,金陽和,Y.H. Chin,nthu-cs,emeritus,3,University of Texas at Austin,1
+nthu-cs-鍾葉青-fb3791172c,鍾葉青,Yeh-Ching Chung,nthu-cs,emeritus,4,,1
+nthu-cs-闕志克-667b8d485c,闕志克,Tzi-Cker Chiueh,nthu-cs,joint,1,,1
+nthu-cs-陳宜欣-10568557fc,陳宜欣,Yi-Shin Chen,nthu-cs,full_time,4,University of Southern California,1
+nthu-cs-陳文村-da14007351,陳文村,,nthu-cs,chair | emeritus,1,"University of California, Berkeley",1
+nthu-cs-陳煥宗-7c43119c40,陳煥宗,,nthu-cs,full_time,1,National Taiwan University,1
+nthu-cs-陳耘志-1b3b5d7ab0,陳耘志,Yun-Chih Chen,nthu-cs,full_time,2,National Taiwan University,1
+nthu-cs-陳聿廣-13aceaf00c,陳聿廣,,nthu-cs,adjunct,1,National Tsing Hua University,1
+nthu-cs-陳良弼-2847ebc1d7,陳良弼,Arbee L.P Chen,nthu-cs,joint,3,University of Southern California,1
+nthu-cs-韓永楷-05d57868e3,韓永楷,Wing-Kai Hon,nthu-cs,full_time,1,University of Hong Kong,1
+nthu-cs-顏子斌-46d093b11d,顏子斌,Tzu-Bin Yan,nthu-cs,full_time,1,University of Illinois Urbana-Champaign,1
+nthu-cs-高宏宇-e0f4516945,高宏宇,Hung-Yu Kao,nthu-cs,full_time,5,National Taiwan University,1
+nthu-cs-高榮駿-458af60731,高榮駿,Jung-Chun Kao,nthu-cs,full_time,1,Carnegie Mellon University,1
+nthu-cs-麥偉基-5269f158c4,麥偉基,Wai-Kei Mak,nthu-cs,full_time,3,University of Texas at Austin,1
+nthu-cs-黃婷婷-c521072c08,黃婷婷,Ting-Ting Hwang,nthu-cs,full_time,2,Pennsylvania State University,1
+nthu-cs-黃慶育-97536649ca,黃慶育,Chin-Yu Huang,nthu-cs,full_time,1,National Taiwan University,1
+nthu-cs-黃稚存-6ad9444e87,黃稚存,Chih-Tsun Huang,nthu-cs,full_time,5,National Tsing Hua University,1
+nthu-cs-黃能富-478224d15b,黃能富,Nen-Fu Huang,nthu-cs,full_time,5,National Tsing Hua University,1

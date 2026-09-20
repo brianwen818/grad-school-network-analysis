@@ -1,0 +1,710 @@
+[
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "李琳山",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "美國史丹福大學博士"
+    ],
+    "research_interests": [
+      "數位語音處理、數位訊號處理、數位傳輸"
+    ],
+    "emails": [
+      "cabe9be678982a2f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901017&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901017&p=3",
+      "http://speech.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "貝蘇章",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "美國加州大學(聖塔芭芭拉)博士"
+    ],
+    "research_interests": [
+      "數位訊號處理及其應用、影像處理與圖型識別、電腦圖學"
+    ],
+    "emails": [
+      "a052b1b544f8bed9@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901001&p=5",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901001&p=5"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "鄭士康",
+    "name_en": "",
+    "titles": [
+      "教授"
+    ],
+    "education": [
+      "國立臺灣大學博士"
+    ],
+    "research_interests": [
+      "獨力: 電磁與聲波理論, 計算神經科學 合作: 失智照護機器人, 機器學習與多媒體, 經驗模態分解"
+    ],
+    "emails": [
+      "9be3b3b926cf6a27@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901071&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901071&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "林澤",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國伊利諾大學香檳分校博士"
+    ],
+    "research_interests": [
+      "深度學習、資料科學、通訊/生醫信號處理、金融科技、最佳化理論"
+    ],
+    "emails": [
+      "8d594b0cca83fd78@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=25203&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=25203&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "周俊廷",
+    "name_en": "",
+    "titles": [
+      "專任副教授"
+    ],
+    "education": [
+      "美國密西根大學安納堡分校博士"
+    ],
+    "research_interests": [
+      "無線網路通訊協定、超高速個人無線區域網路、認知型智慧無線網路"
+    ],
+    "emails": [
+      "0137d3a69a52cade@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942021&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942021&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "簡翌",
+    "name_en": "",
+    "titles": [
+      "專任助理教授"
+    ],
+    "education": [
+      "伊利諾大學厄巴納-香檳分校博士"
+    ],
+    "research_interests": [
+      "人工智慧、機器學習、可規範性人工智慧、機器學習隱私、機器遺忘、人工智慧智慧財產權、圖機器學習"
+    ],
+    "emails": [
+      "69ddfdb337223e60@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=28115&p=3",
+      "https://sites.google.com/view/eli-chien/home"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "鄭皓中",
+    "name_en": "",
+    "titles": [
+      "專任副教授"
+    ],
+    "education": [
+      "國立臺灣大學博士及澳洲雪梨理工大學博士"
+    ],
+    "research_interests": [
+      "量子資訊處理、量子通訊、量子機器學習"
+    ],
+    "emails": [
+      "981bdd98d8fd6237@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "蘇炫榮",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國馬里蘭大學博士"
+    ],
+    "research_interests": [
+      "編碼、調變、訊號處理"
+    ],
+    "emails": [
+      "d3ab9aa762adff43@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942007&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942007&p=3",
+      "http://cc.ee.ntu.edu.tw/~hjsu/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "李宏毅",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "國立臺灣大學博士"
+    ],
+    "research_interests": [
+      "深度學習、機器學習、語意理解、語音辨識"
+    ],
+    "emails": [
+      "2790b597d357b931@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901182&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901182&p=3",
+      "http://speech.ee.ntu.edu.tw/~tlkagk/",
+      "http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "謝宏昀",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國喬治亞理工學院博士"
+    ],
+    "research_interests": [
+      "物聯網、車載通訊網路、網路科學與資訊安全"
+    ],
+    "emails": [
+      "2c753dc973eec470@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942014&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942014&p=3",
+      "http://tonic.ee.ntu.edu.tw"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "魏宏宇",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國哥倫比亞大學博士"
+    ],
+    "research_interests": [
+      "行動無線網路、通信網路賽局理論、跨階層無線多媒體通信系統設計"
+    ],
+    "emails": [
+      "30420dd660f7655f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901161&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901161&p=3",
+      "http://wmnlab.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "王奕翔",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國加州大學柏克萊分校博士"
+    ],
+    "research_interests": [
+      "消息理論、無線通訊、網路資訊與資料處理"
+    ],
+    "emails": [
+      "cfa3718f8e912dc8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=102002&p=3",
+      "http://cc.ee.ntu.edu.tw/~ihsiangw/",
+      "http://cc.ee.ntu.edu.tw/~ihsiangw/NICLab/NIC.html"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "丁建均",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "國立臺灣大學博士"
+    ],
+    "research_interests": [
+      "數位信號處理,數位影像處理"
+    ],
+    "emails": [
+      "4329dfd7c3f7f919@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942019&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942019&p=3",
+      "https://disp.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "劉子毓",
+    "name_en": "",
+    "titles": [
+      "專任副教授"
+    ],
+    "education": [
+      "密西根大學安娜堡分校博士"
+    ],
+    "research_interests": [
+      "機器學習、最佳化、結構化變數選取、密度估計、時序資料分析、遷移學習、多任務學習、資料融合、神經網路"
+    ],
+    "emails": [
+      "1eb4c1d71e85b6fb@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/bio1.php?teacher_id=26592&p=3",
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=26592&p=3",
+      "https://sites.google.com/view/joyliu-m2lab/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "陳銘憲",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國密西根大學安那堡分校博士"
+    ],
+    "research_interests": [
+      "資料庫、行動通訊、多媒體網路"
+    ],
+    "emails": [
+      "998f5bca9af71ba1@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901118&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901118&p=3",
+      "http://arbor.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "葉丙成",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國密西根大學博士"
+    ],
+    "research_interests": [
+      "無線通訊、無線網路"
+    ],
+    "emails": [
+      "6fadc54b9c3e5abf@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942016&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942016&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "吳沛遠",
+    "name_en": "",
+    "titles": [
+      "專任副教授"
+    ],
+    "education": [
+      "美國普林斯頓大學博士"
+    ],
+    "research_interests": [
+      "機器學習、估計理論、智慧製造、資訊安全"
+    ],
+    "emails": [
+      "32bc4ca01a588820@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=24038&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=24038&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "黃寶儀",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國南加州大學博士"
+    ],
+    "research_interests": [
+      "網際網路分析、無線感測網路、多媒體同儕網路、普及運算"
+    ],
+    "emails": [
+      "e2a24ccb10d941c8@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901151&p=3",
+      "http://homepage.ntu.edu.tw/~pollyhuang/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "孫紹華",
+    "name_en": "",
+    "titles": [
+      "專任助理教授"
+    ],
+    "education": [
+      "美國南加州大學博士"
+    ],
+    "research_interests": [
+      "機器學習、機器人學習、強化學習、程式合成"
+    ],
+    "emails": [
+      "d88082384d665159@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/bio1.php?id=1090721",
+      "https://shaohua0116.github.io/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "林宗男",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國普林斯頓大學博士"
+    ],
+    "research_interests": [
+      "數位信號處理、通訊網路、神經網路、色彩影像處理"
+    ],
+    "emails": [
+      "1afb304543a01708@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901147&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901147&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "廖婉君",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "美國南加州大學博士"
+    ],
+    "research_interests": [
+      "無線網路、多媒體系統及應用、人工智慧物聯網、區塊鏈"
+    ],
+    "emails": [
+      "d3ab333d6bf7d91f@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901125&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901125&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "楊奕軒",
+    "name_en": "",
+    "titles": [
+      "專任教授"
+    ],
+    "education": [
+      "國立臺灣大學博士"
+    ],
+    "research_interests": [
+      "音樂資料研究、人工智慧、機器學習、自動音樂生成"
+    ],
+    "emails": [
+      "c71206c942b3b55a@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://affige.github.io/",
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=26591&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "陳宏銘",
+    "name_en": "",
+    "titles": [
+      "兼任教授"
+    ],
+    "education": [
+      "美國伊利諾大學香檳分校博士"
+    ],
+    "research_interests": [
+      "多媒體信號處理、計算攝影及顯示技術、音樂資訊探勘"
+    ],
+    "emails": [
+      "97a1fffaccc41225@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942010&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942010&p=3",
+      "http://mpac.ee.ntu.edu.tw/"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "王鈺強",
+    "name_en": "",
+    "titles": [
+      "兼任教授"
+    ],
+    "education": [
+      "美國卡內基美隆大學博士"
+    ],
+    "research_interests": [
+      "電腦視覺、機器學習、深度學習、人工智慧"
+    ],
+    "emails": [
+      "d1fb113cd91daaf4@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=24037&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=24037&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  },
+  {
+    "school_id": "ntu-comm-engin-ds-network",
+    "language": "zh",
+    "name_zh": "蔡志宏",
+    "name_en": "",
+    "titles": [
+      "兼任教授"
+    ],
+    "education": [
+      "美國加州大學洛杉磯分校博士"
+    ],
+    "research_interests": [
+      "寬頻網路、效能分析、計算機模擬、網路規劃與管理"
+    ],
+    "emails": [
+      "b74e4140bf50c030@redacted.invalid"
+    ],
+    "listing_urls": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "profile_urls": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901040&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901040&p=3"
+    ],
+    "stable_ids": [],
+    "section": ""
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "school_id": "ntu-fin",
+  "analyzed_at": "2026-09-09T16:16:44+08:00",
+  "faculty_count": 43,
+  "role_counts": {
+    "adjunct": 12,
+    "chair": 5,
+    "emeritus": 3,
+    "full_time": 22,
+    "joint": 1
+  },
+  "merge_status_counts": {
+    "matched": 43
+  },
+  "bilingual_match_rate": 1.0,
+  "field_completion_rates": {
+    "name_zh": 1.0,
+    "name_en": 1.0,
+    "education_zh": 1.0,
+    "education_en": 1.0,
+    "research_interests_zh": 0.7674,
+    "research_interests_en": 0.7442
+  },
+  "pages_visited": 88,
+  "warnings": [],
+  "errors": []
+}

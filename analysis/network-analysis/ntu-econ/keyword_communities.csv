@@ -1,0 +1,28 @@
+﻿node,parent_l1,parent_l2,louvain_res_0.7,louvain_res_1.0,louvain_res_1.3,community
+Asset Pricing,Asset Pricing & Financial Markets,Asset Pricing & Investments,0,0,0,0
+Banking and Financial Institutions,Financial Engineering & Risk,Banking & Financial Technology,0,0,0,0
+Corporate Finance,Corporate Finance & Governance,Corporate Finance & Valuation,2,3,3,3
+Corporate Governance,Corporate Finance & Governance,Governance & Corporate Control,2,3,3,3
+Development Economics,Economics & Policy,Applied & Policy Economics,1,2,2,2
+Econometrics,Economics & Policy,Econometrics,0,1,1,1
+Environmental Economics,Economics & Policy,Applied & Policy Economics,0,1,1,1
+Financial Economics,Asset Pricing & Financial Markets,Asset Pricing & Investments,0,0,0,0
+Financial Markets,Asset Pricing & Financial Markets,Financial Markets & Microstructure,2,3,3,3
+Game Theory,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,1,2,2,2
+Health Economics,Economics & Policy,Applied & Policy Economics,0,1,1,1
+Industrial Organization,Economics & Policy,Microeconomics & Industrial Organization,1,2,2,2
+International Economics,Economics & Policy,Applied & Policy Economics,0,0,0,0
+International Finance,Asset Pricing & Financial Markets,Behavioral & International Finance,0,0,0,0
+Investments,Asset Pricing & Financial Markets,Asset Pricing & Investments,2,3,3,3
+Labor Economics,Economics & Policy,Applied & Policy Economics,0,1,1,1
+Machine Learning,AI & Machine Learning,Machine Learning & Deep Learning,0,1,1,1
+Macroeconomics,Economics & Policy,Macroeconomics & Monetary Economics,0,0,0,0
+Market Microstructure,Asset Pricing & Financial Markets,Financial Markets & Microstructure,2,3,3,3
+Mechanism Design,Applied Mathematics & Operations Research,Game Theory & Mechanism Design,1,2,2,2
+Microeconomics,Economics & Policy,Microeconomics & Industrial Organization,1,2,2,2
+Monetary Economics,Economics & Policy,Macroeconomics & Monetary Economics,0,0,0,0
+Political Economy,Economics & Policy,Applied & Policy Economics,1,2,2,2
+Public Economics,Economics & Policy,Applied & Policy Economics,1,2,2,2
+Social Network Analysis,"Data, Databases & Knowledge Discovery",Social & Web Network Analytics,0,1,1,1
+Statistics,Statistics & Statistical Methods,Statistical Theory & Inference,0,1,1,1
+Time Series Analysis,Statistics & Statistical Methods,Time Series & Change Point Analysis,0,0,0,0

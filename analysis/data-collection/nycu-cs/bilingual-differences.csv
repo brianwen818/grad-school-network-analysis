@@ -1,0 +1,558 @@
+﻿faculty_id,field,difference_type,zh_value,en_value
+nycu-cs-lopangyunting-3b16a3f0bf,name,both_present_different,丁羅邦芸,Lo Pang-Yun Ting
+nycu-cs-lopangyunting-3b16a3f0bf,titles,both_present_different,助理教授 | 副教授,Assistant Professor | Associate Professor
+nycu-cs-lopangyunting-3b16a3f0bf,education,both_present_different,國立成功大學資訊工程學系博士,"Ph.D. in Computer Science and Information Engineering, National Cheng Kung University"
+nycu-cs-lopangyunting-3b16a3f0bf,research_interests,both_present_different,資料探勘、強化學習、知識圖譜嵌入/推理、人工智慧醫療、時間序列分析,"Data Mining, Reinforcement Learning, Knowledge Graph Embedding / Reasoning, Artificial Intelligence in Healthcare, Time Series Analysis"
+nycu-cs-syho-4d3a7858ca,name,both_present_different,何信瑩,S.-Y. Ho
+nycu-cs-syho-4d3a7858ca,titles,both_present_different,教授,Professor
+nycu-cs-shiawshianyu-9f00080370,name,both_present_different,余孝先,Shiaw-Shian Yu
+nycu-cs-shiawshianyu-9f00080370,titles,both_present_different,客座教授,Visiting Professor
+nycu-cs-shiawshianyu-9f00080370,education,both_present_different,國立交通大學資訊工程博士,"Ph.D., Computer Science and Information Engineering, National Chiao Tung University, Taiwan"
+nycu-cs-shiawshianyu-9f00080370,research_interests,both_present_different,人工智慧策略與產業應用、巨量資料與數位轉型、科技產業創新與營運管理,Artificial Intelligence Strategy and Industrial Applications、Big Data and Digital Transformation、Innovation and Operations Management in the Technology Industry
+nycu-cs-philipsyu-32aa417b88,name,both_present_different,俞士綸,Philip S. Yu
+nycu-cs-philipsyu-32aa417b88,titles,both_present_different,終身榮譽講座教授,Lifetime Honorary Chair Professor
+nycu-cs-hsinchiafu-9c15fb612b,name,both_present_different,傅心家,Hsin-Chia Fu
+nycu-cs-hsinchiafu-9c15fb612b,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-hsinchiafu-9c15fb612b,education,both_present_different,美國新墨西哥州立大學博士,"Ph.D., Computer Science, University of New Mexico,Albuquerque, U.S.A. (NUM)"
+nycu-cs-hsinchiafu-9c15fb612b,research_interests,both_present_different,手寫辨識、人工智慧、神經網路、網路多媒體資訊系統,"Handwritten Character Recognition, Artificial Intelligence, Neural Network, Network Multimedia Information System"
+nycu-cs-yulunliu-3663ddf7cc,name,both_present_different,劉育綸,Yu-Lun Liu
+nycu-cs-yulunliu-3663ddf7cc,titles,both_present_different,副教授,Associate Professor
+nycu-cs-yulunliu-3663ddf7cc,education,both_present_different,台灣大學資訊工程博士,Ph.D. degrees (Computer Science and Information Engineering ) National Taiwan University
+nycu-cs-yulunliu-3663ddf7cc,research_interests,both_present_different,電腦視覺、影像處理、機器學習、深度學習、計算攝影,"Computer Vision, Image Processing, Machine Learning, Deep Learning, Computational Photography"
+nycu-cs-sachiosemmoto-ef8589eda2,name,both_present_different,千本倖生,Sachio Semmoto
+nycu-cs-sachiosemmoto-ef8589eda2,titles,both_present_different,榮譽講座教授 | 講座教授,Honorary Chair Professor | Chair Professor
+nycu-cs-lunweiku-1d74e592a7,name,both_present_different,古倫維,Lun-Wei Ku
+nycu-cs-lunweiku-1d74e592a7,titles,both_present_different,教授,Professor
+nycu-cs-lunweiku-1d74e592a7,education,both_present_different,國立台灣大學資訊工程博士,"Ph.D. degrees (Computer Science and Information Engineering ) National Taiwan University, 2003"
+nycu-cs-lunweiku-1d74e592a7,research_interests,both_present_different,自然語言處理、資訊檢索、計算語言學、情感分析,"Natural Language Processing, Computational Linguistics, Sentiment Analysis, Information Extraction and Retrieval"
+nycu-cs-chunfengwu-749fae2324,name,both_present_different,吳俊峯,Chun-Feng Wu
+nycu-cs-chunfengwu-749fae2324,titles,both_present_different,副教授 | 助理教授,Associate Professor | Assistant Professor
+nycu-cs-chunfengwu-749fae2324,education,both_present_different,台灣大學資訊工程博士,Ph.D. degrees (Computer Science and Information Engineering ) National Taiwan University
+nycu-cs-chunfengwu-749fae2324,research_interests,both_present_different,作業系統、計算機架構、記憶體與儲存系統、記憶體/儲存內運算、AI加速器,Operating Systems、Computer Architecture、Memory and Storage Systems、Computation in Memory/Storage、AI Accelerators
+nycu-cs-kaichiangwu-34f06ed7b9,name,both_present_different,吳凱強,Kai-Chiang Wu
+nycu-cs-kaichiangwu-34f06ed7b9,titles,both_present_different,資訊科學與工程研究所所長/教授 | 所長,CS Director/Professor | Chairman/Professor
+nycu-cs-kaichiangwu-34f06ed7b9,education,both_present_different,美國卡內基美隆大學電機與電腦工程博士,"Ph.D., Electrical and Computer Engineering, Carnegie Mellon University"
+nycu-cs-kaichiangwu-34f06ed7b9,research_interests,both_present_different,深度學習模型之效能優化技術、邊緣人工智慧、晶片設計自動化、人工智慧於設計自動化之應用、 可信、可靠、可測試系統設計,"Efficient Deep Learning, Edge Artificial Intelligence (AI), Electronic Design Automation (EDA), AI for EDA, Design for Security, Reliability and Testing"
+nycu-cs-ichenwu-a745312e56,name,both_present_different,吳毅成,I-Chen Wu
+nycu-cs-ichenwu-a745312e56,titles,both_present_different,資訊學院副院長/特聘教授/教授 | 特聘教授,Associate Dean/Distinguished Professor/Professor | Distinguished Professor
+nycu-cs-ichenwu-a745312e56,education,both_present_different,美國卡內基美隆大學資訊工程博士,"Ph.D., Computer Science, Carnegie Mellon University, Pittsburgh, U.S.A. (CMU)"
+nycu-cs-ichenwu-a745312e56,research_interests,both_present_different,人工智慧、機器學習、電腦遊戲,"Artificial Intelligence, Machine Learning, Computer Games."
+nycu-cs-yusungwu-377df1bd69,name,both_present_different,吳育松,Yu-Sung Wu
+nycu-cs-yusungwu-377df1bd69,titles,both_present_different,資訊安全研究所所長/教授 | 數據科學與工程研究所所長/教授,CCS Director/Professor | DS Director/Professor
+nycu-cs-yusungwu-377df1bd69,education,both_present_different,美國普渡大學電機與電腦工程博士,"Ph.D., Electrical and Computer Engineering, Purdue University, USA, 2009"
+nycu-cs-yusungwu-377df1bd69,research_interests,both_present_different,系統安全、容錯計算、作業系統,"Security, Dependability, Systems"
+nycu-cs-chintienwu-069642d994,name,both_present_different,吳金典,Chin-Tien Wu
+nycu-cs-chintienwu-069642d994,titles,both_present_different,副教授 | 助理教授,Associate Professor | Assistant Professor
+nycu-cs-jeanjyhjiunshann-a5cae0db34,name,both_present_different,單智君,Jean Jyh-Jiun Shann
+nycu-cs-jeanjyhjiunshann-a5cae0db34,titles,both_present_different,副教授,Associate Professor
+nycu-cs-jeanjyhjiunshann-a5cae0db34,education,both_present_different,國立交通大學資訊工程博士,"PH.D., Computer Science, National Chiao-Tung University"
+nycu-cs-jeanjyhjiunshann-a5cae0db34,research_interests,both_present_different,計算機架構、平行處理、搜尋引擎,"Computer Architecture, Parallel Processing, Processor Design, Embedded System, Just-in-time Compiler, Information Retrieval System"
+nycu-cs-lihsingyen-ede27140ba,name,both_present_different,嚴力行,Li-Hsing Yen
+nycu-cs-lihsingyen-ede27140ba,titles,both_present_different,資訊學院副院長/教授 | 資訊學院副院長/特聘教授/教授,Associate Dean/Professor | Associate Dean/Distinguished Professor/Professor
+nycu-cs-lihsingyen-ede27140ba,education,both_present_different,國立交通大學資訊工程博士,"Ph.D., Computer Science and Information Engineering, National Chiao Tung University"
+nycu-cs-lihsingyen-ede27140ba,research_interests,both_present_different,無線網路、分散式計算、賽局理論,"Wireless networking, Distributed computing, Game theory"
+nycu-cs-chuentsaisun-1084a4d050,name,both_present_different,孫春在,Chuen-Tsai Sun
+nycu-cs-chuentsaisun-1084a4d050,titles,both_present_different,教授,Professor
+nycu-cs-chuentsaisun-1084a4d050,education,both_present_different,美國加州大學柏克萊分校資訊工程博士,"Ph.D., Computer Science, University of California-Berkeley,San Francisco, U.S."
+nycu-cs-chuentsaisun-1084a4d050,research_interests,both_present_different,模糊類神經網路、演化式計算、數位學習、數位遊戲、電腦模擬,"Fuzzy Neural Networks, Evolutionary Computaion, e-Learning, digital games, computer simulation"
+nycu-cs-markliao-3ab99628be,name,both_present_different,廖弘源,Mark Liao
+nycu-cs-markliao-3ab99628be,titles,both_present_different,講座教授 | 榮譽講座,Chair Professor | Honorary Chair Professors
+nycu-cs-markliao-3ab99628be,education,both_present_different,美國西北大學電機研究所博士,"Ph.D., Electrical Engineering, Northwestern University, United States"
+nycu-cs-markliao-3ab99628be,research_interests,both_present_different,機器學習、人工智慧、多媒體資料處理,"Machine Learning, Artificial Intelligence, and Multimedia Information Processing"
+nycu-cs-tingjungchang-8694406b3f,name,both_present_different,張庭榕,Ting-Jung Chang
+nycu-cs-tingjungchang-8694406b3f,titles,both_present_different,助理教授,Assistant Professor
+nycu-cs-tingjungchang-8694406b3f,education,both_present_different,普林斯頓大學電機與電腦工程博士,"Ph.D. in Electrical and Computer Engineering, Princeton University"
+nycu-cs-tingjungchang-8694406b3f,research_interests,both_present_different,"計算機結構, 數位系統設計","Computer Architecture, Digital VLSI Design"
+nycu-cs-mingfengchang-1f41c91886,name,both_present_different,張明峰,Ming-Feng Chang
+nycu-cs-mingfengchang-1f41c91886,titles,both_present_different,教授 | 終身講座教授,Professor | Lifetime Chair Professor
+nycu-cs-mingfengchang-1f41c91886,education,both_present_different,美國伊利諾大學電腦科學博士,"Ph.D., Computer Science, University of Illinois at Urbana-Champaign"
+nycu-cs-mingfengchang-1f41c91886,research_interests,both_present_different,網路通信、行動計算、VLSI設計,"Internet Communication Service, Personal Communication System, VLSI System Design."
+nycu-cs-shumingchang-8beef72454,name,both_present_different,張書銘,Shu-Ming Chang
+nycu-cs-shumingchang-8beef72454,titles,both_present_different,副教授,Associate Professor
+nycu-cs-yungjuchang-a04a034080,name,both_present_different,張永儒,Yung-Ju Chang
+nycu-cs-yungjuchang-a04a034080,titles,both_present_different,教授,Professor
+nycu-cs-yungjuchang-a04a034080,education,both_present_different,"Ph.D. in Information Science, University of Michigan","Ph.D., Information Science, University of Michigan"
+nycu-cs-yungjuchang-a04a034080,research_interests,both_present_different,"人機互動, 情境感知運算, 資訊行為","Human Computer Interaction, Context-Aware Computing, Information Behavior"
+nycu-cs-rueichuanchang-4b1a14c4a7,name,both_present_different,張瑞川,Ruei-Chuan Chang
+nycu-cs-rueichuanchang-4b1a14c4a7,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-rueichuanchang-4b1a14c4a7,education,both_present_different,國立交通大學博士,"Ph.D., Computer Science, National Chiao Tung University (NCTU"
+nycu-cs-rueichuanchang-4b1a14c4a7,research_interests,both_present_different,作業系統、計算機圖學,"Operating System, Computer Graphics, Wireless Communication"
+nycu-cs-lipinchang-68fafb736a,name,both_present_different,張立平,Li-Pin Chang
+nycu-cs-lipinchang-68fafb736a,titles,both_present_different,系主任/教授,Chairman/Professor
+nycu-cs-lipinchang-68fafb736a,education,both_present_different,國立台灣大學資訊工程博士,"Ph.D. degrees (Computer Science and Information Engineering ) National Taiwan University, 2003"
+nycu-cs-lipinchang-68fafb736a,research_interests,both_present_different,嵌入式系統、AIoT、Android、儲存與記憶體系統、作業系統,"Embedded systems, AIoT, Android, Storage and Memory Systems, Operating Systems"
+nycu-cs-wenhsiaopeng-09b23b8ea5,name,both_present_different,彭文孝,Wen-Hsiao Peng
+nycu-cs-wenhsiaopeng-09b23b8ea5,titles,both_present_different,教授,Professor
+nycu-cs-wenhsiaopeng-09b23b8ea5,education,both_present_different,交通大學電子博士; IEEE Fellow; FHEA,"Ph.D. in EE, NYCU; IEEE Fellow; FHEA"
+nycu-cs-wenhsiaopeng-09b23b8ea5,research_interests,both_present_different,視覺基礎模型、生成式人工智慧、視覺資料編碼與處理、電腦視覺,"Vision Foundation Models, Generative AI, Visual Data Coding and Processing, Computer Vision"
+nycu-cs-wenchihpeng-e0f2cd052a,name,both_present_different,彭文志,Wen-Chih Peng
+nycu-cs-wenchihpeng-e0f2cd052a,titles,both_present_different,教授,Professor
+nycu-cs-wenchihpeng-e0f2cd052a,education,both_present_different,國立台灣大學電機工程博士,"Ph.D., Electrical Engineering, National Taiwan University, Taiwan, R.O.C."
+nycu-cs-wenchihpeng-e0f2cd052a,research_interests,both_present_different,資料探勘、深度學習、人工智慧、運動科學、金融科技,"Data Mining, Deep Learning, Artificial Intelligent, Sport Data Analysis, FinTech"
+nycu-cs-zenchungshih-17e118bf3c,name,both_present_different,施仁忠,Zen-Chung Shih
+nycu-cs-zenchungshih-17e118bf3c,titles,both_present_different,教授,Professor
+nycu-cs-zenchungshih-17e118bf3c,education,both_present_different,國立清華大學資訊工程博士,"Ph.D., Computer Science, National Tsing Hua University, Taiwan (NTHU)"
+nycu-cs-zenchungshih-17e118bf3c,research_interests,both_present_different,計算機圖學、虛擬實境、科學視覺化,"Computer Graphics, Virtual reality, Scientific Visualization"
+nycu-cs-chihweiyi-09071093fb,name,both_present_different,易志偉,Chih-Wei Yi
+nycu-cs-chihweiyi-09071093fb,titles,both_present_different,教授,Professor
+nycu-cs-chihweiyi-09071093fb,education,both_present_different,伊利諾理工學院資訊科學博士,"Ph.D., Computer Science, Illinois Institute of Technology"
+nycu-cs-chihweiyi-09071093fb,research_interests,both_present_different,穿戴式技術、運動科學、智慧交通系統、深度學習、機器學習,"Wearable Technology, Sports Science, Intelligent Transportation systems, Deep Learning, Machine Learning"
+nycu-cs-shiaolitsao-d45150ec07,name,both_present_different,曹孝櫟,Shiao-Li Tsao
+nycu-cs-shiaolitsao-d45150ec07,titles,both_present_different,教授,Professor
+nycu-cs-shiaolitsao-d45150ec07,education,both_present_different,國立成功大學工程科學博士,"Ph.D., Engineering Science, National Cheng Kung University (NCKU)"
+nycu-cs-shiaolitsao-d45150ec07,research_interests,both_present_different,嵌入式軟體與系統、工業物聯網、虛實融合系統、節能計算、協作機器人系統,"Embedded Software and System, Industrial Internet of Things, IIoT, Cyber-Physical System, CPS, Energy Aware Computing, Co-robot system"
+nycu-cs-chienchaotseng-d8137d52bf,name,both_present_different,曾建超,Chien-Chao Tseng
+nycu-cs-chienchaotseng-d8137d52bf,titles,both_present_different,特聘教授/教授 | 資訊學院副院長/特聘教授/教授,Distinguished Professor/Professor | Associate Dean/Distinguished Professor/Professor
+nycu-cs-chienchaotseng-d8137d52bf,education,both_present_different,美國南美以美大學資訊工程博士,"Ph.D., Computer Science, Department of Computer Science and Engineering, Southern Methodist University (SMU)"
+nycu-cs-chienchaotseng-d8137d52bf,research_interests,both_present_different,軟體定義網路/網路功能虛擬化、行動網路功能虛擬化之管理與協作、開放無線接取網路服務管理與協作、持續整合持續佈署與DevOps雲原生技術,"Software Defined Networking / Network Function Virtualization, NFV-MANO for 5G/6G Networks, O-RAN Service Management and Orchestration, CICD, DevOps and Cloud-Native Technologies"
+nycu-cs-yijutseng-7702f61163,name,both_present_different,曾意儒,Yi-Ju Tseng
+nycu-cs-yijutseng-7702f61163,titles,both_present_different,教授,Professor
+nycu-cs-yijutseng-7702f61163,education,both_present_different,國立臺灣大學生醫電子與資訊學博士,"Ph.D., Biomedical Electronics and Bioinformatics, National Taiwan University."
+nycu-cs-yijutseng-7702f61163,research_interests,both_present_different,資料科學、機器學習、生醫資訊、臨床決策支援系統,"Data Science, Machine Learning, Biomedical Informatics, Clinical Decision Support System"
+nycu-cs-shianshyongtseng-d3bd119f88,name,both_present_different,曾憲雄,Shian-Shyong Tseng
+nycu-cs-shianshyongtseng-d3bd119f88,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-shianshyongtseng-d3bd119f88,education,both_present_different,國立交通大學博士,"Ph.D., Computer Engineering, National Chiao Tung University, Taiwan (NC"
+nycu-cs-shianshyongtseng-d3bd119f88,research_interests,both_present_different,平行處理、專家系統,"Parallel Processing , Expert System"
+nycu-cs-wengueytzeng-322bddcb23,name,both_present_different,曾文貴,Wen-Guey Tzeng
+nycu-cs-wengueytzeng-322bddcb23,titles,both_present_different,教授,Professor
+nycu-cs-wengueytzeng-322bddcb23,education,both_present_different,美國紐約州立大學石溪分校資訊工程博士,"Ph.D., Computer Science, Stone Brook State University of New"
+nycu-cs-wengueytzeng-322bddcb23,research_interests,both_present_different,密碼學、資訊安全、網路安全、計算理論,"Cryptography, Information Security, Network Security, Computational Complexity"
+nycu-cs-vincentstseng-9a223c9f3f,name,both_present_different,曾新穆,Vincent S. Tseng
+nycu-cs-vincentstseng-9a223c9f3f,titles,both_present_different,終身講座教授,Lifetime Chair Professor
+nycu-cs-vincentstseng-9a223c9f3f,education,both_present_different,國立交通大學資訊科學博士,"Ph.D., Computer Science, National Chiao Tung University, Taiwan"
+nycu-cs-vincentstseng-9a223c9f3f,research_interests,both_present_different,巨量資料探勘、人工智慧、生醫資訊、行動與社群網路,"Big Data Mining, Artificial Intelligence, Biomedical Informatics, Mobile and Social Networks"
+nycu-cs-yucheetseng-714071fcd3,name,both_present_different,曾煜棋,Yu-Chee Tseng
+nycu-cs-yucheetseng-714071fcd3,titles,both_present_different,終身講座教授,Lifetime Chair Professor
+nycu-cs-yucheetseng-714071fcd3,education,both_present_different,美國俄亥俄州立大學資訊科學博士,"Ph.D., Computer and Information Science, Ohio State University"
+nycu-cs-yucheetseng-714071fcd3,research_interests,both_present_different,物聯網、5G行動科技、人工智慧服務," Internet of Things: indoor localization, mobile ad hoc networks, vehicular networks, sensor networks, wearable computing  5G Mobile Technology: protocol design, radio resource allocation, edge/fog computing, WiFi & Bluetooth Technology, 3GPP, LTE  AI and Smart Services: machine learning, sensor data analytics, sensor data fusion, video analytics, self-driving applications"
+nycu-cs-jhihweichu-d3d361607f,name,both_present_different,朱智瑋,Jhih-Wei Chu
+nycu-cs-jhihweichu-d3d361607f,titles,both_present_different,教授,Professor
+nycu-cs-chiahoanglee-c1b52dd580,name,both_present_different,李嘉晃,Chia-Hoang Lee
+nycu-cs-chiahoanglee-c1b52dd580,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-chiahoanglee-c1b52dd580,education,both_present_different,美國馬里蘭大學計算機科學博士,"Ph.D., University of Maryland, U.S.A."
+nycu-cs-chiahoanglee-c1b52dd580,research_interests,both_present_different,人工智慧、人機介面,"Artificial Intelligent, Human Computer Interface"
+nycu-cs-chiyuli-f64e0331c5,name,both_present_different,李奇育,CHI-YU LI
+nycu-cs-chiyuli-f64e0331c5,titles,both_present_different,網路工程研究所所長/教授 | 資訊科學與工程研究所所長/教授,NE Director/Professor | CS Director/Professor
+nycu-cs-chiyuli-f64e0331c5,education,both_present_different,美國加州大學洛杉磯分校資訊工程博士,"Ph.D. in Computer Science, University of California, Los Angeles"
+nycu-cs-chiyuli-f64e0331c5,research_interests,both_present_different,無線網路、行動網路、網路和系統安全,"Wireless networks, Mobile networks and systems, Network and System Security"
+nycu-cs-tzongyilee-a682aad84a,name,both_present_different,李宗夷,Tzong-Yi Lee
+nycu-cs-tzongyilee-a682aad84a,titles,both_present_different,教授,Professor
+nycu-cs-tzongyilee-a682aad84a,research_interests,both_present_different,生物大數據與資料探勘、深度學習與生物語言模型、腫瘤抗藥性與藥物開發、人工智慧演算法與程式設計,Bioinformatics Big Data and Data Mining、Deep Learning and Biological Language Models、Tumor Drug Resistance and Drug Development、Artificial Intelligence Algorithms and Programming
+nycu-cs-yihlangli-b43ed401d1,name,both_present_different,李毅郎,Yih-Lang Li
+nycu-cs-yihlangli-b43ed401d1,titles,both_present_different,教授/博梭智能講座 | 教授,Professor/Pulsaris AI Chair | Professor
+nycu-cs-yihlangli-b43ed401d1,education,both_present_different,國立清華大學資訊工程博士,"Ph.D., Computer Science and Information Engineering, National Tsing-Hua University (NTHU)"
+nycu-cs-yihlangli-b43ed401d1,research_interests,both_present_different,奈米晶片設計自動化、自動駕駛與自動導航、平行處理器架構、平行計算,"Electrical Design Automation for Nanometer Designs, Navigation System for Autonomous Vehicles, Parallel Architecture and Parallel Computing"
+nycu-cs-suhyinlee-86023df5c6,name,both_present_different,李素瑛,Suh-Yin Lee
+nycu-cs-suhyinlee-86023df5c6,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-suhyinlee-86023df5c6,education,both_present_different,國立交通大學資訊工程博士,"Ph.D., (Computer Science), Institute of Electronics, National Chiao Tung Universit, Taiwan (NCTU)"
+nycu-cs-suhyinlee-86023df5c6,research_interests,both_present_different,資料庫、計算機網路、多媒體資訊系統,"Image/Spial Database, Computer Network, Multimedia Information System"
+nycu-cs-hsijianlee-6f6d369533,name,both_present_different,李錫堅,Hsi-Jian Lee
+nycu-cs-hsijianlee-6f6d369533,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-hsijianlee-6f6d369533,education,both_present_different,國立交通大學博士,"Ph.D., National Chiao Tung University, Taiwan, R.O"
+nycu-cs-hsijianlee-6f6d369533,research_interests,missing_both,,
+nycu-cs-davidhungchangdu-fbf57e0d1d,name,both_present_different,杜宏章,David Hung-Chang Du
+nycu-cs-davidhungchangdu-fbf57e0d1d,titles,both_present_different,終身榮譽講座教授,Lifetime Honorary Chair Professor
+nycu-cs-jasonyibinglin-a81c69af89,name,both_present_different,林一平,Jason Yi-Bing Lin
+nycu-cs-jasonyibinglin-a81c69af89,titles,both_present_different,終身講座教授 | 退休教授,Lifetime Chair Professor | Retired Professors
+nycu-cs-jasonyibinglin-a81c69af89,education,both_present_different,美國華盛頓大學資訊工程博士,"Ph.D., Computer Science, University of Washington"
+nycu-cs-jasonyibinglin-a81c69af89,research_interests,both_present_different,個人通信網路、行動計算、系統模擬,"Personal Communication Services Network, Mobile Computing, System Simulations"
+nycu-cs-yeongshinlin-cad7553a48,name,both_present_different,林勇欣,Yeong-Shin Lin
+nycu-cs-yeongshinlin-cad7553a48,titles,both_present_different,副教授,Associate Professor
+nycu-cs-ichenlin-6ba082f1de,name,both_present_different,林奕成,I-Chen Lin
+nycu-cs-ichenlin-6ba082f1de,titles,both_present_different,教授 | 教授/博梭智能講座,Professor | Professor/Pulsaris AI Chair
+nycu-cs-ichenlin-6ba082f1de,education,both_present_different,臺灣大學資訊工程博士,"Ph.D., Computer Science, National Taiwan University, Taiwan (NTU"
+nycu-cs-ichenlin-6ba082f1de,research_interests,both_present_different,計算機圖學、電腦視覺、人機互動技術、虛擬/擴增實境,"Computer Graphics, Computer Vision, Human-computer Interaction Techniques, Virtual/Augmented Reality"
+nycu-cs-fandellin-355296aa1b,name,both_present_different,林寰鐸,Fandel Lin
+nycu-cs-fandellin-355296aa1b,titles,both_present_different,助理教授,Assistant Professor
+nycu-cs-fandellin-355296aa1b,education,both_present_different,美國南加州大學電腦科學研究所博士,"Ph.D. in Computer Science, University of Southern California, Los Angeles, CA, USA"
+nycu-cs-fandellin-355296aa1b,research_interests,both_present_different,空間人工智慧、影像推理、地理資訊科學、組合最佳化、敘事推理、機器學習、資料探勘,Spatial AI、Image Reasoning、Geographic Information Science、Combinatorial Optimization、Narrative Reasoning、Machine Learning、Data Mining
+nycu-cs-baoshuhpaullin-f45b49177f,name,both_present_different,林寶樹,Bao-Shuh Paul Lin
+nycu-cs-baoshuhpaullin-f45b49177f,titles,both_present_different,終身講座教授,Lifetime Chair Professor
+nycu-cs-baoshuhpaullin-f45b49177f,education,both_present_different,美國伊利諾大學芝加哥校區電腦科學博士,"Ph.D. (Computer Science) University of Illinois at Chicago, Illinois, USA"
+nycu-cs-baoshuhpaullin-f45b49177f,research_interests,both_present_different,"SDN技術,5G與SDN+IoT+Big Data analytics,無線寬頻通訊,All-IP網路與服務,網路管理與維護,資料庫管理","4G/LTE LTE-A, 5G, MAR, SDN/NFV, IoT, Big Data, Cloud, Traffic Engineering, WAN"
+nycu-cs-chunyulin-eb97e98272,name,both_present_different,林峻宇,Chun-Yu Lin
+nycu-cs-chunyulin-eb97e98272,titles,both_present_different,副教授,Associate Professor
+nycu-cs-yenyulin-5a92a30687,name,both_present_different,林彥宇,Yen-Yu Lin
+nycu-cs-yenyulin-5a92a30687,titles,both_present_different,特聘教授/教授,Distinguished Professor/Professor
+nycu-cs-yenyulin-5a92a30687,education,both_present_different,國立台灣大學資訊工程研究所博士,"Ph.D., Department of Computer Science and Information Engineering, National Taiwan University"
+nycu-cs-yenyulin-5a92a30687,research_interests,both_present_different,電腦視覺、機器學習、深度學習、人工智慧,"Computer Vision, Machine Learning, Deep Learning, Artificial Intelligence"
+nycu-cs-teshenglin-f7015f5fff,name,both_present_different,林得勝,Te-Sheng Lin
+nycu-cs-teshenglin-f7015f5fff,titles,both_present_different,教授,Professor
+nycu-cs-teshenglin-f7015f5fff,education,both_present_different,美國新澤西理工學院博士,"PhD in Applied Mathematics, New Jersey Institute of Technology, USA"
+nycu-cs-teshenglin-f7015f5fff,research_interests,both_present_different,數學建模、科學計算、流體力學,"Modeling - Thin liquid films, Scientific computation, Machine learning"
+nycu-cs-chengkuanlin-542e57dc09,name,both_present_different,林政寬,Cheng-Kuan Lin
+nycu-cs-chengkuanlin-542e57dc09,titles,both_present_different,副教授級教學研究教師 | 助理教授,Contract Associate Professor | Assistant Professor
+nycu-cs-chengkuanlin-542e57dc09,education,both_present_different,國立交通大學資訊科學與工程研究所博士班,"Ph.D., Computer Science and Information Engineering, National Chiao Tung University (NCTU)"
+nycu-cs-wenchiehlin-8b8d7a58a8,name,both_present_different,林文杰,Wen-Chieh Lin
+nycu-cs-wenchiehlin-8b8d7a58a8,titles,both_present_different,教授,Professor
+nycu-cs-wenchiehlin-8b8d7a58a8,education,both_present_different,美國卡內基美隆大學機器人學博士,"Ph.D., Robotics, Carnegie Mellon University"
+nycu-cs-chengchunglin-d77196b666,name,both_present_different,林正中,Cheng-Chung Lin
+nycu-cs-chengchunglin-d77196b666,titles,both_present_different,副教授 | 教授,Associate Professor | Professor
+nycu-cs-chengchunglin-d77196b666,education,both_present_different,美國西北大學電機工程博士,"Ph.D., Electrical and Computer Engineering, Northwestern University"
+nycu-cs-chengchunglin-d77196b666,research_interests,both_present_different,影像處理、虛擬實境,"Image Processing, Virtual Reality"
+nycu-cs-fuchunjosephlin-7280532ef5,name,both_present_different,林甫俊,Fuchun Joseph Lin
+nycu-cs-fuchunjosephlin-7280532ef5,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-fuchunjosephlin-7280532ef5,education,both_present_different,美國俄亥俄州立大學資訊工程博士,"Ph.D., Computer and Information Science, Ohio State University"
+nycu-cs-fuchunjosephlin-7280532ef5,research_interests,both_present_different,機器對機器通訊、4G與下一代核心網路、自我组織網路、服務疊合網路,"Machine-to-Machine Communications, 4G and Next Generation Core Networks, Self-Organizing Networks, Service Overlay Networks"
+nycu-cs-yingdarlin-507b4b80a7,name,both_present_different,林盈達,Ying-Dar Lin
+nycu-cs-yingdarlin-507b4b80a7,titles,both_present_different,終身講座教授 | 資訊學院院長/終身講座教授,Lifetime Chair Professor | Dean/Lifetime Chair Professor
+nycu-cs-yingdarlin-507b4b80a7,education,both_present_different,美國加州大學洛杉機分校資訊工程博士,"Ph.D., Computer Science, University of California, Los Angeles (UCLA)"
+nycu-cs-yingdarlin-507b4b80a7,research_interests,both_present_different,資安AI、AI資安、5G/6G之AI化,"AI for Cybersecurity, Cybersecurity for AI, AI for 5G/6G"
+nycu-cs-shenghsuanlin-e373817af9,name,both_present_different,林聖軒,Sheng-Hsuan Lin
+nycu-cs-shenghsuanlin-e373817af9,titles,both_present_different,教授,Professor
+nycu-cs-shenghsuanlin-e373817af9,education,both_present_different,哥倫比亞大學公共衛生學院生物統計研究所 博士後研究員,"Institute of Biostatistics, Columbia University School of Public Health"
+nycu-cs-shenghsuanlin-e373817af9,research_interests,both_present_different,因果推論 中介效應分析 流行病學 生物統計 遺傳基因數據分析 精神醫學,Causal Inference Mediation Analysis Epidemiology Biostatistics Statistics Genomics Psychiatry
+nycu-cs-borsungliang-41c59be975,name,both_present_different,梁伯嵩,Bor-Sung Liang
+nycu-cs-borsungliang-41c59be975,titles,both_present_different,客座教授,Visiting Professor
+nycu-cs-borsungliang-41c59be975,education,both_present_different,國立交通大學電子研究所博士,"Ph.D.,Institute of Electronics, National Chiao Tung University, Taiwan"
+nycu-cs-borsungliang-41c59be975,research_interests,both_present_different,AI運算架構、數位 IC 設計、處理機架構、量子計算、科技管理與策略分析,"AI Compute Architecture, Digital IC Design,Processor Architecture, Quantum Computing, Technology Management and Strategic Analysis"
+nycu-cs-tyneliang-16f83307e0,name,both_present_different,梁婷,Tyne Liang
+nycu-cs-tyneliang-16f83307e0,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-tyneliang-16f83307e0,education,both_present_different,國立交通大學博士,"Ph.D., National Chiao Tung University, Taiwan, R.O.C."
+nycu-cs-tyneliang-16f83307e0,research_interests,both_present_different,資料庫系統、自然語言處理,"Information Retrieval, Natural Language Processing, Web Mining, Inter-connection Network"
+nycu-cs-pokaiyang-cf78685bcf,name,both_present_different,楊博凱,Po-Kai Yang
+nycu-cs-pokaiyang-cf78685bcf,titles,both_present_different,助理教授,Assistant Professor
+nycu-cs-pokaiyang-cf78685bcf,education,both_present_different,比利時天主教荷語魯汶大學工程技術學系博士,"Ph.D. in Engineering Technology, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, Department of Electrical Engineering (ESAT), KU Leuven, Belgium"
+nycu-cs-pokaiyang-cf78685bcf,research_interests,both_present_different,人工智慧醫療、深度學習、時間序列分析、延伸實境 (XR)、人機互動、穿戴式與多模態感測、步態分析、數位生物標記,"Artificial Intelligence in Healthcare, Deep Learning, Time Series Analysis, Extended Reality (XR), Human-Computer Interaction, Wearable and Multimodal Sensing, Gait Analysis, Digital Biomarker"
+nycu-cs-mariacyuang-0b248f4f96,name,both_present_different,楊啟瑞,Maria C. Yuang
+nycu-cs-mariacyuang-0b248f4f96,titles,both_present_different,教授,Professor
+nycu-cs-mariacyuang-0b248f4f96,education,both_present_different,美國紐約科技大學資訊工程博士,"Ph.D., Computer Science and Electrical Engineering, Polytechnic Institute of New York University (NYU), USA"
+nycu-cs-mariacyuang-0b248f4f96,research_interests,both_present_different,光網數據網路中心技術、無線5G網路、邊緣計算、網路效能評估與分析,"Optical Data Center Networking, Wireless and 5G Networks, Edge Computing, Performance Modeling and Analysis"
+nycu-cs-wuuyang-0962a60276,name,both_present_different,楊武,Wuu Yang
+nycu-cs-wuuyang-0962a60276,titles,both_present_different,教授,Professor
+nycu-cs-wuuyang-0962a60276,education,both_present_different,美國威斯康新大學博士,"PH.D., University of Wisconsin-Madison"
+nycu-cs-wuuyang-0962a60276,research_interests,both_present_different,嵌入式系統、編譯器設計、程式語言、系統安全,"Embedded Systems, Compiler Design, Programming Language, Systems Security"
+nycu-cs-jinnmoonyang-a565e89514,name,both_present_different,楊進木,Jinn-Moon Yang
+nycu-cs-jinnmoonyang-a565e89514,titles,both_present_different,教授,Professor
+nycu-cs-hueinianhong-bfb4677fda,name,both_present_different,洪慧念,HUEI-NIAN HONG
+nycu-cs-hueinianhong-bfb4677fda,titles,both_present_different,教授,Professor
+nycu-cs-hueinianhong-bfb4677fda,research_interests,both_present_different,統計推論、科學計算,"Statistical inference,Scientific computing"
+nycu-cs-juihunghung-00f0b25000,name,both_present_different,洪瑞鴻,Jui-Hung Hung
+nycu-cs-juihunghung-00f0b25000,titles,both_present_different,教授,Professor
+nycu-cs-juihunghung-00f0b25000,research_interests,both_present_different,超編程與泛型程式設計、平行運算與硬體加速演算法、生物資訊次世代定序演算法、複雜系統資料分析與視覺化、影像處理與深度學習,"Metaprogramming, Parallel Computing and Hardware-Assisted Acceleration Algorithm, Bioinformatics and Next Generation Sequencing Algorithm, Data Analysis and Visualization in Complex Systems, Image Processing and Deep Learning"
+nycu-cs-chiamuyu-baf01c6c43,name,both_present_different,游家牧,Chia-Mu Yu
+nycu-cs-chiamuyu-baf01c6c43,titles,both_present_different,副教授,Associate Professor
+nycu-cs-chiamuyu-baf01c6c43,education,both_present_different,國立臺灣大學電機工程研究所(計算機科學組)博士,"Ph.D., Graduate Institute of Electrical Engineering, National Taiwan Univrsity"
+nycu-cs-chiamuyu-baf01c6c43,research_interests,both_present_different,人工智慧安全、深度學習安全與隱私、資料隱私與去識別化、應用密碼學,AI Safety、Security and Privacy in Deep Learning、Data Privacy and De-identification、Applied Cryptography
+nycu-cs-yipingyou-26eb6eb15e,name,both_present_different,游逸平,Yi-Ping You
+nycu-cs-yipingyou-26eb6eb15e,titles,both_present_different,副教授,Associate Professor
+nycu-cs-yipingyou-26eb6eb15e,education,both_present_different,清華大學資訊工程博士,"Ph.D., Computer Science, National Tsing Hua University, Taiwan(NTHU)"
+nycu-cs-yipingyou-26eb6eb15e,research_interests,both_present_different,編譯器設計與最佳化、系統軟體、嵌入式系統,Optimizing Compilers Compilers / OS Supports for Low-Power Compilers for DSP Processord Supporting Toolkit and System Software on SoC / Multicore Environments Computer Architectures Operating Systems
+nycu-cs-harrywaihowong-b233b535e5,name,both_present_different,王偉豪,Harry Wai Ho Wong
+nycu-cs-harrywaihowong-b233b535e5,titles,both_present_different,助理教授,Assistant Professor
+nycu-cs-harrywaihowong-b233b535e5,education,both_present_different,香港中文大學信息工程學系博士,"Ph.D. Information Engineering, The Chinese University of Hong Kong"
+nycu-cs-harrywaihowong-b233b535e5,research_interests,both_present_different,應用密碼學(去中心化、隱私保護認證、加密/認證數據處理)、理論計算機科學(網絡編碼),"Applied Cryptography (Decentralization,Privacy-Preserving Authentication, Processing Encrypted/Authenticated Data) and Theoretical Computer Science (Network Coding)"
+nycu-cs-shieyuanwang-c0a10157f3,name,both_present_different,王協源,Shie-Yuan Wang
+nycu-cs-shieyuanwang-c0a10157f3,titles,both_present_different,教授,Professor
+nycu-cs-shieyuanwang-c0a10157f3,education,both_present_different,美國哈佛大學資訊工程博士,"Ph.D., Harvard University, U.S.A"
+nycu-cs-shieyuanwang-c0a10157f3,research_interests,both_present_different,物聯網、數位孿生、機器學習、網路安全、雲和邊緣計算、軟體定義網路和P4可編程網路、低軌道衛星網路,"Internet of Things, Digital Twin, Machine Learning, Network Security, Cloud and Edge Computing, SDN and P4 Programmable Networks, LEO Satellite Networks"
+nycu-cs-kuochenwang-4c84cd426d,name,both_present_different,王國禎,Kuo-Chen Wang
+nycu-cs-kuochenwang-4c84cd426d,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-kuochenwang-4c84cd426d,education,both_present_different,美國亞利桑那大學電機工程博士,"Ph.D.,EE & CS,University of Arizona"
+nycu-cs-kuochenwang-4c84cd426d,research_interests,both_present_different,雲端計算與軟體定義網路、物聯網與大數據分析、能源感知行動計算與網路、可信賴計算與網路,"Cloud Computing and Software Defined Networking, Internet of Things and Big Data Analytics, Energy-aware Mobile Computing and Networking, Dependable Computing and Networks."
+nycu-cs-tsaipeiwang-5b213dba86,name,both_present_different,王才沛,Tsaipei Wang
+nycu-cs-tsaipeiwang-5b213dba86,titles,both_present_different,副教授,Associate Professor
+nycu-cs-tsaipeiwang-5b213dba86,education,both_present_different,美國俄勒岡大學及密蘇里大學資訊工程博士,"Ph.D., Computer Engineering and Computer Science, University of Missouri-Columbia"
+nycu-cs-tsaipeiwang-5b213dba86,research_interests,both_present_different,影像處理、圖形辨識、電腦視覺、模糊系統、類神經網路,"Image Processing, Pattern Recognition, Computer Vision, Fuzzy System, Neural Network"
+nycu-cs-yushuenwang-9e79dea00b,name,both_present_different,王昱舜,Yu-Shuen Wang
+nycu-cs-yushuenwang-9e79dea00b,titles,both_present_different,數據科學與工程研究所所長/教授 | 多媒體工程所所長/教授,DS Director/Professor | ME Director/Professor
+nycu-cs-yushuenwang-9e79dea00b,education,both_present_different,國立成功大學資訊工程博士,"Ph.D, Computer Science and Information Engineering, National Cheng Kung University"
+nycu-cs-yushuenwang-9e79dea00b,research_interests,both_present_different,"計算機圖學, 互動式形變, 視覺化設計","Computer Graphics, Visual Media Retargeting, Image Manipulation, Focus+Context Visualization and Skeletonization"
+nycu-cs-hsiuyingwang-b0710cdb64,name,both_present_different,王秀瑛,Hsiu-Ying Wang
+nycu-cs-hsiuyingwang-b0710cdb64,titles,both_present_different,教授,Professor
+nycu-cs-hsiuyingwang-b0710cdb64,research_interests,both_present_different,工業統計、生物資訊,"Industrial statistics,Bioinformatics"
+nycu-cs-weichingwang-636e5be695,name,both_present_different,王維菁,Wei-Ching Wang
+nycu-cs-weichingwang-636e5be695,titles,both_present_different,教授,Professor
+nycu-cs-weichingwang-636e5be695,education,both_present_different,康乃爾大學統計學博士,"Ph.D. in Statistics, Cornell University"
+nycu-cs-weichingwang-636e5be695,research_interests,both_present_different,倖存分析、生物統計,"Survival Analysis,Biology and Statistics"
+nycu-cs-fengjianwang-d39029c5b2,name,both_present_different,王豐堅,Feng-Jian Wang
+nycu-cs-fengjianwang-d39029c5b2,titles,both_present_different,教授,Professor
+nycu-cs-fengjianwang-d39029c5b2,education,both_present_different,美國西北大學資訊工程博士,"PH.D., Computer Science&Information; Engineeing, National ChiaoTung University"
+nycu-cs-fengjianwang-d39029c5b2,research_interests,both_present_different,軟體工程、流程程式與雲端計算、服務導向工程、網路應用軟體、物件導向程式設計,"software engineering, service-oriented architecture & workflow programming, cloud computation methodology, rich internet application, object-oriented methodology"
+nycu-cs-denniswang-ad355464b4,name,both_present_different,王邦任,Dennis Wang
+nycu-cs-denniswang-ad355464b4,titles,both_present_different,助理教授,Assistant Professor
+nycu-cs-denniswang-ad355464b4,education,both_present_different,美國加州大學爾灣分校信息研究所博士,"Ph.D. in Informatics,University of California, Irvine, CA, USA"
+nycu-cs-denniswang-ad355464b4,research_interests,both_present_different,人機互動、社群運算、社群媒體、個人資訊學、電腦中介傳播、健康資訊學,"Human-Computer Interaction (HCI), Social Computing, Social Media, Personal Informatics, Computer-Mediated Communication, Health Informatics"
+nycu-cs-白培霖paipeilin-60cb86298c,titles,both_present_different,榮譽講座教授,Honorary Chair Professor
+nycu-cs-白培霖paipeilin-60cb86298c,education,both_present_different,美國加州柏克萊電機資訊博士,"Ph.D., University of California, Berkeley, Department of Electrical Engineering and Computer Science"
+nycu-cs-白培霖paipeilin-60cb86298c,research_interests,both_present_different,"記憶體技術,新興記憶體, In Memory Computing/Processing, 機器人,矽光子,人工智慧在半導體界應用","Memory Technologies, Emerging Memories, CIM/PIM, Robotics, Si Photronics, Applications in Semiconductor Industry"
+nycu-cs-henryhorngshinglu-4a431c90e1,name,both_present_different,盧鴻興,Henry Horng-Shing Lu
+nycu-cs-henryhorngshinglu-4a431c90e1,titles,both_present_different,教授,Professor
+nycu-cs-henryhorngshinglu-4a431c90e1,research_interests,both_present_different,科學計算、影像科學、生物資訊,"Scientific computing,Image science,Bioinformatics"
+nycu-cs-jentzungchien-0e6e82e914,name,both_present_different,簡仁宗,Jen-Tzung Chien
+nycu-cs-jentzungchien-0e6e82e914,titles,both_present_different,教授 | 合聘師資,Professor | Joint Professors
+nycu-cs-jentzungchien-0e6e82e914,education,both_present_different,國立清華大學電機工程博士,"Ph.D., Electrical Engineering, National Tsing Hua University."
+nycu-cs-jentzungchien-0e6e82e914,research_interests,both_present_different,機器學習、深度學習,"Machine Learning, Deep Learning."
+nycu-cs-weichenglo-648b7cb736,name,both_present_different,羅惟正,Wei-Cheng Lo
+nycu-cs-weichenglo-648b7cb736,titles,both_present_different,副教授,Associate Professor
+nycu-cs-yuhjyhhu-4321b6e2c8,name,both_present_different,胡毓志,Yuh-Jyh Hu
+nycu-cs-yuhjyhhu-4321b6e2c8,titles,both_present_different,教授,Professor
+nycu-cs-yuhjyhhu-4321b6e2c8,education,both_present_different,美國加州大學資訊科學博士,"Ph.D., University of California, Irvine, U.S.A."
+nycu-cs-yuhjyhhu-4321b6e2c8,research_interests,both_present_different,生物資訊、機器學習、資料探勘、人工智慧,"Bioinformatics, Machine Learning, Data Mining, Artificial Intelligence"
+nycu-cs-chunifan-25975207ac,name,both_present_different,范俊逸,Chun-I FAN
+nycu-cs-chunifan-25975207ac,titles,both_present_different,教授,Professor
+nycu-cs-chunifan-25975207ac,education,both_present_different,國立臺灣大學電機工程學研究所博士,"Ph.D., Department of Electrical Engineering, National Taiwan University"
+nycu-cs-chunifan-25975207ac,research_interests,both_present_different,應用密碼、資通訊安全、人工智慧安全,"Applied Cryptology, Information and Communication Security, and AI Security"
+nycu-cs-landavan-4c6441da0d,name,both_present_different,范倫達,Lan-Da Van
+nycu-cs-landavan-4c6441da0d,titles,both_present_different,教授,Professor
+nycu-cs-landavan-4c6441da0d,education,both_present_different,國立台灣大學電機工程博士,"Ph.D., Electrical Engineering, National Taiwan University (NTU)"
+nycu-cs-landavan-4c6441da0d,research_interests,both_present_different,適應性/機器學習運算系統、數位訊號處理系統、智慧電梯系統、無人機暨感測器資料整合系統,"Intelligent/VLSI algorithms, architectures, chips, systems, and applications for digital signal processing and adaptive/machine leaning computation. Specifically, the designs of low-power/high-performance/ cost-effective adaptive filter, computer arithmetic, independent component analysis (ICA), multi-dimensional filter, transform, 3-D graphics system, intelligent elevator system, and UAV and wearable data fusion system."
+nycu-cs-yutaiching-49dcd94e56,name,both_present_different,荊宇泰,Yu-Tai Ching
+nycu-cs-yutaiching-49dcd94e56,titles,both_present_different,教授,Professor
+nycu-cs-jenhuichuang-3cb2bcd4b1,name,both_present_different,莊仁輝,Jen-Hui Chuang
+nycu-cs-jenhuichuang-3cb2bcd4b1,titles,both_present_different,教授,Professor
+nycu-cs-jenhuichuang-3cb2bcd4b1,education,both_present_different,美國伊利諾大學香檳校區電子工程博士,"Ph.D., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign"
+nycu-cs-jenhuichuang-3cb2bcd4b1,research_interests,both_present_different,訊號與影像處理、電腦視覺、圖形識別、工業檢測,"Signal and Image Processing, Computer Vision, Pattern Recognition, Industrial Inspection"
+nycu-cs-junghongchuang-dc2cbcbefa,name,both_present_different,莊榮宏,Jung-Hong Chuang
+nycu-cs-junghongchuang-dc2cbcbefa,titles,both_present_different,教授,Professor
+nycu-cs-junghongchuang-dc2cbcbefa,education,both_present_different,美國普渡大學電腦科學系博士,"Ph.D., Computer Science, Purdue University West Lafayette, Indiana, U.S.A."
+nycu-cs-junghongchuang-dc2cbcbefa,research_interests,both_present_different,計算機圖學、 虛擬/擴增實境、 資料視覺化與分析、 幾何與實體模型,"Computer Graphics, Virtual and Augmented Reality, Information Visualization and Visual Analytics, Geometric modeling"
+nycu-cs-kuohuiyeh-60e6731211,name,both_present_different,葉國暉,Kuo-Hui Yeh
+nycu-cs-kuohuiyeh-60e6731211,titles,both_present_different,教授,Professor
+nycu-cs-kuohuiyeh-60e6731211,education,both_present_different,國立臺灣科技大學資訊管理博士,"National Taiwan University of Science and Technology, Information Management, PhD"
+nycu-cs-kuohuiyeh-60e6731211,research_interests,both_present_different,人工智慧安全、物聯網安全、區塊鏈、身分鑑別、資料隱私、密碼學,"AI Security, IoT Security, Blockchain, Authentication, Data Privacy, Cryptology"
+nycu-cs-tsungtaiyeh-aed61de71c,name,both_present_different,葉宗泰,Tsung-Tai Yeh
+nycu-cs-tsungtaiyeh-aed61de71c,titles,both_present_different,副教授,Associate Professor
+nycu-cs-tsungtaiyeh-aed61de71c,education,both_present_different,美國普渡大學電機資訊工程博士,"Ph.D., Electrical & Computer Engineering, Purdue University"
+nycu-cs-tsungtaiyeh-aed61de71c,research_interests,both_present_different,"計算機結構,圖形處理器(GPU),AI晶片系統","Computer Architecture, GPU, AI Chip System Design"
+nycu-cs-ihengmeng-d93e9ca59d,name,both_present_different,蒙以亨,I Heng Meng
+nycu-cs-ihengmeng-d93e9ca59d,titles,both_present_different,教授,Professor
+nycu-cs-ihengmeng-d93e9ca59d,education,both_present_different,國立交通大學資訊科學研究所博士,"Ph.D., Institute of Computer Science and Engineering, National Chiao Tung University"
+nycu-cs-ihengmeng-d93e9ca59d,research_interests,both_present_different,人工智慧、資料探勘、資料庫系統、軟體工程,"Artificial Intelligence, Data Mining, Database Systems, Software Engineering"
+nycu-cs-jongchuangtsay-8476cdaaab,name,both_present_different,蔡中川,Jong-Chuang Tsay
+nycu-cs-jongchuangtsay-8476cdaaab,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-jongchuangtsay-8476cdaaab,education,both_present_different,國立交通大學博士,"Ph.D., National Chiao Tung University, Taiwan, R.O.C"
+nycu-cs-jongchuangtsay-8476cdaaab,research_interests,both_present_different,平行計算、演算法,"Parallel Computing, Algorithms"
+nycu-cs-menghsuntsai-28ab46dd17,name,both_present_different,蔡孟勳,Meng-Hsun Tsai
+nycu-cs-menghsuntsai-28ab46dd17,titles,both_present_different,教授,Professor
+nycu-cs-menghsuntsai-28ab46dd17,education,both_present_different,國立交通大學資訊工程博士,"Ph.D., Computer Science, National Chiao Tung University"
+nycu-cs-menghsuntsai-28ab46dd17,research_interests,both_present_different,物聯網、軟體定義網路、行動網路設計與分析、網路效能評估、網際網路電話,"Internet of Things (IoT), Software Defined Networking (SDN), Design and Analysis of Mobile Network (GSM/UMTS/LTE/LTE-A/5G), Performance Evaluation, Voice Over IP (VoIP) Network"
+nycu-cs-wenhsiangtsai-6d30bccf0e,name,both_present_different,蔡文祥,Wen-Hsiang Tsai
+nycu-cs-wenhsiangtsai-6d30bccf0e,titles,both_present_different,終身講座教授,Lifetime Chair Professor
+nycu-cs-wenhsiangtsai-6d30bccf0e,education,both_present_different,美國普渡大學電機工程博士,"Ph.D., Electrical Engineering, Purdue University"
+nycu-cs-wenhsiangtsai-6d30bccf0e,research_interests,both_present_different,資訊安全、視覺監控、影像處理、電腦視覺、圖形辨別,"Image Processing, Computer Vision, Pattern Recognition, Neural Network, Chinese Information Processing"
+nycu-cs-wennungtsai-e203bf6296,name,both_present_different,蔡文能,Wen-Nung Tsai
+nycu-cs-wennungtsai-e203bf6296,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-wennungtsai-e203bf6296,education,both_present_different,美國西北大學博士研究,Ph.D.
+nycu-cs-wennungtsai-e203bf6296,research_interests,both_present_different,網路安全、作業系統設計、計算機網路、行動計算,"Network Security, Operating System, Computer Networks, Mobile Computing"
+nycu-cs-wjtsai-821adecac2,name,both_present_different,蔡文錦,W. J. Tsai
+nycu-cs-wjtsai-821adecac2,titles,both_present_different,副教授,Associate Professor
+nycu-cs-wjtsai-821adecac2,education,both_present_different,國立交通大學資訊工程博士,"Ph.D., Computer Science and Information Engineering, National Chiao Tung University (NCTU)"
+nycu-cs-wjtsai-821adecac2,research_interests,both_present_different,"視訊編碼,影像與視訊處理,機器學習,多媒體系統,嵌入式系統。","DTV System, Embedded System, RTOS, Video Codec, Video Streaming"
+nycu-cs-chunjentsai-31585fceca,name,both_present_different,蔡淳仁,Chun-Jen Tsai
+nycu-cs-chunjentsai-31585fceca,titles,both_present_different,副教授,Associate Professor
+nycu-cs-chunjentsai-31585fceca,education,both_present_different,美國西北大學電機工程博士,"Ph.D., Electronics and Computer Engineering, Northwestern University, Evanston, IL, U.S.A."
+nycu-cs-chunjentsai-31585fceca,research_interests,both_present_different,分散式多媒體系統、嵌入式系統多媒體元件、行動網路多媒體傳輸系統,"Scalable Distributed Multimedia Systems, Multimedia Codecs Design for Embedded Eevices and SoC platforms, Software/hardware Co-Design for Embedded Multimedia Systems"
+nycu-cs-shichuntsai-2c8ef8afc5,name,both_present_different,蔡錫鈞,Shi-Chun Tsai
+nycu-cs-shichuntsai-2c8ef8afc5,titles,both_present_different,教授,Professor
+nycu-cs-shichuntsai-2c8ef8afc5,education,both_present_different,美國芝加哥大學資訊工程博士,"Ph.D., Computer Science of the University of Chicago"
+nycu-cs-shichuntsai-2c8ef8afc5,research_interests,both_present_different,計算理論、演算法、軟體式網路應用、機器學習演算法、密碼學、組合數學,"Computational Complexity, Algorithms, Software Defined Networking, Machine learning algorithms, Cryptography, Combinatorics and Coding theory"
+nycu-cs-chaokaichiang-014eb10d77,name,both_present_different,蔣兆凱,Chao-Kai Chiang
+nycu-cs-chaokaichiang-014eb10d77,titles,both_present_different,助理教授,Assistant Professor
+nycu-cs-chaokaichiang-014eb10d77,education,both_present_different,國立臺灣大學資訊工程學系博士,"Ph.D. in Computer Science, National Taiwan University"
+nycu-cs-chaokaichiang-014eb10d77,research_interests,both_present_different,弱監督學習、標籤噪聲學習、多臂吃角子老虎問題、線上凸優化,Weakly Supervised Learning、Learning with Label Noise、Multi-Armed Bandits、Online Convex Optimization
+nycu-cs-tzuchienhsiao-e2f1ea5656,name,both_present_different,蕭子健,Tzu-Chien Hsiao
+nycu-cs-tzuchienhsiao-e2f1ea5656,titles,both_present_different,副教授,Associate Professor
+nycu-cs-tzuchienhsiao-e2f1ea5656,education,both_present_different,國立陽明大學醫學技術博士,"Ph.D., National Yang-Ming University"
+nycu-cs-tzuchienhsiao-e2f1ea5656,research_interests,both_present_different,生醫訊號多變數分析、虛擬醫用儀表,"Biomedical Signals Multivariate Statistics, Virtual Biomedical Instrumentation"
+nycu-cs-hsufenghsiao-a993ebeba6,name,both_present_different,蕭旭峰,Hsu-Feng Hsiao
+nycu-cs-hsufenghsiao-a993ebeba6,titles,both_present_different,副教授 | 副教授/Saviah科技講座,Associate Professor | Associate Professor/Saviah Chair
+nycu-cs-hsufenghsiao-a993ebeba6,education,both_present_different,美國華盛頓大學電機工程博士,"Ph.D., Electrical Engineering, University of Washington, Seattle, Washington, U.S.A."
+nycu-cs-hsufenghsiao-a993ebeba6,research_interests,both_present_different,多媒體通訊、行動通訊、數位電視、影音編碼,"Multimedia Communication, Wireless Communication, Digital Television, Audio/Video Codec"
+nycu-cs-yuangchehhsueh-31a965b1a3,name,both_present_different,薛元澤,Yuang-Cheh Hsueh
+nycu-cs-yuangchehhsueh-31a965b1a3,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-yuangchehhsueh-31a965b1a3,education,both_present_different,美國加州大學洛杉機分校博士,"Ph.D., University of California, Los Angeles"
+nycu-cs-yuangchehhsueh-31a965b1a3,research_interests,both_present_different,離散數學、影像代數 Fuzzy數學,"Discrete Mathematics, Image Algebra, Fuzzy Mathematic"
+nycu-cs-shyanmingyuan-33e899b080,name,both_present_different,袁賢銘,Shyan-Ming Yuan
+nycu-cs-shyanmingyuan-33e899b080,titles,both_present_different,教授,Professor
+nycu-cs-shyanmingyuan-33e899b080,education,both_present_different,美國馬里蘭大學資訊工程博士,"Ph.D., Computer Science, University of Maryland, U.S.A"
+nycu-cs-shyanmingyuan-33e899b080,research_interests,both_present_different,分散式系統、容錯計算 CSCW、電腦輔助教學,"Distributed System, Middleware Kernel, Application, Platform Solution, Web & Wireless Technologies and Application, Applied Education System"
+nycu-cs-fuhauhsu-7d03be9742,name,both_present_different,許富皓,Fu-Hau Hsu
+nycu-cs-fuhauhsu-7d03be9742,titles,both_present_different,教授,Professor
+nycu-cs-fuhauhsu-7d03be9742,education,both_present_different,紐約州立大學石溪分校電腦科學系博士,"Ph.D., Department of Computer Science , State University of New Yourk at Stony Brook"
+nycu-cs-fuhauhsu-7d03be9742,research_interests,both_present_different,"系統安全、電腦及網路安全、行動裝置與無線裝置安全、車輛安全、物聯網安全,作業系統","system security, computer and network security, mobile device and wireless device security, vehicle security, IoT security, Operating System"
+nycu-cs-terngyinhsu-68366ba264,name,both_present_different,許騰尹,Terng-Yin Hsu
+nycu-cs-terngyinhsu-68366ba264,titles,both_present_different,教授,Professor
+nycu-cs-terngyinhsu-68366ba264,education,both_present_different,國立交通大學電子工程博士,"Ph.D., Electronic Engineering, National Chiao Tung University (NCTU)"
+nycu-cs-liweichan-cb049f6bb6,name,both_present_different,詹力韋,Liwei Chan
+nycu-cs-liweichan-cb049f6bb6,titles,both_present_different,教授,Professor
+nycu-cs-liweichan-cb049f6bb6,education,both_present_different,國立台灣大學網路多媒體研究所博士,"Ph.D., Graduate Institute of Networking and Multimedia, National Taiwan University"
+nycu-cs-liweichan-cb049f6bb6,research_interests,both_present_different,"人機互動,擴增/虛擬實境互動,觸感式互動設計,機器人互動設計","Human-Computer Interaction, Interaction Design for AR/VR, Haptic User Interface"
+nycu-cs-robertchsieh-bbf69924e6,name,both_present_different,謝志鴻,Robert C. Hsieh
+nycu-cs-robertchsieh-bbf69924e6,titles,both_present_different,榮譽講座教授,Honorary Chair Professor
+nycu-cs-robertchsieh-bbf69924e6,education,both_present_different,美國辛辛那堤大學電機與醫學工程博士,"Ph. D.,University of Cincinnati"
+nycu-cs-robertchsieh-bbf69924e6,research_interests,both_present_different,創新、創業、生醫科技,"Creativity,Entrepreneurship, Biotech"
+nycu-cs-minzhengshieh-6add7d4ed1,name,both_present_different,謝旻錚,Min-Zheng Shieh
+nycu-cs-minzhengshieh-6add7d4ed1,titles,both_present_different,副教授 | 教授,Associate Professor | Professor
+nycu-cs-minzhengshieh-6add7d4ed1,education,both_present_different,國立交通大學資訊科學與工程博士,"PhD, Dept. Computer Science and Engineering, National Chiao Tung University"
+nycu-cs-minzhengshieh-6add7d4ed1,research_interests,both_present_different,計算理論、編碼理論、組合數學,"Theory of Computation, Coding Theory, Combinatorics"
+nycu-cs-pingchunhsieh-65450d0a77,name,both_present_different,謝秉均,Ping-Chun Hsieh
+nycu-cs-pingchunhsieh-65450d0a77,titles,both_present_different,副教授/博梭智能講座 | 副教授,Associate Professor/Pulsaris AI Chair | Associate Professor
+nycu-cs-pingchunhsieh-65450d0a77,education,both_present_different,德克薩斯州A&M大學電機博士,"Ph.D., Electrical and Computer Engineering, Texas A&M University, College Station, TX, USA"
+nycu-cs-pingchunhsieh-65450d0a77,research_interests,both_present_different,"多臂機學習,強化學習,無線網路,貝氏最佳化","Bandit Learning, Reinforcement Learning, Wireless Networks and Bayesian Optimization"
+nycu-cs-shiuhpyngshieh-cfcd6bedd1,name,both_present_different,謝續平,Shiuhpyng Shieh
+nycu-cs-shiuhpyngshieh-cfcd6bedd1,titles,both_present_different,資訊學院院長/終身講座教授 | 終身講座教授,Dean/Lifetime Chair Professor | Lifetime Chair Professor
+nycu-cs-shiuhpyngshieh-cfcd6bedd1,education,both_present_different,美國馬里蘭大學電機資訊工程博士,"Ph.D., Electrical and Computer Engineering, University of Maryland, USA"
+nycu-cs-shiuhpyngshieh-cfcd6bedd1,research_interests,both_present_different,"AI for Security, Security for AI, 企業資安、入侵偵測智能可視化、網路攻防與威脅分析","AI for Security, Security for AI, enterprise cybersecurity assessment, big data analysis for threats, risks, user and entity behaviors"
+nycu-cs-jimmyjmtan-32fa81395b,name,both_present_different,譚建民,Jimmy J.M. Tan
+nycu-cs-jimmyjmtan-32fa81395b,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-jimmyjmtan-32fa81395b,education,both_present_different,加拿大卡爾頓大學計算機科學博士,"Ph.D., Mathematical Sciences, Carleton University"
+nycu-cs-jimmyjmtan-32fa81395b,research_interests,both_present_different,計算機演算法、組合最佳化、連接網路、圖形理論,"Algorithms, Combinatorial Optimization, Interconnection Networks, Graph Theory"
+nycu-cs-hsiluchao-8cc2ec929a,name,both_present_different,趙禧綠,Hsi-Lu Chao
+nycu-cs-hsiluchao-8cc2ec929a,titles,both_present_different,副教授 | 教授,Associate Professor | Professor
+nycu-cs-hsiluchao-8cc2ec929a,education,both_present_different,國立臺灣大學電機工程博士,"Ph.D., Electrical Engineering, National Taiwan University"
+nycu-cs-hsiluchao-8cc2ec929a,research_interests,both_present_different,無線通訊網路、網際網路協定,"Wireless Networks, Network Protocol Design, Wireless Sensor Networks"
+nycu-cs-weichenchiu-3caf4c9228,name,both_present_different,邱維辰,Wei-Chen Chiu
+nycu-cs-weichenchiu-3caf4c9228,titles,both_present_different,教授,Professor
+nycu-cs-weichenchiu-3caf4c9228,education,both_present_different,德國馬克斯·普朗克電腦科學研究所工程博士,"Ph.D., Engineering Science, Max Planck Institute for Informatics, Germany."
+nycu-cs-weichenchiu-3caf4c9228,research_interests,both_present_different,電腦視覺、影像處理、機器學習、深度學習、多模態視覺數據分析、機率生成模型,"Computer Vision, Machine Learning, Deep Learning, Video Understanding, Generative Models, Nonparametric Bayesian"
+nycu-cs-chyangoeichung-3589223c97,name,both_present_different,鍾乾癸,Chyan-Goei Chung
+nycu-cs-chyangoeichung-3589223c97,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-chyangoeichung-3589223c97,education,both_present_different,國立交通大學博士,"Ph.D., National Chiao Tung University, Taiwan, R.O."
+nycu-cs-chyangoeichung-3589223c97,research_interests,both_present_different,作業系統、軟體工程、通訊協定,"Operating System, Software Engineering, Protocols"
+nycu-cs-chungpingchung-e03e9cf670,name,both_present_different,鍾崇斌,Chung-Ping Chung
+nycu-cs-chungpingchung-e03e9cf670,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-chungpingchung-e03e9cf670,education,both_present_different,美國德州農工大學電子工程博士,"Ph.D., Electrical Engineering, Texas A&M University"
+nycu-cs-chungpingchung-e03e9cf670,research_interests,both_present_different,計算機架構、系統設計、平行處理,"Computer architecture, parallel processing, VLSI and SoC systems, embedded systems, compiler optimizations"
+nycu-cs-chentingwen-e320a00ead,name,both_present_different,陳亭妏,Chen Ting-Wen
+nycu-cs-chentingwen-e320a00ead,titles,both_present_different,副教授,Associate Professor
+nycu-cs-chienchen-e28bfad248,name,both_present_different,陳健,Chien Chen
+nycu-cs-chienchen-e28bfad248,titles,both_present_different,副教授/Saviah科技講座 | 副教授,Associate Professor/Saviah Chair | Associate Professor
+nycu-cs-chienchen-e28bfad248,education,both_present_different,美國史蒂文斯科技學院電腦工程博士,"Ph.D., Computer Engineering, Stevens Institute of Technology, Hoboken"
+nycu-cs-chienchen-e28bfad248,research_interests,both_present_different,高速度電腦網路、DWDM光電網路、網路服務質量與通訊協定,"High Speed Computer Networks, DWDM Optical Networks, Internet QS and Protocols"
+nycu-cs-kuanwenchen-78bcb4ae61,name,both_present_different,陳冠文,Kuan-Wen Chen
+nycu-cs-kuanwenchen-78bcb4ae61,titles,both_present_different,副教授,Associate Professor
+nycu-cs-kuanwenchen-78bcb4ae61,education,both_present_different,國立臺灣大學資訊工程博士,"Ph.D., Department of Computer Science and Information Engineering, National Taiwan University"
+nycu-cs-kuanwenchen-78bcb4ae61,research_interests,both_present_different,電腦視覺、圖形識別、視訊安全監控、視訊多媒體、車聯網,"Computer Vision, Pattern Recognition, Visual Surveillance, Vision-Based Multimedia, Internet of Vehicles"
+nycu-cs-yitingchen-c0ac044810,name,both_present_different,陳奕廷,Yi-Ting Chen
+nycu-cs-yitingchen-c0ac044810,titles,both_present_different,副教授,Associate Professor
+nycu-cs-yitingchen-c0ac044810,education,both_present_different,美國普渡大學電機資訊工程博士,"Ph.D., Electrical and Computer Engineering, Purdue University"
+nycu-cs-yitingchen-c0ac044810,research_interests,both_present_different,人本實體人工智慧、智慧駕駛系統、輔助機器人、電腦視覺、機器學習,"Human-Centered Physical AI, Intelligent Driving Systems, Assistive Robotics, Computer Vision, Machine Learning"
+nycu-cs-jyhchengchen-3ea270c995,name,both_present_different,陳志成,Jyh-Cheng Chen
+nycu-cs-jyhchengchen-3ea270c995,titles,both_present_different,終身講座教授,Lifetime Chair Professor
+nycu-cs-jyhchengchen-3ea270c995,education,both_present_different,美國紐約州立大學水牛城分校資訊工程博士,"Ph.D., State University of New York at Buffalo"
+nycu-cs-jyhchengchen-3ea270c995,research_interests,both_present_different,5G核心網路、6G新興技術、無線網路、行動計算,"5G Core Networks, Emerging 6G Technologies, Wireless Networks, Mobile Computing"
+nycu-cs-jhihrongchen-063b4650df,name,both_present_different,陳志榮,JHIH-RONG CHEN
+nycu-cs-jhihrongchen-063b4650df,titles,both_present_different,助理教授 | 副教授,Assistant Professor | Associate Professor
+nycu-cs-changjiuchen-623e005323,name,both_present_different,陳昌居,Chang-Jiu Chen
+nycu-cs-changjiuchen-623e005323,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-changjiuchen-623e005323,education,both_present_different,美國奧克拉荷馬大學博士,"PH.D., Computer Science, University of Oklahoma"
+nycu-cs-changjiuchen-623e005323,research_interests,both_present_different,非同步電路設計、計算機架構、數位系統、微處理機,"Asynchronous Circuit Desing, Computer Architecture, Digitial system, Microporcessor"
+nycu-cs-yuchihchen-7ab9bc53da,name,both_present_different,陳昱芝,Yu-Chih Chen
+nycu-cs-yuchihchen-7ab9bc53da,titles,both_present_different,助理教授,Assistant Professor
+nycu-cs-yuchihchen-7ab9bc53da,education,both_present_different,德州大學奧斯汀分校 電機與電腦工程系 博士,"Ph.D. in Electrical and Computer Engineering,The University of Texas at Austin"
+nycu-cs-yuchihchen-7ab9bc53da,research_interests,both_present_different,"多模態感知與學習, 人工智慧生成媒體, 影像與視訊處理/電腦視覺, 深度學習, 互動式與沉浸式媒體","Multimodal Perception and Learning, AI-Generated Media, Image and Video Processing / Computer Vision, Deep Learning, Interactive and Immersive Media"
+nycu-cs-rongjayechen-92010fa6b3,name,both_present_different,陳榮傑,Rong-Jaye Chen
+nycu-cs-rongjayechen-92010fa6b3,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-rongjayechen-92010fa6b3,education,both_present_different,美國威州大學電資訊工程博士,"Ph.D., Computer Science, University of Wisconsin-Madison."
+nycu-cs-rongjayechen-92010fa6b3,research_interests,both_present_different,密碼學、編碼理論、數學規劃、演算法、計算理論,"Cryptography, Coding Theory, Mathematics Programming, Algorithms, Theory of Computation"
+nycu-cs-chencheng-ff117c41c9,name,both_present_different,陳正,Chen Cheng
+nycu-cs-chencheng-ff117c41c9,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-chencheng-ff117c41c9,education,both_present_different,國立交通大學碩士,"MS. Computer Engineering, National Chiao Tung University (NCTU"
+nycu-cs-chencheng-ff117c41c9,research_interests,both_present_different,數位系統、計算機架構、平行處理、VOD/Web伺服器設計,"Computer architectures, parallel processing systems, digital system design, VLSI/CAD design."
+nycu-cs-yongshengchen-0447e10db7,name,both_present_different,陳永昇,Yong-Sheng Chen
+nycu-cs-yongshengchen-0447e10db7,titles,both_present_different,教授,Professor
+nycu-cs-yongshengchen-0447e10db7,education,both_present_different,國立台灣大學資訊工程博士,"Ph.D., Computer Science and Information Engineering, National Taiwan University"
+nycu-cs-yongshengchen-0447e10db7,research_interests,both_present_different,生醫訊號處理、醫學影像處理、電腦視覺,"Biomedical Signal Processing, Medical Image Processing, Computer Vision"
+nycu-cs-tienfuchen-4c448823c1,name,both_present_different,陳添福,Tien-Fu Chen
+nycu-cs-tienfuchen-4c448823c1,titles,both_present_different,教授,Professor
+nycu-cs-tienfuchen-4c448823c1,education,both_present_different,美國華盛頓大學資訊工程博士,"Ph.D., Department of Computer Science and Engineering, University of Washington, Seattle"
+nycu-cs-tienfuchen-4c448823c1,research_interests,both_present_different,計算機結構、多核心系統、SoC設計、嵌入式系統,"Computer Architecture, Multicore System Design, SoC Design, Embedded Systems"
+nycu-cs-linghweichen-36cc189e4d,name,both_present_different,陳玲慧,Ling-Hwei Chen
+nycu-cs-linghweichen-36cc189e4d,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-linghweichen-36cc189e4d,education,both_present_different,國立交通大學電腦工程博士,"Ph.D., Computer Engineering, National Chiao Tung University, Taiwan"
+nycu-cs-linghweichen-36cc189e4d,research_interests,both_present_different,影像處理、圖形識別,"Image Processing, Pattern Recognition"
+nycu-cs-shuohanchen-e41f1e1a0b,name,both_present_different,陳碩漢,Shuo-Han Chen
+nycu-cs-shuohanchen-e41f1e1a0b,titles,both_present_different,副教授 | 助理教授,Associate Professor | Assistant Professor
+nycu-cs-shuohanchen-e41f1e1a0b,research_interests,both_present_different,作業系統、記憶體/儲存系統、新興非揮發記憶體/儲存技術、嵌入式系統,"emerging non-volatile memory and storage technologies, memory and storage systems, and next-generation memory/storage architecture designs"
+nycu-cs-ciouyuanchen-19348dd8be,name,both_present_different,陳秋媛,CIOU-YUAN CHEN
+nycu-cs-ciouyuanchen-19348dd8be,titles,both_present_different,教授,Professor
+nycu-cs-zenchen-ab4e753f4d,name,both_present_different,陳稔,Zen Chen
+nycu-cs-zenchen-ab4e753f4d,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-zenchen-ab4e753f4d,education,both_present_different,美國普渡大學電機工程博士,"Ph.D., Electrical Engineering, Purdue University"
+nycu-cs-zenchen-ab4e753f4d,research_interests,both_present_different,影像處理、圖形識別、虛擬實境、計算機視覺,"Image Processing, Pattern Recognition, Virtual Reality, Computer Vision"
+nycu-cs-yingpingchen-a268139c0e,name,both_present_different,陳穎平,Ying-Ping Chen
+nycu-cs-yingpingchen-a268139c0e,titles,both_present_different,教授 | 特聘教授/教授,Professor | Distinguished Professor/Professor
+nycu-cs-yingpingchen-a268139c0e,education,both_present_different,美國伊利諾大學香檳分校資訊科學博士,"Ph.D., Computer Science, University of Illinois at Urbana-Champaign , Illinois, U.S.A."
+nycu-cs-yingpingchen-a268139c0e,research_interests,both_present_different,演化計算、基因演算法、最佳化技術與應用、演算法交易,"Evolutionary Computation, Genetic Algorithms, Optimization Techniques and Applications, Algorithmic Trading."
+nycu-cs-yawchungchen-fcbdbf6aa9,name,both_present_different,陳耀宗,Yaw-Chung Chen
+nycu-cs-yawchungchen-fcbdbf6aa9,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-yawchungchen-fcbdbf6aa9,education,both_present_different,美國西北大學電腦工程博士,"Ph.D., Computer Science, Northwestern University"
+nycu-cs-albertchen-b778265b06,name,both_present_different,陳逸萍,Albert Chen
+nycu-cs-albertchen-b778265b06,titles,both_present_different,客座教授 | 副教授/博梭智能講座,Visiting Professor | Visiting Scholar
+nycu-cs-chihhaolu-b525adb032,name,both_present_different,陸志豪,Chih-Hao Lu
+nycu-cs-chihhaolu-b525adb032,titles,both_present_different,副教授,Associate Professor
+nycu-cs-anziyen-c5e4ec36a0,name,both_present_different,顏安孜,An-Zi Yen
+nycu-cs-anziyen-c5e4ec36a0,titles,both_present_different,助理教授 | 副教授,Assistant Professor | Associate Professor
+nycu-cs-anziyen-c5e4ec36a0,education,both_present_different,台灣大學資訊工程博士,"Ph.D., Computer Science and Information Engineering, National Taiwan University"
+nycu-cs-anziyen-c5e4ec36a0,research_interests,both_present_different,自然語言處理、資訊檢索與擷取、深度學習、人工智慧,"Natural Language Processing, Information Retrieval and Extraction, Deep Learning, Artificial Intelligence"
+nycu-cs-yuchunyen-801e3b9f54,name,both_present_different,顏羽君,Yu-Chun Yen
+nycu-cs-yuchunyen-801e3b9f54,titles,both_present_different,助理教授 | 副教授,Assistant Professor | Associate Professor
+nycu-cs-yuchunyen-801e3b9f54,education,both_present_different,伊利諾大學厄巴納 計算機科學博士,"Ph.D. in Computer Science, University of Illinois Urbana-Champaign"
+nycu-cs-yuchunyen-801e3b9f54,research_interests,both_present_different,"人機互動, 群眾智慧, 人智協作","Collective Intelligence, Creativity Support, Computer-supported Communication, Human-AI Collaboration"
+nycu-cs-mongjenkao-a4b0d44ba8,name,both_present_different,高孟駿,Mong-Jen Kao
+nycu-cs-mongjenkao-a4b0d44ba8,titles,both_present_different,教授,Professor
+nycu-cs-mongjenkao-a4b0d44ba8,education,both_present_different,國立臺灣大學資訊工程博士,"Ph.D., Department of CSIE, National Taiwan University."
+nycu-cs-mongjenkao-a4b0d44ba8,research_interests,both_present_different,近似演算法、組合最佳化、演算法設計與分析、幾何計算,"Approximation Algorithms, Combinatorial Optimizations, Algorithm Design and Analysis, Geometric Computing"
+nycu-cs-chulankao-a2f5f3a7bf,name,both_present_different,高竹嵐,Chu-Lan Kao
+nycu-cs-chulankao-a2f5f3a7bf,titles,both_present_different,副教授,Associate Professor
+nycu-cs-chulankao-a2f5f3a7bf,education,both_present_different,國立中央大學統計所 博士,"Ph.D., Statistics, National Central University, Taiwan"
+nycu-cs-chulankao-a2f5f3a7bf,research_interests,both_present_different,再生理論 變點估計 財務統計,Renewal Theory Change-Point Detection Financial Statistics
+nycu-cs-yulinwei-c6e4aed5d0,name,both_present_different,魏佑霖,Yu-Lin Wei
+nycu-cs-yulinwei-c6e4aed5d0,titles,both_present_different,助理教授,Assistant Professor
+nycu-cs-yulinwei-c6e4aed5d0,education,both_present_different,伊利諾大學厄巴納-香檳分校電機與計算機工程系博士,"Ph.D., Department of Electrical and Computer Engineering, University of Illinois, Urbana-Champaign"
+nycu-cs-yulinwei-c6e4aed5d0,research_interests,both_present_different,音訊訊號處理、物聯網、生成式AI、無線可見光通訊、室內定位,"acoustic signal processing、IoT、Generative AI, wireless/ visible light communication、indoor positioning"
+nycu-cs-chunshuwei-bd7c6c6cbb,name,both_present_different,魏群樹,Chun-Shu Wei
+nycu-cs-chunshuwei-bd7c6c6cbb,titles,both_present_different,副教授 | 副教授/博梭智能講座,Associate Professor | Associate Professor/Pulsaris AI Chair
+nycu-cs-chunshuwei-bd7c6c6cbb,education,both_present_different,美國加州大學聖地牙哥分校生物工程博士,"Ph.D., Bioengineering, University of California San Diego(UCSD), U.S.A."
+nycu-cs-chunshuwei-bd7c6c6cbb,research_interests,both_present_different,腦機介面、神經資訊、生醫訊號處理、機器學習,"Brain-Computer Interfaces, Neuroinformatics, Biomedical Signal Processing, Machine Learning"
+nycu-cs-saikeungwong-f96a50c8c1,name,both_present_different,黃世強,Sai-Keung Wong
+nycu-cs-saikeungwong-f96a50c8c1,titles,both_present_different,教授,Professor
+nycu-cs-saikeungwong-f96a50c8c1,education,both_present_different,香港科技大學資訊科學博士,"Ph.D., Department of Computer Science , Hong Kong University of Science and Technology"
+nycu-cs-saikeungwong-f96a50c8c1,research_interests,both_present_different,虛擬實境、人機互動、電腦圖學,"Virtual Reality, Human-Computer Interaction, Computer Graphics"
+nycu-cs-shihkunhuang-b8c345a5b6,name,both_present_different,黃世昆,Shih-Kun Huang
+nycu-cs-shihkunhuang-b8c345a5b6,titles,both_present_different,教授,Professor
+nycu-cs-shihkunhuang-b8c345a5b6,education,both_present_different,國立交通大學資訊工程博士,"Ph.D., Computer Science and Information Engineering, National Chiao Tung University (NCTU)"
+nycu-cs-shihkunhuang-b8c345a5b6,research_interests,both_present_different,網路安全、軟體工程技術,"Open Source Software Engineering, Object-Oriented Technology, Software Quality"
+nycu-cs-chunyinghuang-8274c3d2d8,name,both_present_different,黃俊穎,Chun-Ying Huang
+nycu-cs-chunyinghuang-8274c3d2d8,titles,both_present_different,教授,Professor
+nycu-cs-chunyinghuang-8274c3d2d8,education,both_present_different,國立台灣大學電機工程博士,"Ph. D, Electrical Engineering, National Taiwan University"
+nycu-cs-chunyinghuang-8274c3d2d8,research_interests,both_present_different,"系統安全, 多媒體網路, 應用系統研究","System Security, Multimedia Networking, Applied System Research"
+nycu-cs-jiunlonghuang-a091703505,name,both_present_different,黃俊龍,Jiun-Long Huang
+nycu-cs-jiunlonghuang-a091703505,titles,both_present_different,資訊學院副院長/教授 | 資訊學院院長/終身講座教授,Associate Dean/Professor | Dean/Lifetime Chair Professor
+nycu-cs-jiunlonghuang-a091703505,education,both_present_different,國立台灣大學電機工程博士,"Ph.D., Electrical Engineering Department, National Taiwan University, Taiwan, R.O.C"
+nycu-cs-jiunlonghuang-a091703505,research_interests,both_present_different,資料分析、資料探勘、區塊鏈,"Data analytics, data mining, blockchain"
+nycu-cs-erichwang-1a33c22d77,name,both_present_different,黃兆祺,Eric Hwang
+nycu-cs-erichwang-1a33c22d77,titles,both_present_different,教授,Professor
+nycu-cs-guanhuahuang-c739eb01e5,name,both_present_different,黃冠華,GUAN-HUA HUANG
+nycu-cs-guanhuahuang-c739eb01e5,titles,both_present_different,教授,Professor
+nycu-cs-wenpinghwang-3ec6c9d6ca,name,both_present_different,黃問泙,Wen-Ping Hwang
+nycu-cs-wenpinghwang-3ec6c9d6ca,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-wenpinghwang-3ec6c9d6ca,education,both_present_different,美國印第安那大學碩士,"MS , Indiana University"
+nycu-cs-wenpinghwang-3ec6c9d6ca,research_interests,both_present_different,演算法、數理邏輯,"Algorithms, Mathematical Logic"
+nycu-cs-kuoanhwang-41f3d7be96,name,both_present_different,黃國安,Kuo-An Hwang
+nycu-cs-kuoanhwang-41f3d7be96,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-kuoanhwang-41f3d7be96,education,both_present_different,國立交通大學博士,"Ph.D., National Chiao Tung University, Taiwan, R.O"
+nycu-cs-kuoanhwang-41f3d7be96,research_interests,both_present_different,系統軟體、VOD系統、電腦輔助排版,"System Software, VOD System, Computer-Assisted Typesetting"
+nycu-cs-kouyuanhuang-85a556603b,name,both_present_different,黃國源,Kou-Yuan Huang
+nycu-cs-kouyuanhuang-85a556603b,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-kouyuanhuang-85a556603b,education,both_present_different,美國普渡大學電機工程博士,"Ph.D.,Electrical Engineering,Purdue University"
+nycu-cs-tingluhuang-7bb71e262e,name,both_present_different,黃廷祿,Ting-Lu Huang
+nycu-cs-tingluhuang-7bb71e262e,titles,both_present_different,退休教授,Retired Professors
+nycu-cs-tingluhuang-7bb71e262e,education,both_present_different,美國西北大學博士,"Ph.D., Computer Science, Northwestern University"
+nycu-cs-tingluhuang-7bb71e262e,research_interests,both_present_different,多處理機系統、分散式演算法、行動計算、程式証明,"Multiprocessor and Multi-computer Systems, Distributed algorithms, Mobile computing, Program verification"
+nycu-cs-chingchunhuang-4300ad3a0d,name,both_present_different,黃敬群,Ching-Chun Huang
+nycu-cs-chingchunhuang-4300ad3a0d,titles,both_present_different,教授,Professor
+nycu-cs-chingchunhuang-4300ad3a0d,education,both_present_different,國立交通大學電子工程研究所博士,"Ph.D., EE, National Chiao Tung University, Taiwan"
+nycu-cs-chingchunhuang-4300ad3a0d,research_interests,both_present_different,"機器學習/深度學習,自駕車,醫學圖像處理,智能建築,擴增實境/虛擬實境","Machine Learning/Deep Learning, Autonomous Vehicle, Medical Image Processing, Intelligent Building, Augmented Reality/ Virtual Reality"
+nycu-cs-chunronghuang-e31844e5ff,name,both_present_different,黃春融,Chun-Rong Huang
+nycu-cs-chunronghuang-e31844e5ff,titles,both_present_different,多媒體工程所所長/教授 | 網路工程研究所所長/教授,ME Director/Professor | NE Director/Professor
+nycu-cs-chunronghuang-e31844e5ff,education,both_present_different,成功大學電機工程學系,"Ph.D., Department of Electrical Engineering, National Cheng Kung University"
+nycu-cs-chunronghuang-e31844e5ff,research_interests,both_present_different,醫學影像處理、多媒體訊號處理、電腦視覺、深度學習、人工智慧,"Medical Image Processing, Multimedia Signal Processing, Computer Vision, Deep Learning, Artificial Intelligence"
+nycu-cs-jenqnenghwang-d231fe3af3,name,both_present_different,黃正能,Jenq-Neng Hwang
+nycu-cs-jenqnenghwang-d231fe3af3,titles,both_present_different,終身榮譽講座教授,Lifetime Honorary Chair Professor
+nycu-cs-jenqnenghwang-d231fe3af3,education,both_present_different,美國南加州大學博士,"PhD, University of Southern California."
+nycu-cs-taiyihuang-b598f32bda,name,both_present_different,黃泰一,Tai-Yi Huang
+nycu-cs-taiyihuang-b598f32bda,titles,both_present_different,客座教授,Visiting Professor
+nycu-cs-taiyihuang-b598f32bda,education,both_present_different,伊利諾大學厄巴納-香檳分校資訊工程學系博士,"Ph.D. in Computer Science, University of Illinois at Urbana-Champaign"
+nycu-cs-taiyihuang-b598f32bda,research_interests,both_present_different,智慧醫療系統、人工智慧、雲端平台、嵌入式系統,Intelligent Healthcare Systems、Artificial Intelligence、Cloud Platforms、Embedded Systems

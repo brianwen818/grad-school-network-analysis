@@ -1,0 +1,1131 @@
+[
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-丁建均-e5141fb566",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "丁建均",
+    "name_en": "Jian-Jiun Ding",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學博士"
+    ],
+    "education_en": [
+      "Ph.D., National Taiwan Univ."
+    ],
+    "research_interests_zh": [
+      "數位信號處理,數位影像處理"
+    ],
+    "research_interests_en": [
+      "Digital signal processing, Digital image processing"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942019&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942019&p=3",
+      "https://disp.ee.ntu.edu.tw/"
+    ],
+    "emails": [
+      "4329dfd7c3f7f919@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-劉子毓-3ebc338425",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "劉子毓",
+    "name_en": "Tzu-Yu Liu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "密西根大學安娜堡分校博士"
+    ],
+    "education_en": [
+      "Ph.D,University of Michiganr, Ann Arbor"
+    ],
+    "research_interests_zh": [
+      "機器學習、最佳化、結構化變數選取、密度估計、時序資料分析、遷移學習、多任務學習、資料融合、神經網路"
+    ],
+    "research_interests_en": [
+      "Optimization, Structured variable selection, Density estimation, Functional data analysis, Transfer learning, Multi-task learning, Data fusion, Neural network"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/bio1.php?teacher_id=26592&p=3",
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=26592&p=3",
+      "https://sites.google.com/view/joyliu-m2lab/"
+    ],
+    "emails": [
+      "1eb4c1d71e85b6fb@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-吳沛遠-f245e25f4d",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "吳沛遠",
+    "name_en": "Pei-Yuan Wu",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國普林斯頓大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Princeton University"
+    ],
+    "research_interests_zh": [
+      "機器學習、估計理論、智慧製造、資訊安全"
+    ],
+    "research_interests_en": [
+      "Machine Learning, Estimation and Prediction, Smart Manufacturing, and Cyber Security"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=24038&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=24038&p=3"
+    ],
+    "emails": [
+      "32bc4ca01a588820@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-周俊廷-e6686de123",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "周俊廷",
+    "name_en": "Chun-Ting Chou",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "美國密西根大學安納堡分校博士"
+    ],
+    "education_en": [
+      "Ph.D., Univ. of Michigan, Ann Arbor"
+    ],
+    "research_interests_zh": [
+      "無線網路通訊協定、超高速個人無線區域網路、認知型智慧無線網路"
+    ],
+    "research_interests_en": [
+      "Medium access control for wireless networks, Ultra wide band and multi-gigabyte wireless personal area networks, Cognitive radio networks"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942021&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942021&p=3"
+    ],
+    "emails": [
+      "0137d3a69a52cade@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-孫紹華-fe87e5f20f",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "孫紹華",
+    "name_en": "Shao-Hua Sun",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "美國南加州大學博士"
+    ],
+    "education_en": [
+      "Ph.D., University of Southern California"
+    ],
+    "research_interests_zh": [
+      "機器學習、機器人學習、強化學習、程式合成"
+    ],
+    "research_interests_en": [
+      "Machine Learning, Robot Learning, Reinforcement Learning, Program Synthesis"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/bio1.php?id=1090721",
+      "https://shaohua0116.github.io/"
+    ],
+    "emails": [
+      "d88082384d665159@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-廖婉君-f6bc7c181c",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "廖婉君",
+    "name_en": "Wanjiun Liao",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國南加州大學博士"
+    ],
+    "education_en": [
+      "Ph.D., USC"
+    ],
+    "research_interests_zh": [
+      "無線網路、多媒體系統及應用、人工智慧物聯網、區塊鏈"
+    ],
+    "research_interests_en": [
+      "Wireless Network, Multimedia Systems and Applications, AI for Networking, IoT, Blockchain"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901125&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901125&p=3"
+    ],
+    "emails": [
+      "d3ab333d6bf7d91f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-李宏毅-617adf302c",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "李宏毅",
+    "name_en": "Hung-yi Lee",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學博士"
+    ],
+    "education_en": [
+      "Ph.D., National Taiwan Univ."
+    ],
+    "research_interests_zh": [
+      "深度學習、機器學習、語意理解、語音辨識"
+    ],
+    "research_interests_en": [
+      "Deep learning, Machine learning, Spoken language understanding, Speech recognition"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901182&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901182&p=3",
+      "http://speech.ee.ntu.edu.tw/~tlkagk/",
+      "http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html"
+    ],
+    "emails": [
+      "2790b597d357b931@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-李琳山-193d6b842c",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "李琳山",
+    "name_en": "Lin-Shan Lee",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國史丹福大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Stanford Univ."
+    ],
+    "research_interests_zh": [
+      "數位語音處理、數位訊號處理、數位傳輸"
+    ],
+    "research_interests_en": [
+      "Digital speech processing, Digital signal processing, Digital transmission"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901017&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901017&p=3",
+      "http://speech.ee.ntu.edu.tw/"
+    ],
+    "emails": [
+      "cabe9be678982a2f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-林宗男-d804481822",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "林宗男",
+    "name_en": "Tsung-Nan Lin",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國普林斯頓大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Princeton University"
+    ],
+    "research_interests_zh": [
+      "數位信號處理、通訊網路、神經網路、色彩影像處理"
+    ],
+    "research_interests_en": [
+      "Digital signal processing, Computer networks, Neural networks, Color image processing"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901147&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901147&p=3"
+    ],
+    "emails": [
+      "1afb304543a01708@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-林澤-45fabc226a",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "林澤",
+    "name_en": "Che Lin",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國伊利諾大學香檳分校博士"
+    ],
+    "education_en": [
+      "Ph.D., Univ. of Illinois at Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "深度學習、資料科學、通訊/生醫信號處理、金融科技、最佳化理論"
+    ],
+    "research_interests_en": [
+      "Deep Learning, Data Science, Signal Processing in Wireless Communications, Systems Biology, FinTech"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=25203&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=25203&p=3"
+    ],
+    "emails": [
+      "8d594b0cca83fd78@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-楊奕軒-dfaf0f9f4b",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "楊奕軒",
+    "name_en": "Yi-Hsuan Yang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "音樂資料研究、人工智慧、機器學習、自動音樂生成"
+    ],
+    "research_interests_en": [
+      "Music information research; Artificial intelligence; Machine learning; Music generation"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://affige.github.io/",
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=26591&p=3"
+    ],
+    "emails": [
+      "c71206c942b3b55a@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-王奕翔-e163a124b7",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "王奕翔",
+    "name_en": "I-Hsiang Wang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國加州大學柏克萊分校博士"
+    ],
+    "education_en": [
+      "Ph.D., Univ. of California at Berkeley"
+    ],
+    "research_interests_zh": [
+      "消息理論、無線通訊、網路資訊與資料處理"
+    ],
+    "research_interests_en": [
+      "Information Theory, Wireless Communications, Networked Information and Data Processing"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=102002&p=3",
+      "http://cc.ee.ntu.edu.tw/~ihsiangw/",
+      "http://cc.ee.ntu.edu.tw/~ihsiangw/NICLab/NIC.html"
+    ],
+    "emails": [
+      "cfa3718f8e912dc8@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-王鈺強-43bfbd0d23",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "王鈺強",
+    "name_en": "Yu-Chiang Frank Wang",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Adjunct Professor"
+    ],
+    "education_zh": [
+      "美國卡內基美隆大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Carnegie Mellon University"
+    ],
+    "research_interests_zh": [
+      "電腦視覺、機器學習、深度學習、人工智慧"
+    ],
+    "research_interests_en": [
+      "Computer Vision, Machine Learning, Deep Learning, Artificial Intelligence"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=24037&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=24037&p=3"
+    ],
+    "emails": [
+      "d1fb113cd91daaf4@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-簡翌-6a29f81209",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "簡翌",
+    "name_en": "Eli Chien",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任助理教授"
+    ],
+    "titles_en": [
+      "Assistant Professor"
+    ],
+    "education_zh": [
+      "伊利諾大學厄巴納-香檳分校博士"
+    ],
+    "education_en": [
+      "University of Illinois, Urbana-Champaign . Ph.D."
+    ],
+    "research_interests_zh": [
+      "人工智慧、機器學習、可規範性人工智慧、機器學習隱私、機器遺忘、人工智慧智慧財產權、圖機器學習"
+    ],
+    "research_interests_en": [
+      "AI, Machine Learning, Regulatable AI, Trustworthy AI, ML Privacy, Machine Unlearning, AI Copyright, Graph Machine Learning"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "https://www.ee.ntu.edu.tw/profile1.php?teacher_id=28115&p=3",
+      "https://sites.google.com/view/eli-chien/home"
+    ],
+    "emails": [
+      "69ddfdb337223e60@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-葉丙成-281ee85757",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "葉丙成",
+    "name_en": "Ping-Cheng Yeh",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國密西根大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Univ. of Michigan"
+    ],
+    "research_interests_zh": [
+      "無線通訊、無線網路"
+    ],
+    "research_interests_en": [
+      "Wireless communications, Wireless networks"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942016&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942016&p=3"
+    ],
+    "emails": [
+      "6fadc54b9c3e5abf@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-蔡志宏-22700a6730",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "蔡志宏",
+    "name_en": "Zsehong Tsai",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Adjunct Professor"
+    ],
+    "education_zh": [
+      "美國加州大學洛杉磯分校博士"
+    ],
+    "education_en": [
+      "Ph.D., UCLA"
+    ],
+    "research_interests_zh": [
+      "寬頻網路、效能分析、計算機模擬、網路規劃與管理"
+    ],
+    "research_interests_en": [
+      "Broadband networks, Performance analysis, Computer simulations, Network planning and management"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901040&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901040&p=3"
+    ],
+    "emails": [
+      "b74e4140bf50c030@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-蘇炫榮-93a463f6ee",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "蘇炫榮",
+    "name_en": "Hsuan-Jung Su",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國馬里蘭大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Univ. of Maryland at College Park"
+    ],
+    "research_interests_zh": [
+      "編碼、調變、訊號處理"
+    ],
+    "research_interests_en": [
+      "Coding, Modulation and signal processing"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942007&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942007&p=3",
+      "http://cc.ee.ntu.edu.tw/~hjsu/"
+    ],
+    "emails": [
+      "d3ab9aa762adff43@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-謝宏昀-b0f0fd6118",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "謝宏昀",
+    "name_en": "Hung-Yun Hsieh",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國喬治亞理工學院博士"
+    ],
+    "education_en": [
+      "Ph.D., Georgia Institute of Technology"
+    ],
+    "research_interests_zh": [
+      "物聯網、車載通訊網路、網路科學與資訊安全"
+    ],
+    "research_interests_en": [
+      "IoT, vehicular communications, network science, cybersecurity"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942014&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942014&p=3",
+      "http://tonic.ee.ntu.edu.tw"
+    ],
+    "emails": [
+      "2c753dc973eec470@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-貝蘇章-0d912c3cc6",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "貝蘇章",
+    "name_en": "Soo-Chang Pei",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國加州大學(聖塔芭芭拉)博士"
+    ],
+    "education_en": [
+      "Ph.D., UC Santa Barbara"
+    ],
+    "research_interests_zh": [
+      "數位訊號處理及其應用、影像處理與圖型識別、電腦圖學"
+    ],
+    "research_interests_en": [
+      "Digital signal processing and applications, Digital image processing, Pattern recognition, Computer graphics"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901001&p=5",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901001&p=5"
+    ],
+    "emails": [
+      "a052b1b544f8bed9@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-鄭士康-08dd5999fd",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "鄭士康",
+    "name_en": "Shyh-Kang Jeng",
+    "role_groups": [
+      "faculty"
+    ],
+    "titles_zh": [
+      "教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學博士"
+    ],
+    "education_en": [
+      "Ph.D., National Taiwan Univ."
+    ],
+    "research_interests_zh": [
+      "獨力: 電磁與聲波理論, 計算神經科學 合作: 失智照護機器人, 機器學習與多媒體, 經驗模態分解"
+    ],
+    "research_interests_en": [
+      "My own studies: Theory of electromagnetics and acoustics, Computational neuroscience ;Collaboration: Robots for caring elders with dementia, Machine learning and multimedia, Empirical mode decomposition"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901071&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901071&p=3"
+    ],
+    "emails": [
+      "9be3b3b926cf6a27@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-鄭皓中-046d884ef1",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "鄭皓中",
+    "name_en": "Hao-Chung Cheng",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任副教授"
+    ],
+    "titles_en": [
+      "Associate Professor"
+    ],
+    "education_zh": [
+      "國立臺灣大學博士及澳洲雪梨理工大學博士"
+    ],
+    "education_en": [
+      "PhD, National Taiwan Univ. and Univ. of Technology Sydney"
+    ],
+    "research_interests_zh": [
+      "量子資訊處理、量子通訊、量子機器學習"
+    ],
+    "research_interests_en": [
+      "Quantum information processing, Quantum communication, Quantum machine learning"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [],
+    "emails": [
+      "981bdd98d8fd6237@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-陳宏銘-9a7386a945",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "陳宏銘",
+    "name_en": "Homer H. Chen",
+    "role_groups": [
+      "adjunct"
+    ],
+    "titles_zh": [
+      "兼任教授"
+    ],
+    "titles_en": [
+      "Adjunct Professor"
+    ],
+    "education_zh": [
+      "美國伊利諾大學香檳分校博士"
+    ],
+    "education_en": [
+      "Ph.D., Univ. of Illinois at Urbana-Champaign"
+    ],
+    "research_interests_zh": [
+      "多媒體信號處理、計算攝影及顯示技術、音樂資訊探勘"
+    ],
+    "research_interests_en": [
+      "Multimedia signal processing, Computational photography and display, and Music data mining"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=942010&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=942010&p=3",
+      "http://mpac.ee.ntu.edu.tw/"
+    ],
+    "emails": [
+      "97a1fffaccc41225@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-陳銘憲-189c35ea4f",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "陳銘憲",
+    "name_en": "Ming-Syan Chen",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國密西根大學安那堡分校博士"
+    ],
+    "education_en": [
+      "Ph.D., Univ. of Michigan, Ann Arbor"
+    ],
+    "research_interests_zh": [
+      "資料庫、行動通訊、多媒體網路"
+    ],
+    "research_interests_en": [
+      "Databases, Mobile computing, Multimedia networking"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901118&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901118&p=3",
+      "http://arbor.ee.ntu.edu.tw/"
+    ],
+    "emails": [
+      "998f5bca9af71ba1@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-魏宏宇-c14d33111c",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "魏宏宇",
+    "name_en": "Hung-Yu Wei",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國哥倫比亞大學博士"
+    ],
+    "education_en": [
+      "Ph.D., Columbia Univ."
+    ],
+    "research_interests_zh": [
+      "行動無線網路、通信網路賽局理論、跨階層無線多媒體通信系統設計"
+    ],
+    "research_interests_en": [
+      "Mobile and wireless networking, Game theoretical models for communications and networking, Cross-layer design and optimization for wireless multimedia networking, Wireless sensor networks and machine-to-machine communications"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901161&p=3",
+      "http://www.ee.ntu.edu.tw/profile1.php?teacher_id=901161&p=3",
+      "http://wmnlab.ee.ntu.edu.tw/"
+    ],
+    "emails": [
+      "30420dd660f7655f@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  },
+  {
+    "faculty_id": "ntu-comm-engin-ds-network-黃寶儀-3684ae24b6",
+    "school_id": "ntu-comm-engin-ds-network",
+    "name_zh": "黃寶儀",
+    "name_en": "Polly Huang",
+    "role_groups": [
+      "full_time"
+    ],
+    "titles_zh": [
+      "專任教授"
+    ],
+    "titles_en": [
+      "Professor"
+    ],
+    "education_zh": [
+      "美國南加州大學博士"
+    ],
+    "education_en": [],
+    "research_interests_zh": [
+      "網際網路分析、無線感測網路、多媒體同儕網路、普及運算"
+    ],
+    "research_interests_en": [
+      "Internet characterization, Wireless sensor network, Pervasive computing"
+    ],
+    "listing_urls_zh": [
+      "https://gice.ntu.edu.tw/Professor_mygice.php?group=DS"
+    ],
+    "listing_urls_en": [
+      "https://gice.ntu.edu.tw/en/F_mygice.php?group=DS"
+    ],
+    "profile_urls_zh": [],
+    "profile_urls_en": [],
+    "personal_urls": [
+      "http://www.ee.ntu.edu.tw/bio1.php?teacher_id=901151&p=3",
+      "http://homepage.ntu.edu.tw/~pollyhuang/"
+    ],
+    "emails": [
+      "e2a24ccb10d941c8@redacted.invalid"
+    ],
+    "merge_status": "matched",
+    "merge_method": "email",
+    "collected_at": "2026-09-09T09:29:31+08:00"
+  }
+]

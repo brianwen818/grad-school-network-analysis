@@ -1,0 +1,208 @@
+﻿node_id,keyword_en,source
+nthu-cs-chunglaungliu-81c34bb998,Algorithms,nthu-cs
+nthu-cs-wenlianhsu-baee37b511,Natural Language Processing,nthu-cs
+nthu-cs-wenlianhsu-baee37b511,Operations Research,nthu-cs
+nthu-cs-丁川康-09362c5c83,Artificial Intelligence,nthu-cs
+nthu-cs-丁川康-09362c5c83,Evolutionary Computation,nthu-cs
+nthu-cs-丁川康-09362c5c83,Machine Learning,nthu-cs
+nthu-cs-丁川康-09362c5c83,Software Engineering,nthu-cs
+nthu-cs-劉炯朗-714cd73f70,Algorithms,nthu-cs
+nthu-cs-劉炯朗-714cd73f70,Automation and Control,nthu-cs
+nthu-cs-劉炯朗-714cd73f70,Electronic Design Automation,nthu-cs
+nthu-cs-吳中浩-2da90a2f27,Computer Architecture,nthu-cs
+nthu-cs-吳尚鴻-69aaff2ef5,Data Mining,nthu-cs
+nthu-cs-吳尚鴻-69aaff2ef5,Databases,nthu-cs
+nthu-cs-吳尚鴻-69aaff2ef5,Machine Learning,nthu-cs
+nthu-cs-周志遠-5af43e1b90,Cloud Computing,nthu-cs
+nthu-cs-周志遠-5af43e1b90,Distributed Systems,nthu-cs
+nthu-cs-周志遠-5af43e1b90,High-Performance Computing,nthu-cs
+nthu-cs-周志遠-5af43e1b90,Storage Systems,nthu-cs
+nthu-cs-周百祥-cf9a8d7b4b,Embedded Systems,nthu-cs
+nthu-cs-唐傳義-7f081eb094,Algorithms,nthu-cs
+nthu-cs-唐傳義-7f081eb094,Bioinformatics,nthu-cs
+nthu-cs-孫宏民-ae6348d2b8,Blockchain,nthu-cs
+nthu-cs-孫宏民-ae6348d2b8,Deep Learning,nthu-cs
+nthu-cs-孫宏民-ae6348d2b8,Information Security,nthu-cs
+nthu-cs-張世杰-c7720e7bf2,Automation and Control,nthu-cs
+nthu-cs-張世杰-c7720e7bf2,Electronic Design Automation,nthu-cs
+nthu-cs-張俊盛-260bd4fef4,Artificial Intelligence,nthu-cs
+nthu-cs-張俊盛-260bd4fef4,Information Retrieval,nthu-cs
+nthu-cs-張俊盛-260bd4fef4,Knowledge Management,nthu-cs
+nthu-cs-張俊盛-260bd4fef4,Machine Translation,nthu-cs
+nthu-cs-張俊盛-260bd4fef4,Natural Language Processing,nthu-cs
+nthu-cs-張君天-43ab3fd7b9,Bioinformatics,nthu-cs
+nthu-cs-張峻銘-b2df996158,Algorithms,nthu-cs
+nthu-cs-張峻銘-b2df996158,Discrete Mathematics,nthu-cs
+nthu-cs-張正尚-0173f59db1,Computer Networks,nthu-cs
+nthu-cs-張正尚-0173f59db1,Parallel Computing,nthu-cs
+nthu-cs-張正尚-0173f59db1,Queueing Theory,nthu-cs
+nthu-cs-張真誠-f90f3dfae1,Cryptography,nthu-cs
+nthu-cs-張真誠-f90f3dfae1,Databases,nthu-cs
+nthu-cs-張真誠-f90f3dfae1,Image Processing,nthu-cs
+nthu-cs-張真誠-f90f3dfae1,Information Security,nthu-cs
+nthu-cs-張真誠-f90f3dfae1,Multimedia Systems,nthu-cs
+nthu-cs-張真誠-f90f3dfae1,Network Security,nthu-cs
+nthu-cs-張隆紋-6579e42cba,Computer Vision,nthu-cs
+nthu-cs-張隆紋-6579e42cba,Cryptography,nthu-cs
+nthu-cs-張隆紋-6579e42cba,Game Theory,nthu-cs
+nthu-cs-張隆紋-6579e42cba,Image Processing,nthu-cs
+nthu-cs-張隆紋-6579e42cba,Information Security,nthu-cs
+nthu-cs-張隆紋-6579e42cba,Multimedia Systems,nthu-cs
+nthu-cs-張韻詩-a94b4eca78,Distributed Systems,nthu-cs
+nthu-cs-張韻詩-a94b4eca78,Real-Time Systems,nthu-cs
+nthu-cs-徐正炘-8b568ce001,Computer Networks,nthu-cs
+nthu-cs-徐正炘-8b568ce001,Distributed Systems,nthu-cs
+nthu-cs-徐正炘-8b568ce001,Multimedia Systems,nthu-cs
+nthu-cs-徐爵民-eade3af147,Automation and Control,nthu-cs
+nthu-cs-徐爵民-eade3af147,Electronic Design Automation,nthu-cs
+nthu-cs-徐爵民-eade3af147,Optimization,nthu-cs
+nthu-cs-朱宏國-642998a4aa,Computer Graphics,nthu-cs
+nthu-cs-朱宏國-642998a4aa,Computer Vision,nthu-cs
+nthu-cs-朱宏國-642998a4aa,Digital Twins,nthu-cs
+nthu-cs-李哲榮-722a84d1c8,High-Performance Computing,nthu-cs
+nthu-cs-李哲榮-722a84d1c8,Numerical Analysis,nthu-cs
+nthu-cs-李哲榮-722a84d1c8,Scientific Computing,nthu-cs
+nthu-cs-李家同-c1f2d67113,Parallel Computing,nthu-cs
+nthu-cs-李政崑-965a47032e,Compilers,nthu-cs
+nthu-cs-李政崑-965a47032e,Embedded Systems,nthu-cs
+nthu-cs-李政崑-965a47032e,Pervasive Computing,nthu-cs
+nthu-cs-李端興-72950bb080,Artificial Intelligence,nthu-cs
+nthu-cs-李端興-72950bb080,Computer Vision,nthu-cs
+nthu-cs-李端興-72950bb080,Data Science,nthu-cs
+nthu-cs-李端興-72950bb080,Game Theory,nthu-cs
+nthu-cs-李端興-72950bb080,Machine Learning,nthu-cs
+nthu-cs-李端興-72950bb080,Queueing Theory,nthu-cs
+nthu-cs-李端興-72950bb080,Reinforcement Learning,nthu-cs
+nthu-cs-李端興-72950bb080,Social Network Analysis,nthu-cs
+nthu-cs-李端興-72950bb080,Wireless Networks,nthu-cs
+nthu-cs-林桂傑-3eab7348de,E-Commerce,nthu-cs
+nthu-cs-林永隆-971ac78e0f,Automation and Control,nthu-cs
+nthu-cs-林永隆-971ac78e0f,Electronic Design Automation,nthu-cs
+nthu-cs-林沿妊-ab6c251917,Bioinformatics,nthu-cs
+nthu-cs-林瀚仚-8176500c13,Quantum Computing,nthu-cs
+nthu-cs-林華君-4d8a5842a2,Computer Networks,nthu-cs
+nthu-cs-林華君-4d8a5842a2,Wireless Networks,nthu-cs
+nthu-cs-梁雅鈞-9f3d7465e1,Algorithms,nthu-cs
+nthu-cs-梁雅鈞-9f3d7465e1,Optimization,nthu-cs
+nthu-cs-楊熙年-e1cd89ea15,Computer Graphics,nthu-cs
+nthu-cs-楊熙年-e1cd89ea15,Multimedia Systems,nthu-cs
+nthu-cs-楊舜仁-77d533ddf8,Mobile Computing,nthu-cs
+nthu-cs-沈之涯-d5bb9630d8,Big Data Analytics,nthu-cs
+nthu-cs-沈之涯-d5bb9630d8,Data Mining,nthu-cs
+nthu-cs-沈之涯-d5bb9630d8,Databases,nthu-cs
+nthu-cs-洪仕軒-a9fa041928,Computer Graphics,nthu-cs
+nthu-cs-洪仕軒-a9fa041928,Information Visualization,nthu-cs
+nthu-cs-王俊堯-29ae2991f7,Automation and Control,nthu-cs
+nthu-cs-王俊堯-29ae2991f7,Electronic Design Automation,nthu-cs
+nthu-cs-王家祥-79b45fac37,Algorithms,nthu-cs
+nthu-cs-王家祥-79b45fac37,Computer Networks,nthu-cs
+nthu-cs-王家祥-79b45fac37,Multimedia Systems,nthu-cs
+nthu-cs-王家祥-79b45fac37,Neural Networks,nthu-cs
+nthu-cs-王廷基-66e8de998a,Algorithms,nthu-cs
+nthu-cs-王廷基-66e8de998a,Automation and Control,nthu-cs
+nthu-cs-王廷基-66e8de998a,Electronic Design Automation,nthu-cs
+nthu-cs-王炳豐-db84c4528b,Algorithms,nthu-cs
+nthu-cs-王炳豐-db84c4528b,Parallel Computing,nthu-cs
+nthu-cs-盧錦隆-6983c0f1dd,Algorithms,nthu-cs
+nthu-cs-盧錦隆-6983c0f1dd,Graph Theory,nthu-cs
+nthu-cs-石維寬-b54c54300e,Algorithms,nthu-cs
+nthu-cs-石維寬-b54c54300e,Multimedia Systems,nthu-cs
+nthu-cs-石維寬-b54c54300e,Real-Time Systems,nthu-cs
+nthu-cs-羅婈-fdd893b309,Artificial Intelligence,nthu-cs
+nthu-cs-羅婈-fdd893b309,Computer Vision,nthu-cs
+nthu-cs-羅婈-fdd893b309,Generative AI,nthu-cs
+nthu-cs-羅婈-fdd893b309,Trustworthy AI,nthu-cs
+nthu-cs-翁正明-fe545e34a2,Computer Graphics,nthu-cs
+nthu-cs-胡敏君-d30f85d433,Augmented Reality,nthu-cs
+nthu-cs-胡敏君-d30f85d433,Computer Graphics,nthu-cs
+nthu-cs-胡敏君-d30f85d433,Computer Vision,nthu-cs
+nthu-cs-胡敏君-d30f85d433,Multimedia Systems,nthu-cs
+nthu-cs-胡敏君-d30f85d433,Virtual Reality,nthu-cs
+nthu-cs-葉肩宇-1907b9cbf9,Information Security,nthu-cs
+nthu-cs-葉肩宇-1907b9cbf9,Software Engineering,nthu-cs
+nthu-cs-蔡仁松-13fcaf5bbe,Artificial Intelligence,nthu-cs
+nthu-cs-蔡仁松-13fcaf5bbe,Blockchain,nthu-cs
+nthu-cs-蔡仁松-13fcaf5bbe,Entrepreneurship,nthu-cs
+nthu-cs-蔡仁松-13fcaf5bbe,Information Security,nthu-cs
+nthu-cs-蔡仁松-13fcaf5bbe,Internet of Things,nthu-cs
+nthu-cs-蔡明哲-9d609636c8,Algorithms,nthu-cs
+nthu-cs-蔡明哲-9d609636c8,Graph Theory,nthu-cs
+nthu-cs-蔡明哲-9d609636c8,Wireless Networks,nthu-cs
+nthu-cs-蘇豐文-f06969cec0,Bioinformatics,nthu-cs
+nthu-cs-蘇豐文-f06969cec0,Knowledge Management,nthu-cs
+nthu-cs-蘇豐文-f06969cec0,Machine Learning,nthu-cs
+nthu-cs-許健平-128c6ac6ab,Cloud Computing,nthu-cs
+nthu-cs-許健平-128c6ac6ab,Mobile Computing,nthu-cs
+nthu-cs-許健平-128c6ac6ab,Wireless Networks,nthu-cs
+nthu-cs-許秋婷-e17039873f,Deep Learning,nthu-cs
+nthu-cs-許秋婷-e17039873f,Pattern Recognition,nthu-cs
+nthu-cs-許聞廉-24d823b30b,Algorithms,nthu-cs
+nthu-cs-許聞廉-24d823b30b,Bioinformatics,nthu-cs
+nthu-cs-謝源-fe3951f144,Automation and Control,nthu-cs
+nthu-cs-謝源-fe3951f144,Computer Architecture,nthu-cs
+nthu-cs-謝源-fe3951f144,Electronic Design Automation,nthu-cs
+nthu-cs-謝源-fe3951f144,Embedded Systems,nthu-cs
+nthu-cs-賴尚宏-15f146b4f1,Computer Vision,nthu-cs
+nthu-cs-賴尚宏-15f146b4f1,Image Processing,nthu-cs
+nthu-cs-賴尚宏-15f146b4f1,Multimedia Systems,nthu-cs
+nthu-cs-賴尚宏-15f146b4f1,Pattern Recognition,nthu-cs
+nthu-cs-邱德泉-23a7d7b698,Artificial Intelligence,nthu-cs
+nthu-cs-邱德泉-23a7d7b698,Edge Computing,nthu-cs
+nthu-cs-邱德泉-23a7d7b698,Internet of Things,nthu-cs
+nthu-cs-邱瀞德-99539b19ee,Algorithms,nthu-cs
+nthu-cs-邱瀞德-99539b19ee,Computer Vision,nthu-cs
+nthu-cs-邱瀞德-99539b19ee,Multimedia Systems,nthu-cs
+nthu-cs-邱瀞德-99539b19ee,Signal Processing,nthu-cs
+nthu-cs-郭昱廷-cb1da4e458,Computer Vision,nthu-cs
+nthu-cs-郭昱廷-cb1da4e458,Deep Learning,nthu-cs
+nthu-cs-郭昱廷-cb1da4e458,Machine Learning,nthu-cs
+nthu-cs-郭柏志-70f6925e3a,Artificial Intelligence,nthu-cs
+nthu-cs-郭柏志-70f6925e3a,Image Processing,nthu-cs
+nthu-cs-郭柏志-70f6925e3a,Machine Learning,nthu-cs
+nthu-cs-郭柏志-70f6925e3a,Smart Healthcare,nthu-cs
+nthu-cs-金仲達-87bd908f7e,Distributed Systems,nthu-cs
+nthu-cs-金仲達-87bd908f7e,Pervasive Computing,nthu-cs
+nthu-cs-金陽和-83ed0dbb2c,Algorithms,nthu-cs
+nthu-cs-金陽和-83ed0dbb2c,Databases,nthu-cs
+nthu-cs-金陽和-83ed0dbb2c,Software Engineering,nthu-cs
+nthu-cs-鍾葉青-fb3791172c,Cloud Computing,nthu-cs
+nthu-cs-鍾葉青-fb3791172c,Embedded Systems,nthu-cs
+nthu-cs-鍾葉青-fb3791172c,Parallel Computing,nthu-cs
+nthu-cs-鍾葉青-fb3791172c,Pervasive Computing,nthu-cs
+nthu-cs-闕志克-667b8d485c,Information Security,nthu-cs
+nthu-cs-陳宜欣-10568557fc,Big Data Analytics,nthu-cs
+nthu-cs-陳宜欣-10568557fc,Data Mining,nthu-cs
+nthu-cs-陳宜欣-10568557fc,Multimedia Systems,nthu-cs
+nthu-cs-陳宜欣-10568557fc,Social Network Analysis,nthu-cs
+nthu-cs-陳文村-da14007351,Computer Networks,nthu-cs
+nthu-cs-陳煥宗-7c43119c40,Computer Vision,nthu-cs
+nthu-cs-陳耘志-1b3b5d7ab0,Databases,nthu-cs
+nthu-cs-陳耘志-1b3b5d7ab0,Storage Systems,nthu-cs
+nthu-cs-陳聿廣-13aceaf00c,Automation and Control,nthu-cs
+nthu-cs-陳良弼-2847ebc1d7,Big Data Analytics,nthu-cs
+nthu-cs-陳良弼-2847ebc1d7,Deep Learning,nthu-cs
+nthu-cs-陳良弼-2847ebc1d7,Medical Informatics,nthu-cs
+nthu-cs-韓永楷-05d57868e3,Algorithms,nthu-cs
+nthu-cs-顏子斌-46d093b11d,Information Security,nthu-cs
+nthu-cs-高宏宇-e0f4516945,Data Mining,nthu-cs
+nthu-cs-高宏宇-e0f4516945,Deep Learning,nthu-cs
+nthu-cs-高宏宇-e0f4516945,Information Retrieval,nthu-cs
+nthu-cs-高宏宇-e0f4516945,Machine Learning,nthu-cs
+nthu-cs-高宏宇-e0f4516945,Natural Language Processing,nthu-cs
+nthu-cs-高榮駿-458af60731,Wireless Networks,nthu-cs
+nthu-cs-麥偉基-5269f158c4,Algorithms,nthu-cs
+nthu-cs-麥偉基-5269f158c4,Automation and Control,nthu-cs
+nthu-cs-麥偉基-5269f158c4,Optimization,nthu-cs
+nthu-cs-黃婷婷-c521072c08,Automation and Control,nthu-cs
+nthu-cs-黃婷婷-c521072c08,Electronic Design Automation,nthu-cs
+nthu-cs-黃慶育-97536649ca,Software Engineering,nthu-cs
+nthu-cs-黃稚存-6ad9444e87,Automation and Control,nthu-cs
+nthu-cs-黃稚存-6ad9444e87,Computer Vision,nthu-cs
+nthu-cs-黃稚存-6ad9444e87,Deep Learning,nthu-cs
+nthu-cs-黃稚存-6ad9444e87,Electronic Design Automation,nthu-cs
+nthu-cs-黃稚存-6ad9444e87,Neuromorphic Computing,nthu-cs
+nthu-cs-黃能富-478224d15b,Artificial Intelligence,nthu-cs
+nthu-cs-黃能富-478224d15b,Blockchain,nthu-cs
+nthu-cs-黃能富-478224d15b,Internet of Things,nthu-cs
+nthu-cs-黃能富-478224d15b,Network Security,nthu-cs
+nthu-cs-黃能富-478224d15b,Wireless Networks,nthu-cs

@@ -1,0 +1,22 @@
+{
+  "school_id": "nycu-cs",
+  "started_from": {
+    "zh": "https://www.cs.nycu.edu.tw/members/prof",
+    "en": "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+  },
+  "note": "",
+  "collected_at": "2026-09-09T09:36:07+08:00",
+  "pages": [
+    "https://www.cs.nycu.edu.tw/members/prof",
+    "https://www.cs.nycu.edu.tw/members/prof?locale=en"
+  ],
+  "counts": {
+    "zh_raw": 152,
+    "en_raw": 152,
+    "faculty": 152
+  },
+  "warnings": [],
+  "errors": [],
+  "validation_issues": [],
+  "success": true
+}
