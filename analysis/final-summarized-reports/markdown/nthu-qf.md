@@ -51,7 +51,7 @@
 *出處：`analysis/descriptive-stats-after-preprocessing/group_comparison/research_fields/fin-and-econ.csv`（`nthu-qf` 欄）*  
 *建構方式：由 `scripts/data-preprocessing/2_rf_and_phd_inst_comparison.ipynb` 產生。研究領域為官網「主要研究領域」與「研究領域摘要」分別清洗、以雙語詞典標準化成英文 canonical 值後取聯集；計數為具有該領域的不重複教師人數，不做 Top-N 截斷。*
 
-![清華大學計量財務金融學系 研究領域人數](../descriptive-stats-after-preprocessing/by_department/top_research_fields/nthu-qf.png)
+![清華大學計量財務金融學系 研究領域人數](../../descriptive-stats-after-preprocessing/by_department/top_research_fields/nthu-qf.png)
 
 *圖：清華大學計量財務金融學系 研究領域人數*  
 *出處：`analysis/descriptive-stats-after-preprocessing/by_department/top_research_fields/nthu-qf.png`*  
@@ -75,7 +75,7 @@
 *出處：`analysis/descriptive-stats-after-preprocessing/group_comparison/phd_institutions/fin-and-econ.csv`（`nthu-qf` 欄）*  
 *建構方式：同一 notebook。學歷先被 `1_faculty_data_preprocessing.ipynb` 解析成「學位、科系、學校」三部分，取學位為博士的項目，學校名稱以別名表對應為英文 canonical 值；計數為不重複教師人數。*
 
-![清華大學計量財務金融學系 博士畢業學校人數](../descriptive-stats-after-preprocessing/by_department/top_phd_institutions/nthu-qf.png)
+![清華大學計量財務金融學系 博士畢業學校人數](../../descriptive-stats-after-preprocessing/by_department/top_phd_institutions/nthu-qf.png)
 
 *圖：清華大學計量財務金融學系 博士畢業學校人數*  
 *出處：`analysis/descriptive-stats-after-preprocessing/by_department/top_phd_institutions/nthu-qf.png`*  
@@ -103,7 +103,7 @@
 *出處：`analysis/network-analysis/nthu-qf/network_metrics.json`*  
 *建構方式：由 `2_build_network_data.ipynb` 從 `faculty_standardized.json` 建立教授–研究領域二分網路：教授與研究領域各為一類節點，教授的標準化研究領域包含某領域即連一條邊。研究領域網路是二分網路的單邊投影：兩個領域若被同一位教授研究就相連，邊權為共同研究兩領域的教授人數。社群以 Louvain（seed = 42，resolution 1.0）偵測，指標以完整加權圖計算。教授網路是二分網路的另一邊投影：兩位教授共享研究領域就相連，邊權 w = S_exp + λ·S_inf；S_exp 為共享領域的 IDF 加權和（IDF 以全體 662 位教授計算一次），S_inf 為共享 taxonomy 上層分類的推論相似度，λ = 0.4。社群以 Louvain（seed = 42，resolution 1.0）偵測，節點大小與 degree 成正比。*
 
-![清華大學計量財務金融學系 教授–研究領域二分網路](../network-analysis/nthu-qf/figures/01_bipartite_network.png)
+![清華大學計量財務金融學系 教授–研究領域二分網路](../../network-analysis/nthu-qf/figures/01_bipartite_network.png)
 
 *圖：清華大學計量財務金融學系 教授–研究領域二分網路*  
 *出處：`analysis/network-analysis/nthu-qf/figures/01_bipartite_network.png`*  
@@ -131,7 +131,7 @@ Betweenness 最高的五個領域：Risk Management（0.43）、Econometrics（0
 *出處：`analysis/network-analysis/nthu-qf/keyword_centrality.csv`*  
 *建構方式：研究領域網路是二分網路的單邊投影：兩個領域若被同一位教授研究就相連，邊權為共同研究兩領域的教授人數。社群以 Louvain（seed = 42，resolution 1.0）偵測，指標以完整加權圖計算。 degree 為相連領域數，betweenness 為經過該節點的最短路徑比例，PageRank 為加權隨機漫步的穩態機率；parent_l1 來自 `1_build_taxonomy.ipynb` 手工編定的三層 taxonomy（170 個 L3、46 個 L2、16 個 L1）。*
 
-![清華大學計量財務金融學系 研究領域教授人數長條圖](../network-analysis/nthu-qf/figures/10_top_keywords_bar.png)
+![清華大學計量財務金融學系 研究領域教授人數長條圖](../../network-analysis/nthu-qf/figures/10_top_keywords_bar.png)
 
 *圖：清華大學計量財務金融學系 研究領域教授人數長條圖*  
 *出處：`analysis/network-analysis/nthu-qf/figures/10_top_keywords_bar.png`*  
@@ -148,19 +148,19 @@ Betweenness 最高的五個領域：Risk Management（0.43）、Econometrics（0
 *出處：`analysis/network-analysis/nthu-qf/keyword_communities.csv`（`community` 欄）、`keyword_centrality.csv`（教授人數）*  
 *建構方式：研究領域網路是二分網路的單邊投影：兩個領域若被同一位教授研究就相連，邊權為共同研究兩領域的教授人數。社群以 Louvain（seed = 42，resolution 1.0）偵測，指標以完整加權圖計算。*
 
-![清華大學計量財務金融學系 研究領域網路的 Louvain 社群](../network-analysis/nthu-qf/figures/05_keyword_network_communities.png)
+![清華大學計量財務金融學系 研究領域網路的 Louvain 社群](../../network-analysis/nthu-qf/figures/05_keyword_network_communities.png)
 
 *圖：清華大學計量財務金融學系 研究領域網路的 Louvain 社群*  
 *出處：`analysis/network-analysis/nthu-qf/figures/05_keyword_network_communities.png`*  
 *建構方式：研究領域網路是二分網路的單邊投影：兩個領域若被同一位教授研究就相連，邊權為共同研究兩領域的教授人數。社群以 Louvain（seed = 42，resolution 1.0）偵測，指標以完整加權圖計算。節點顏色為社群，大小與 degree 成正比。*
 
-![清華大學計量財務金融學系 各研究領域社群的 taxonomy L1 組成](../network-analysis/nthu-qf/figures/14_community_composition.png)
+![清華大學計量財務金融學系 各研究領域社群的 taxonomy L1 組成](../../network-analysis/nthu-qf/figures/14_community_composition.png)
 
 *圖：清華大學計量財務金融學系 各研究領域社群的 taxonomy L1 組成*  
 *出處：`analysis/network-analysis/nthu-qf/figures/14_community_composition.png`*  
 *建構方式：把每個 Louvain 領域社群內的領域依 taxonomy L1 分類計數，堆疊長條圖。用來檢查資料驅動的社群是否對應人工分類。*
 
-![清華大學計量財務金融學系 研究領域共現熱圖](../network-analysis/nthu-qf/figures/13_keyword_cooccurrence_heatmap.png)
+![清華大學計量財務金融學系 研究領域共現熱圖](../../network-analysis/nthu-qf/figures/13_keyword_cooccurrence_heatmap.png)
 
 *圖：清華大學計量財務金融學系 研究領域共現熱圖*  
 *出處：`analysis/network-analysis/nthu-qf/figures/13_keyword_cooccurrence_heatmap.png`*  
@@ -172,7 +172,7 @@ Betweenness 最高的五個領域：Risk Management（0.43）、Econometrics（0
 
 教授網路共 17 位教授、3 個集群（Louvain，Q = 0.184）。以下依集群人數排序；集群編號與圖中的 Community 編號一致。表中 Degree 為與該教授共享研究領域的同儕數，Betweenness 為該教授位於他人最短路徑上的比例（越高越像橋梁）。
 
-![清華大學計量財務金融學系 教授網路的 Louvain 集群](../network-analysis/nthu-qf/figures/09_professor_network_communities.png)
+![清華大學計量財務金融學系 教授網路的 Louvain 集群](../../network-analysis/nthu-qf/figures/09_professor_network_communities.png)
 
 *圖：清華大學計量財務金融學系 教授網路的 Louvain 集群*  
 *出處：`analysis/network-analysis/nthu-qf/figures/09_professor_network_communities.png`*  
@@ -254,13 +254,13 @@ Degree 最高的教授（與最多同儕共享領域的樞紐）：
 
 *出處：`analysis/network-analysis/nthu-qf/professor_centrality.csv`*
 
-![清華大學計量財務金融學系 教授網路（節點大小 = betweenness）](../network-analysis/nthu-qf/figures/08_professor_network_betweenness.png)
+![清華大學計量財務金融學系 教授網路（節點大小 = betweenness）](../../network-analysis/nthu-qf/figures/08_professor_network_betweenness.png)
 
 *圖：清華大學計量財務金融學系 教授網路（節點大小 = betweenness）*  
 *出處：`analysis/network-analysis/nthu-qf/figures/08_professor_network_betweenness.png`*  
 *建構方式：教授網路是二分網路的另一邊投影：兩位教授共享研究領域就相連，邊權 w = S_exp + λ·S_inf；S_exp 為共享領域的 IDF 加權和（IDF 以全體 662 位教授計算一次），S_inf 為共享 taxonomy 上層分類的推論相似度，λ = 0.4。社群以 Louvain（seed = 42，resolution 1.0）偵測，節點大小與 degree 成正比。此圖節點大小改為與 betweenness 成正比。*
 
-![清華大學計量財務金融學系 各集群教授 word cloud（字級 = degree）](../network-analysis/nthu-qf/figures/27_professor_wordcloud_degree_by_community.png)
+![清華大學計量財務金融學系 各集群教授 word cloud（字級 = degree）](../../network-analysis/nthu-qf/figures/27_professor_wordcloud_degree_by_community.png)
 
 *圖：清華大學計量財務金融學系 各集群教授 word cloud（字級 = degree）*  
 *出處：`analysis/network-analysis/nthu-qf/figures/27_professor_wordcloud_degree_by_community.png`*  
@@ -280,7 +280,7 @@ Degree 最高的教授（與最多同儕共享領域的樞紐）：
 *出處：`analysis/network-analysis/nthu-qf/null_model_test.csv`*  
 *建構方式：以保持二分結構與雙邊 degree 序列的 double edge swap（nswap = 10 × 邊數）產生 1,000 個隨機網路，比較觀測值與虛無分布，輸出 z-score 與雙尾 empirical p-value。 密度顯著偏低而 modularity、共現顯著偏高，代表領域共現集中在少數主題群，不是均勻分布。*
 
-![清華大學計量財務金融學系 觀測值 vs 虛無模型分布](../network-analysis/nthu-qf/figures/15_null_model_comparison.png)
+![清華大學計量財務金融學系 觀測值 vs 虛無模型分布](../../network-analysis/nthu-qf/figures/15_null_model_comparison.png)
 
 *圖：清華大學計量財務金融學系 觀測值 vs 虛無模型分布*  
 *出處：`analysis/network-analysis/nthu-qf/figures/15_null_model_comparison.png`*  
@@ -298,7 +298,7 @@ Degree 最高的教授（與最多同儕共享領域的樞紐）：
 *出處：`analysis/network-analysis/nthu-qf/lambda_sensitivity.csv`*  
 *建構方式：以 λ ∈ {0, 0.3, 0.4, 0.5} 各建一次教授網路，λ = 0 為 baseline；密度較 baseline 增加超過 50% 或 Q 下降超過 0.1 即標記為過度合併。*
 
-![清華大學計量財務金融學系 λ 敏感度](../network-analysis/nthu-qf/figures/16_lambda_sensitivity.png)
+![清華大學計量財務金融學系 λ 敏感度](../../network-analysis/nthu-qf/figures/16_lambda_sensitivity.png)
 
 *圖：清華大學計量財務金融學系 λ 敏感度*  
 *出處：`analysis/network-analysis/nthu-qf/figures/16_lambda_sensitivity.png`*  

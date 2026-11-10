@@ -70,13 +70,13 @@
 - **教授網路密度**：財金系所普遍高於 0.4（政大財管 0.757），資工系所介於 0.22 到 0.40。這是財金領域詞彙少、共享率高的自然結果，不代表財金教授合作更緊密。
 - **L1 過寬**：10 個系所有至少一個 L1 涵蓋超過 50% 教授，只有清大資工、台大資工、台大資管、陽明交大資工沒有；這四個資工組系所的主題分布最均衡。
 
-![各系所正規化指標比較](../network-analysis/comparison/figures/01_metrics_by_school.png)
+![各系所正規化指標比較](../../network-analysis/comparison/figures/01_metrics_by_school.png)
 
 *圖：各系所正規化指標比較*  
 *出處：`analysis/network-analysis/comparison/figures/01_metrics_by_school.png`*  
 *建構方式：由 `4_group_and_cross_comparison.ipynb` 把 14 個系所的密度、Q、平均 degree 等正規化指標畫成分面長條圖，並標示 coverage。*
 
-![coverage 與網路密度的關係](../network-analysis/comparison/figures/11_coverage_vs_density.png)
+![coverage 與網路密度的關係](../../network-analysis/comparison/figures/11_coverage_vs_density.png)
 
 *圖：coverage 與網路密度的關係*  
 *出處：`analysis/network-analysis/comparison/figures/11_coverage_vs_density.png`*  
@@ -112,13 +112,13 @@
 - 資料科學組內部差異大：成大統計以 Statistics（18 人）為主體，台大電信所資料科學組以 Machine Learning 與 Signal Processing 為主，台大資料科學學程以 AI 為主。
 - 財金組內部也分化：台大財金與政大財管以 Corporate Finance 為首；政大金融以 Banking 為首；清大計財以 Econometrics 為首；台大經濟以 Macroeconomics 為首；陽明交大資財以 Financial Derivatives 為首並混入 AI。
 
-![系所 × 研究領域比例熱圖](../network-analysis/comparison/figures/05_school_keyword_heatmap.png)
+![系所 × 研究領域比例熱圖](../../network-analysis/comparison/figures/05_school_keyword_heatmap.png)
 
 *圖：系所 × 研究領域比例熱圖*  
 *出處：`analysis/network-analysis/comparison/figures/05_school_keyword_heatmap.png`*  
 *建構方式：由 `school_keyword_share_matrix.csv` 繪製：每格為該系所研究此領域的教授比例（該系所教授數為分母），只取全體人數最多的領域。*
 
-![14 個系所的研究領域網路並排](../network-analysis/comparison/figures/03_small_multiples_keyword_networks.png)
+![14 個系所的研究領域網路並排](../../network-analysis/comparison/figures/03_small_multiples_keyword_networks.png)
 
 *圖：14 個系所的研究領域網路並排*  
 *出處：`analysis/network-analysis/comparison/figures/03_small_multiples_keyword_networks.png`*  
@@ -148,7 +148,7 @@
 
 資料科學組 86 個領域中只有 13 個是該組獨有，與資工組共享 73 個；財金組則有 41 個獨有領域。這表示 ds 與 cs 在研究詞彙上高度重疊，而財金與經濟自成一個詞彙體系。
 
-![三組研究領域韋恩圖](../network-analysis/comparison/figures/07_group_field_overlap.png)
+![三組研究領域韋恩圖](../../network-analysis/comparison/figures/07_group_field_overlap.png)
 
 *圖：三組研究領域韋恩圖*  
 *出處：`analysis/network-analysis/comparison/figures/07_group_field_overlap.png`*  
@@ -178,7 +178,7 @@
 
 資料最先分開的是財金與經濟組（群 2）與其他系所；台大經濟自成一群（群 3），因為它的詞彙（Macroeconomics、Labor Economics）與財金系所也不重疊。cs 與 ds 的 8 個系所全部落在同一群（群 1），資料無法把資料科學系所與資工系所分開，這與第 4.2 節「ds 只有 13 個獨有領域」的結果一致。換句話說，指定分組中「ds 組」是行政上的分類，在研究主題上它其實是資工組的子集合。
 
-![系所研究領域相似度樹狀圖](../network-analysis/comparison/figures/06_school_similarity_dendrogram.png)
+![系所研究領域相似度樹狀圖](../../network-analysis/comparison/figures/06_school_similarity_dendrogram.png)
 
 *圖：系所研究領域相似度樹狀圖*  
 *出處：`analysis/network-analysis/comparison/figures/06_school_similarity_dendrogram.png`*  
@@ -232,7 +232,7 @@
 
 所有可比較的系所中 Louvain 的 Q 都不低於 GN，且不需事先指定社群數，因此各系所報告一律採 Louvain 結果。
 
-![14 個系所的教授網路並排](../network-analysis/comparison/figures/04_small_multiples_professor_networks.png)
+![14 個系所的教授網路並排](../../network-analysis/comparison/figures/04_small_multiples_professor_networks.png)
 
 *圖：14 個系所的教授網路並排*  
 *出處：`analysis/network-analysis/comparison/figures/04_small_multiples_professor_networks.png`*  
@@ -262,7 +262,7 @@
 
 政大財管、台大經濟、台大資工、台大資管、陽明交大資工在所有 λ 都觸發過度合併，這些系所的集群緊密度應以 λ = 0 的 baseline 解讀（各系所報告第 4.2 節）。教授集群與 taxonomy L1 的一致度以台大電信所資料科學組（0.84）與陽明交大資財（0.72）最高，台大經濟（0.17）最低，因為經濟系幾乎所有教授的主導 L1 都是 Economics & Policy。
 
-![各單位社群與 taxonomy 的一致度](../network-analysis/comparison/figures/10_taxonomy_alignment.png)
+![各單位社群與 taxonomy 的一致度](../../network-analysis/comparison/figures/10_taxonomy_alignment.png)
 
 *圖：各單位社群與 taxonomy 的一致度*  
 *出處：`analysis/network-analysis/comparison/figures/10_taxonomy_alignment.png`*  
@@ -284,13 +284,13 @@
 
 四個單位全部是「研究主題」勝出，school assortativity 都接近 0（cs 只有 0.003）。也就是說，把不同學校的教授放在一起時，集群依主題而非依學校形成。ds 組的 E-I index 為負（-0.254）是因為它只有 3 個系所且彼此重疊極深（10 位跨校重複教授去重後成為單一節點），須與 assortativity 併看。
 
-![集群 vs 學校 / 主題的一致度](../network-analysis/comparison/figures/09_community_vs_school_alignment.png)
+![集群 vs 學校 / 主題的一致度](../../network-analysis/comparison/figures/09_community_vs_school_alignment.png)
 
 *圖：集群 vs 學校 / 主題的一致度*  
 *出處：`analysis/network-analysis/comparison/figures/09_community_vs_school_alignment.png`*  
 *建構方式：並排長條圖比較各組 Louvain 集群對學校分割與對 L1 分割的 NMI。*
 
-![跨校連結比例與 E-I index](../network-analysis/comparison/figures/08_cross_school_bridging.png)
+![跨校連結比例與 E-I index](../../network-analysis/comparison/figures/08_cross_school_bridging.png)
 
 *圖：跨校連結比例與 E-I index*  
 *出處：`analysis/network-analysis/comparison/figures/08_cross_school_bridging.png`*  
@@ -351,7 +351,7 @@
 
 合聘教授的平均 betweenness 是非合聘者的 2 到 3 倍，但 broker 前幾名多數不是合聘教授，例如 cs 組的李濬屹（台大資工）、連震杰（成大資工）、ds 組的鄭順林（成大統計）、財金組的劉鋼（清大計財）都是靠研究主題橫跨多個領域而成為橋梁。
 
-![各組跨校 broker 前幾名](../network-analysis/comparison/figures/12_top_brokers.png)
+![各組跨校 broker 前幾名](../../network-analysis/comparison/figures/12_top_brokers.png)
 
 *圖：各組跨校 broker 前幾名*  
 *出處：`analysis/network-analysis/comparison/figures/12_top_brokers.png`*  
@@ -384,13 +384,13 @@
 - 台大資管的 University of Arizona（3 人）反映資管領域的學術傳統；台大電信所資料科學組的 Michigan（4）、UIUC、USC（各 3）反映電機通訊背景。
 - 台大資工與台大資料科學學程的官網未提供學歷，成大統計的學歷完整率只有 44.7%，這三個單位的結果代表性有限。
 
-![資工組各系所博士畢業學校](../descriptive-stats-after-preprocessing/group_comparison/phd_institutions/cs.png)
+![資工組各系所博士畢業學校](../../descriptive-stats-after-preprocessing/group_comparison/phd_institutions/cs.png)
 
 *圖：資工組各系所博士畢業學校*  
 *出處：`analysis/descriptive-stats-after-preprocessing/group_comparison/phd_institutions/cs.png`*  
 *建構方式：同一 notebook。學歷先被 `1_faculty_data_preprocessing.ipynb` 解析成「學位、科系、學校」三部分，取學位為博士的項目，學校名稱以別名表對應為英文 canonical 值；計數為不重複教師人數。*
 
-![財金與經濟組各系所博士畢業學校](../descriptive-stats-after-preprocessing/group_comparison/phd_institutions/fin-and-econ.png)
+![財金與經濟組各系所博士畢業學校](../../descriptive-stats-after-preprocessing/group_comparison/phd_institutions/fin-and-econ.png)
 
 *圖：財金與經濟組各系所博士畢業學校*  
 *出處：`analysis/descriptive-stats-after-preprocessing/group_comparison/phd_institutions/fin-and-econ.png`*  

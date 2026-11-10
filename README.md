@@ -116,7 +116,7 @@ python -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreproces
 
 ## 3. 結果簡述
 
-> 以下每張圖表都標明出處與建構方式。更完整的內容請看 [analysis/final-summarized-reports/](analysis/final-summarized-reports/)：每個系所一份報告，加上一份 [跨科系比較報告](analysis/final-summarized-reports/00-cross-school-comparison.md)。
+> 以下每張圖表都標明出處與建構方式。更完整的內容請看 [analysis/final-summarized-reports/](analysis/final-summarized-reports/markdown/)：每個系所一份報告，加上一份 [跨科系比較報告](analysis/final-summarized-reports/markdown/00-cross-school-comparison.md)。
 
 ### 3.1 描述統計
 
@@ -160,20 +160,20 @@ python -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreproces
 
 | 系所 | 報告 | 前三大研究領域 | 博士主要來源 | 研究集群（人數） | 橋接教授 |
 | --- | --- | --- | --- | --- | --- |
-| 成大資工 | [ncku-cs-ie](analysis/final-summarized-reports/ncku-cs-ie.md) | Artificial Intelligence、Machine Learning、Deep Learning | 台大（10）、成大（6） | 深度學習、影像與電腦視覺（16）、嵌入式系統與智慧製造（13）、人工智慧、網路與行動運算（10）、資料探勘、資料庫與醫學資訊（6）、演算法與分散式／平行運算（5） | 連震杰、詹慧伶、謝孫源 |
-| 清大資工 | [nthu-cs](analysis/final-summarized-reports/nthu-cs.md) | Algorithms、Automation and Control（EDA）、Computer Vision | 台大（11）、清大（10） | 人工智慧、視覺、多媒體與資安（31）、網路、雲端與系統（16）、演算法與生物資訊（15）、電子設計自動化與計算機架構（12） | 李端興、黃稚存、張隆紋 |
-| 台大資工 | [ntu-cs-ie](analysis/final-summarized-reports/ntu-cs-ie.md) | Artificial Intelligence、Machine Learning、Multimedia Systems | 官網未提供 | 多媒體、電腦視覺與人機互動（22）、嵌入式系統、架構與作業系統（21）、機器學習核心（12）、自然語言、語音與資訊檢索（10）、演算法與圖論（9）、人工智慧、網路與物聯網（9） | 陳祝嵩、洪一平、李濬屹 |
-| 台大資管 | [ntu-im](analysis/final-summarized-reports/ntu-im.md) | Artificial Intelligence、Machine Learning、Big Data Analytics | 台大（4）、Arizona（3） | 資料探勘與商業分析（8）、創新創業與資訊管理（7）、人工智慧、資安與網路（6）、知識管理與作業研究（5） | 劉若慧、何承遠、林永松 |
-| 陽明交大資工 | [nycu-cs](analysis/final-summarized-reports/nycu-cs.md) | Artificial Intelligence、Machine Learning、Deep Learning | 交大（29）、台大（21） | 網路、系統與嵌入式（51）、人工智慧與資料探勘（36）、電腦視覺、影像與人機互動（31）、生物資訊與統計（12）、理論、演算法與密碼學（10） | 黃春融、洪瑞鴻、李宗夷 |
-| 成大統計 | [ncku-stats-ds](analysis/final-summarized-reports/ncku-stats-ds.md) | Statistics、Bioinformatics、Biostatistics | 清大（4）、成大（3） | 統計方法、工業統計與可靠度（18）、生物統計與生物資訊（10）、機器學習與資料科學（6）、時間序列與多變量分析（5） | 鄭順林、馬瀰嘉、溫敏杰 |
-| 台大電信所資料科學組 | [ntu-comm-engin-ds-network](analysis/final-summarized-reports/ntu-comm-engin-ds-network.md) | Machine Learning、Signal Processing、Computer Networks | 台大（5）、Michigan（4） | 機器學習與人工智慧（9）、網路與無線通訊（9）、訊號與影像處理（7） | 林澤、林宗男、廖婉君 |
-| 台大資料科學學程 | [ntu-ds](analysis/final-summarized-reports/ntu-ds.md) | Machine Learning、Artificial Intelligence、Deep Learning | 官網未提供 | 人工智慧與深度學習（11）、多媒體、電腦視覺與物聯網（9）、資料探勘與最佳化（8）、系統、架構與電子設計自動化（7）、自然語言處理（7）、統計與因果推論（5） | 李濬屹、陳祝嵩、吳沛遠 |
-| 政大財管 | [nccu-fin](analysis/final-summarized-reports/nccu-fin.md) | Corporate Finance、Financial Management、Investments | NTU Singapore（2）、Indiana（2） | 財務管理與投資（8）、資產訂價、市場微結構與風險（8）、公司理財與公司治理（5） | 張元晨、周冠男、陳鴻毅 |
-| 政大金融 | [nccu-mb](analysis/final-summarized-reports/nccu-mb.md) | Banking and Financial Institutions、Risk Management、Econometrics | 台大（2）、政大（2） | 銀行、風險管理與金融工程（9）、資產訂價、金融市場與計量（7） | 林士貴、林建秀、廖四郎 |
-| 清大計財 | [nthu-qf](analysis/final-summarized-reports/nthu-qf.md) | Econometrics、Financial Engineering、Risk Management | 台大（6）、Wisconsin（2） | 公司理財與風險管理（6）、計量、會計與不動產金融（6）、金融工程（5） | 劉鋼、俞明德、曾祺峰 |
-| 台大經濟 | [ntu-econ](analysis/final-summarized-reports/ntu-econ.md) | Macroeconomics、Econometrics、Labor Economics | Chicago（7）、UCLA（6） | 總體經濟與貨幣經濟（17）、個體、產業組織與政治經濟（14）、計量經濟與勞動經濟（10） | 王建強、朴聖民、李宗穎 |
-| 台大財金 | [ntu-fin](analysis/final-summarized-reports/ntu-fin.md) | Corporate Finance、Behavioral Finance、Asset Pricing | 台大（8）、Buffalo（2） | 資產訂價與行為財務（10）、公司理財與公司治理（8）、永續金融與公司理財（6）、風險管理、保險與衍生性商品（5）、計量經濟與總體（3） | 張晏誠、何耕宇、吳瑞萱 |
-| 陽明交大資財 | [nycu-info-mag-fin](analysis/final-summarized-reports/nycu-info-mag-fin.md) | Financial Derivatives、Corporate Finance、Financial Technology | 台大（8）、清大（2） | 投資與資產訂價（6）、金融工程與金融科技（4）、公司理財與銀行（4）、人工智慧與資訊技術（4） | 黃思皓、鄧惠文、戴天時 |
+| 成大資工 | [ncku-cs-ie](analysis/final-summarized-reports/markdown/ncku-cs-ie.md) | Artificial Intelligence、Machine Learning、Deep Learning | 台大（10）、成大（6） | 深度學習、影像與電腦視覺（16）、嵌入式系統與智慧製造（13）、人工智慧、網路與行動運算（10）、資料探勘、資料庫與醫學資訊（6）、演算法與分散式／平行運算（5） | 連震杰、詹慧伶、謝孫源 |
+| 清大資工 | [nthu-cs](analysis/final-summarized-reports/markdown/nthu-cs.md) | Algorithms、Automation and Control（EDA）、Computer Vision | 台大（11）、清大（10） | 人工智慧、視覺、多媒體與資安（31）、網路、雲端與系統（16）、演算法與生物資訊（15）、電子設計自動化與計算機架構（12） | 李端興、黃稚存、張隆紋 |
+| 台大資工 | [ntu-cs-ie](analysis/final-summarized-reports/markdown/ntu-cs-ie.md) | Artificial Intelligence、Machine Learning、Multimedia Systems | 官網未提供 | 多媒體、電腦視覺與人機互動（22）、嵌入式系統、架構與作業系統（21）、機器學習核心（12）、自然語言、語音與資訊檢索（10）、演算法與圖論（9）、人工智慧、網路與物聯網（9） | 陳祝嵩、洪一平、李濬屹 |
+| 台大資管 | [ntu-im](analysis/final-summarized-reports/markdown/ntu-im.md) | Artificial Intelligence、Machine Learning、Big Data Analytics | 台大（4）、Arizona（3） | 資料探勘與商業分析（8）、創新創業與資訊管理（7）、人工智慧、資安與網路（6）、知識管理與作業研究（5） | 劉若慧、何承遠、林永松 |
+| 陽明交大資工 | [nycu-cs](analysis/final-summarized-reports/markdown/nycu-cs.md) | Artificial Intelligence、Machine Learning、Deep Learning | 交大（29）、台大（21） | 網路、系統與嵌入式（51）、人工智慧與資料探勘（36）、電腦視覺、影像與人機互動（31）、生物資訊與統計（12）、理論、演算法與密碼學（10） | 黃春融、洪瑞鴻、李宗夷 |
+| 成大統計 | [ncku-stats-ds](analysis/final-summarized-reports/markdown/ncku-stats-ds.md) | Statistics、Bioinformatics、Biostatistics | 清大（4）、成大（3） | 統計方法、工業統計與可靠度（18）、生物統計與生物資訊（10）、機器學習與資料科學（6）、時間序列與多變量分析（5） | 鄭順林、馬瀰嘉、溫敏杰 |
+| 台大電信所資料科學組 | [ntu-comm-engin-ds-network](analysis/final-summarized-reports/markdown/ntu-comm-engin-ds-network.md) | Machine Learning、Signal Processing、Computer Networks | 台大（5）、Michigan（4） | 機器學習與人工智慧（9）、網路與無線通訊（9）、訊號與影像處理（7） | 林澤、林宗男、廖婉君 |
+| 台大資料科學學程 | [ntu-ds](analysis/final-summarized-reports/markdown/ntu-ds.md) | Machine Learning、Artificial Intelligence、Deep Learning | 官網未提供 | 人工智慧與深度學習（11）、多媒體、電腦視覺與物聯網（9）、資料探勘與最佳化（8）、系統、架構與電子設計自動化（7）、自然語言處理（7）、統計與因果推論（5） | 李濬屹、陳祝嵩、吳沛遠 |
+| 政大財管 | [nccu-fin](analysis/final-summarized-reports/markdown/nccu-fin.md) | Corporate Finance、Financial Management、Investments | NTU Singapore（2）、Indiana（2） | 財務管理與投資（8）、資產訂價、市場微結構與風險（8）、公司理財與公司治理（5） | 張元晨、周冠男、陳鴻毅 |
+| 政大金融 | [nccu-mb](analysis/final-summarized-reports/markdown/nccu-mb.md) | Banking and Financial Institutions、Risk Management、Econometrics | 台大（2）、政大（2） | 銀行、風險管理與金融工程（9）、資產訂價、金融市場與計量（7） | 林士貴、林建秀、廖四郎 |
+| 清大計財 | [nthu-qf](analysis/final-summarized-reports/markdown/nthu-qf.md) | Econometrics、Financial Engineering、Risk Management | 台大（6）、Wisconsin（2） | 公司理財與風險管理（6）、計量、會計與不動產金融（6）、金融工程（5） | 劉鋼、俞明德、曾祺峰 |
+| 台大經濟 | [ntu-econ](analysis/final-summarized-reports/markdown/ntu-econ.md) | Macroeconomics、Econometrics、Labor Economics | Chicago（7）、UCLA（6） | 總體經濟與貨幣經濟（17）、個體、產業組織與政治經濟（14）、計量經濟與勞動經濟（10） | 王建強、朴聖民、李宗穎 |
+| 台大財金 | [ntu-fin](analysis/final-summarized-reports/markdown/ntu-fin.md) | Corporate Finance、Behavioral Finance、Asset Pricing | 台大（8）、Buffalo（2） | 資產訂價與行為財務（10）、公司理財與公司治理（8）、永續金融與公司理財（6）、風險管理、保險與衍生性商品（5）、計量經濟與總體（3） | 張晏誠、何耕宇、吳瑞萱 |
+| 陽明交大資財 | [nycu-info-mag-fin](analysis/final-summarized-reports/markdown/nycu-info-mag-fin.md) | Financial Derivatives、Corporate Finance、Financial Technology | 台大（8）、清大（2） | 投資與資產訂價（6）、金融工程與金融科技（4）、公司理財與銀行（4）、人工智慧與資訊技術（4） | 黃思皓、鄧惠文、戴天時 |
 
 *出處：研究領域與博士來源來自 `analysis/descriptive-stats-after-preprocessing/group_comparison/`；集群來自各系所 `analysis/network-analysis/<school>/professor_communities.csv`（集群名稱是我依成員共同領域取的）；橋接教授來自 `professor_centrality.csv` 的 betweenness。建構方式見第 2.2 節。*
 
